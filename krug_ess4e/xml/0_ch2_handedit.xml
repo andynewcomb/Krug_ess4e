@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="02" name="" title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="2" id="krugmanwellsessentials4e-ch2-chapter-2" title="CHAPTER 2: Economic Models: Trade-offs and Trade" start-numbering-at="2" numbered="true">
+<section id="krugmanwellsessentials4e-ch2-sec1-1" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="23">
+<p id="krugmanwellsessentials4e_page_23" block_type="page_start">23</p>
+<p id="krugmanwellsessentials4e-ch2-p1" block_type="chapter_title">Economic Models: Trade-offs and Trade</p>
+<p id="krugmanwellsessentials4e-ch2-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">2</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch2-p3" block_type="co-t"><strong>FROM KITTY HAWK TO DREAMLINER</strong></p>
+<figure id="krugmanwellsessentials4e-ch2-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-1" alt="image" src="images/KrugESS4e_CO2.jpg"/>
+<caption>The Wright brothers&#8217; model made modern airplanes, including the Dreamliner, possible.</caption>
+<asset_source>UPI/Alan Marts/Boeing/Landov</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch2-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch2-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch2-p5" block_type="obj-bl">Why <strong>models</strong>&#8212;simplified representations of reality&#8212;play a crucial role in economics</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p6" block_type="obj-bl">Two simple but important models: the <strong>production possibility frontier</strong> and <strong>comparative advantage</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p7" block_type="obj-bl">The <strong>circular-flow diagram,</strong> a schematic representation of the economy</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p8" block_type="obj-bl">The difference between <strong>positive economics,</strong> which analyzes how the economy works, and <strong>normative economics,</strong> which prescribes economic policy</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p9" block_type="obj-bl">When economists agree and why they sometimes disagree</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-2" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p11" block_type="co-txt-ni"><phrase block_type="dropcap">I</phrase>N DECEMBER 2009, BOEING&#8217;S NEWest jet, the 787 Dreamliner, took its first three-hour test flight. It was a historic moment: the Dreamliner was the result of an aerodynamic revolution&#8212;a super efficient airplane designed to cut airline operating costs and the first to use superlight composite materials.</p>
+<p id="krugmanwellsessentials4e-ch2-p12" block_type="co-txt">To ensure that the Dreamliner was sufficiently lightweight and aerodynamic, it underwent over 15,000 hours of wind tunnel tests&#8212;tests that resulted in subtle design changes that improved its performance, making it 20&#37; more fuel efficient and 20&#37; less pollutant emitting than existing passenger jets.</p>
+<p id="krugmanwellsessentials4e-ch2-p13" block_type="co-txt">The first flight of the Dreamliner was a spectacular advance from the 1903 maiden voyage of the Wright Flyer, the first successful powered airplane, in Kitty Hawk, North Carolina. Yet the Boeing engineers&#8212;and all aeronautic engineers&#8212;owe an enormous debt to the Wright Flyer&#8217;s inventors, Wilbur and Orville Wright.</p>
+<p id="krugmanwellsessentials4e-ch2-p14" block_type="co-txt">What made the Wrights truly visionary was their invention of the wind tunnel, an apparatus that let them experiment with many different designs for wings and control surfaces. Doing experiments with a miniature airplane, inside a wind tunnel the size of a shipping crate, gave the Wright brothers the knowledge that would make heavier-than-air flight possible.</p>
+<p id="krugmanwellsessentials4e-ch2-p15" block_type="co-txt">Neither a miniature airplane inside a packing crate nor a miniature model of the Dreamliner inside Boeing&#8217;s state-of-the-art Transonic Wind Tunnel is the same thing as an actual aircraft in flight. But it is a very useful <em>model</em> of a flying plane&#8212;a simplified representation of the real thing that can be used to answer crucial questions, such as how much lift a given wing shape will generate at a given airspeed.</p>
+<p id="krugmanwellsessentials4e-ch2-p16" block_type="co-txt">Needless to say, testing an airplane design in a wind tunnel is cheaper and safer than building a full-scale version and hoping it will fly. More generally, models play a crucial role in almost all scientific research&#8212;economics very much included.</p>
+<p id="krugmanwellsessentials4e-ch2-p17" block_type="co-txt">In fact, you could say that economic theory consists mainly of a collection of models, a series of simplified representations of economic reality that allow us to understand a variety of economic issues.</p>
+<p id="krugmanwellsessentials4e-ch2-p18" block_type="co-txt">In this chapter, we&#8217;ll look at two economic models that are crucially important in their own right and also illustrate why such models are so useful. We&#8217;ll conclude with a look at how economists actually use models in their work.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-2" block_type="h1" title="" chapter="2" numbered="true" level="1" print_page="24">
+<section-metadata><section-title>Models in Economics: Some Important Examples</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_24" block_type="page_start">24</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p19" block_type="mn-gl-def">A <strong>model</strong> is a simplified representation of a real situation that is used to better understand real-life situations.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p20" block_type="txt-ni">A <strong>model</strong> is any simplified representation of reality that is used to better understand real-life situations. But how do we create a simplified representation of an economic situation?</p>
+<p id="krugmanwellsessentials4e-ch2-p21" block_type="txt">One possibility&#8212;an economist&#8217;s equivalent of a wind tunnel&#8212;is to find or create a real but simplified economy. For example, economists interested in the economic role of money have studied the system of exchange that developed in World War II prison camps, in which cigarettes became a universally accepted form of payment even among prisoners who didn&#8217;t smoke.</p>
+<p id="krugmanwellsessentials4e-ch2-p22" block_type="txt">Another possibility is to simulate the workings of the economy on a computer. For example, when changes in tax law are proposed, government officials use <em>tax models</em>&#8212;large mathematical computer programs&#8212;to assess how the proposed changes would affect different types of people.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p23" block_type="mn-gl-def">The <strong>other things equal assumption</strong> means that all other relevant factors remain unchanged.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p24" block_type="txt">Models are important because their simplicity allows economists to focus on the effects of only one change at a time. That is, they allow us to hold everything else constant and study how one change affects the overall economic outcome. So an important assumption when building economic models is the <strong>other things equal assumption,</strong> which means that all other relevant factors remain unchanged.</p>
+<p id="krugmanwellsessentials4e-ch2-p25" block_type="txt">But you can&#8217;t always find or create a small-scale version of the whole economy, and a computer program is only as good as the data it uses. (Programmers have a saying: &#8220;garbage in, garbage out.&#8221;) For many purposes, the most effective form of economic modeling is the construction of &#8220;thought experiments&#8221;: simplified, hypothetical versions of real-life situations.</p>
+<p id="krugmanwellsessentials4e-ch2-p26" block_type="txt">In <link href="krugmanwellsessentials4e-ch01.xml">Chapter 1</link> we illustrated the concept of equilibrium with the example of how customers at a supermarket would rearrange themselves when a new cash register opens. Though we didn&#8217;t say it, this was an example of a simple model&#8212;an imaginary supermarket, in which many details were ignored. (What were customers buying? Never mind.) This simple model can be used to answer a &#8220;what if&#8221; question: what if another cash register were opened?</p>
+<p id="krugmanwellsessentials4e-ch2-p27" block_type="txt">As the cash register story showed, it is often possible to describe and analyze a useful economic model in plain English. However, because much of economics involves changes in quantities&#8212;in the price of a product, the number of units produced, or the number of workers employed in its production&#8212;economists often find that using some mathematics helps clarify an issue. In particular, a numerical example, a simple equation, or&#8212;especially&#8212;a graph can be key to understanding an economic concept.</p>
+<p id="krugmanwellsessentials4e-ch2-p28" block_type="txt">Whatever form it takes, a good economic model can be a tremendous aid to understanding. The best way to grasp this point is to consider some simple but important economic models and what they tell us.</p>
+<list id="krugmanwellsessentials4e-ch2-list-2" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch2-p29" block_type="bl-first">First, we will look at the <em>production possibility frontier,</em> a model that helps economists think about the trade-offs every economy faces.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p30" block_type="bl-mid">We then turn to <em>comparative advantage,</em> a model that clarifies the principle of gains from trade&#8212;both between individuals and between countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p31" block_type="bl-last">We will also examine the <em>circular-flow diagram,</em> a schematic representation that helps us understand how flows of money, goods, and services are channeled through the economy.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch2-p32" block_type="txt">In discussing these models, we make considerable use of graphs to represent mathematical relationships. Graphs play an important role throughout this book. If you are already familiar with how graphs are used, you can skip the appendix to this chapter, which provides a brief introduction to the use of graphs in economics. If not, this would be a good time to turn to it.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-2a" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p33" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-13a" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec2-1" block_type="h2" title="" chapter="2" numbered="false" level="2" print_page="25">
+<section-metadata><section-title>Trade-offs: The Production Possibility Frontier</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_25" block_type="page_start">25</p>
+<p id="krugmanwellsessentials4e-ch2-p34" block_type="txt-ni">The first principle of economics introduced in <link href="krugmanwellsessentials4e-ch01.xml">Chapter 1</link> is that resources are scarce and that, as a result, any economy&#8212;whether it&#8217;s an isolated group of a few dozen hunter-gatherers or the 6 billion people making up the twenty-first-century global economy&#8212;faces trade-offs. No matter how lightweight the Boeing Dreamliner is, no matter how efficient Boeing&#8217;s assembly line, producing Dreamliners means using resources that therefore can&#8217;t be used to produce something else.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p35" block_type="mn-gl-def">The <strong>production possibility frontier</strong> illustrates the trade-offs facing an economy that produces only two goods. It shows the maximum quantity of one good that can be produced for any given quantity produced of the other.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p36" block_type="txt">To think about the trade-offs that face any economy, economists often use the model known as the <strong>production possibility frontier.</strong> The idea behind this model is to improve our understanding of trade-offs by considering a simplified economy that produces only two goods. This simplification enables us to show the trade-off graphically.</p>
+<p id="krugmanwellsessentials4e-ch2-p37" block_type="txt">Suppose, for a moment, that the United States was a one-company economy, with Boeing its sole employer and aircraft its only product. But there would still be a choice of what kinds of aircraft to produce&#8212;say, Dreamliners versus small commuter jets. <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link> shows a hypothetical production possibility frontier representing the trade-off this one-company economy would face. The frontier&#8212;the line in the diagram&#8212;shows the maximum quantity of small jets that Boeing can produce per year <em>given</em> the quantity of Dreamliners it produces per year, and vice versa. That is, it answers questions of the form, &#8220;What is the maximum quantity of small jets that Boeing can produce in a year if it also produces 9 (or 15, or 30) Dreamliners that year?&#8221;</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-2" block_type="figure" numbered="true" number="2-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch2-fig-2"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-1</phrase></strong></phrase> <phrase block_type="fig_title">The Production Possibility Frontier</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch2-img-3" alt="image" src="images/KrugESS4e_fig_2_01.jpg"/>
+<caption>The production possibility frontier illustrates the trade-offs Boeing faces in producing Dreamliners and small jets. It shows the maximum quantity of one good that can be produced given the quantity of the other good produced. Here, the maximum quantity of Dreamliners manufactured per year depends on the quantity of small jets manufactured that year, and vice versa. Boeing&#8217;s feasible production is shown by the area <em>inside</em> or <em>on</em> the curve. Production at point <em>C</em> is feasible but not efficient. Points <em>A</em> and <em>B</em> are feasible and efficient in production, but point <em>D</em> is not feasible.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p38" block_type="txt">There is a crucial distinction between points <em>inside</em> or <em>on</em> the production possibility frontier (the shaded area) and <em>outside</em> the frontier. If a production point lies inside or on the frontier&#8212;like point <em>C</em>, at which Boeing produces 20 small jets and 9 Dreamliners in a year&#8212;it is feasible. After all, the frontier tells us that if Boeing produces 20 small jets, it could also produce a maximum of 15 Dreamliners that year, so it could certainly make 9 Dreamliners.</p>
+<p id="krugmanwellsessentials4e-ch2-p39" block_type="txt">However, a production point that lies outside the frontier&#8212;such as the hypothetical production point <em>D</em>, where Boeing produces 40 small jets and 30 Dreamliners&#8212;isn&#8217;t feasible. Boeing can produce 40 small jets and no Dreamliners, <em>or</em> it can produce 30 Dreamliners and no small jets, but it can&#8217;t do both.</p>
+<p id="krugmanwellsessentials4e-ch2-p40" block_type="txt">In <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link> the production possibility frontier intersects the horizontal axis at 40 small jets. This means that if Boeing dedicated all its production capacity to making small jets, it could produce 40 small jets per year but could produce no Dreamliners. The production possibility frontier intersects the vertical axis at 30 Dreamliners. This means that if Boeing dedicated all its production capacity to making Dreamliners, it could produce 30 Dreamliners per year but no small jets.</p>
+<p id="krugmanwellsessentials4e_page_26" block_type="page_start">26</p>
+<p id="krugmanwellsessentials4e-ch2-p41" block_type="txt">The figure also shows less extreme trade-offs. For example, if Boeing&#8217;s managers decide to make 20 small jets this year, they can produce at most 15 Dreamliners; this production choice is illustrated by point <em>A</em>. And if Boeing&#8217;s managers decide to produce 28 small jets, they can make at most 9 Dreamliners, as shown by point <em>B</em>.</p>
+<p id="krugmanwellsessentials4e-ch2-p42" block_type="txt">Thinking in terms of a production possibility frontier simplifies the complexities of reality. The real-world U.S. economy produces millions of different goods. Even Boeing can produce more than two different types of planes. Yet it&#8217;s important to realize that even in its simplicity, this stripped-down model gives us important insights about the real world.</p>
+<p id="krugmanwellsessentials4e-ch2-p43" block_type="txt">By simplifying reality, the production possibility frontier helps us understand some aspects of the real economy better than we could without the model: efficiency, opportunity cost, and economic growth.</p>
+<p id="krugmanwellsessentials4e-ch2-p44" block_type="txt-3"><phrase block_type="h3"><strong>Efficiency</strong></phrase> First of all, the production possibility frontier is a good way to illustrate the general economic concept of <em>efficiency.</em> Recall from <link href="krugmanwellsessentials4e-ch01.xml">Chapter 1</link> that an economy is efficient if there are no missed opportunities&#8212;there is no way to make some people better off without making other people worse off.</p>
+<p id="krugmanwellsessentials4e-ch2-p45" block_type="txt">One key element of efficiency is that there are no missed opportunities in production&#8212;there is no way to produce more of one good without producing less of other goods. As long as Boeing operates on its production possibility frontier, its production is efficient. At point <em>A</em>, 15 Dreamliners are the maximum quantity feasible given that Boeing has also committed to producing 20 small jets; at point <em>B</em>, 9 Dreamliners are the maximum number that can be made given the choice to produce 28 small jets; and so on.</p>
+<p id="krugmanwellsessentials4e-ch2-p46" block_type="txt">But suppose for some reason that Boeing was operating at point <em>C</em>, making 20 small jets and 9 Dreamliners. In this case, it would not be operating efficiently and would therefore be <em>inefficient:</em> it could be producing more of both planes.</p>
+<p id="krugmanwellsessentials4e-ch2-p47" block_type="txt">Although we have used an example of the production choices of a one-firm, two-good economy to illustrate efficiency and inefficiency, these concepts also carry over to the real economy, which contains many firms and produces many goods. If the economy as a whole could not produce more of any one good without producing less of something else&#8212;that is, if it is on its production possibility frontier&#8212;then we say that the economy is <em>efficient in production</em>.</p>
+<p id="krugmanwellsessentials4e-ch2-p48" block_type="txt">If, however, the economy could produce more of some things without producing less of others&#8212;which typically means that it could produce more of everything&#8212;then it is inefficient in production. For example, an economy in which large numbers of workers are involuntarily unemployed is clearly inefficient in production. And that&#8217;s a bad thing, because the economy could be producing more useful goods and services.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-4" alt="image" src="images/KrugESS4e_2UN01.jpg"/>
+<caption>Our imaginary one-company economy is efficient if it (1) produces as many small jets as it can given the production of Dreamliners, and (2) if it produces the mix of small and large planes that people want to consume.</caption>
+<asset_source>iStockphoto</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p49" block_type="txt">Although the production possibility frontier helps clarify what it means for an economy to be efficient in production, it&#8217;s important to understand that efficiency in production is only <em>part</em> of what&#8217;s required for the economy as a whole to be efficient. Efficiency also requires that the economy allocate its resources so that consumers are as well off as possible. If an economy does this, we say that it is <em>efficient in allocation</em>.</p>
+<p id="krugmanwellsessentials4e-ch2-p50" block_type="txt">To see why efficiency in allocation is as important as efficiency in production, notice that points <em>A</em> and <em>B</em> in <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link> both represent situations in which the economy is efficient in production, because in each case it can&#8217;t produce more of one good without producing less of the other. But these two situations may not be equally desirable from society&#8217;s point of view. Suppose that society prefers to have more small jets and fewer Dreamliners than at point <em>A</em>; say, it prefers to have 28 small jets and 9 Dreamliners, corresponding to point <em>B</em>. In this case, point <em>A</em> is inefficient in allocation from the point of view of the economy as a whole because it would rather have Boeing produce at point <em>B</em> rather than at point <em>A</em>.</p>
+<p id="krugmanwellsessentials4e_page_27" block_type="page_start">27</p>
+<p id="krugmanwellsessentials4e-ch2-p51" block_type="txt">This example shows that efficiency for the economy as a whole requires <em>both</em> efficiency in production and efficiency in allocation: to be efficient, an economy must produce as much of each good as it can given the production of other goods, and it must also produce the mix of goods that people want to consume. And it must also deliver those goods to the right people: an economy that gives small jets to international airlines and Dreamliners to commuter airlines serving small rural airports is inefficient, too.</p>
+<p id="krugmanwellsessentials4e-ch2-p52" block_type="txt">In the real world, command economies, such as the former Soviet Union, are notorious for inefficiency in allocation. For example, it was common for consumers to find stores well stocked with items few people wanted but lacking such basics as soap and toilet paper.</p>
+<p id="krugmanwellsessentials4e-ch2-p53" block_type="txt-3"><phrase block_type="h3"><strong>Opportunity Cost</strong></phrase> The production possibility frontier is also useful as a reminder of the fundamental point that the true cost of any good isn&#8217;t the money it costs to buy, but what must be given up in order to get that good&#8212;the <em>opportunity cost</em>. If, for example, Boeing decides to change its production from point <em>A</em> to point <em>B,</em> it will produce 8 more small jets but 6 fewer Dreamliners. So the opportunity cost of 8 small jets is 6 Dreamliners&#8212;the 6 Dreamliners that must be forgone in order to produce 8 more small jets. This means that each small jet has an opportunity cost of 6/8 &#61; 3/4 of a Dreamliner.</p>
+<p id="krugmanwellsessentials4e-ch2-p54" block_type="txt">Is the opportunity cost of an extra small jet in terms of Dreamliners always the same, no matter how many small jets and Dreamliners are currently produced? In the example illustrated by <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link>, the answer is yes. If Boeing increases its production of small jets from 28 to 40, the number of Dreamliners it produces falls from 9 to zero. So Boeing&#8217;s opportunity cost per additional small jet is 9/12 &#61; 3/4 of a Dreamliner, the same as it was when Boeing went from 20 small jets produced to 28.</p>
+<p id="krugmanwellsessentials4e-ch2-p55" block_type="txt">However, the fact that in this example the opportunity cost of a small jet in terms of a Dreamliner is always the same is a result of an assumption we&#8217;ve made, an assumption that&#8217;s reflected in how <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link> is drawn. Specifically, whenever we assume that the opportunity cost of an additional unit of a good doesn&#8217;t change regardless of the output mix, the production possibility frontier is a straight line.</p>
+<p id="krugmanwellsessentials4e-ch2-p56" block_type="txt">Moreover, as you might have already guessed, the slope of a straight-line production possibility frontier is equal to the opportunity cost&#8212;specifically, the opportunity cost for the good measured on the horizontal axis in terms of the good measured on the vertical axis. In <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link>, the production possibility frontier has a <em>constant slope</em> of &#8722;3/4, implying that Boeing faces a <em>constant opportunity cost</em> for 1 small jet equal to 3/4 of a Dreamliner. (A review of how to calculate the slope of a straight line is found in this chapter&#8217;s appendix.) This is the simplest case, but the production possibility frontier model can also be used to examine situations in which opportunity costs change as the mix of output changes.</p>
+<p id="krugmanwellsessentials4e-ch2-p57" block_type="txt"><link href="#krugmanwellsessentials4e_ch2-fig-4">Figure 2-2</link> illustrates a different assumption, a case in which Boeing faces <em>increasing opportunity cost</em>. Here, the more small jets it produces, the more costly it is to produce yet another small jet in terms of forgone production of a Dreamliner. And the same holds true in reverse: the more Dreamliners Boeing produces, the more costly it is to produce yet another Dreamliner in terms of forgone production of small jets. For example, to go from producing zero small jets to producing 20, Boeing has to forgo producing 5 Dreamliners. That is, the opportunity cost of those 20 small jets is 5 Dreamliners. But to increase its production of small jets to 40&#8212;that is, to produce an additional 20 small jets&#8212;it must forgo producing 25 more Dreamliners, a much higher opportunity cost. As you can see in <link href="#krugmanwellsessentials4e_ch2-fig-4">Figure 2-2</link>, when opportunity costs are increasing rather than constant, the production possibility frontier is a bowed-out curve rather than a straight line.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-4" block_type="figure" numbered="true" number="2-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch2-fig-4"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-2</phrase></strong></phrase> <phrase block_type="fig_title">Increasing Opportunity Cost</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch2-img-5" alt="image" src="images/KrugESS4e_fig_2_02.jpg"/>
+<caption>The bowed-out shape of the production possibility frontier reflects increasing opportunity cost. In this example, to produce the first 20 small jets, Boeing must forgo producing 5 Dreamliners. But to produce an additional 20 small jets, Boeing must forgo manufacturing 25 more Dreamliners.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_28" block_type="page_start">28</p>
+<p id="krugmanwellsessentials4e-ch2-p58" block_type="txt">Although it&#8217;s often useful to work with the simple assumption that the production possibility frontier is a straight line, economists believe that in reality opportunity costs are typically increasing. When only a small amount of a good is produced, the opportunity cost of producing that good is relatively low because the economy needs to use only those resources that are especially well suited for its production.</p>
+<p id="krugmanwellsessentials4e-ch2-p59" block_type="txt">For example, if an economy grows only a small amount of corn, that corn can be grown in places where the soil and climate are perfect for corn-growing but less suitable for growing anything else, like wheat. So growing that corn involves giving up only a small amount of potential wheat output. Once the economy grows a lot of corn, however, land that is well suited for wheat but isn&#8217;t so great for corn must be used to produce corn anyway. As a result, the additional corn production involves sacrificing considerably more wheat production. In other words, as more of a good is produced, its opportunity cost typically rises because well-suited inputs are used up and less adaptable inputs must be used instead.</p>
+<p id="krugmanwellsessentials4e-ch2-p60" block_type="txt-3"><phrase block_type="h3"><strong>Economic Growth</strong></phrase> Finally, the production possibility frontier helps us understand what it means to talk about <em>economic growth</em>. In <link href="krugmanwellsessentials4e-ch01.xml">Chapter 1</link>, we defined the concept of economic growth as <em>the growing ability of the economy to produce goods and services</em>. As we saw, economic growth is one of the fundamental features of the real economy. But are we really justified in saying that the economy has grown over time? After all, although the U.S. economy produces more of many things than it did a century ago, it produces less of other things&#8212;for example, horse-drawn carriages. Production of many goods, in other words, is actually down. So how can we say for sure that the economy as a whole has grown?</p>
+<p id="krugmanwellsessentials4e-ch2-p61" block_type="txt">The answer is illustrated in <link href="#krugmanwellsessentials4e_ch2-fig-5">Figure 2-3</link>, where we have drawn two hypothetical production possibility frontiers for the economy. In them we have assumed once again that everyone in the economy works for Boeing and, consequently, the economy produces only two goods, Dreamliners and small jets. Notice how the two curves are nested, with the one labeled &#8220;Original <em>PPF</em>&#8221; lying completely inside the one labeled &#8220;New <em>PPF.</em>&#8221; Now we can see graphically what we mean by economic growth of the economy: economic growth means an <em>expansion of the economy&#8217;s production possibilities;</em> that is, the economy <em>can</em> produce more of everything.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-5" block_type="figure" numbered="true" number="2-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch2-fig-5"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-3</phrase></strong></phrase> <phrase block_type="fig_title">Economic Growth</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch2-img-6" alt="image" src="images/KrugESS4e_fig_2_03.jpg"/>
+<caption>Economic growth results in an <em>outward shift</em> of the production possibility frontier because production possibilities are expanded. The economy can now produce more of everything. For example, if production is initially at point <em>A</em> (25 Dreamliners and 20 small jets), economic growth means that the economy could move to point <em>E</em> (30 Dreamliners and 25 small jets).</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_29" block_type="page_start">29</p>
+<p id="krugmanwellsessentials4e-ch2-p62" block_type="txt">For example, if the economy initially produces at point <em>A</em> (25 Dreamliners and 20 small jets), economic growth means that the economy could move to point <em>E</em> (30 Dreamliners and 25 small jets). <em>E</em> lies outside the original frontier; so in the production possibility frontier model, growth is shown as an outward shift of the frontier.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p63" block_type="mn-gl-def"><strong>Factors of production</strong> are resources used to produce goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p64" block_type="txt">What can lead the production possibility frontier to shift outward? There are basically two sources of economic growth. One is an increase in the economy&#8217;s <strong>factors of production,</strong> the resources used to produce goods and services. Economists usually use the term <em>factor of production</em> to refer to a resource that is not used up in production. For example, in traditional airplane manufacture workers used riveting machines to connect metal sheets when constructing a plane&#8217;s fuselage; the workers and the riveters are factors of production, but the rivets and the sheet metal are not. Once a fuselage is made, a worker and riveter can be used to make another fuselage, but the sheet metal and rivets used to make one fuselage cannot be used to make another.</p>
+<p id="krugmanwellsessentials4e-ch2-p65" block_type="txt">Broadly speaking, the main factors of production are the resources land, labor, physical capital, and human capital. Land is a resource supplied by nature; labor is the economy&#8217;s pool of workers; physical capital refers to created resources such as machines and buildings; and human capital refers to the educational achievements and skills of the labor force, which enhance its productivity. Of course, each of these is really a category rather than a single factor: land in North Dakota is quite different from land in Florida.</p>
+<p id="krugmanwellsessentials4e-ch2-p66" block_type="txt">To see how adding to an economy&#8217;s factors of production leads to economic growth, suppose that Boeing builds another construction hangar that allows it to increase the number of planes&#8212;small jets or Dreamliners or both&#8212;it can produce in a year. The new construction hangar is a factor of production, a resource Boeing can use to increase its yearly output. We can&#8217;t say how many more planes of each type Boeing will produce; that&#8217;s a management decision that will depend on, among other things, customer demand. But we can say that Boeing&#8217;s production possibility frontier has shifted outward because it can now produce more small jets without reducing the number of Dreamliners it makes, or it can make more Dreamliners without reducing the number of small jets produced.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p67" block_type="mn-gl-def"><strong>Technology</strong> is the technical means for producing goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p68" block_type="txt">The other source of economic growth is progress in <strong>technology,</strong> the technical means for the production of goods and services. Composite materials had been used in some parts of aircraft before the Boeing Dreamliner was developed. But Boeing engineers realized that there were large additional advantages to building a whole plane out of composites. The plane would be lighter, stronger, and have better aerodynamics than a plane built in the traditional way. It would therefore have longer range, be able to carry more people, and use less fuel, in addition to being able to maintain higher cabin pressure. So in a real sense Boeing&#8217;s innovation&#8212;a whole plane built out of composites&#8212;was a way to do more with any given amount of resources, pushing out the production possibility frontier.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-5a" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-6a" alt="image" src="images/KrugESS4e_2UN02.jpg"/>
+<caption>The four factors of production: land, labor, physical capital, and human capital.</caption>
+<asset_source>iStockphoto/Thinkstock</asset_source>
+<asset_source>Comstock/Thinkstock</asset_source>
+<asset_source>iStockphoto/Thinkstock</asset_source>
+<asset_source>iStockphoto/Thinkstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_30" block_type="page_start">30</p>
+<p id="krugmanwellsessentials4e-ch2-p69" block_type="txt">Because improved jet technology has pushed out the production possibility frontier, it has made it possible for the economy to produce more of everything, not just jets and air travel. Over the past 30 years, the biggest technological advances have taken place in information technology, not in construction or food services. Yet Americans have chosen to buy bigger houses and eat out more than they used to because the economy&#8217;s growth has made it possible to do so.</p>
+<p id="krugmanwellsessentials4e-ch2-p70" block_type="txt">The production possibility frontier is a very simplified model of an economy. Yet it teaches us important lessons about real-life economies. It gives us our first clear sense of what constitutes economic efficiency, it illustrates the concept of opportunity cost, and it makes clear what economic growth is all about.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec2-2" block_type="h2" title="" chapter="2" numbered="false" level="2" print_page="30">
+<section-metadata><section-title>Comparative Advantage and Gains from Trade</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch2-p71" block_type="txt-ni">Among the twelve principles of economics described in <link href="krugmanwellsessentials4e-ch01.xml">Chapter 1</link> was the principle of <em>gains from trade</em>&#8212;the mutual gains that individuals can achieve by specializing in doing different things and trading with one another. Our second illustration of an economic model is a particularly useful model of gains from trade&#8212;trade based on <em>comparative advantage</em>.</p>
+<p id="krugmanwellsessentials4e-ch2-p72" block_type="txt">One of the most important insights in all of economics is that there are gains from trade&#8212;that it makes sense to produce the things you&#8217;re especially good at producing and to buy from other people the things you aren&#8217;t as good at producing. This would be true even if you could produce everything for yourself: even if a brilliant brain surgeon <em>could</em> repair her own dripping faucet, it&#8217;s probably a better idea for her to call in a professional plumber.</p>
+<p id="krugmanwellsessentials4e-ch2-p73" block_type="txt">How can we model the gains from trade? Let&#8217;s stay with our aircraft example and once again imagine that the United States is a one-company economy where everyone works for Boeing, producing airplanes. Let&#8217;s now assume, however, that the United States has the ability to trade with Brazil&#8212;another one-company economy where everyone works for the Brazilian aircraft company Embraer, which is, in the real world, a successful producer of small commuter jets. (If you fly from one major U.S. city to another, your plane is likely to be a Boeing, but if you fly into a small city, the odds are good that your plane will be an Embraer.)</p>
+<p id="krugmanwellsessentials4e-ch2-p74" block_type="txt">In our example, the only two goods produced are large jets and small jets. Both countries could produce both kinds of jets. But as we&#8217;ll see in a moment, they can gain by producing different things and trading with each other. For the purposes of this example, let&#8217;s return to the simpler case of straight-line production possibility frontiers. America&#8217;s production possibilities are represented by the production possibility frontier in panel (a) of <link href="#krugmanwellsessentials4e_ch2-fig-6">Figure 2-4</link>, which is similar to the production possibility frontier in <link href="#krugmanwellsessentials4e_ch2-fig-2">Figure 2-1</link>. According to this diagram, the United States can produce 40 small jets if it makes no large jets and can manufacture 30 large jets if it produces no small jets. Recall that this means that the slope of the U.S. production possibility frontier is &#8722;3/4: its opportunity cost of 1 small jet is 3/4 of a large jet.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-6" block_type="figure" numbered="true" number="2-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch2-fig-6"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-4</phrase></strong></phrase> <phrase block_type="fig_title">Production Possibilities for Two Countries</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch2-img-7" alt="image" src="images/KrugESS4e_fig_2_04ab.jpg"/>
+<caption>Here, both the United States and Brazil have a constant opportunity cost of small jets, illustrated by a straight-line production possibility frontier. For the United States, each small jet has an opportunity cost of 3&#8260;4 of a large jet. Brazil has an opportunity cost of a small jet equal to 1&#8260;3 of a large jet.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_31" block_type="page_start">31</p>
+<p id="krugmanwellsessentials4e-ch2-p75" block_type="txt">Panel (b) of <link href="#krugmanwellsessentials4e_ch2-fig-6">Figure 2-4</link> shows Brazil&#8217;s production possibilities. Like the United States, Brazil&#8217;s production possibility frontier is a straight line, implying a constant opportunity cost of a small jet in terms of large jets. Brazil&#8217;s production possibility frontier has a constant slope of &#8211;1/3. Brazil can&#8217;t produce as much of anything as the United States can: at most it can produce 30 small jets or 10 large jets. But it is relatively better at manufacturing small jets than the United States; whereas the United States sacrifices 3/4 of a large jet per small jet produced, for Brazil the opportunity cost of a small jet is only 1/3 of a large jet. <link href="#krugmanwellsessentials4e-ch2-tab-1">Table 2-1</link> summarizes the two countries&#8217; opportunity costs of small jets and large jets.</p>
+<table id="krugmanwellsessentials4e-ch2-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch2-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">2-1</phrase></strong> <phrase block_type="tbl_title">U.S. and Brazilian Opportunity Costs of Small Jets and Large Jets</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder"><strong>U.S. Opportunity Cost</strong></td>
+<td></td>
+<td><strong>Brazilian Opportunity Cost</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">One small jet</td>
+<td>&#190; large jet</td>
+<td>&#62;</td>
+<td>1/3 large jet</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">One large jet</td>
+<td>4/3 small jets</td>
+<td>&#60;</td>
+<td>3 small jets</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch2-p76" block_type="txt">Now, the United States and Brazil could each choose to make their own large and small jets, not trading any airplanes and consuming only what each produced within its own country. (A country &#8220;consumes&#8221; an airplane when it is owned by a domestic resident.) Let&#8217;s suppose that the two countries start out this way and make the consumption choices shown in <link href="#krugmanwellsessentials4e_ch2-fig-6">Figure 2-4</link>: in the absence of trade, the United States produces and consumes 16 small jets and 18 large jets per year, while Brazil produces and consumes 6 small jets and 8 large jets per year.</p>
+<p id="krugmanwellsessentials4e-ch2-p77" block_type="txt">But is this the best the two countries can do? No, it isn&#8217;t. Given that the two producers&#8212;and therefore the two countries&#8212;have different opportunity costs, the United States and Brazil can strike a deal that makes both of them better off.</p>
+<p id="krugmanwellsessentials4e-ch2-p78" block_type="txt"><link href="#krugmanwellsessentials4e-ch2-tab-2">Table 2-2</link> shows how such a deal works: the United States specializes in the production of large jets, manufacturing 30 per year, and sells 10 to Brazil. Meanwhile, Brazil specializes in the production of small jets, producing 30 per year, and sells 20 to the United States. The result is shown in <link href="#krugmanwellsessentials4e_ch2-fig-7">Figure 2-5</link>. The United States now consumes more of both small jets and large jets than before: instead of 16 small jets and 18 large jets, it now consumes 20 small jets and 20 large jets. Brazil also consumes more, going from 6 small jets and 8 large jets to 10 small jets and 10 large jets. As <link href="#krugmanwellsessentials4e-ch2-tab-2">Table 2-2</link> also shows, both the United States and Brazil reap gains from trade, consuming more of both types of plane than they would have without trade.</p>
+<table id="krugmanwellsessentials4e-ch2-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch2-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">2-2</phrase></strong> <phrase block_type="tbl_title">How the United States and Brazil Gain from Trade</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"></td>
+<td class="tbl-ljust"></td>
+<td colspan="2" class="tbl-bborder"><strong>Without Trade</strong></td>
+<td colspan="2" class="tbl-bborder"><strong>With Trade</strong></td>
+<td rowspan="2"><strong>Gains from Trade</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td></td>
+<td>Production</td>
+<td>Consumption</td>
+<td>Production</td>
+<td>Consumption </td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust" rowspan="2">United States</td>
+<td class="tbl-rborder">Large jets</td>
+<td class="tbl-rborder">18</td>
+<td class="tbl-rborder">18</td>
+<td class="tbl-rborder">30</td>
+<td class="tbl-rborder">20</td>
+<td>&#43;2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">Small jets</td>
+<td class="tbl-rborder">16</td>
+<td class="tbl-rborder">16</td>
+<td class="tbl-rborder">0</td>
+<td class="tbl-rborder">20</td>
+<td>&#43;4</td>
+</tr>
+<tr class="tbl-td-dark">
+<td rowspan="2" class="tbl-ljust">Brazil</td>
+<td class="tbl-rborder">Large jets</td>
+<td class="tbl-rborder">8</td>
+<td class="tbl-rborder">8</td>
+<td class="tbl-rborder">0</td>
+<td class="tbl-rborder">10</td>
+<td>&#43;2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">Small jets</td>
+<td class="tbl-rborder">6</td>
+<td class="tbl-rborder">6</td>
+<td class="tbl-rborder">30</td>
+<td class="tbl-rborder">10</td>
+<td>&#43;4</td>
+</tr>
+</tbody>
+</table>
+<figure id="krugmanwellsessentials4e-ch2-fig-7" block_type="figure" numbered="true" number="2-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-8" alt="image" src="images/KrugESS4e_fig_2_05ab.jpg"/>
+<caption><link href="#krugmanwellsessentials4e-ch2-fig-7"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-5</phrase></strong></phrase> <phrase block_type="fig_title">Comparative Advantage and Gains from Trade</phrase></link></caption>
+<caption>By specializing and trading, the United States and Brazil can produce and consume more of both large jets and small jets. The United States specializes in manufacturing large jets, its comparative advantage, and Brazil&#8212;which has an <em>absolute</em> disadvantage in both goods but a <em>comparative</em> advantage in small jets&#8212;specializes in manufacturing small jets. With trade, both countries can consume more of both goods than either could without trade.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_32" block_type="page_start">32</p>
+<p id="krugmanwellsessentials4e-ch2-p79" block_type="txt">Both countries are better off when they each specialize in what they are good at and trade. It&#8217;s a good idea for the United States to specialize in the production of large jets because its opportunity cost of a large jet is smaller than Brazil&#8217;s: 4/3 &#60; 3. Correspondingly, Brazil should specialize in the production of small jets because its opportunity cost of a small jet is smaller than the United States: 1/3 &#60; 3/4.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p80" block_type="mn-gl-def">A country has a <strong>comparative advantage</strong> in producing a good or service if its opportunity cost of producing the good or service is lower than other countries&#8217;. Likewise, an individual has a comparative advantage in producing a good or service if his or her opportunity cost of producing the good or service is lower than for other people.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p81" block_type="txt">What we would say in this case is that the United States has a comparative advantage in the production of large jets and Brazil has a comparative advantage in the production of small jets. A country has a <strong>comparative advantage</strong> in producing something if the opportunity cost of that production is lower for that country than for other countries. The same concept applies to firms and people: a firm or an individual has a comparative advantage in producing something if its, his, or her opportunity cost of production is lower than for others.</p>
+<p id="krugmanwellsessentials4e-ch2-p82" block_type="txt">One point of clarification before we proceed further. You may have wondered why the United States traded 10 large jets to Brazil in return for 20 small jets. Why not some other deal, like trading 10 large jets for 12 small jets? The answer to that question has two parts. First, there may indeed be other trades that the United States and Brazil might agree to. Second, there are some deals that we can safely rule out&#8212;one like 10 large jets for 10 small jets.</p>
+<p id="krugmanwellsessentials4e_page_33" block_type="page_start">33</p>
+<p id="krugmanwellsessentials4e-ch2-p83" block_type="txt">To understand why, reexamine <link href="#krugmanwellsessentials4e-ch2-tab-1">Table 2-1</link> and consider the United States first. With-out trading with Brazil, the U.S. opportunity cost of a small jet is 3/4 of a large jet. So it&#8217;s clear that the United States will not accept any trade that requires it to give up more than 3/4 of a large jet for a small jet. Trading 10 jets in return for 12 small jets would require the United States to pay an opportunity cost of 10/12 &#61; 5/6 of a large jet for a small jet. Because 5/6 &#62; 3/4, this is a deal that the United States would reject. Similarly, Brazil won&#8217;t accept a trade that gives it less than 1/3 of a large jet for a small jet.</p>
+<p id="krugmanwellsessentials4e-ch2-p84" block_type="txt">The point to remember is that the United States and Brazil will be willing to trade only if the &#8220;price&#8221; of the good each country obtains in the trade is less than its own opportunity cost of producing the good domestically. Moreover, this is a general statement that is true whenever two parties&#8212;countries, firms, or individuals&#8212;trade voluntarily.</p>
+<p id="krugmanwellsessentials4e-ch2-p85" block_type="txt">While our story clearly simplifies reality, it teaches us some very important lessons that apply to the real economy, too.</p>
+<p id="krugmanwellsessentials4e-ch2-p86" block_type="txt">First, the model provides a clear illustration of the gains from trade: through specialization and trade, both countries produce more and consume more than if they were self-sufficient.</p>
+<p id="krugmanwellsessentials4e-ch2-p87" block_type="txt">Second, the model demonstrates a very important point that is often overlooked in real-world arguments: each country has a comparative advantage in producing something. This applies to firms and people as well: <em>everyone has a comparative advantage in something, and everyone has a comparative disadvantage in something.</em></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p88" block_type="mn-gl-def">A country has an <strong>absolute advantage</strong> in producing a good or service if the country can produce more output per worker than other countries. Likewise, an individual has an absolute advantage in producing a good or service if he or she is better at producing it than other people. Having an absolute advantage is not the same thing as having a comparative advantage.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p89" block_type="txt">Crucially, in our example it doesn&#8217;t matter if, as is probably the case in real life, U.S. workers are just as good as or even better than Brazilian workers at producing small jets. Suppose that the United States is actually better than Brazil at all kinds of aircraft production. In that case, we would say that the United States has an <strong>absolute advantage</strong> in both large-jet and small-jet production: in an hour, an American worker can produce more of either a large jet or a small jet than a Brazilian worker. You might be tempted to think that in that case the United States has nothing to gain from trading with the less productive Brazil.</p>
+<p id="krugmanwellsessentials4e-ch2-p90" block_type="txt">But we&#8217;ve just seen that the United States can indeed benefit from trading with Brazil because <em>comparative, not absolute, advantage is the basis for mutual gain.</em> It doesn&#8217;t matter whether it takes Brazil more resources than the United States to make a small jet; what matters for trade is that for Brazil the opportunity cost of a small jet is lower than the U.S. opportunity cost. So Brazil, despite its absolute disadvantage, even in small jets, has a comparative advantage in the manufacture of small jets. Meanwhile the United States, which can use its resources most productively by manufacturing large jets, has a comparative <em>dis</em>advantage in manufacturing small jets.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec2-3" block_type="h2" title="" chapter="2" numbered="false" level="2" print_page="33">
+<section-metadata><section-title>Comparative Advantage and International Trade, in Reality</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch2-p91" block_type="txt-ni">Look at the label on a manufactured good sold in the United States, and there&#8217;s a good chance you will find that it was produced in some other country&#8212;in China, or Japan, or even in Canada, eh? On the other side, many U.S. industries sell a large fraction of their output overseas. (This is particularly true of agriculture, high technology, and entertainment.)</p>
+<p id="krugmanwellsessentials4e-ch2-p92" block_type="txt">Should all this international exchange of goods and services be celebrated, or is it cause for concern? Politicians and the public often question the desirability of international trade, arguing that the nation should produce goods for itself rather than buying them from foreigners. Industries around the world demand protection from foreign competition: Japanese farmers want to keep out American rice, American steelworkers want to keep out European steel. And these demands are often supported by public opinion.</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch2-bx1-1" block_type="bx1-h">
+<p id="krugmanwellsessentials4e-ch2-p93" block_type="bx1-t"><strong>MISUNDERSTANDING COMPARATIVE ADVANTAGE</strong></p>
+<p id="krugmanwellsessentials4e-ch2-p94" block_type="bx1-txt-ni">Students do it, pundits do it, and politicians do it all the time: they confuse <em>comparative advantage</em> with <em>absolute advantage</em>. For example, back in the 1980s, when the U.S. economy seemed to be lagging behind that of Japan, one often heard commentators warn that if we didn&#8217;t improve our productivity, we would soon have no comparative advantage in anything.</p>
+<p id="krugmanwellsessentials4e-ch2-p95" block_type="bx1-txt">What those commentators meant was that we would have no <em>absolute</em> advantage in anything&#8212;that there might come a time when the Japanese were better at everything than we were. (It didn&#8217;t turn out that way, but that&#8217;s another story.) And they had the idea that in that case we would no longer be able to benefit from trade with Japan.</p>
+<p id="krugmanwellsessentials4e-ch2-p96" block_type="bx1-txt">But just as Brazil, in our example, was able to benefit from trade with the United States (and vice versa) despite the fact that the United States was better at manufacturing both large and small jets, in real life nations can still gain from trade even if they are less productive in all industries than the countries they trade with.</p>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx4-1" block_type="bx4-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch2-img-9" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e_page_34" block_type="page_start">34</p>
+<p id="krugmanwellsessentials4e-ch2-p97" block_type="bx4-t"><strong>Pajama Republics</strong></p>
+<p id="krugmanwellsessentials4e-ch2-p98" block_type="bx4-txt-ni"><phrase block_type="dropcap">I</phrase>n April 2013, a terrible industrial disaster made world headlines: in Bangladesh, a building housing five clothing factories collapsed, killing more than a thousand garment workers trapped inside. Attention soon focused on the substandard working conditions in those factories, as well as the many violations of building codes and safety procedures&#8212;including those required by Bangladeshi law&#8212;that set the stage for the tragedy.</p>
+<p id="krugmanwellsessentials4e-ch2-p99" block_type="bx4-txt">While the story provoked a justified outcry, it also highlighted the remarkable rise of Bangladesh&#8217;s clothing industry, which has become a major player in world markets&#8212;second only to China in total exports&#8212;and a desperately needed source of income and employment in a very poor country.</p>
+<p id="krugmanwellsessentials4e-ch2-p100" block_type="bx4-txt">It&#8217;s not that Bangladesh has especially high productivity in clothing manufacturing. In fact, recent estimates by the consulting firm McKinsey and Company suggest that it&#8217;s about a quarter less productive than China. Rather, it has even lower productivity in other industries, giving it a comparative advantage in clothing manufacturing. This is typical in poor countries, which often rely heavily on clothing exports during the early phases of their economic development. An official from one such country once joked, &#8220;We are not a banana republic&#8212;we are a pajama republic.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch2-p101" block_type="bx4-txt">The figure plots the per capita income of several such &#8220;pajama republics&#8221; (the total income of the country divided by the size of the population) against the share of total exports (goods and services sold to other countries), accounted for by clothing; per capita income is measured as a percentage of the U.S. level in order to give you a sense of just how poor these countries are. As you can see, they are very poor indeed&#8212;and the poorer they are, the more they depend on clothing exports.</p>
+<p id="krugmanwellsessentials4e-ch2-p102" block_type="bx4-txt">It&#8217;s worth pointing out, by the way, that relying on clothing exports is by no means necessarily a bad thing, despite tragedies like the Bangladesh factory disaster. Indeed, Bangladesh, although still desperately poor, is more than twice as rich as it was two decades ago, when it began its dramatic rise as a clothing exporter. (Also see the upcoming Economics in Action on Bangladesh.)</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-8" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-10" alt="image" src="images/KrugESS4e_2UN03.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p103" block_type="bx4-sc"><em>Data from:</em> WTO.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p104" block_type="txt">Economists, however, have a very positive view of international trade. Why? Because they view it in terms of comparative advantage. As we learned from our example of U.S. large jets and Brazilian small jets, international trade benefits both countries. Each country can consume more than if it didn&#8217;t trade and remained self-sufficient. Moreover, these mutual gains don&#8217;t depend on each country being better than other countries at producing one kind of good. Even if one country has, say, higher output per worker in both industries&#8212;that is, even if one country has an absolute advantage in both industries&#8212;there are still gains from trade. The Global Comparison, which explains the pattern of clothing production in the global economy, illustrates just this point.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec2-4" block_type="h2" title="" chapter="2" numbered="false" level="2" print_page="34">
+<section-metadata><section-title>Transactions: The Circular-Flow Diagram</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p105" block_type="mn-gl-def">Trade takes the form of <strong>barter</strong> when people directly exchange goods or services that they have for goods or services that they want.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p106" block_type="txt-ni">The model economies that we&#8217;ve studied so far&#8212;each containing only one firm&#8212;are a huge simplification. We&#8217;ve also greatly simplified trade between the United States and Brazil, assuming that they engage only in the simplest of economic transactions, <strong>barter,</strong> in which one party directly trades a good or service for another good or service without using money. In a modern economy, simple barter is rare: usually people trade goods or services for money&#8212;pieces of colored paper with no inherent value&#8212;and then trade those pieces of colored paper for the goods or services they want. That is, they sell goods or services and buy other goods or services.</p>
+<p id="krugmanwellsessentials4e_page_35" block_type="page_start">35</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p107" block_type="mn-gl-def">The <strong>circular-flow diagram</strong> represents the transactions in an economy by flows around a circle.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p108" block_type="txt">And they both sell and buy a lot of different things. The U.S. economy is a vastly complex entity, with more than a hundred million workers employed by millions of companies, producing millions of different goods and services. Yet you can learn some very important things about the economy by considering the simple graphic shown in <link href="#krugmanwellsessentials4e_ch2-fig-9">Figure 2-6</link>, the <strong>circular-flow diagram.</strong> This diagram represents the transactions that take place in an economy by two kinds of flows around a circle: flows of physical things such as goods, services, labor, or raw materials in one direction, and flows of money that pay for these physical things in the opposite direction. In this case the physical flows are shown in yellow, the money flows in green.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-9" block_type="figure" numbered="true" number="2-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch2-fig-9"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-6</phrase></strong></phrase> <phrase block_type="fig_title">The Circular-Flow Diagram</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch2-img-11" alt="image" src="images/KrugESS4e_fig_2_06.jpg"/>
+<caption>This diagram represents the flows of money and of goods and services in the economy. In the markets for goods and services, households purchase goods and services from firms, generating a flow of money to the firms and a flow of goods and services to the households. The money flows back to households as firms purchase factors of production from the households in factor markets.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p109" block_type="mn-gl-def">A <strong>household</strong> is a person or a group of people that share their income.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p110" block_type="mn-gl-def">A <strong>firm</strong> is an organization that produces goods and services for sale.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p111" block_type="txt">The simplest circular-flow diagram illustrates an economy that contains only two kinds of inhabitants: <strong>households</strong> and <strong>firms.</strong> A household consists of either an individual or a group of people (usually, but not necessarily, a family) that share their income. A firm is an organization that produces goods and services for sale&#8212;and that employs members of households.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p112" block_type="mn-gl-def">Firms sell goods and services that they produce to households in <strong>markets for goods and services.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p113" block_type="txt">As you can see in <link href="#krugmanwellsessentials4e_ch2-fig-9">Figure 2-6</link>, there are two kinds of markets in this simple economy. On one side (here the left side) there are <strong>markets for goods and services</strong> in which households buy the goods and services they want from firms. This produces a flow of goods and services to households and a return flow of money to firms.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p114" block_type="mn-gl-def">Firms buy the resources they need to produce goods and services in <strong>factor markets.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p115" block_type="txt">On the right side, there are <strong>factor markets</strong> in which firms buy the resources they need to produce goods and services. Recall from earlier that the main factors of production are land, labor, physical capital, and human capital.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p116" block_type="mn-gl-def">An economy&#8217;s <strong>income distribution</strong> is the way in which total income is divided among the owners of the various factors of production.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p117" block_type="txt">The factor market most of us know best is the labor market, in which workers sell their services. In addition, we can think of households as owning and selling the other factors of production to firms. For example, when a firm buys physical capital in the form of machines, the payment ultimately goes to the households that own the machine-making firm. In this case, the transactions are occurring in the <em>capital market,</em> the market in which capital is bought and sold. As we&#8217;ll examine in detail later, factor markets ultimately determine an economy&#8217;s <strong>income distribution,</strong> how the total income created in an economy is allocated between less skilled workers, highly skilled workers, and the owners of capital and land.</p>
+<p id="krugmanwellsessentials4e_page_36" block_type="page_start">36</p>
+<p id="krugmanwellsessentials4e-ch2-p118" block_type="txt">The circular-flow diagram ignores a number of real-world complications in the interests of simplicity. A few examples:</p>
+<list id="krugmanwellsessentials4e-ch2-list-3" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch2-p119" block_type="bl-first">In the real world, the distinction between firms and households isn&#8217;t always that clear-cut. Consider a small, family-run business&#8212;a farm, a shop, a small hotel. Is this a firm or a household? A more complete picture would include a separate box for family businesses.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p120" block_type="bl-mid">Many of the sales firms make are not to households but to other firms; for example, steel companies sell mainly to other companies such as auto manufacturers, not to households. A more complete picture would include these flows of goods, services, and money within the business sector.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p121" block_type="bl-last">The figure doesn&#8217;t show the government, which in the real world diverts quite a lot of money out of the circular flow in the form of taxes but also injects a lot of money back into the flow in the form of spending.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch2-p122" block_type="txt"><link href="#krugmanwellsessentials4e_ch2-fig-9">Figure 2-6</link>, in other words, is by no means a complete picture either of all the types of inhabitants of the real economy or of all the flows of money and physical items that take place among these inhabitants.</p>
+<p id="krugmanwellsessentials4e-ch2-p123" block_type="txt">Despite its simplicity, the circular-flow diagram is a very useful aid to thinking about the economy.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx2-1" block_type="bx2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch2-img-12" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch2-p124" block_type="bx2-t">Rich Nation, Poor Nation</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p125" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-13" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p126" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>ry taking off your clothes&#8212;at a suitable time and in a suitable place, of course&#8212;and taking a look at the labels inside that say where they were made. It&#8217;s a very good bet that much, if not most, of your clothing was manufactured overseas, in a country that is much poorer than the United States&#8212;say, in El Salvador, Sri Lanka, or Bangladesh.</p>
+<p id="krugmanwellsessentials4e-ch2-p127" block_type="bx2-txt">Why are these countries so much poorer than we are? The immediate reason is that their economies are much less <em>productive&#8212;</em>firms in these countries are just not able to produce as much from a given quantity of resources as comparable firms in the United States or other wealthy countries. Why countries differ so much in productivity is a deep question&#8212;indeed, one of the main questions that preoccupy economists. But in any case, the difference in productivity is a fact.</p>
+<p id="krugmanwellsessentials4e-ch2-p128" block_type="bx2-txt">But if the economies of these countries are so much less productive than ours, how is it that they make so much of our clothing? Why don&#8217;t we do it for ourselves?</p>
+<p id="krugmanwellsessentials4e-ch2-p129" block_type="bx2-txt">The answer is &#8220;comparative advantage.&#8221; Just about every industry in Bangladesh is much less productive than the corresponding industry in the United States. But the productivity difference between rich and poor countries varies across goods; it is very large in the production of sophisticated goods like aircraft but not that large in the production of simpler goods like clothing. So Bangladesh&#8217;s position with regard to clothing production is like Embraer&#8217;s position with respect to producing small jets: it&#8217;s not as good at it as Boeing, but it&#8217;s the thing Embraer does comparatively well.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-14" alt="image" src="images/KrugESS4e_2UN04.jpg"/>
+<caption>Although less productive than American workers, Bangladeshi workers have a comparative advantage in clothing production.</caption>
+<asset_source>Robert Nickelsberg/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p130" block_type="bx2-txt">Bangladesh, though it is at an absolute disadvantage compared with the United States in almost everything, has a comparative advantage in clothing production. This means that both the United States and Bangladesh are able to consume more because they specialize in producing different things, with Bangladesh supplying our clothing and the United States supplying Bangladesh with more sophisticated goods.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch2-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch2-list-4" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch2-p131" block_type="sr1-bl">Most economic <strong>models</strong> are &#8220;thought experiments&#8221; or simplified representations of reality that rely on the <strong>other things equal assumption.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p132" block_type="sr1-bl">The <strong>production possibility frontier</strong> model illustrates the concepts of efficiency, opportunity cost, and economic growth.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p133" block_type="sr1-bl">Every person and every country has a <strong>comparative advantage</strong> in something, giving rise to gains from trade. Comparative advantage is often confused with <strong>absolute advantage.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p134" block_type="sr1-bl">In the simplest economies people <strong>barter</strong> rather than transact with money. The <strong>circular-flow diagram</strong> illustrates transactions within the economy as flows of goods and services, <strong>factors of production,</strong> and money between <strong>households</strong> and <strong>firms.</strong> These transactions occur in <strong>markets for goods and services</strong> and <strong>factor markets.</strong> Ultimately, factor markets determine the economy&#8217;s <strong>income distribution.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">2-1</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e_page_37" block_type="page_start">37</p>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch2-p135" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> True or false? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch2-list-5" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p136" block_type="sr2-nl-lvl2">An increase in the amount of resources available to Boeing for use in producing Dreamliners and small jets does not change its production possibility frontier.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p137" block_type="sr2-nl-lvl2">A technological change that allows Boeing to build more small jets for any amount of Dreamliners built results in a change in its production possibility frontier.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p138" block_type="sr2-nl-lvl2">The production possibility frontier is useful because it illustrates how much of one good an economy must give up to get more of another good regardless of whether resources are being used efficiently.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch2-p139" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> In Italy, an automobile can be produced by 8 workers in one day and a washing machine by 3 workers in one day. In the United States, an automobile can be produced by 6 workers in one day and a washing machine by 2 workers in one day.</p>
+<list id="krugmanwellsessentials4e-ch2-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p140" block_type="sr2-nl-lvl2">Which country has an absolute advantage in the production of automobiles? In washing machines?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p141" block_type="sr2-nl-lvl2">Which country has a comparative advantage in the production of washing machines? In automobiles?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p142" block_type="sr2-nl-lvl2">What pattern of specialization results in the greatest gains from trade between the two countries?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-3" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch2-p143" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> Using the numbers from <link href="#krugmanwellsessentials4e-ch2-tab-1">Table 2-1</link>, explain why the United States and Brazil are willing to engage in a trade of 10 large jets for 15 small jets.</p></question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-4" block_type="q_cyu" number="4">
+<p id="krugmanwellsessentials4e-ch2-p144" block_type="cr-que-nl-first"><phrase block_type="qnum">4.</phrase> Use the circular-flow diagram to explain how an increase in the amount of money spent by households results in an increase in the number of jobs in the economy. Describe in words what the circular-flow diagram predicts.</p></question>
+<p id="krugmanwellsessentials4e-ch2-p145" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-3" block_type="h1" title="" chapter="2" numbered="true" level="1" print_page="37">
+<section-metadata><section-title>Using Models</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch2-p146" block_type="txt-ni">Economics, we have now learned, is mainly a matter of creating models that draw on a set of basic principles but add some more specific assumptions that allow the modeler to apply those principles to a particular situation. But what do economists actually <em>do</em> with their models?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec2-4" block_type="h2" title="" chapter="2" numbered="false" level="2" print_page="37">
+<section-metadata><section-title>Positive versus Normative Economics</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch2-p147" block_type="txt-ni">Imagine that you are an economic adviser to the governor of your state. What kinds of questions might the governor ask you to answer?</p>
+<p id="krugmanwellsessentials4e-ch2-p148" block_type="txt">Well, here are three possible questions:</p>
+<list id="krugmanwellsessentials4e-ch2-list-7" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch2-p149" block_type="nl-first">How much revenue will the tolls on the state turnpike yield next year?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p150" block_type="nl-mid">How much would that revenue increase if the toll were raised from &#36;1 to &#36;1.50?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p151" block_type="nl-last">Should the toll be raised, bearing in mind that a toll increase will reduce traffic and air pollution near the road but will impose some financial hardship on frequent commuters?</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch2-p152" block_type="txt">There is a big difference between the first two questions and the third one. The first two are questions about facts. Your forecast of next year&#8217;s toll collection will be proved right or wrong when the numbers actually come in. Your estimate of the impact of a change in the toll is a little harder to check&#8212;revenue depends on other factors besides the toll, and it may be hard to disentangle the causes of any change in revenue. Still, in principle there is only one right answer.</p>
+<p id="krugmanwellsessentials4e-ch2-p153" block_type="txt">But the question of whether tolls should be raised may not have a &#8220;right&#8221; answer&#8212;two people who agree on the effects of a higher toll could still disagree about whether raising the toll is a good idea. For example, someone who lives near the turnpike but doesn&#8217;t commute on it will care a lot about noise and air pollution but not so much about commuting costs. A regular commuter who doesn&#8217;t live near the turnpike will have the opposite priorities.</p>
+<p id="krugmanwellsessentials4e_page_38" block_type="page_start">38</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p154" block_type="mn-gl-def"><strong>Positive economics</strong> is the branch of economic analysis that describes the way the economy actually works.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p155" block_type="mn-gl-def"><strong>Normative economics</strong> makes prescriptions about the way the economy should work.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p156" block_type="txt">This example highlights a key distinction between two roles of economic analysis. Analysis that tries to answer questions about the way the world works, which have definite right and wrong answers, is known as <strong>positive economics.</strong> In contrast, analysis that involves saying how the world <em>should</em> work is known as <strong>normative economics.</strong> To put it another way, positive economics is about description; normative economics is about prescription.</p>
+<p id="krugmanwellsessentials4e-ch2-p157" block_type="txt">Positive economics occupies most of the time and effort of the economics profession. And models play a crucial role in almost all positive economics. As we mentioned earlier, the U.S. government uses a computer model to assess proposed changes in national tax policy, and many state governments have similar models to assess the effects of their own tax policy.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch2-p158" block_type="mn-gl-def">A <strong>forecast</strong> is a simple prediction of the future.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p159" block_type="txt">It&#8217;s worth noting that there is a subtle but important difference between the first and second questions we imagined the governor asking. Question 1 asked for a simple prediction about next year&#8217;s revenue&#8212;a <strong>forecast.</strong> Question 2 was a &#8220;what if&#8221; question, asking how revenue would change if the tax law were changed. Economists are often called upon to answer both types of questions, but models are especially useful for answering &#8220;what if&#8221; questions.</p>
+<p id="krugmanwellsessentials4e-ch2-p160" block_type="txt">The answers to such questions often serve as a guide to policy, but they are still predictions, not prescriptions. That is, they tell you what will happen if a policy were changed; they don&#8217;t tell you whether or not that result is good.</p>
+<p id="krugmanwellsessentials4e-ch2-p161" block_type="txt">Suppose your economic model tells you that the governor&#8217;s proposed increase in highway tolls will raise property values in communities near the road but will hurt people who must use the turnpike to get to work. Does that make this proposed toll increase a good idea or a bad one? It depends on whom you ask. As we&#8217;ve just seen, someone who is very concerned with the communities near the road will support the increase, but someone who is very concerned with the welfare of drivers will feel differently. That&#8217;s a value judgment&#8212;it&#8217;s not a question of economic analysis.</p>
+<p id="krugmanwellsessentials4e-ch2-p162" block_type="txt">Still, economists often do engage in normative economics and give policy advice. How can they do this when there may be no &#8220;right&#8221; answer?</p>
+<p id="krugmanwellsessentials4e-ch2-p163" block_type="txt">One answer is that economists are also citizens, and we all have our opinions. But economic analysis can often be used to show that some policies are clearly better than others, regardless of anyone&#8217;s opinions.</p>
+<p id="krugmanwellsessentials4e-ch2-p164" block_type="txt">Suppose that policies A and B achieve the same goal, but policy A makes everyone better off than policy B&#8212;or at least makes some people better off without making other people worse off. Then A is clearly more efficient than B. That&#8217;s not a value judgment: we&#8217;re talking about how best to achieve a goal, not about the goal itself.</p>
+<p id="krugmanwellsessentials4e-ch2-p165" block_type="txt">For example, two different policies have been used to help low-income families obtain housing: rent control, which limits the rents landlords are allowed to charge, and rent subsidies, which provide families with additional money to pay rent. Almost all economists agree that subsidies are the more efficient policy. And so the great majority of economists, whatever their personal politics, favor subsidies over rent control.</p>
+<p id="krugmanwellsessentials4e-ch2-p166" block_type="txt">When policies can be clearly ranked in this way, then economists generally agree. But it is no secret that economists sometimes disagree.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec2-5" block_type="h2" title="" chapter="2" numbered="false" level="2" print_page="38">
+<section-metadata><section-title>When and Why Economists Disagree</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch2-p167" block_type="txt-ni">Economists have a reputation for arguing with each other. Where does this reputation come from, and is it justified?</p>
+<p id="krugmanwellsessentials4e-ch2-p168" block_type="txt">One important answer is that media coverage tends to exaggerate the real differences in views among economists. If nearly all economists agree on an issue&#8212;for example, the proposition that rent controls lead to housing shortages&#8212;reporters and editors are likely to conclude that it&#8217;s not a story worth covering, leaving the professional consensus unreported. But an issue on which prominent economists take opposing sides&#8212;for example, whether cutting taxes right now would help the economy&#8212;makes a news story worth reporting. So you hear much more about the areas of disagreement within economics than you do about the large areas of agreement.</p>
+<p id="krugmanwellsessentials4e_page_39" block_type="page_start">39</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-15" alt="image" src="images/KrugESS4e_2UN05.jpg"/>
+<caption>Toles &#169; 2001 The Buffalo News. Reprinted with permission of Universal Press Syndicate. All Rights Reserved.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p169" block_type="txt">It is also worth remembering that economics is, unavoidably, often tied up in politics. On a number of issues powerful interest groups know what opinions they want to hear; they therefore have an incentive to find and promote economists who profess those opinions, giving these economists a prominence and visibility out of proportion to their support among their colleagues.</p>
+<p id="krugmanwellsessentials4e-ch2-p170" block_type="txt">While the appearance of disagreement among economists exceeds the reality, it remains true that economists often <em>do</em> disagree about important things. For example, some well respected economists argue vehemently that the U.S. government should replace the income tax with a <em>value-added tax</em> (a national sales tax, which is the main source of government revenue in many European countries). Other equally respected economists disagree. Why this difference of opinion?</p>
+<p id="krugmanwellsessentials4e-ch2-p171" block_type="txt">One important source of differences lies in values: as in any diverse group of individuals, reasonable people can differ. In comparison to an income tax, a value-added tax typically falls more heavily on people of modest means. So an economist who values a society with more social and income equality for its own sake will tend to oppose a value-added tax. An economist with different values will be less likely to oppose it.</p>
+<p id="krugmanwellsessentials4e-ch2-p172" block_type="txt">A second important source of differences arises from economic modeling. Because economists base their conclusions on models, which are simplified representations of reality, two economists can legitimately disagree about which simplifications are appropriate&#8212;and therefore arrive at different conclusions.</p>
+<p id="krugmanwellsessentials4e-ch2-p173" block_type="txt">Suppose that the U.S. government were considering introducing a value-added tax. Economist A may rely on a model that focuses on the administrative costs of tax systems&#8212;that is, the costs of monitoring, processing papers, collecting the tax, and so on. This economist might then point to the well-known high costs of administering a value-added tax and argue against the change. But economist B may think that the right way to approach the question is to ignore the administrative costs and focus on how the proposed law would change savings behavior. This economist might point to studies suggesting that value-added taxes promote higher consumer saving, a desirable result.</p>
+<p id="krugmanwellsessentials4e-ch2-p174" block_type="txt">Because the economists have used different models&#8212;that is, made different simplifying assumptions&#8212;they arrive at different conclusions. And so the two economists may find themselves on different sides of the issue.</p>
+<p id="krugmanwellsessentials4e-ch2-p175" block_type="txt">In most cases such disputes are eventually resolved by the accumulation of evidence showing which of the various models proposed by economists does a better job of fitting the facts. However, in economics, as in any science, it can take a long time before research settles important disputes&#8212;decades, in some cases. And since the economy is always changing, in ways that make old models invalid or raise new policy questions, there are always new issues on which economists disagree. The policy maker must then decide which economist to believe.</p>
+<p id="krugmanwellsessentials4e-ch2-p176" block_type="txt">The important point is that economic analysis is a method, not a set of conclusions.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx2-2" block_type="bx2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch2-p177" block_type="bx2-t">Economists, Beyond the Ivory Tower</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-2b" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p178" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-13b" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p179" block_type="bx2-first"><phrase block_type="dropcap">M</phrase>any economists are mainly engaged in teaching and research. But quite a few economists have a more direct hand in events.</p>
+<p id="krugmanwellsessentials4e-ch2-p180" block_type="bx2-txt">The one specific branch of economics that seeks to understand what assets like stocks and bonds are worth, is finance theory. It plays an important role for financial firms on Wall Street&#8212;not always to good effect. But pricing assets is by no means the only useful function economists serve in the business world. Businesses need forecasts of the future demand for their products, predictions of future raw-material prices, assessments of their future financing needs, and more; for all of these purposes, economic analysis is essential.</p>
+<p id="krugmanwellsessentials4e_page_40" block_type="page_start">40</p>
+<p id="krugmanwellsessentials4e-ch2-p181" block_type="bx2-txt">Some of the economists employed in the business world work directly for the institutions that need their input. Top financial firms like Goldman Sachs and Morgan Stanley, in particular, maintain high-quality economics groups, which produce analyses of forces and events likely to affect financial markets. Other economists are employed by consulting firms like Macro Advisers, which sells analysis and advice to a wide range of other businesses.</p>
+<p id="krugmanwellsessentials4e-ch2-p182" block_type="bx2-txt">Last but not least, economists participate extensively in government. According to the Bureau of Labor Statistics, government agencies employ about half of the professional economists in the United States. This shouldn&#8217;t be surprising: one of the most important functions of government is to make economic policy, and almost every government policy decision must take economic effects into consideration. So governments around the world employ economists in a variety of roles.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-17" alt="image" src="images/KrugESS4e_2UN06.jpg"/>
+<caption>Although some professional economists work on Wall Street, the majority are employed by educational institutions and by local, state, and federal governments, where they assist with economic policy making.</caption>
+<asset_source>Thinkstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p183" block_type="bx2-txt">In the U.S. government, a key role is played by the Council of Economic Advisers, whose sole purpose is to advise the president on economic matters. Unlike most government employees, most economists at the Council aren&#8217;t longtime civil servants; instead, they are mainly professors on leave for one or two years from their universities. Many of the nation&#8217;s best-known economists have served at the Council of Economic Advisers at some point in their careers.</p>
+<p id="krugmanwellsessentials4e-ch2-p184" block_type="bx2-txt">Economists also play an important role in many other parts of the government, from the Department of Commerce to the Labor Department. Economists dominate the staff of the Federal Reserve, a government agency that controls the economy&#8217;s money supply and oversees banks. And economists play an especially important role in two international organizations headquartered in Washington, D.C.: the International Monetary Fund, which provides advice and loans to countries experiencing economic difficulties, and the World Bank, which provides advice and loans to promote long-term economic development.</p>
+<p id="krugmanwellsessentials4e-ch2-p185" block_type="bx2-txt">In the past, it wasn&#8217;t that easy to track what all these economists working on practical affairs were up to. These days, however, there are very lively online discussions of economic prospects and policy. See, for example, the home page of the International Monetary Fund (<link href="http://www.imf.org">www.imf.org</link>), a business-oriented site like <link href="http://www.economy.com">economy.com</link>, and the blogs of individual economists, like Mark Thoma (<link href="http://www.economistsview.typepad.com">economistsview.typepad.com</link>) or, yes, our own blog, which is among the Technorati top 100 blogs, at <link href="http://www.krugman.blogs.nytimes.com">krugman.blogs.nytimes.com</link>.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch2-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch2-list-8" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch2-p186" block_type="sr1-bl"><strong>Positive economics&#8212;</strong>the focus of most economic research&#8212;is the analysis of the way the world works, in which there are definite right and wrong answers. It often involves making <strong>forecasts.</strong> But in <strong>normative economics,</strong> which makes prescriptions about how things ought to be, there are often no right answers and only value judgments.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p187" block_type="sr1-bl">Economists do disagree&#8212;though not as much as legend has it&#8212;for two main reasons: (1) they may disagree about which simplifications to make in a model and (2) they may disagree about values.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">2-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch2-p188" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following statements is a positive statement? Which is a normative statement?</p>
+<list id="krugmanwellsessentials4e-ch2-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p189" block_type="sr2-nl-lvl2">Society should take measures to prevent people from engaging in dangerous personal behavior.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p190" block_type="sr2-nl-lvl2">People who engage in dangerous personal behavior impose higher costs on society through higher medical costs.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch2-p191" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> True or false? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch2-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p192" block_type="sr2-nl-lvl2">Policy choice A and policy choice B attempt to achieve the same social goal. Policy choice A, however, results in a much less efficient use of resources than policy choice B. Therefore, economists are more likely to agree on choosing policy choice B.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p193" block_type="sr2-nl-lvl2">When two economists disagree on the desirability of a policy, it&#8217;s typically because one of them has made a mistake.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p194" block_type="sr2-nl-lvl2">Policy makers can always use economics to figure out which goals a society should try to achieve.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch2-p195" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-4" block_type="solved_problem" title="" chapter="2" numbered="true" level="1" print_page="41">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_41" block_type="page_start">41</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase><phrase block_type="gc2">Heavy Metal and High Protein</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p196" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-18" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p197" block_type="wio-txt-ni">If you look at one of the bottom rows of the periodic table of elements, you will find the lanthanides, also known as rare earths, fifteen metallic chemical elements, from lanthanum to lutetium. Unlike other more commonly known elements like hydrogen and gold, you have probably never heard of rare earths, even though you use them every day when you reach for a smartphone or a tablet, or watch TV. In fact, there are more than a dozen rare earth elements in an iPhone. These essential elements can also be found in hybrid cars, wind turbines, lasers, and satellites.</p>
+<p id="krugmanwellsessentials4e-ch2-p198" block_type="wio-txt">Despite their name, rare earth elements are not rare at all. They are embedded in the earth&#8217;s crust. It just happens to be the case that China is the largest miner and exporter of rare earths, controlling nearly 95&#37; of world production.</p>
+<p id="krugmanwellsessentials4e-ch2-p199" block_type="wio-txt">Meanwhile, the United States is the world&#8217;s largest exporter of soybeans, a high-protein crop essential to the production of livestock feed but also used for human consumption in the form of products like soy milk, edamame, and tofu. Nearly 90&#37; of all soybeans traded globally are grown in the United States.</p>
+<p id="krugmanwellsessentials4e-ch2-p200" block_type="wio-txt">Fortunately, the United States and China can trade with each other. But what if China refused to export rare earths, forcing the United States to find ways to extract these rare earths on its own? What if China stopped purchasing soybeans from other countries and reverted to self-production?</p>
+<p id="krugmanwellsessentials4e-ch2-p201" block_type="wio-txt">Now suppose that China and the United States can produce either soybeans or rare earths&#8212;a hypothetical example based on an actual trading pattern. Assume that the production possibilities for rare earths and soybeans are as follows:</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-13" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-19" alt="image" src="images/KrugESS4e_2UN07.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch2-p202" block_type="wio-txt-ni">Calculate the opportunity cost of rare earths and soybeans for both countries. Does the United States have a comparative advantage in producing rare earths? Suppose China wishes to consume 64 billion pounds of soybeans and 12 thousand tons of rare earths. Show this point on a graph of the production possibilities. Is this possible without trade?</p>
+<p id="krugmanwellsessentials4e-ch2-p203" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Calculate the opportunity cost of rare earths and soybeans for both countries.</strong>
+<phrase block_type="step-subtext">Review pages 30&#8211;33.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch2-p204" block_type="wio-txt-ni">The production possibility frontiers for both countries are straight lines, which implies a constant opportunity cost of soybeans in terms of rare earths. The slope of China&#8217;s production possibility frontier is &#8722;&#188; (the slope is defined as the change in the <em>y</em>-variable&#8212;rare earths&#8212;divided by the change in the <em>x</em>-variable&#8212;soybeans&#8212;which in this case is &#8722;20/80 &#61; &#8722;&#188;), and the slope of the production possibility frontier for the United States is &#8722;1/10. Thus, the opportunity cost for China of producing 1 thousand tons of rare earths is 4 billion pounds of soybeans, and the opportunity cost for the United States of producing 1 thousand tons of rare earths is 10 billion pounds of soybeans. Likewise, the opportunity cost for China of producing 1 billion pounds of soybeans is &#188; of a thousand tons of rare earths (250 tons), and the opportunity cost for the United States of producing 1 billion pounds of soybeans is 1/10 of a thousand tons (100 tons) of rare earths.</p>
+<p id="krugmanwellsessentials4e_page_42" block_type="page_start">42</p>
+<p id="krugmanwellsessentials4e-ch2-p205" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Does China have a comparative advantage at producing soybeans?</strong>
+<phrase block_type="step-subtext">Review pages 30&#8211;33.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch2-p206" block_type="wio-txt-ni">A country has a comparative advantage in the production of a good if the opportunity cost of production is lower for that country than for another country. In this case, the opportunity cost of producing 1 billion pounds of soybeans is &#188; of a thousand tons of rare earths (250 tons) for China and 1/10 of a thousand tons (100 tons) of rare earths for the United States. Since 1/10 is less than &#188;, the United States, not China, has a comparative advantage in the production of soybeans.</p>
+<p id="krugmanwellsessentials4e-ch2-p207" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Suppose China wishes to consume 64 billion pounds of soybeans and 12 thousand tons of rare earths. Show this point on a graph of the production possibilities. Is this possible without trade?</strong>
+<phrase block_type="step-subtext">Review pages 30&#8211;33 and <link href="#krugmanwellsessentials4e_ch2-fig-7">Figure 2-5</link>.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch2-p208" block_type="wio-txt-ni">As shown on the graph, China&#8217;s consumption of 64 billion pounds of soybeans and 12 thousand tons of rare earths, demonstrated at point B, is outside the production possibility frontier without trade. If China consumed 64 billion pounds of soybeans, without trade, it could consume only 4 thousand tons of rare earths, shown at point A. Thus, without trade, this level of consumption of both goods would be impossible.</p>
+<figure id="krugmanwellsessentials4e-ch2-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch2-img-20" alt="image" src="images/KrugESS4e_2UN08.jpg"/>
+</figure>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-5" block_type="cr-que-t" title="" chapter="2" numbered="true" level="1" print_page="42">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch2-list-11" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch2-p209" block_type="sum-nl">Almost all economics is based on <strong>models,</strong> &#8220;thought experiments&#8221; or simplified versions of reality, many of which use mathematical tools such as graphs. An important assumption in economic models is the <strong>other things equal assumption,</strong> which allows analysis of the effect of a change in one factor by holding all other relevant factors unchanged.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p210" block_type="sum-nl">One important economic model is the <strong>production possibility frontier.</strong> It illustrates <em>opportunity cost</em> (showing how much less of one good can be produced if more of the other good is produced); <em>efficiency</em> (an economy is efficient in production if it produces on the production possibility frontier and efficient in allocation if it produces the mix of goods and services that people want to consume); and <em>economic growth</em> (an outward shift of the production possibility frontier). There are two basic sources of growth: an increase in <strong>factors of production&#8212;</strong>resources such as land, labor, capital, and human capital, inputs that are not used up in production&#8212;and improved <strong>technology.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p211" block_type="sum-nl">Another important model is <strong>comparative advantage,</strong> which explains the source of gains from trade between individuals and countries. Everyone has a comparative advantage in something&#8212;some good or service in which that person has a lower opportunity cost than everyone else. But it is often confused with <strong>absolute advantage,</strong> an ability to produce a particular good or service better than anyone else. This confusion leads some to erroneously conclude that there are no gains from trade between people or countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p212" block_type="sum-nl">In the simplest economies people <strong>barter&#8212;</strong>trade goods and services for one another&#8212;rather than trade them for money, as in a modern economy. The <strong>circular-flow diagram</strong> represents transactions within the economy as flows of goods, services, and money between <strong>households</strong> and <strong>firms.</strong> These transactions occur in <strong>markets for goods and services</strong> and <strong>factor markets,</strong> markets for <strong>factors of production&#8212;</strong>land, labor, physical capital, and human capital. It is useful in understanding how spending, production, employment, income, and growth are related in the economy. Ultimately, factor markets determine the economy&#8217;s <strong>income distribution,</strong> how an economy&#8217;s total income is allocated to the owners of the factors of production.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p213" block_type="sum-nl">Economists use economic models for both <strong>positive economics,</strong> which describes how the economy works, and for <strong>normative economics,</strong> which prescribes how the economy <em>should</em> work. Positive economics often involves making <strong>forecasts.</strong> Economists can determine correct answers for positive questions but typically not for normative questions, which involve value judgments. The exceptions are when policies designed to achieve a certain objective can be clearly ranked in terms of efficiency.</p>
+<p id="krugmanwellsessentials4e_page_43" block_type="page_start">43</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p214" block_type="sum-nl">There are two main reasons economists disagree. One, they may disagree about which simplifications to make in a model. Two, economists may disagree&#8212;like everyone else&#8212;about values.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-6" block_type="cr-kt-t" title="" chapter="2" numbered="true" level="1" print_page="43">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p215" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-21" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch2-p216" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p20">Model, p. 24</link></p>
+<p id="krugmanwellsessentials4e-ch2-p217" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p24">Other things equal assumption, p. 24</link></p>
+<p id="krugmanwellsessentials4e-ch2-p218" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p36">Production possibility frontier, p. 25</link></p>
+<p id="krugmanwellsessentials4e-ch2-p219" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p64">Factors of production, p. 29</link></p>
+<p id="krugmanwellsessentials4e-ch2-p220" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p68">Technology, p. 29</link></p>
+<p id="krugmanwellsessentials4e-ch2-p221" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p81">Comparative advantage, p. 32</link></p>
+<p id="krugmanwellsessentials4e-ch2-p222" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p89">Absolute advantage, p. 33</link></p>
+<p id="krugmanwellsessentials4e-ch2-p223" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p106">Barter, p. 34</link></p>
+<p id="krugmanwellsessentials4e-ch2-p224" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p108">Circular-flow diagram, p. 35</link></p>
+<p id="krugmanwellsessentials4e-ch2-p225" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p111">Household, p. 35</link></p>
+<p id="krugmanwellsessentials4e-ch2-p226" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p111">Firm, p. 35</link></p>
+<p id="krugmanwellsessentials4e-ch2-p227" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p113">Markets for goods and services, p. 35</link></p>
+<p id="krugmanwellsessentials4e-ch2-p228" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p115">Factor markets, p. 35</link></p>
+<p id="krugmanwellsessentials4e-ch2-p229" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p117">Income distribution, p. 36</link></p>
+<p id="krugmanwellsessentials4e-ch2-p230" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p156">Positive economics, p. 38</link></p>
+<p id="krugmanwellsessentials4e-ch2-p231" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p156">Normative economics, p. 38</link></p>
+<p id="krugmanwellsessentials4e-ch2-p232" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch2-p159">Forecast, p. 38</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-7" block_type="cr-que-t" title="" chapter="2" numbered="true" level="1" print_page="43">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch2-p233" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Two important industries on the island of Bermuda are fishing and tourism. According to data from the Food and Agriculture Organization of the United Nations and the Bermuda Department of Statistics, in 2009 the 306 registered fishermen in Bermuda caught 387 metric tons of marine fish. And the 2,719 people employed by hotels produced 554,400 hotel stays (measured by the number of visitor arrivals). Suppose that this production point is efficient in production. Assume also that the opportunity cost of 1 additional metric ton of fish is 2,000 hotel stays and that this opportunity cost is constant (the opportunity cost does not change).</p>
+<list id="krugmanwellsessentials4e-ch2-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p234" block_type="cr-que-ans-first">If all 306 registered fishermen were to be employed by hotels (in addition to the 2,719 people already working in hotels), how many hotel stays could Bermuda produce?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p235" block_type="cr-que-ans-mid">If all 2,719 hotel employees were to become fishermen (in addition to the 306 fishermen already working in the fishing industry), how many metric tons of fish could Bermuda produce?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p236" block_type="cr-que-ans-mid">Draw a production possibility frontier for Bermuda, with fish on the horizontal axis and hotel stays on the vertical axis, and label Bermuda&#8217;s actual production point for the year 2009.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch2-p237" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> According to data from the U.S. Department of Agriculture&#8217;s National Agricultural Statistics Service, 124 million acres of land in the United States were used for wheat or corn farming in a recent year. Of those 124 million acres, farmers used 50 million acres to grow 2.158 billion bushels of wheat and 74 million acres to grow 11.807 billion bushels of corn. Suppose that U.S. wheat and corn farming is efficient in production. At that production point, the opportunity cost of producing 1 additional bushel of wheat is 1.7 fewer bushels of corn. However, because farmers have increasing opportunity costs, additional bushels of wheat have an opportunity cost greater than 1.7 bushels of corn. For each of the following production points, decide whether that production point is (i) feasible and efficient in production, (ii) feasible but not efficient in production, (iii) not feasible, or (iv) unclear as to whether or not it is feasible.</p>
+<list id="krugmanwellsessentials4e-ch2-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p238" block_type="cr-que-ans-first">Farmers use 40 million acres of land to produce 1.8 billion bushels of wheat, and they use 60 million acres of land to produce 9 billion bushels of corn. The remaining 24 million acres are left unused.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p239" block_type="cr-que-ans-mid">From their original production point, farmers transfer 40 million acres of land from corn to wheat production. They now produce 3.158 billion bushels of wheat and 10.107 bushels of corn.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p240" block_type="cr-que-ans-mid">Farmers reduce their production of wheat to 2 billion bushels and increase their production of corn to 12.044 billion bushels. Along the production possibility frontier, the opportunity cost of going from 11.807 billion bushels of corn to 12.044 billion bushels of corn is 0.666 bushel of wheat per bushel of corn.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-3" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch2-p241" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> In the ancient country of Roma, only two goods, spaghetti and meatballs, are produced. There are two tribes in Roma, the Tivoli and the Frivoli. By themselves, the Tivoli each month can produce either 30 pounds of spaghetti and no meatballs, or 50 pounds of meatballs and no spaghetti, or any combination in between. The Frivoli, by themselves, each month can produce 40 pounds of spaghetti and no meatballs, or 30 pounds of meatballs and no spaghetti, or any combination in between.</p>
+<list id="krugmanwellsessentials4e-ch2-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p242" block_type="cr-que-ans-first">Assume that all production possibility frontiers are straight lines. Draw one diagram showing the monthly production possibility frontier for the Tivoli and another showing the monthly production possibility frontier for the Frivoli. Show how you calculated them.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p243" block_type="cr-que-ans-mid">Which tribe has the comparative advantage in spaghetti production? In meatball production?</p>
+<p id="krugmanwellsessentials4e-ch2-p244" block_type="cr-que-txt">In <phrase block_type="smallcaps">A.D</phrase>. 100 the Frivoli discover a new technique for making meatballs that doubles the quantity of meatballs they can produce each month.</p>
+<p id="krugmanwellsessentials4e_page_44" block_type="page_start">44</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p245" block_type="cr-que-ans-mid">Draw the new monthly production possibility frontier for the Frivoli.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p246" block_type="cr-que-ans-mid">After the innovation, which tribe now has an absolute advantage in producing meatballs? In producing spaghetti? Which has the comparative advantage in meatball production? In spaghetti production?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-4" block_type="q_cyu" number="4">
+<p id="krugmanwellsessentials4e-ch2-p247" block_type="cr-que-nl-first"><phrase block_type="qnum">4.</phrase> One July, the United States sold aircraft worth &#36;1 billion to China and bought aircraft worth only &#36;19,000 from China. During the same month, however, the United States bought &#36;83 million worth of men&#8217;s trousers, slacks, and jeans from China but sold only &#36;8,000 worth of trousers, slacks, and jeans to China. Using what you have learned about how trade is determined by comparative advantage, answer the following questions.</p>
+<list id="krugmanwellsessentials4e-ch2-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p248" block_type="cr-que-ans-first">Which country has the comparative advantage in aircraft production? In production of trousers, slacks, and jeans?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p249" block_type="cr-que-ans-mid">Can you determine which country has the absolute advantage in aircraft production? In production of trousers, slacks, and jeans?</p></li>
+</list></question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-5" block_type="q_cyu" number="5">
+<p id="krugmanwellsessentials4e-ch2-p250" block_type="cr-que-nl-first"><phrase block_type="qnum">5.</phrase> Peter Pundit, an economics reporter, states that the European Union (EU) is increasing its productivity very rapidly in all industries. He claims that this productivity advance is so rapid that output from the EU in these industries will soon exceed that of the United States and, as a result, the United States will no longer benefit from trade with the EU.</p>
+<list id="krugmanwellsessentials4e-ch2-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p251" block_type="cr-que-ans-first">Do you think Peter Pundit is correct or not? If not, what do you think is the source of his mistake?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p252" block_type="cr-que-ans-mid">If the EU and the United States continue to trade, what do you think will characterize the goods that the EU sells to the United States and the goods that the United States sells to the EU?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-6" block_type="q_cyu" number="6">
+<p id="krugmanwellsessentials4e-ch2-p253" block_type="cr-que-nl-first"><phrase block_type="qnum">6.</phrase> You are in charge of allocating residents to your dormitory&#8217;s baseball and basketball teams. You are down to the last four people, two of whom must be allocated to baseball and two to basketball. The accompanying table gives each person&#8217;s batting average and free-throw average.</p>
+<table id="krugmanwellsessentials4e-ch2-untab-1" block_type="un_table" data-href="#krugmanwellsessentials4e-ch2-untab-1" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Name</strong></td>
+<td class="tbl-lborder"><strong>Batting average</strong></td>
+<td class="tbl-lborder"><strong>Free-throw average</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Kelley</td>
+<td class="tbl-lborder">70&#37;</td>
+<td class="tbl-lborder">60&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Jackie</td>
+<td class="tbl-lborder">50&#37;</td>
+<td class="tbl-lborder">50&#37;</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Curt</td>
+<td class="tbl-lborder">10&#37;</td>
+<td class="tbl-lborder">30&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Gerry</td>
+<td class="tbl-lborder">80&#37;</td>
+<td class="tbl-lborder">70&#37;</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch2-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p254" block_type="cr-que-ans-first">Explain how you would use the concept of comparative advantage to allocate the players. Begin by establishing each player&#8217;s opportunity cost of free throws in terms of batting average.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p255" block_type="cr-que-ans-mid">Why is it likely that the other basketball players will be unhappy about this arrangement but the other baseball players will be satisfied? Nonetheless, why would an economist say that this is an efficient way to allocate players for your dormitory&#8217;s sports teams?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-7" block_type="q_cyu" number="7">
+<p id="krugmanwellsessentials4e-ch2-p256" block_type="cr-que-nl-first"><phrase block_type="qnum">7.</phrase> The inhabitants of the fictional economy of Atlantis use money in the form of cowry shells. Draw a circular-flow diagram showing households and firms. Firms produce potatoes and fish, and households buy potatoes and fish. Households also provide the land and labor to firms. Identify where in the flows of cowry shells or physical things (goods and services, or resources) each of the following impacts would occur. Describe how this impact spreads around the circle.</p>
+<list id="krugmanwellsessentials4e-ch2-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p257" block_type="cr-que-ans-first">A devastating hurricane floods many of the potato fields.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p258" block_type="cr-que-ans-mid">A very productive fishing season yields a very large number of fish caught.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p259" block_type="cr-que-ans-mid">The inhabitants of Atlantis discover Shakira and spend several days a month at dancing festivals.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-8" block_type="q_cyu" number="8">
+<p id="krugmanwellsessentials4e-ch2-p260" block_type="cr-que-nl-first"><phrase block_type="qnum">8.</phrase> An economist might say that colleges and universities &#8220;produce&#8221; education, using faculty members and students as inputs. According to this line of reasoning, education is then &#8220;consumed&#8221; by households. Construct a circular-flow diagram to represent the sector of the economy devoted to college education: colleges and universities represent firms, and households both consume education and provide faculty and students to universities. What are the relevant markets in this diagram? What is being bought and sold in each direction? What would happen in the diagram if the government decided to subsidize 50&#37; of all college students&#8217; tuition?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-9" block_type="q_cyu" number="9">
+<p id="krugmanwellsessentials4e-ch2-p261" block_type="cr-que-nl-first"><phrase block_type="qnum">9.</phrase> Your dormitory roommate plays loud music most of the time; you, however, would prefer more peace and quiet. You suggest that she buy some earphones. She responds that although she would be happy to use earphones, she has many other things that she would prefer to spend her money on right now. You discuss this situation with a friend who is an economics major. The following exchange takes place:</p>
+<p id="krugmanwellsessentials4e-ch2-p262" block_type="sum-mcl"><em>He: How much would it cost to buy earphones?</em></p>
+<p id="krugmanwellsessentials4e-ch2-p263" block_type="sum-mcl"><em>You: &#36;15.</em></p>
+<p id="krugmanwellsessentials4e-ch2-p264" block_type="sum-mcl"><em>He: How much do you value having some peace and quiet for the rest of the semester?</em></p>
+<p id="krugmanwellsessentials4e-ch2-p265" block_type="sum-mcl"><em>You: &#36;30.</em></p>
+<p id="krugmanwellsessentials4e-ch2-p266" block_type="sum-mcl"><em>He: It is efficient for you to buy the earphones and give them to your roommate. You gain more than you lose; the benefit exceeds the cost. You should do that.</em></p>
+<p id="krugmanwellsessentials4e-ch2-p267" block_type="sum-mcl"><em>You: It just isn&#8217;t fair that I have to pay for the earphones when I&#8217;m not the one making the noise.</em></p>
+<list id="krugmanwellsessentials4e-ch2-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p268" block_type="cr-que-ans-first">Which parts of this conversation contain positive statements and which parts contain normative statements?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p269" block_type="cr-que-ans-mid">Construct an argument supporting your viewpoint that your roommate should be the one to change her behavior. Similarly, construct an argument from the viewpoint of your roommate that you should be the one to buy the earphones. If your dormitory has a policy that gives residents the unlimited right to play music, whose argument is likely to win? If your dormitory has a rule that a person must stop playing music whenever a roommate complains, whose argument is likely to win?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_45" block_type="page_start">45</p>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-10" block_type="q_cyu" number="10">
+<p id="krugmanwellsessentials4e-ch2-p270" block_type="cr-que-nl-first"><phrase block_type="qnum">10.</phrase> A representative of the American clothing industry recently made the following statement: &#8220;Workers in Asia often work in sweatshop conditions earning only pennies an hour. American workers are more productive and as a result earn higher wages. In order to preserve the dignity of the American workplace, the government should enact legislation banning imports of low-wage Asian clothing.&#8221;</p>
+<list id="krugmanwellsessentials4e-ch2-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p271" block_type="cr-que-ans-first">Which parts of this quote are positive statements? Which parts are normative statements?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p272" block_type="cr-que-ans-mid">Is the policy that is being advocated consistent with the preceding statements about the wages and productivities of American and Asian workers?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p273" block_type="cr-que-ans-mid">Would such a policy make some Americans better off without making any other Americans worse off? That is, would this policy be efficient from the viewpoint of all Americans?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p274" block_type="cr-que-ans-mid">Would low-wage Asian workers benefit from or be hurt by such a policy?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-11" block_type="q_cyu" number="11">
+<p id="krugmanwellsessentials4e-ch2-p275" block_type="cr-que-nl-first"><phrase block_type="qnum">11.</phrase> Are the following statements true or false? Explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch2-list-21" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p276" block_type="cr-que-ans-first">&#8220;When people must pay higher taxes on their wage earnings, it reduces their incentive to work&#8221; is a positive statement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p277" block_type="cr-que-ans-mid">&#8220;We should lower taxes to encourage more work&#8221; is a positive statement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p278" block_type="cr-que-ans-mid">Economics cannot always be used to completely decide what society ought to do.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p279" block_type="cr-que-ans-mid">&#8220;The system of public education in this country generates greater benefits to society than the cost of running the system&#8221; is a normative statement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p280" block_type="cr-que-ans-mid">All disagreements among economists are generated by the media.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-12" block_type="q_cyu" number="12">
+<p id="krugmanwellsessentials4e-ch2-p281" block_type="cr-que-nl-first"><phrase block_type="qnum">12.</phrase> Evaluate the following statement: &#8220;It is easier to build an economic model that accurately reflects events that have already occurred than to build an economic model to forecast future events.&#8221; Do you think this is true or not? Why? What does this imply about the difficulties of building good economic models?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-13" block_type="q_cyu" number="13">
+<p id="krugmanwellsessentials4e-ch2-p282" block_type="cr-que-nl-first"><phrase block_type="qnum">13.</phrase> Economists who work for the government are often called on to make policy recommendations. Why do you think it is important for the public to be able to differentiate normative statements from positive statements in these recommendations?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-14" block_type="q_cyu" number="14">
+<p id="krugmanwellsessentials4e-ch2-p283" block_type="cr-que-nl-first"><phrase block_type="qnum">14.</phrase> The mayor of Gotham City, worried about a potential epidemic of deadly influenza this winter, asks an economic adviser the following series of questions. Determine whether a question requires the economic adviser to make a positive assessment or a normative assessment.</p>
+<list id="krugmanwellsessentials4e-ch2-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p284" block_type="cr-que-ans-first">How much vaccine will be in stock in the city by the end of November?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p285" block_type="cr-que-ans-mid">If we offer to pay 10&#37; more per dose to the pharmaceutical companies providing the vaccines, will they provide additional doses?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p286" block_type="cr-que-ans-mid">If there is a shortage of vaccine in the city, whom should we vaccinate first&#8212;the elderly or the very young? (Assume that a person from one group has an equal likelihood of dying from influenza as a person from the other group.)</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p287" block_type="cr-que-ans-mid">If the city charges &#36;25 per shot, how many people will pay?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p288" block_type="cr-que-ans-mid">If the city charges &#36;25 per shot, it will make a profit of &#36;10 per shot, money that can go to pay for inoculating poor people. Should the city engage in such a scheme?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-15" block_type="q_cyu" number="15">
+<p id="krugmanwellsessentials4e-ch2-p289" block_type="cr-que-nl-first"><phrase block_type="qnum">15.</phrase> Assess the following statement: &#8220;If economists just had enough data, they could solve all policy questions in a way that maximizes the social good. There would be no need for divisive political debates, such as whether the government should provide free medical care for all.&#8221;</p>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch2-sec1-8" block_type="sum-h" title="" chapter="2" numbered="true" level="1" print_page="45">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch2-p290" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-16" block_type="q_cyu" number="16">
+<p id="krugmanwellsessentials4e-ch2-p291" block_type="cr-que-nl-first"><phrase block_type="qnum">16.</phrase> Atlantis is a small, isolated island in the South Atlantic. The inhabitants grow potatoes and catch fish. The following table shows the maximum annual output combinations of potatoes and fish that can be produced. Obviously, given their limited resources and available technology, as they use more of their resources for potato production, there are fewer resources available for catching fish.</p>
+<table id="krugmanwellsessentials4e-ch2-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch2-untab-2" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Maximum annual output options</strong></td>
+<td class="tbl-rborder"><strong>Quantity of potatoes (pounds)</strong></td>
+<td><strong>Quantity of fish (pounds)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">A</td>
+<td class="tbl-rborder">1,000</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">B</td>
+<td class="tbl-rborder">800</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">C</td>
+<td class="tbl-rborder">600</td>
+<td>500</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">D</td>
+<td class="tbl-rborder">400</td>
+<td>600</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">E</td>
+<td class="tbl-rborder">200</td>
+<td>650</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">F</td>
+<td class="tbl-rborder">0</td>
+<td>675</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch2-list-23" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch2-p292" block_type="cr-wio-ans-first">Draw a production possibility frontier with potatoes on the horizontal axis and fish on the vertical axis illustrating these options, showing points <em>A&#8211;F.</em></p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p293" block_type="cr-wio-ans-mid">Can Atlantis produce 500 pounds of fish and 800 pounds of potatoes? Explain. Where would this point lie relative to the production possibility frontier?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p294" block_type="cr-wio-ans-mid">What is the opportunity cost of increasing the annual output of potatoes from 600 to 800 pounds?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p295" block_type="cr-wio-ans-mid">What is the opportunity cost of increasing the annual output of potatoes from 200 to 400 pounds?</p></li>
+<li><p id="krugmanwellsessentials4e-ch2-p296" block_type="cr-wio-ans-mid">Can you explain why the answers to parts c and d are not the same? What does this imply about the slope of the production possibility frontier?</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_46" block_type="page_start">46</p>
+</question>
+</section>
+</chapter>
+</manuscript>

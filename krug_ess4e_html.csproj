@@ -288,7 +288,11 @@
     <Content Include="krug_ess4e\html\mapping.txt" />
     <Content Include="krug_ess4e\keyterms\kt_ch3.js" />
     <Content Include="krug_ess4e\toc\krugmanwellsessentials4e.xml" />
+    <Content Include="krug_ess4e\xml\0_ch1_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch2_handedit.xml" />
     <Content Include="krug_ess4e\xml\0_ch3_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch4_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch5_handedit.xml" />
     <Content Include="krug_ess4e\xml\solution\krugmanwellsessentials4e-ch03-solution.xml" />
     <Content Include="krug_ess4e\xml\source\03_21_16\krugmanwellsessentials4e-ch03-solution.xml" />
     <Content Include="krug_ess4e\xml\source\03_21_16\krugmanwellsessentials4e-ch03_3_21.xml" />

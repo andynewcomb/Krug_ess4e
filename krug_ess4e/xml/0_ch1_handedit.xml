@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="01" name="" title="KRU_Chapter_01_SOL_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="1" id="krugmanwellsessentials4e-ch1-chapter-1" title="CHAPTER 1: First Principles" start-numbering-at="1" numbered="true">
+<section id="krugmanwellsessentials4e-ch1-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="1">
+<p id="krugmanwellsessentials4e_page_1" block_type="page_start">1</p>
+<p id="krugmanwellsessentials4e-ch1-p1" block_type="chapter_title">First Principles</p>
+<p id="krugmanwellsessentials4e-ch1-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">1</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch1-p3" block_type="co-t"><strong>COMMON GROUND</strong></p>
+<figure id="krugmanwellsessentials4e-ch1-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-2" alt="image" src="images/KrugESS4e_CO1.jpg"/>
+<caption>One must choose.</caption>
+<asset_source>Audrey Rudakov/Bloomberg via Getty Images</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch1-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch1-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch1-1" block_type="obj-bl">A set of definitions relating to <strong>economics</strong> and the <strong>economy</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-2" block_type="obj-bl">A set of principles for understanding the economics of how individuals make choices</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-3" block_type="obj-bl">A set of principles for understanding how economies work through the interaction of <strong>individual choices</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-4" block_type="obj-bl">A set of principles for understanding economy-wide interactions</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch1-p5" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p6" block_type="co-txt-ni"><phrase block_type="dropcap">T</phrase>HE ANNUAL MEETING OF THE American Economic Association draws thousands of economists, young and old, famous and obscure. There are booksellers, business meetings, and quite a few job interviews. But mainly the economists gather to talk and listen. During the busiest times, 60 or more presentations may be taking place simultaneously, on questions that range from financial market crises to who does the cooking in two-earner families.</p>
+<p id="krugmanwellsessentials4e-ch1-p7" block_type="co-txt">What do these people have in common? An expert on financial markets probably knows very little about the economics of housework, and vice versa. Yet an economist who wanders into the wrong seminar and ends up listening to presentations on some unfamiliar topic is nonetheless likely to hear much that is familiar. The reason is that all economic analysis is based on a set of common principles that apply to many different issues.</p>
+<p id="krugmanwellsessentials4e-ch1-p8" block_type="co-txt">Some of these principles involve <em>individual choice</em>&#8212;for economics is, first of all, about the choices that individuals make. Do you save your money and take the bus or do you buy a car? Do you keep your old smartphone or upgrade to a new one? These decisions involve <em>making a choice</em> from among a limited number of alternatives&#8212;limited because no one can have everything that he or she wants. Every question in economics at its most basic level involves individuals making choices.</p>
+<p id="krugmanwellsessentials4e-ch1-p9" block_type="co-txt">But to understand how an <em>economy</em> works, you need to understand more than how individuals make choices. None of us are Robinson Crusoe, alone on an island. We must make decisions in an environment that is shaped by the decisions of others. Indeed, in a modern economy even the simplest decisions you make&#8212;say, what to have for breakfast&#8212;are shaped by the decisions of thousands of other people, from the banana grower in Costa Rica who decided to grow the fruit you eat to the farmer in Iowa who provided the corn in your cornflakes.</p>
+<p id="krugmanwellsessentials4e-ch1-p10" block_type="co-txt">Because each of us in a <em>market economy</em> depends on so many others&#8212;and they, in turn, depend on us&#8212;our choices interact. So although all economics at a basic level is about individual choice, in order to understand how market economies behave we must also understand <em>economic interaction</em>&#8212;how my choices affect your choices, and vice versa.</p>
+<p id="krugmanwellsessentials4e-ch1-p11" block_type="co-txt">Many important economic interactions can be understood by looking at the markets for individual goods, like the market for corn. But an economy as a whole has ups and downs, and we therefore need to understand economy-wide interactions as well as the more limited interactions that occur in individual markets.</p>
+<p id="krugmanwellsessentials4e-ch1-p12" block_type="co-txt">Through the study of economics, we will discover common principles about individual choice and interaction. In this first section, we define key terms in economics. We then look in detail at twelve basic principles of economics&#8212;four principles involving individual choice, five involving the way individual choices interact, and three more involving economy-wide interactions.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-1" block_type="h1" title="" chapter="1" numbered="true" level="1" print_page="2">
+<section-metadata><section-title>The Ordinary Business of Life</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p13" block_type="txt-ni">Imagine that you could transport an American from the colonial period forward in time to our own era. (Isn&#8217;t that the plot of a movie? Several, actually.) What would this time-traveler find amazing?</p>
+<p id="krugmanwellsessentials4e_page_2" block_type="page_start">2</p>
+<p id="krugmanwellsessentials4e-ch1-p14" block_type="txt">Surely the most amazing thing would be the sheer prosperity of modern America&#8212;the range of goods and services that ordinary families can afford. Looking at all that wealth, our transplanted colonial would wonder, &#8220;How can I get some of that?&#8221; Or perhaps he would ask himself, &#8220;How can my society get some of that?&#8221;</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p15" block_type="mn-gl-def">An <strong>economy</strong> is a system for coordinating society&#8217;s productive activities.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p16" block_type="mn-gl-def"><strong>Economics</strong> is the social science that studies the production, distribution, and consumption of goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p17" block_type="txt">The answer is that to get this kind of prosperity, you need a well-functioning system for coordinating productive activities&#8212;the activities that create the goods and services people want and get them to the people who want them. That kind of system is what we mean when we talk about the <strong>economy.</strong> And <strong>economics</strong> is the social science that studies the production, distribution, and consumption of goods and services. As the great nineteenth-century economist Alfred Marshall put it, economics is &#8220;a study of mankind in the ordinary business of life.&#8221;</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p18" block_type="mn-gl-def">A <strong>market economy</strong> is an economy in which decisions about production and consumption are made by individual producers and consumers.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p19" block_type="txt">An economy succeeds to the extent that it, literally, delivers the goods. A time-traveler from the eighteenth century&#8212;or even from 1950&#8212;would be amazed at how many goods and services the modern American economy delivers and at how many people can afford them. Compared with any past economy and with all but a few other countries today, America has an incredibly high standard of living.</p>
+<p id="krugmanwellsessentials4e-ch1-p20" block_type="txt">So our economy must be doing something right, and the time-traveler might want to compliment the person in charge. But guess what? There isn&#8217;t anyone in charge. The United States has a <strong>market economy,</strong> in which production and consumption are the result of decentralized decisions by many firms and individuals. There is no central authority telling people what to produce or where to ship it. Each individual producer makes what he or she thinks will be most profitable; each consumer buys what he or she chooses.</p>
+<p id="krugmanwellsessentials4e-ch1-p21" block_type="txt">The alternative to a market economy is a <em>command economy,</em> in which there <em>is</em> a central authority making decisions about production and consumption. Command economies have been tried, most notably in the former Soviet Union between 1917 and 1991. But they didn&#8217;t work very well. Producers in the Soviet Union routinely found themselves unable to produce because they did not have crucial raw materials, or they succeeded in producing but then found that nobody wanted their products. Consumers were often unable to find necessary items&#8212;command economies are famous for long lines at shops.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-2" alt="image" src="images/KrugESS4e_1UN01.jpg"/>
+<caption>Delivering the goods: the market economy in action.</caption>
+<asset_source>flickr Editorial/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p22" block_type="txt">Market economies, however, are able to coordinate even highly complex activities and to reliably provide consumers with the goods and services they want. Indeed, people quite casually trust their lives to the market system: residents of any major city would starve in days if the unplanned yet somehow orderly actions of thousands of businesses did not deliver a steady supply of food. Surprisingly, the unplanned &#8220;chaos&#8221; of a market economy turns out to be far more orderly than the &#8220;planning&#8221; of a command economy.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p23" block_type="mn-gl-def">The <strong>invisible hand</strong> refers to the way in which the individual pursuit of self-interest can lead to good results for society as a whole.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p24" block_type="txt">In 1776, in a famous passage in his book <em>The Wealth of Nations,</em> the pioneering Scottish economist Adam Smith wrote about how individuals, in pursuing their own interests, often end up serving the interests of society as a whole. Of a businessman whose pursuit of profit makes the nation wealthier, Smith wrote: &#8220;[H]e intends only his own gain, and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention.&#8221; Ever since, economists have used the term <strong>invisible hand</strong> to refer to the way a market economy manages to harness the power of self-interest for the good of society.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p25" block_type="mn-gl-def"><strong>Microeconomics</strong> is the branch of economics that studies how people make decisions and how these decisions interact.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p26" block_type="txt">The study of how individuals make decisions and how these decisions interact is called <strong>microeconomics.</strong> One of the key themes in microeconomics is the validity of Adam Smith&#8217;s insight: individuals pursuing their own interests often do promote the interests of society as a whole.</p>
+<p id="krugmanwellsessentials4e_page_3" block_type="page_start">3</p>
+<p id="krugmanwellsessentials4e-ch1-p27" block_type="txt">So part of the answer to our time-traveler&#8217;s question&#8212;&#8220;How can my society achieve the kind of prosperity you take for granted?&#8221;&#8212;is that his society should learn to appreciate the virtues of a market economy and the power of the invisible hand.</p>
+<p id="krugmanwellsessentials4e-ch1-p28" block_type="txt">But the invisible hand isn&#8217;t always our friend. It&#8217;s also important to understand when and why the individual pursuit of self-interest can lead to counterproductive behavior.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-1" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="3">
+<section-metadata><section-title>My Benefit, Your Cost</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p29" block_type="txt-ni">One thing that our time-traveler would not admire about modern life is the traffic. In fact, although most things have gotten better in America over time, traffic congestion has gotten a lot worse.</p>
+<p id="krugmanwellsessentials4e-ch1-p30" block_type="txt">When traffic is congested, each driver is imposing a cost on all the other drivers on the road&#8212;he is literally getting in their way (and they are getting in his way). This cost can be substantial: in major metropolitan areas, each time someone drives to work, instead of taking public transportation or working at home, he can easily impose &#36;15 or more in hidden costs on other drivers. Yet when deciding whether or not to drive, commuters have no incentive to take the costs they impose on others into account.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p31" block_type="mn-gl-def">When the individual pursuit of self-interest leads to bad results for society as a whole, there is <strong>market failure.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p32" block_type="txt">Traffic congestion is a familiar example of a much broader problem: sometimes the individual pursuit of one&#8217;s own interest, instead of promoting the interests of society as a whole, can actually make society worse off. When this happens, it is known as <strong>market failure.</strong> Other important examples of market failure involve air and water pollution as well as the overexploitation of natural resources such as fish and forests.</p>
+<p id="krugmanwellsessentials4e-ch1-p33" block_type="txt">The good news, as you will learn as you use this book to study microeconomics, is that economic analysis can be used to diagnose cases of market failure. And often, economic analysis can also be used to devise solutions for the problem.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-2" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="3">
+<section-metadata><section-title>Good Times, Bad Times</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p34" block_type="txt-ni">Normally our time-traveler would find shopping malls crowded with happy customers. But during the fall of 2008, stores across America became unusually quiet. The U.S. economy was depressed, and businesses were laying off workers in large numbers. </p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p35" block_type="mn-gl-def">A <strong>recession</strong> is a downturn in the economy.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p36" block_type="txt">Such troubled periods are a regular feature of modern economies. The fact is that the economy does not always run smoothly: it experiences fluctuations, a series of ups and downs. By middle age, a typical American will have experienced three or four downs, known as <strong>recessions.</strong> (The U.S. economy experienced serious recessions beginning in 1973, 1981, 1990, 2001, and 2007.) During a severe recession, millions of workers may be laid off.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p37" block_type="mn-gl-def"><strong>Macroeconomics</strong> is the branch of economics that is concerned with overall ups and downs in the economy.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p38" block_type="txt">Like market failure, recessions are a fact of life; but also like market failure, they are a problem for which economic analysis offers some solutions. Recessions are one of the main concerns of the branch of economics known as <strong>macroeconomics,</strong> which is concerned with the overall ups and downs of the economy. If you study macroeconomics, you will learn how economists explain recessions and how government policies can be used to minimize the damage from economic fluctuations.</p>
+<p id="krugmanwellsessentials4e-ch1-p39" block_type="txt">Despite the occasional recession, however, over the long run the story of the U.S. economy contains many more ups than downs.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-3" alt="image" src="images/KrugESS4e_1UN02.jpg"/>
+<caption>&#8220;Remember, an economic boom is usually followed by an economic kaboom.&#8221;</caption>
+<asset_source>&#169; Dave Carpenter/Cartoonstock</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-3" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="4">
+<section-metadata><section-title>Onward and Upward</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p40" block_type="txt-ni">At the beginning of the twentieth century, most Americans lived under conditions that we would now think of as extreme poverty. Only 10&#37; of homes had flush toilets, only 8&#37; had central heating, only 2&#37; had electricity, and almost nobody had a car, let alone a washing machine or air conditioning.</p>
+<p id="krugmanwellsessentials4e_page_4" block_type="page_start">4</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p41" block_type="mn-gl-def"><strong>Economic growth</strong> is the growing ability of the economy to produce goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p42" block_type="txt">Such comparisons are a stark reminder of how much our lives have been changed by <strong>economic growth,</strong> the growing ability of the economy to produce goods and services. Why does the economy grow over time? And why does economic growth occur faster in some times and places than in others? These are key questions for economics because economic growth is a good thing, and most of us want more of it.</p>
+<p id="krugmanwellsessentials4e-ch1-p43" block_type="txt">The &#8220;ordinary business of life&#8221; is really quite extraordinary, if you stop to think about it, and it can lead us to ask some very interesting and important questions.</p>
+<p id="krugmanwellsessentials4e-ch1-p44" block_type="txt">In this book, we will describe the answers economists have given to these questions. But this book, like economics as a whole, isn&#8217;t a list of answers: it&#8217;s an introduction to a discipline, a way to address questions like those we have just asked. Or as Alfred Marshall put it: &#8220;Economics . . . is not a body of concrete truth, but an engine for the discovery of concrete truth.&#8221; </p>
+<p id="krugmanwellsessentials4e-ch1-p45" block_type="txt">So let&#8217;s turn the key and start the ignition.</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch1-bx1-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch1-list-2" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch1-li-5" block_type="sr1-bl"><strong>Economics</strong> is the study of the production, distribution, and consumption of goods and services and how the <strong>economy</strong> coordinates these activities. In a <strong>market economy,</strong> the <strong>invisible hand</strong> works through individuals pursuing their own self-interest.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-6" block_type="sr1-bl"><strong>Microeconomics</strong> is the study of how individuals make decisions and how these decisions interact, which sometimes leads to <strong>market failure. Macroeconomics</strong> is concerned with economic fluctuations, such as <strong>recessions,</strong> that can temporarily slow <strong>economic growth.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">1-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch1-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch1-p46" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following statements describe features of a market economy?</p>
+<list id="krugmanwellsessentials4e-ch1-list-1" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-8" block_type="sr2-nl-lvl2">The invisible hand harnesses the power of self-interest for the good of society.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-9" block_type="sr2-nl-lvl2">A central authority makes decisions about production and consumption.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-10" block_type="sr2-nl-lvl2">The pursuit of one&#8217;s own self-interest sometimes results in market failure.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-11" block_type="sr2-nl-lvl2">Growth in a market economy is steady and without fluctuations. </p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch1-p47" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-2" block_type="h1" title="" chapter="1" numbered="true" level="1" print_page="4">
+<section-metadata><section-title>Principles That Underlie Individual Choice: The Core of Economics</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p48" block_type="mn-gl-def"><strong>Individual choice</strong> is the decision by an individual of what to do, which necessarily involves a decision of what not to do.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p49" block_type="txt-ni">Every economic issue involves, at its most basic level, <strong>individual choice&#8212;</strong>decisions by an individual about what to do and what not to do. In fact, you might say that it isn&#8217;t economics if it isn&#8217;t about choice.</p>
+<p id="krugmanwellsessentials4e-ch1-p50" block_type="txt">Step into a big store like a Walmart or Target. There are thousands of different products available, and it is extremely unlikely that you&#8212;or anyone else&#8212;could afford to buy everything you might want to have. And anyway, there&#8217;s only so much space in your dorm room or apartment. So will you buy another bookcase or a mini-refrigerator? Given limitations on your budget and your living space, you must choose which products to buy and which to leave on the shelf.</p>
+<p id="krugmanwellsessentials4e-ch1-p51" block_type="txt">The fact that those products are on the shelf in the first place involves choice&#8212;the store manager chose to put them there, and the manufacturers of the products chose to produce them. All economic activities involve individual choice.</p>
+<p id="krugmanwellsessentials4e-ch1-p52" block_type="txt">Four economic principles underlie the economics of individual choice, as shown in <link href="#krugmanwellsessentials4e-ch1-tab-1">Table 1-1</link>. We&#8217;ll now examine each of these principles in more detail.</p>
+<table id="krugmanwellsessentials4e-ch1-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch1-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">1-1</phrase></strong> <phrase block_type="tbl_title">The Principles of Individual Choice</phrase></table_caption>
+<tbody>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1a" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p52a" block_type="nl">People must make choices because resources are scarce.</p></li>
+</list>
+</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1b" type="ordered" start="2" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">The opportunity cost of an item&#8212;what you must give up in order to get it&#8212;is its true cost.</p></li>
+</list>
+</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1c" type="ordered" start="3" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p52c" block_type="nl">&#8220;How much&#8221; decisions require making trade-offs at the margin: comparing the costs and benefits of doing a little bit more of an activity versus doing a little bit less.</p></li>
+</list>
+</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1d" type="ordered" start="4" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">People usually respond to incentives, exploiting opportunities to make themselves better off.</p></li>
+</list>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-4" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="4">
+<section-metadata><section-title>Principle #1: Choices Are Necessary Because Resources Are Scarce</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p53" block_type="txt-ni">You can&#8217;t always get what you want. Everyone would like to have a beautiful house in a great location (and have help with the housecleaning), a new car or two, and a nice vacation in a fancy hotel. But even in a rich country like the United States, not many families can afford all that. So they must make choices&#8212;whether to go to Disney World this year or buy a better car, whether to make do with a small backyard or accept a longer commute in order to live where land is cheaper.</p>
+<p id="krugmanwellsessentials4e_page_5" block_type="page_start">5</p>
+<p id="krugmanwellsessentials4e-ch1-p54" block_type="txt">Limited income isn&#8217;t the only thing that keeps people from having everything they want. Time is also in limited supply: there are only 24 hours in a day. And because the time we have is limited, choosing to spend time on one activity also means choosing not to spend time on a different activity&#8212;studying for an exam means forgoing a night spent watching a movie. Indeed, many people are so limited by the number of hours in the day that they are willing to trade money for time. For example, convenience stores normally charge higher prices than a regular supermarket. But they fulfill a valuable role by catering to time-pressured customers who would rather pay more than travel farther to the supermarket.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-4" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-4" alt="image" src="images/KrugESS4e_1UN03.jpg"/>
+<caption>Resources are scarce.</caption>
+<asset_source>Ben Heys/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p55" block_type="txt">This leads us to our first principle of individual choice:</p>
+<p id="krugmanwellsessentials4e-ch1-p56" block_type="ext-b-i"><strong><em>People must make choices because resources are scarce.</em></strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p57" block_type="mn-gl-def">A <strong>resource</strong> is anything that can be used to produce something else.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p58" block_type="mn-gl-def">Resources are <strong>scarce&#8212;</strong>not enough of the resources are available to satisfy all the various ways a society wants to use them.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p59" block_type="txt">A <strong>resource</strong> is anything that can be used to produce something else. Lists of the economy&#8217;s resources usually begin with land, labor (the time of workers), capital (machinery, buildings, and other man-made productive assets), and human capital (the educational achievements and skills of workers). A resource is <strong>scarce</strong> when there&#8217;s not enough of the resource available to satisfy all the ways a society wants to use it. </p>
+<p id="krugmanwellsessentials4e-ch1-p60" block_type="txt">There are many scarce resources. These include natural resources that come from the physical environment, such as minerals, lumber, and petroleum. There is also a limited quantity of human resources such as labor, skill, and intelligence. And in a growing world economy with a rapidly increasing human population, even clean air and water have become scarce resources.</p>
+<p id="krugmanwellsessentials4e-ch1-p61" block_type="txt">Just as individuals must make choices, the scarcity of resources means that society as a whole must make choices. One way a society makes choices is by allowing them to emerge as the result of many individual choices, which is what usually happens in a market economy. For example, Americans as a group have only so many hours in a week: how many of those hours will they spend going to supermarkets to get lower prices, rather than saving time by shopping at convenience stores? The answer is the sum of individual decisions: each of the millions of individuals in the economy makes his or her own choice about where to shop, and the overall choice is simply the sum of those individual decisions.</p>
+<p id="krugmanwellsessentials4e-ch1-p62" block_type="txt">But for various reasons, there are some decisions that a society decides are best not left to individual choice. For example, the authors live in an area that until recently was mainly farmland but is now being rapidly built up. Most local residents feel that the community would be a more pleasant place to live if some of the land was left undeveloped. But no individual has an incentive to keep his or her land as open space, rather than sell it to a developer. So a trend has emerged in many communities across the United States of local governments purchasing undeveloped land and preserving it as open space. </p>
+<p id="krugmanwellsessentials4e-ch1-p63" block_type="txt">We&#8217;ll see in later chapters why decisions about how to use scarce resources are often best left to individuals but sometimes should be made at a higher, community-wide, level.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-5" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="5">
+<section-metadata><section-title>Principle #2: The True Cost of Something Is Its Opportunity Cost</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p64" block_type="txt-ni">It is the last term before you graduate, and your class schedule allows you to take only one elective. There are two, however, that you would really like to take: Intro to Computer Graphics and History of Jazz.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p65" block_type="mn-gl-def">The real cost of an item is its <strong>opportunity cost:</strong> what you must give up in order to get it.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p66" block_type="txt">Suppose you decide to take the History of Jazz course. What&#8217;s the cost of that decision? It is the fact that you can&#8217;t take the computer graphics class, your next best alternative choice. Economists call that kind of cost&#8212;what you must give up in order to get an item you want&#8212;the <strong>opportunity cost</strong> of that item. This leads us to our second principle of individual choice:</p>
+<p id="krugmanwellsessentials4e-ch1-p67" block_type="ext-b-i"><strong><em>The opportunity cost of an item&#8212;what you must give up in order to get it&#8212;is its true cost.</em> </strong></p>
+<p id="krugmanwellsessentials4e_page_6" block_type="page_start">6</p>
+<p id="krugmanwellsessentials4e-ch1-p68" block_type="txt-ni">So the opportunity cost of taking the History of Jazz class is the benefit you would have derived from the Intro to Computer Graphics class.</p>
+<p id="krugmanwellsessentials4e-ch1-p69" block_type="txt">The concept of opportunity cost is crucial to understanding individual choice because, in the end, all costs are opportunity costs. That&#8217;s because every choice you make means forgoing some other alternative. </p>
+<p id="krugmanwellsessentials4e-ch1-p70" block_type="txt">Sometimes critics claim that economists are concerned only with costs and benefits that can be measured in dollars and cents. But that is not true. Much economic analysis involves cases like our elective course example, where it costs no extra tuition to take one elective course&#8212;that is, there is no direct monetary cost. Nonetheless, the elective you choose has an opportunity cost&#8212;the other desirable elective course that you must forgo because your limited time permits taking only one. More specifically, the opportunity cost of a choice is what you forgo by not choosing your next best alternative.</p>
+<p id="krugmanwellsessentials4e-ch1-p71" block_type="txt">You might think that opportunity cost is an add-on&#8212;that is, something <em>additional</em> to the monetary cost of an item. Suppose that an elective class costs additional tuition of &#36;750; now there is a monetary cost to taking History of Jazz. Is the opportunity cost of taking that course something separate from that monetary cost?</p>
+<p id="krugmanwellsessentials4e-ch1-p72" block_type="txt">Well, consider two cases. First, suppose that taking Intro to Computer Graphics also costs &#36;750. In this case, you would have to spend that &#36;750 no matter which class you take. So what you give up to take the History of Jazz class is still the computer graphics class, period&#8212;you would have to spend that &#36;750 either way. But suppose there isn&#8217;t any fee for the computer graphics class. In that case, what you give up to take the jazz class is the benefit from the computer graphics class <em>plus</em> the benefit you could have gained from spending the &#36;750 on other things.</p>
+<p id="krugmanwellsessentials4e-ch1-p73" block_type="txt">Either way, the real cost of taking your preferred class is what you must give up to get it. As you expand the set of decisions that underlie each choice&#8212;whether to take an elective or not, whether to finish this term or not, whether to drop out or not&#8212;you&#8217;ll realize that all costs are ultimately opportunity costs.</p>
+<p id="krugmanwellsessentials4e-ch1-p74" block_type="txt">Sometimes the money you have to pay for something is a good indication of its opportunity cost. But many times it is not. One very important example of how poorly monetary cost can indicate opportunity cost is the cost of attending college. Tuition and housing are major monetary expenses for most students; but even if these things were free, attending college would still be an expensive proposition because most college students, if they were not in college, would have a job. That is, by going to college, students <em>forgo</em> the income they could have earned if they had worked instead. This means that the opportunity cost of attending college is what you pay for tuition and housing plus the forgone income you would have earned in a job.</p>
+<p id="krugmanwellsessentials4e-ch1-p75" block_type="txt">It&#8217;s easy to see that the opportunity cost of going to college is especially high for people who could be earning a lot during what would otherwise have been their college years. That is why star athletes like LeBron James and entrepreneurs like Mark Zuckerberg, founder of Facebook, often skip or drop out of college.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-5" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-5" alt="image" src="images/KrugESS4e_1UN04.jpg"/>
+<caption>Mark Zuckerburg understood the concept of opportunity cost.</caption>
+<asset_source>AP Photo/Paul Sakuma, File</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-6" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="6">
+<section-metadata><section-title>Principle #3: &#8220;How Much&#8221; Is a Decision at the Margin</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p76" block_type="txt-ni">Some important decisions involve an &#8220;either&#8211;or&#8221; choice&#8212;for example, you decide either to go to college or to begin working; you decide either to take economics or to take something else. But other important decisions involve &#8220;how much&#8221; choices&#8212;for example, if you are taking both economics and chemistry this semester, you must decide how much time to spend studying for each. When it comes to understanding &#8220;how much&#8221; decisions, economics has an important insight to offer: &#8220;how much&#8221; is a decision made at the margin.</p>
+<p id="krugmanwellsessentials4e_page_7" block_type="page_start">7</p>
+<p id="krugmanwellsessentials4e-ch1-p77" block_type="txt">Suppose you are taking both economics and chemistry. And suppose you are a pre-med student, so your grade in chemistry matters more to you than your grade in economics. Does that therefore imply that you should spend <em>all</em> your study time on chemistry and wing it on the economics exam? Probably not; even if you think your chemistry grade is more important, you should put some effort into studying economics.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p78" block_type="mn-gl-def">You make a <strong>trade-off</strong> when you compare the costs with the benefits of doing something.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p79" block_type="txt">Spending more time studying chemistry involves a benefit (a higher expected grade in that course) and a cost (you could have spent that time doing something else, such as studying to get a higher grade in economics). That is, your decision involves a <strong>trade-off&#8212;</strong>a comparison of costs and benefits.</p>
+<p id="krugmanwellsessentials4e-ch1-p80" block_type="txt">How do you decide this kind of &#8220;how much&#8221; question? The typical answer is that you make the decision a bit at a time, by asking how you should spend the next hour. Say both exams are on the same day, and the night before you spend time reviewing your notes for both courses. At 6:00 <phrase block_type="small">P.M</phrase>., you decide that it&#8217;s a good idea to spend at least an hour on each course. At 8:00 <phrase block_type="small">P.M</phrase>., you decide you&#8217;d better spend another hour on each course. At 10:00 <phrase block_type="small">P.M</phrase>., you are getting tired and figure you have one more hour to study before bed&#8212;chemistry or economics? If you are pre-med, it&#8217;s likely to be chemistry; if you are pre-business, it&#8217;s likely to be economics.</p>
+<p id="krugmanwellsessentials4e-ch1-p81" block_type="txt">Note how you&#8217;ve made the decision to allocate your time: at each point the question is whether or not to spend <em>one more hour</em> on either course. And in deciding whether to spend another hour studying for chemistry, you weigh the costs (an hour forgone of studying for economics or an hour forgone of sleeping) versus the benefits (a likely increase in your chemistry grade). As long as the benefit of studying chemistry for one more hour outweighs the cost, you should choose to study for that additional hour.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p82" block_type="mn-gl-def">Decisions about whether to do a bit more or a bit less of an activity are <strong>marginal decisions.</strong> The study of such decisions is known as <strong>marginal analysis.</strong> </p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p83" block_type="txt">Decisions of this type&#8212;whether to do a bit more or a bit less of an activity, like what to do with your next hour, your next dollar, and so on&#8212;are <strong>marginal decisions.</strong> This brings us to our third principle of individual choice:</p>
+<p id="krugmanwellsessentials4e-ch1-p84" block_type="ext-b-i"><strong><em>&#8220;How much&#8221; decisions require making trade-offs at the margin: comparing the costs and benefits of doing a little bit more of an activity versus doing a little bit less.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p85" block_type="txt">The study of such decisions is known as <strong>marginal analysis.</strong> Many of the questions that we face in economics&#8212;as well as in real life&#8212;involve marginal analysis: How many workers should I hire in my shop? At what mileage should I change the oil in my car? What is an acceptable rate of negative side effects from a new medicine? Marginal analysis plays a central role in economics because it is the key to deciding &#8220;how much&#8221; of an activity to do.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-7" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="7">
+<section-metadata><section-title>Principle #4: People Usually Respond to Incentives, Exploiting Opportunities to Make Themselves Better Off</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p86" block_type="txt-ni">One day, while listening to the morning financial news, the authors heard a great tip about how to park cheaply in Manhattan. Garages in the Wall Street area charge as much as &#36;30 per day. But according to this news report, some people had found a better way: instead of parking in a garage, they had their oil changed at the Manhattan Jiffy Lube, where it costs &#36;19.95 to change your oil&#8212;and they keep your car all day!</p>
+<p id="krugmanwellsessentials4e-ch1-p87" block_type="txt">It&#8217;s a great story, but unfortunately it turned out not to be true&#8212;in fact, there is no Jiffy Lube in Manhattan. But if there were, you can be sure there would be a lot of oil changes there. Why? Because when people are offered opportunities to make themselves better off, they normally take them&#8212;and if they could find a way to park their car all day for &#36;19.95 rather than &#36;30, they would.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx3-4" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch1-p88" block_type="bx3-t"><strong>FOR INQUIRING MINDS Cashing In at School</strong></p>
+<p id="krugmanwellsessentials4e-ch1-p89" block_type="bx3-txt-ni">The true reward for learning is, of course, the learning itself. Many students, however, struggle with their motivation to study and work hard. Teachers and policy makers have been particularly challenged to help students from disadvantaged backgrounds, who often have poor school attendance, high dropout rates, and low standardized test scores. </p>
+<p id="krugmanwellsessentials4e_page_8" block_type="page_start">8</p>
+<p id="krugmanwellsessentials4e-ch1-p90" block_type="bx3-txt">Two studies, a 2009 study by Harvard economist Roland Fryer Jr. and a 2011 study by University of Chicago economist Steve Levitt along with others, found that monetary incentives&#8212;cash rewards&#8212;could improve students&#8217; academic performance in schools in economically disadvantaged areas. How cash incentives work, however, is both surprising and predictable.</p>
+<p id="krugmanwellsessentials4e-ch1-p91" block_type="bx3-txt">In the Fryer study, research was conducted in four different school districts, employing a different set of incentives and a different measure of performance in each. In New York, students were paid according to their scores on standardized tests; in Chicago, they were paid according to their grades; in Washington, D.C., they were paid according to attendance and good behavior as well as their grades; in Dallas, second-graders were paid each time they read a book. </p>
+<p id="krugmanwellsessentials4e-ch1-p92" block_type="bx3-txt">Fryer evaluated the results by comparing the performance of students who were in the program to other students in the same school who were not.</p>
+<p id="krugmanwellsessentials4e-ch1-p93" block_type="bx3-txt">In New York, the program had no perceptible effect on test scores. In Chicago, students in the program got better grades and attended class more. In Washington, the program boosted the outcomes of the kids who are normally the hardest to reach, those with serious behavioral problems, raising their test scores by an amount equivalent to attending five extra months of school. </p>
+<p id="krugmanwellsessentials4e-ch1-p94" block_type="bx3-txt">The most dramatic results occurred in Dallas, where students significantly boosted their reading-comprehension test scores; results continued into the next year, after the cash rewards had ended.</p>
+<p id="krugmanwellsessentials4e-ch1-p95" block_type="bx3-txt">So what explains the various results?</p>
+<p id="krugmanwellsessentials4e-ch1-p96" block_type="bx3-txt">To motivate students with cash rewards, Fryer found that students had to believe that they could have a significant effect on the performance measure. So in Chicago, Washington, and Dallas&#8212;where students had a significant amount of control over outcomes such as grades, attendance, behavior, and the number of books read&#8212;the program produced significant results.</p>
+<p id="krugmanwellsessentials4e-ch1-p97" block_type="bx3-txt">But because New York students had little idea how to affect their score on a standardized test, the prospect of a reward had little influence on their behavior. Also, the timing of the reward matters: a &#36;1 reward has more effect on behavior if performance is measured at shorter intervals and the reward is delivered soon after.</p>
+<p id="krugmanwellsessentials4e-ch1-p98" block_type="bx3-txt">The Levitt study, involving 7,000 students in the Chicago area, confirmed these results: monetary incentives lead to an increase in standardized test scores equivalent to five or six months of studying for the test. In addition, the Levitt survey found that offering more money (&#36;20) resulted in significantly higher scores than offering less (&#36;10). And, like Fryer, Levitt and his co-authors found that delaying the reward to a month after the test had no impact on scores.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-6" alt="image" src="images/KrugESS4e_1UN05.jpg"/>
+<caption>Cash incentives have been shown to improve student performance.</caption>
+<asset_source>Blend Images/Superstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p99" block_type="bx3-txt">These two experiments reveal critical insights about how to motivate behavior with incentives. How incentives are designed is very important: the relationship between effort and outcome, as well as the speed of reward, matters a lot. Moreover, the design of incentives may depend quite a lot on the characteristics of the people you are trying to motivate: what motivates a student from an economically privileged background may not motivate a student from an economically disadvantaged one. </p>
+<p id="krugmanwellsessentials4e-ch1-p100" block_type="bx3-txt">Fryer&#8217;s insights give teachers and policy makers an important new tool for helping disadvantaged students succeed in school. </p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-18" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p101" block_type="mn-gl-def">An <strong>incentive</strong> is anything that offers rewards to people who change their behavior.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p102" block_type="txt">In this example economists say that people are responding to an <strong>incentive&#8212;</strong>an opportunity to make themselves better off. We can now state our fourth principle of individual choice:</p>
+<p id="krugmanwellsessentials4e-ch1-p103" block_type="ext-b-i"><strong><em>People usually respond to incentives, exploiting opportunities to make themselves better off.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p104" block_type="txt-ni">When you try to predict how individuals will behave in an economic situation, it is a very good bet that they will respond to incentives&#8212;that is, exploit opportunities to make themselves better off. Furthermore, individuals will <em>continue</em> to exploit these opportunities until they have been fully exhausted. If there really were a Manhattan Jiffy Lube and an oil change really were a cheap way to park your car, we can safely predict that before long the waiting list for oil changes would be weeks, if not months.</p>
+<p id="krugmanwellsessentials4e-ch1-p105" block_type="txt">In fact, the principle that people will exploit opportunities to make themselves better off is the basis of <em>all</em> predictions by economists about individual behavior. If the earnings of those who get MBAs soar while the earnings of those who get law degrees decline, we can expect more students to go to business school and fewer to go to law school. If the price of gasoline rises and stays high for an extended period of time, we can expect people to buy smaller cars with higher gas mileage&#8212;making themselves better off in the presence of higher gas prices by driving more fuel-efficient cars.</p>
+<p id="krugmanwellsessentials4e_page_9" block_type="page_start">9</p>
+<p id="krugmanwellsessentials4e-ch1-p106" block_type="txt">One last point: economists tend to be skeptical of any attempt to change people&#8217;s behavior that <em>doesn&#8217;t</em> change their incentives. For example, a plan that calls on manufacturers to reduce pollution voluntarily probably won&#8217;t be effective because it hasn&#8217;t changed manufacturers&#8217; incentives. In contrast, a plan that gives them a financial reward to reduce pollution is a lot more likely to work because it has changed their incentives.</p>
+<p id="krugmanwellsessentials4e-ch1-p107" block_type="txt">So are we ready to do economics? Not yet&#8212;because most of the interesting things that happen in the economy are the result not merely of individual choices but of the way in which individual choices interact.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-5" block_type="bx2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch3-img-7a1" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch1-p108" block_type="bx2-t">Boy or Girl? It Depends on the Cost </p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp2-19" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch1-p109" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-25" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p110" block_type="bx2-first"><phrase block_type="dropcap">O</phrase>ne fact about China is indisputable: it&#8217;s a big country with lots of people. As of 2015, the population of China was 1,374,600,000. That&#8217;s right: over <em>one billion three hundred and seventy million.</em></p>
+<p id="krugmanwellsessentials4e-ch1-p111" block_type="bx2-txt">In 1978, the government of China introduced the &#8220;one-child policy&#8221; to address the economic and demographic challenges presented by China&#8217;s large population. China was very, very poor in 1978, and its leaders worried that the country could not afford to adequately educate and care for its growing population. The average Chinese woman in the 1970s was giving birth to more than five children during her lifetime. So the government restricted most couples, particularly those in urban areas, to one child, imposing penalties on those who defied the mandate. </p>
+<p id="krugmanwellsessentials4e-ch1-p112" block_type="bx2-txt">But the one-child policy had an unfortunate unintended consequence. Because China is an overwhelmingly rural country and sons can perform the manual labor of farming, families had a strong preference for sons over daughters. In addition, tradition dictates that brides become part of their husbands&#8217; families and that sons take care of their elderly parents. As a result of the one-child policy, China soon had too many &#8220;unwanted girls.&#8221; Some were given up for adoption abroad, but many simply &#8220;disappeared&#8221; during the first year of life, the victims of neglect and mistreatment.</p>
+<p id="krugmanwellsessentials4e-ch1-p113" block_type="bx2-txt">India, another highly rural poor country with high demographic pressures, also has a significant problem with &#8220;disappearing girls.&#8221; In 1990, Amartya Sen, an Indian-born British economist who would go on to win the Nobel Prize in 1998, estimated that there were up to 100 million &#8220;missing women&#8221; in Asia. (The exact figure is in dispute, but it is clear that Sen identified a real and pervasive problem.)</p>
+<p id="krugmanwellsessentials4e-ch1-p114" block_type="bx2-txt">Demographers have recently noted a distinct turn of events in China, which is quickly urbanizing. In all but one of the provinces with urban centers, the gender imbalance between boys and girls peaked in 1995 and has steadily fallen toward the biologically natural ratio since then. </p>
+<p id="krugmanwellsessentials4e-ch1-p115" block_type="bx2-txt">Many believe that the source of the change is China&#8217;s strong economic growth and increasing urbanization. As people move to cities to take advantage of job growth there, they don&#8217;t need sons to work the fields. Moreover, land prices in Chinese cities are skyrocketing, making the custom of parents buying an apartment for a son before he can marry unaffordable for many.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-7" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-7" alt="image" src="images/KrugESS4e_1UN06.jpg"/>
+<caption>The cost of China&#8217;s &#8220;one-child policy&#8221; was a generation of &#8220;disappeared&#8221; daughters&#8212;a phenomenon that itself is disappearing as economic conditions change.</caption>
+<asset_source>Tan Ming Tung/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_10" block_type="page_start">10</p>
+<p id="krugmanwellsessentials4e-ch1-p116" block_type="bx2-txt">To be sure, sons are still preferred in the rural areas. But as a sure mark of how times have changed, websites have popped up advising couples on how to have a girl rather than a boy. And in late 2015, the Chinese government announced an end to the one-child policy. If China&#8217;s top legislature approves the new policy in 2016, married couples will be allowed to have two children. </p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch1-bx1-6" block_type="sr-1-h">	
+<list id="krugmanwellsessentials4e-ch1-list-3" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch1-li-12" block_type="sr1-bl">All economic activities involve <strong>individual choice.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-13" block_type="sr1-bl">People must make choices because <strong>resources</strong> are <strong>scarce.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-14" block_type="sr1-bl">The real cost of something is its <strong>opportunity cost&#8212;</strong>what you must give up to get it. All costs are opportunity costs. Monetary costs are sometimes a good indicator of opportunity costs, but not always.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-15" block_type="sr1-bl">Many choices involve not <em>whether</em> to do something but <em>how much</em> of it to do. &#8220;How much&#8221; choices call for making a <strong>trade-off</strong> at the margin. The study of <strong>marginal decisions</strong> is known as <strong>marginal analysis.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-16" block_type="sr1-bl">Because people usually exploit opportunities to make themselves better off, <strong>incentives</strong> can change people&#8217;s behavior.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-7" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">1-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch1-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch1-p117" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Explain how each of the following situations illustrates one of the four principles of individual choice.</p>
+<list id="krugmanwellsessentials4e-ch1-list-2" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-18" block_type="sr2-nl-lvl2">You are on your third trip to a restaurant&#8217;s all-you-can-eat dessert buffet and are feeling very full. Although it would cost you no additional money, you forgo a slice of coconut cream pie but have a slice of chocolate cake.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-19" block_type="sr2-nl-lvl2">Even if there were more resources in the world, there would still be scarcity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-20" block_type="sr2-nl-lvl2">Different teaching assistants teach several Economics 101 tutorials. Those taught by the teaching assistants with the best reputations fill up quickly, with spaces left unfilled in the ones taught by assistants with poor reputations.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-21" block_type="sr2-nl-lvl2">To decide how many hours per week to exercise, you compare the health benefits of one more hour of exercise to the effect on your grades of one less hour spent studying.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch1-li-22" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> You make &#36;45,000 per year at your current job with Whiz Kids Consultants. You are considering a job offer from Brainiacs, Inc., that will pay you &#36;50,000 per year. Which of the following are elements of the opportunity cost of accepting the new job at Brainiacs, Inc.?</p>
+<list id="krugmanwellsessentials4e-ch1-list-11" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-23" block_type="sr2-nl-lvl2">The increased time spent commuting to your new job</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-24" block_type="sr2-nl-lvl2">The &#36;45,000 salary from your old job</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-25" block_type="sr2-nl-lvl2">The more spacious office at your new job</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch1-26" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-3" block_type="h1" title="" chapter="1" numbered="true" level="1" print_page="10">
+<section-metadata><section-title>Interaction: How Economies Work</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p118" block_type="txt-ni">An economy is a system for coordinating the productive activities of many people. In a market economy like we live in, coordination takes place without any coordinator: each individual makes his or her own choices.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-20" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p119" block_type="mn-gl-def">The <strong>interaction</strong> of choices&#8212;my choices affect your choices, and vice versa&#8212;is a feature of most economic situations. The results of this interaction are often quite different from what the individuals intend.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p120" block_type="txt">Yet those choices are by no means independent of one another: each individual&#8217;s opportunities, and hence choices, depend to a large extent on the choices made by other people. So to understand how a market economy behaves, we have to examine this <strong>interaction</strong> in which my choices affect your choices, and vice versa.</p>
+<p id="krugmanwellsessentials4e-ch1-p121" block_type="txt">When studying economic interaction, we quickly learn that the end result of individual choices may be quite different from what any one individual intends. For example, over the past century farmers in the United States have eagerly adopted new farming techniques and crop strains that have reduced their costs and increased their yields. Clearly, it&#8217;s in the interest of each farmer to keep up with the latest farming techniques.</p>
+<p id="krugmanwellsessentials4e-ch1-p122" block_type="txt">But the end result of each farmer trying to increase his or her own income has actually been to drive many farmers out of business. Because American farmers have been so successful at producing larger yields, agricultural prices have steadily fallen. These falling prices have reduced the incomes of many farmers, and as a result fewer people find farming worth doing. That is, an individual farmer who plants a better variety of corn is better off; but when many farmers plant a better variety of corn, the result may be to make farmers as a group worse off.</p>
+<p id="krugmanwellsessentials4e_page_11" block_type="page_start">11</p>
+<p id="krugmanwellsessentials4e-ch1-p123" block_type="txt">A farmer who plants a new, more productive corn variety doesn&#8217;t just grow more corn. Such a farmer also affects the market for corn through the increased yields attained, with consequences that will be felt by other farmers, consumers, and beyond.</p>
+<p id="krugmanwellsessentials4e-ch1-p124" block_type="txt">Just as there are four economic principles underlying individual choice, there are five principles that underlie the economics of interaction. These principles are summarized in <link href="#krugmanwellsessentials4e-ch1-tab-2">Table 1-2</link>, and we will now examine each of them more closely.</p>
+<table id="krugmanwellsessentials4e-ch1-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch1-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">1-2</phrase></strong> <phrase block_type="tbl_title">The Principles of the Interaction of Individual Choices</phrase></table_caption>
+<tbody>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-2a" type="ordered" start="5" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p124a" block_type="nl">There are gains from trade.</p></li>
+</list>
+</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-2b" type="ordered" start="6" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p124b" block_type="nl">Because people respond to incentives, markets move toward equilibrium.</p></li></list></td></tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-2c" type="ordered" start="7" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p124c" block_type="nl">Resources should be used as efficiently as possible to achieve society&#8217;s goals.</p></li></list></td></tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-2d" type="ordered" start="8" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p124d" block_type="nl">Because people usually exploit gains from trade, markets usually lead to efficiency.</p></li></list></td></tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-2e" type="ordered" start="9" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p124e" block_type="nl">When markets don&#8217;t achieve efficiency, government intervention can improve society&#8217;s welfare.</p></li></list></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-8" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="11">
+<section-metadata><section-title>Principle #5: There Are Gains from Trade</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p125" block_type="txt-ni">Why do the choices I make interact with the choices you make? A family could try to take care of all its own needs&#8212;growing its own food, sewing its own clothing, providing itself with entertainment, writing its own economics textbooks. But trying to live that way would be very hard.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-21" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p126" block_type="mn-gl-def">In a market economy, individuals engage in <strong>trade:</strong> they provide goods and services to others and receive goods and services in return.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p127" block_type="txt">The key to a much better standard of living for everyone is <strong>trade,</strong> in which people divide tasks among themselves and each person provides a good or service that other people want in return for different goods and services that he or she wants.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-22" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p128" block_type="mn-gl-def">There are <strong>gains from trade:</strong> people can get more of what they want through trade than they could if they tried to be self-sufficient. This increase in output is due to <strong>specialization:</strong> each person specializes in the task that he or she is good at performing.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p129" block_type="txt">The reason we have an economy, not many self-sufficient individuals, is that there are <strong>gains from trade:</strong> by dividing tasks and trading, two people (or 6 billion people) can each get more of what they want than they could get by being self-sufficient. This leads us to our fifth principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p130" block_type="ext-b-i"><strong><em>There are gains from trade.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p131" block_type="txt">Gains from trade arise from this division of tasks, which economists call <strong>specialization&#8212;</strong>a situation in which different people each engage in a different task, specializing in those tasks that they are good at performing. The advantages of specialization, and the resulting gains from trade, were the starting point for Adam Smith&#8217;s 1776 book <em>The Wealth of Nations,</em> which many regard as the beginning of economics as a discipline. </p>
+<p id="krugmanwellsessentials4e-ch1-p132" block_type="txt">Smith&#8217;s book begins with a description of an eighteenth-century pin factory where, rather than each of the 10 workers making a pin from start to finish, each worker specialized in one of the many steps in pin-making:</p>
+<p id="krugmanwellsessentials4e-ch1-p133" block_type="ext">One man draws out the wire, another straights it, a third cuts it, a fourth points it, a fifth grinds it at the top for receiving the head; to make the head requires two or three distinct operations; to put it on, is a particular business, to whiten the pins is another; it is even a trade by itself to put them into the paper; and the important business of making a pin is, in this manner, divided into about eighteen distinct operations. . . . Those ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day. But if they had all wrought separately and independently, and without any of them having been educated to this particular business, they certainly could not each of them have made twenty, perhaps not one pin a day. . . .</p>
+<p id="krugmanwellsessentials4e-ch1-p134" block_type="txt">The same principle applies when we look at how people divide tasks among themselves and trade in an economy. <em>The economy, as a whole, can produce more when each person specializes in a task and trades with others.</em></p>
+<p id="krugmanwellsessentials4e_page_12" block_type="page_start">12</p>
+<p id="krugmanwellsessentials4e-ch1-p135" block_type="txt">The benefits of specialization are the reason a person typically chooses only one career. It takes many years of study and experience to become a doctor or to become a commercial airline pilot. Many doctors might well have had the potential to become excellent pilots, and vice versa, but it is very unlikely that anyone who decided to pursue both careers would be as good a pilot or as good a doctor as someone who decided at the beginning to specialize in that field. So it is to everyone&#8217;s advantage that individuals specialize in their career choices.</p>
+<p id="krugmanwellsessentials4e-ch1-p136" block_type="txt">Markets are what allow a doctor and a pilot to specialize in their own fields. Because markets for commercial flights and for doctors&#8217; services exist, a doctor is assured that she can find a flight and a pilot is assured that he can find a doctor. As long as individuals know that they can find the goods and services they want in the market, they are willing to forgo self-sufficiency and to specialize. But what assures people that markets will deliver what they want? The answer to that question leads us to our second principle of how individual choices interact.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-8" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-8" alt="image" src="images/KrugESS4e_1UN07.jpg"/>
+<caption><em>&#8220;I hunt and she gathers&#8212;otherwise we couldn&#8217;t make ends meet.&#8221;</em></caption>
+<asset_source>&#169; The New Yorker Collection 1991 Ed Frascino from <link href="http://cartoonbank.com">cartoonbank.com</link>. All Rights Reserved.</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-9" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="12">
+<section-metadata><section-title>Principle #6: Markets Move Toward Equilibrium</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p137" block_type="txt-ni">It&#8217;s a busy afternoon at the supermarket; there are long lines at the checkout counters. Then one of the previously closed cash registers opens. What happens? The first thing, of course, is a rush to that register. After a couple of minutes, however, things will have settled down; shoppers will have rearranged themselves so that the line at the newly opened register is about the same length as the lines at all the other registers.</p>
+<p id="krugmanwellsessentials4e-ch1-p138" block_type="txt">How do we know that? We know from our fourth principle that people will exploit opportunities to make themselves better off. This means that people will rush to the newly opened register in order to save time standing in line. And things will settle down when shoppers can no longer improve their position by switching lines&#8212;that is, when the opportunities to make themselves better off have all been exploited.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-23" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p139" block_type="mn-gl-def">An economic situation is in <strong>equilibrium</strong> when no individual would be better off doing something different.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p140" block_type="txt">A story about supermarket checkout lines may seem to have little to do with how individual choices interact, but in fact it illustrates an important principle. A situation in which individuals cannot make themselves better off by doing something different&#8212;the situation in which all the checkout lines are the same length&#8212;is what economists call an <strong>equilibrium.</strong> An economic situation is in equilibrium when no individual would be better off doing something different.</p>
+<p id="krugmanwellsessentials4e-ch1-p141" block_type="txt">Recall the story about the mythical Jiffy Lube, where it was supposedly cheaper to leave your car for an oil change than to pay for parking. If the opportunity had really existed and people were still paying &#36;30 to park in garages, the situation would <em>not</em> have been an equilibrium. And that should have been a giveaway that the story couldn&#8217;t be true. In reality, people would have seized an opportunity to park cheaply, just as they seize opportunities to save time at the checkout line. And in so doing they would have eliminated the opportunity! Either it would have become very hard to get an appointment for an oil change or the price of a lube job would have increased to the point that it was no longer an attractive option (unless you really needed a lube job). This brings us to our sixth principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p142" block_type="ext-b-i"><strong><em>Because people respond to incentives, markets move toward equilibrium.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p143" block_type="txt-ni">As we will see, markets usually reach equilibrium via changes in prices, which rise or fall until no opportunities for individuals to make themselves better off remain.</p>
+<p id="krugmanwellsessentials4e_page_13" block_type="page_start">13</p>
+<p id="krugmanwellsessentials4e-ch1-p144" block_type="txt">The concept of equilibrium is extremely helpful in understanding economic interactions because it provides a way of cutting through the sometimes complex details of those interactions. To understand what happens when a new line is opened at a supermarket, you don&#8217;t need to worry about exactly how shoppers rearrange themselves, who moves ahead of whom, which register just opened, and so on. What you need to know is that any time there is a change, the situation will move to an equilibrium.</p>
+<p id="krugmanwellsessentials4e-ch1-p145" block_type="txt">The fact that markets move toward equilibrium is why we can depend on them to work in a predictable way. In fact, we can trust markets to supply us with the essentials of life. For example, people who live in big cities can be sure that the supermarket shelves will always be fully stocked. Why? Because if some merchants who distribute food <em>didn&#8217;t</em> make deliveries, a big profit opportunity would be created for any merchant who did&#8212;and there would be a rush to supply food, just like the rush to a newly opened cash register. So the market ensures that food will always be available for city dwellers. And, returning to our fifth principle, this allows city dwellers to be city dwellers&#8212;to specialize in doing city jobs rather than living on farms and growing their own food.</p>
+<p id="krugmanwellsessentials4e-ch1-p146" block_type="txt">A market economy, as we have seen, allows people to achieve gains from trade. But how do we know how well such an economy is doing? The next principle gives us a standard to use in evaluating an economy&#8217;s performance.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-9" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-9" alt="image" src="images/KrugESS4e_1UN08.jpg"/>
+<caption>Witness equilibrium in action at the checkout lines of your neighborhood supermarket.</caption>
+<asset_source>&#169; Jim West/Alamy Stock Photo</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-10" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="13">
+<section-metadata><section-title>Principle #7: Resources Should Be Used Efficiently to Achieve Society&#8217;s Goals</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p147" block_type="txt-ni">Suppose you are taking a course in which the classroom is too small for the number of students&#8212;many people are forced to stand or sit on the floor&#8212;despite the fact that large, empty classrooms are available nearby. You would say, correctly, that this is no way to run a college. Economists would call this an <em>inefficient</em> use of resources. But if an inefficient use of resources is undesirable, just what does it mean to use resources <em>efficiently</em>? </p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-24" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p148" block_type="mn-gl-def">An economy is <strong>efficient</strong> if it takes all opportunities to make some people better off without making other people worse off.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p149" block_type="txt">You might imagine that the efficient use of resources has something to do with money, maybe that it is measured in dollars-and-cents terms. But in economics, as in life, money is only a means to other ends. The measure that economists really care about is not money but people&#8217;s happiness or welfare. Economists say that <em>an economy&#8217;s resources are used efficiently when they are used in a way that has fully exploited all opportunities to make everyone better off</em>. To put it another way, an economy is <strong>efficient</strong> if it takes all opportunities to make some people better off without making other people worse off.</p>
+<p id="krugmanwellsessentials4e-ch1-p150" block_type="txt">In our classroom example, there clearly was a way to make everyone better off&#8212;moving the class to a larger room would make people in the class better off without hurting anyone else in the college. Assigning the course to the smaller classroom was an inefficient use of the college&#8217;s resources, whereas assigning the course to the larger classroom would have been an efficient use of the college&#8217;s resources.</p>
+<p id="krugmanwellsessentials4e-ch1-p151" block_type="txt">When an economy is efficient, it is producing the maximum gains from trade possible given the resources available. Why? Because there is no way to rearrange how resources are used in a way that can make everyone better off. When an economy is efficient, one person can be made better off by rearranging how resources are used <em>only</em> by making someone else worse off. In our classroom example, if all larger classrooms were already occupied, the college would have been run in an efficient way: your class could be made better off by moving to a larger classroom only by making people in the larger classroom worse off by making them move to a smaller classroom.</p>
+<p id="krugmanwellsessentials4e-ch1-p152" block_type="txt">We can now state our seventh principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p153" block_type="ext-b-i"><strong><em>Resources should be used as efficiently as possible to achieve society&#8217;s goals.</em> </strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp3-25" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch1-p154" block_type="mn-gl-def"><strong>Equity</strong> means that everyone gets his or her fair share. Since people can disagree about what&#8217;s &#8220;fair,&#8221; equity isn&#8217;t as well defined a concept as efficiency.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_14" block_type="page_start">14</p>
+<p id="krugmanwellsessentials4e-ch1-p155" block_type="txt">Should economic policy makers always strive to achieve economic efficiency? Well, not quite, because efficiency is only a means to achieving society&#8217;s goals. Sometimes efficiency may conflict with a goal that society has deemed worthwhile to achieve. For example, in most societies, people also care about issues of fairness, or <strong>equity.</strong> And there is typically a trade-off between equity and efficiency: policies that promote equity often come at a cost of decreased efficiency in the economy, and vice versa. </p>
+<p id="krugmanwellsessentials4e-ch1-p156" block_type="txt">To see this, consider the case of disabled-designated parking spaces in public parking lots. Many people have difficulty walking due to age or disability, so it seems only fair to assign closer parking spaces specifically for their use. You may have noticed, however, that a certain amount of inefficiency is involved. To make sure that there is always a parking space available should a disabled person want one, there are typically more such spaces available than there are disabled people who want one. As a result, desirable parking spaces are unused. (And the temptation for nondisabled people to use them is so great that we must be dissuaded by fear of getting a ticket.) </p>
+<p id="krugmanwellsessentials4e-ch1-p157" block_type="txt">So, short of hiring parking valets to allocate spaces, there is a conflict between <em>equity,</em> making life &#8220;fairer&#8221; for disabled people, and <em>efficiency,</em> making sure that all opportunities to make people better off have been fully exploited by never letting close-in parking spaces go unused.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-10" alt="image" src="images/KrugESS4e_1UN09.jpg"/>
+<caption>Sometimes equity trumps efficiency.</caption>
+<asset_source>Construction Photography/Corbis</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p158" block_type="txt">Exactly how far policy makers should go in promoting equity over efficiency is a difficult question that goes to the heart of the political process. As such, it is not a question that economists can answer. What is important for economists, however, is always to seek to use the economy&#8217;s resources as efficiently as possible in the pursuit of society&#8217;s goals, whatever those goals may be.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-11" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="14">
+<section-metadata><section-title>Principle #8: Markets Usually Lead to Efficiency</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p159" block_type="txt-ni">No branch of the U.S. government is entrusted with ensuring the general economic efficiency of our market economy&#8212;we don&#8217;t have agents who go around making sure that brain surgeons aren&#8217;t plowing fields or that Minnesota farmers aren&#8217;t trying to grow oranges. The government doesn&#8217;t need to enforce the efficient use of resources, because in most cases the invisible hand does the job.</p>
+<p id="krugmanwellsessentials4e-ch1-p160" block_type="txt">The incentives built into a market economy ensure that resources are usually put to good use and that opportunities to make people better off are not wasted. If a college were known for its habit of crowding students into small classrooms while large classrooms went unused, it would soon find its enrollment dropping, putting the jobs of its administrators at risk. The &#8220;market&#8221; for college students would respond in a way that induced administrators to run the college efficiently.</p>
+<p id="krugmanwellsessentials4e-ch1-p161" block_type="txt">A detailed explanation of why markets are usually very good at making sure that resources are used well will have to wait until we have studied how markets actually work. But the most basic reason is that in a market economy, in which individuals are free to choose what to consume and what to produce, people normally take opportunities for mutual gain&#8212;that is, gains from trade. </p>
+<p id="krugmanwellsessentials4e-ch1-p162" block_type="txt">If there is a way in which some people can be made better off, people will usually be able to take advantage of that opportunity. And that is exactly what defines efficiency: all the opportunities to make some people better off without making other people worse off have been exploited. This gives rise to our eighth principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p163" block_type="ext-b-i"><strong><em>Because people usually exploit gains from trade, markets usually lead to efficiency.</em> </strong></p>
+<p id="krugmanwellsessentials4e-ch1-p164" block_type="txt">However, there are exceptions to this principle that markets are generally efficient. In cases of <em>market failure,</em> the individual pursuit of self-interest found in markets makes society worse off&#8212;that is, the market outcome is inefficient. And, as we will see in examining the next principle, when markets fail, government intervention can help. But short of instances of market failure, the general rule is that markets are a remarkably good way of organizing an economy.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-12" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="15">
+<section-metadata><section-title>Principle #9: When Markets Don&#8217;t Achieve Efficiency, Government Intervention Can Improve Society&#8217;s Welfare</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p165" block_type="txt-ni">Let&#8217;s recall the nature of the market failure caused by traffic congestion&#8212;a commuter driving to work has no incentive to take into account the cost that his or her action inflicts on other drivers in the form of increased traffic congestion. </p>
+<p id="krugmanwellsessentials4e_page_15" block_type="page_start">15</p>
+<p id="krugmanwellsessentials4e-ch1-p166" block_type="txt">There are several possible remedies to this situation; examples include charging road tolls, subsidizing the cost of public transportation, and taxing sales of gasoline to individual drivers. All these remedies work by changing the incentives of would-be drivers, motivating them to drive less and use alternative transportation. But they also share another feature: each relies on government intervention in the market. This brings us to our ninth principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p167" block_type="ext-b-i"><strong><em>When markets don&#8217;t achieve efficiency, government intervention can improve society&#8217;s welfare.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p168" block_type="txt-ni">That is, when markets go wrong, an appropriately designed government policy can sometimes move society closer to an efficient outcome by changing how society&#8217;s resources are used.</p>
+<p id="krugmanwellsessentials4e-ch1-p169" block_type="txt">An important branch of economics is devoted to studying why markets fail and what policies should be adopted to improve social welfare. We will study these problems and their remedies in depth in later chapters, but, briefly, there are three principal ways in which they fail:</p>
+<list id="krugmanwellsessentials4e- krugmanwellsessentials4e-ch1-list-4" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch1-li-27" block_type="bl-first">Individual actions have side effects that are not properly taken into account by the market. An example is an action that causes pollution.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-28" block_type="bl-mid">One party prevents mutually beneficial trades from occurring in an attempt to capture a greater share of resources for itself. An example is a drug company that prices a drug higher than the cost of producing it, making it unaffordable for some people who would benefit from it.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-29" block_type="bl-last">Some goods, by their very nature, are unsuited for efficient management by markets. An example of such a good is air traffic control.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch1-p170" block_type="txt">An important part of your education in economics is learning to identify not just when markets work but also when they don&#8217;t work, and to judge what government policies are appropriate in each situation.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-8" block_type="bx2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch1-p171" block_type="bx2-t">Restoring Equilibrium on the Freeways </p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp2-26" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch1-p172" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch1-img-2" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p173" block_type="bx2-first"><phrase block_type="dropcap">A</phrase> powerful earthquake struck the Los Angeles area in 1994, causing several freeway bridges to collapse and thereby disrupting the normal commuting routes of hundreds of thousands of drivers. The events that followed offer a particularly clear example of interdependent decision making&#8212;in this case, the decisions of commuters about how to get to work.</p>
+<p id="krugmanwellsessentials4e-ch1-p174" block_type="bx2-txt">In the immediate aftermath of the earthquake, there was great concern about the impact on traffic, since motorists would now have to crowd onto alternative routes or detour around the blockages by using city streets. Public officials and news programs warned commuters to expect massive delays and urged them to avoid unnecessary travel, reschedule their work to commute before or after the rush, or use mass transit. </p>
+<p id="krugmanwellsessentials4e_page_16" block_type="page_start">16</p>
+<p id="krugmanwellsessentials4e-ch1-p175" block_type="bx2-txt">These warnings were unexpectedly effective. In fact, so many people heeded them that in the first few days following the quake, those who maintained their regular commuting routine actually found the drive to and from work faster than before.</p>
+<p id="krugmanwellsessentials4e-ch1-p176" block_type="bx2-txt">Of course, this situation could not last. As word spread that traffic was relatively light, people abandoned their less convenient new commuting methods and reverted to their cars&#8212;and traffic got steadily worse. Within a few weeks after the quake, serious traffic jams had appeared. After a few more weeks, however, the situation stabilized: the reality of worse-than-usual congestion discouraged enough drivers to prevent the nightmare of citywide gridlock from materializing. Los Angeles traffic, in short, had settled into a new equilibrium in which each commuter was making the best choice he or she could, given what everyone else was doing.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-11" alt="image" src="images/KrugESS4e_1UN10.jpg"/>
+<caption>The new equilibrium on a Los Angeles freeway.</caption>
+<asset_source>Glowimages/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p177" block_type="bx2-txt">This was not, by the way, the end of the story: fears that traffic would strangle the city led local authorities to repair the roads with record speed. Within only 18 months after the quake, all the freeways were back to normal, ready for the next one. </p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch1-bx1-9" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch1-list-4" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch1-p178" block_type="sr1-bl">Most economic situations involve the <strong>interaction</strong> of choices, sometimes with unintended results. In a market economy, interaction occurs via <strong>trade</strong> between individuals.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-p179" block_type="sr1-bl">Individuals trade because there are <strong>gains from trade,</strong> which arise from <strong>specialization.</strong> Markets usually move toward <strong>equilibrium</strong> because people exploit gains from trade.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-p180" block_type="sr1-bl">To achieve society&#8217;s goals, the use of resources should be <strong>efficient.</strong> But <strong>equity,</strong> as well as efficiency, may be desirable in an economy. There is often a trade-off between equity and efficiency.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-p181" block_type="sr1-bl">Except for certain well-defined exceptions, markets are normally efficient. When markets fail to achieve efficiency, government intervention can improve society&#8217;s welfare.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-10" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">1-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch1-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch1-p182" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Explain how each of the following situations illustrates one of the five principles of interaction.</p>
+<list id="krugmanwellsessentials4e-ch1-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-31" block_type="sr2-nl-lvl2">Using eBay, any student who wants to sell a used textbook for at least &#36;30 is able to sell it to someone who is willing to pay &#36;30.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-32" block_type="sr2-nl-lvl2">At a college tutoring co-op, students can arrange to provide tutoring in subjects they are good at (such as economics) in return for receiving tutoring in subjects they are struggling with (such as philosophy). </p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-33" block_type="sr2-nl-lvl2">The local municipality imposes a law that requires bars and nightclubs near residential areas to keep their noise levels below a certain threshold.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-34" block_type="sr2-nl-lvl2">To provide better care for low-income patients, the local municipality has decided to close some underutilized neighborhood clinics and shift funds to the main hospital.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-35" block_type="sr2-nl-lvl2">On eBay, books of a given title with approximately the same level of wear and tear sell for about the same price.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch1-p183" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Which of the following describes an equilibrium situation? Which does not? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch1-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-37" block_type="sr2-nl-lvl2">The restaurants across the street from the university dining hall serve better-tasting and cheaper meals than those served at the university dining hall. The vast majority of students continue to eat at the dining hall.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-38" block_type="sr2-nl-lvl2">You currently take the subway to work. Although taking the bus is cheaper, the ride takes longer. So you are willing to pay the higher subway fare in order to save time.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch1-p184" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-4" block_type="h1" title="" chapter="1" numbered="true" level="1" print_page="16">
+<section-metadata><section-title>Economy-Wide Interactions</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p185" block_type="txt-ni">As mentioned earlier, the economy as a whole has its ups and downs. For example, business in America&#8217;s shopping malls was depressed in 2008, because the economy was in a recession. While the economy had begun to recover in 2009, the effects of the downturn were still being felt&#8212;not until May 2014 did the number of Americans employed recover to its pre-recession level. </p>
+<p id="krugmanwellsessentials4e-ch1-p186" block_type="txt">To understand recessions and recoveries, we need to understand economy-wide interactions, and understanding the big picture of the economy requires understanding three more economic principles, which are summarized in <link href="#krugmanwellsessentials4e-ch1-tab-3">Table 1-3</link>.</p>
+<table id="krugmanwellsessentials4e-ch1-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch1-tab-3" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">1-3</phrase></strong> <phrase block_type="tbl_title">The Principles of Economy-Wide Interactions</phrase></table_caption>
+<tbody>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1c" type="ordered" start="10" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p186a" block_type="nl">One person&#8217;s spending is another person&#8217;s income.</p></li></list></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1d" type="ordered" start="11" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p186b" block_type="nl">Overall spending sometimes gets out of line with the economy&#8217;s productive capacity.</p></li></list></td></tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-1d" type="ordered" start="12" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p186c" block_type="nl">Government policies can change spending.</p></li></list></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-13" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="17">
+<section-metadata><section-title>Principle #10: One Person&#8217;s Spending Is Another Person&#8217;s Income</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_17" block_type="page_start">17</p>
+<p id="krugmanwellsessentials4e-ch1-p187" block_type="txt-ni">Between 2005 and 2011, home construction in America plunged more than 60&#37; because builders found it increasingly hard to make sales. At first the damage was mainly limited to the construction industry. But over time the slump spread into just about every part of the economy, with consumer spending falling across the board.</p>
+<p id="krugmanwellsessentials4e-ch1-p188" block_type="txt">But why should a fall in home construction mean empty stores in the shopping malls? After all, malls are places where families, not builders, do their shopping. </p>
+<p id="krugmanwellsessentials4e-ch1-p189" block_type="txt">The answer is that lower spending on construction led to lower incomes throughout the economy; people who had been employed either directly in construction, producing goods and services builders need (like drywall), or in producing goods and services new homeowners need (like new furniture), either lost their jobs or were forced to take pay cuts. And as incomes fell, so did spending by consumers. This example illustrates our tenth principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p190" block_type="ext-b-i"><strong><em>One person&#8217;s spending is another person&#8217;s income.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p191" block_type="txt">In a market economy, people make a living selling things&#8212;including their labor&#8212;to other people. If some group in the economy decides, for whatever reason, to spend more, the income of other groups will rise. If some group decides to spend less, the income of other groups will fall.</p>
+<p id="krugmanwellsessentials4e-ch1-p192" block_type="txt">Because one person&#8217;s spending is another person&#8217;s income, a chain reaction of changes in spending behavior tends to have repercussions that spread through the economy. For example, a cut in business investment spending, like the one that happened in 2008, leads to reduced family incomes; families respond by reducing consumer spending; this leads to another round of income cuts; and so on. These repercussions play an important role in our understanding of recessions and recoveries.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-14" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="17">
+<section-metadata><section-title>Principle #11: Overall Spending Sometimes Gets Out of Line with the Economy&#8217;s Productive Capacity</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch1-p193" block_type="txt-ni">Macroeconomics emerged as a separate branch of economics in the 1930s, when a collapse of consumer and business spending, a crisis in the banking industry, and other factors led to a plunge in overall spending. This plunge in spending, in turn, led to a period of very high unemployment known as the Great Depression.</p>
+<p id="krugmanwellsessentials4e-ch1-p194" block_type="txt">The lesson economists learned from the troubles of the 1930s is that overall spending&#8212;the amount of goods and services that consumers and businesses want to buy&#8212;sometimes doesn&#8217;t match the amount of goods and services the economy is capable of producing. In the 1930s, spending fell far short of what was needed to keep American workers employed, and the result was a severe economic slump. In fact, shortfalls in spending are responsible for most, though not all, recessions.</p>
+<p id="krugmanwellsessentials4e-ch1-p195" block_type="txt">It&#8217;s also possible for overall spending to be too high. In that case, the economy experiences <em>inflation,</em> a rise in prices throughout the economy. This rise in prices occurs because when the amount that people want to buy outstrips the supply, producers can raise their prices and still find willing customers. Taking account of both shortfalls in spending and excesses in spending brings us to our eleventh principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p196" block_type="ext-b-i"><strong><em>Overall spending sometimes gets out of line with the economy&#8217;s productive capacity.</em> </strong></p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec2-15" block_type="h2" title="" chapter="1" numbered="false" level="2" print_page="18">
+<section-metadata><section-title>Principle #12: Government Policies Can Change Spending</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_18" block_type="page_start">18</p>
+<p id="krugmanwellsessentials4e-ch1-p197" block_type="txt-ni">Overall spending sometimes gets out of line with the economy&#8217;s productive capacity. But can anything be done about that? Yes&#8212;which leads to our twelfth and last principle:</p>
+<p id="krugmanwellsessentials4e-ch1-p198" block_type="ext-b-i"><strong><em>Government policies can change spending.</em></strong></p>
+<p id="krugmanwellsessentials4e-ch1-p199" block_type="txt-ni">In fact, government policies can dramatically affect spending.</p>
+<p id="krugmanwellsessentials4e-ch1-p200" block_type="txt">For one thing, the government itself does a lot of spending on everything from military equipment to education&#8212;and it can choose to do more or less. The government can also vary how much it collects from the public in taxes, which in turn affects how much income consumers and businesses have left to spend. And the government&#8217;s control of the quantity of money in circulation, it turns out, gives it another powerful tool with which to affect total spending. Government spending, taxes, and control of money are the tools of <em>macroeconomic policy.</em></p>
+<p id="krugmanwellsessentials4e-ch1-p201" block_type="txt">Modern governments deploy these macroeconomic policy tools in an effort to manage overall spending in the economy, trying to steer it between the perils of recession and inflation. These efforts aren&#8217;t always successful&#8212;recessions still happen, and so do periods of inflation. But it&#8217;s widely believed that aggressive efforts to sustain spending in 2008 and 2009 helped prevent the financial crisis of 2008 from turning into a full-blown depression.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-11" block_type="bx2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch1-p202" block_type="bx2-t">Adventures in Babysitting</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp2-27" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch1-p203" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch1-img-3" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p204" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he website <link href="http://cartoonbank.com">myarmyonesource.com</link>, which offers advice to army families, suggests that parents join a babysitting cooperative&#8212;an arrangement that is common in many walks of life. In a babysitting cooperative, a number of parents exchange babysitting services rather than hire someone to babysit. But how do these organizations make sure that all members do their fair share of the work? </p>
+<p id="krugmanwellsessentials4e-ch1-p205" block_type="bx2-txt">As <link href="myarmyonesource.com">myarmyonesource.com</link> explained, &#8220;Instead of money, most co-ops exchange tickets or points. When you need a sitter, you call a friend on the list, and you pay them with tickets. You earn tickets by babysitting other children within the co-op.&#8221; In other words, a babysitting co-op is a miniature economy in which people buy and sell babysitting services. And it happens to be a type of economy that can have macroeconomic problems. </p>
+<p id="krugmanwellsessentials4e-ch1-p206" block_type="bx2-txt">A famous article titled &#8220;Monetary Theory and the Great Capitol Hill Babysitting Co-Op Crisis&#8221; described the troubles of a babysitting co-op that issued too few tickets. Bear in mind that, on average, people in a babysitting co-op want to have a reserve of tickets stashed away in case they need to go out several times before they can replenish their stash by doing some more babysitting.</p>
+<p id="krugmanwellsessentials4e-ch1-p207" block_type="bx2-txt">In this case, because there weren&#8217;t that many tickets out there to begin with, most parents were anxious to add to their reserves by babysitting but reluctant to run them down by going out. But one parent&#8217;s decision to go out was another&#8217;s chance to babysit, so it became difficult to earn tickets. Knowing this, parents became even more reluctant to use their reserves except on special occasions.</p>
+<figure id="krugmanwellsessentials4e-ch1-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-12" alt="image" src="images/KrugESS4e_1UN11.jpg"/>
+<caption>As participants in a babysitting co-op soon discovered, fewer nights out made everyone worse off.</caption>
+<asset_source>iStockphoto</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p208" block_type="bx2-txt">In short, the co-op had fallen into a recession. Recessions in the larger, nonbabysitting economy are a bit more complicated than this, but the troubles of the Capitol Hill babysitting co-op demonstrate two of our three principles of economy-wide interactions. One person&#8217;s spending is another person&#8217;s income: opportunities to babysit arose only to the extent that other people went out. An economy can also suffer from too little spending: when not enough people were willing to go out, everyone was frustrated at the lack of babysitting opportunities.</p>
+<p id="krugmanwellsessentials4e_page_19" block_type="page_start">19</p>
+<p id="krugmanwellsessentials4e-ch1-p209" block_type="bx2-txt">And what about government policies to change spending? Actually, the Capitol Hill co-op did that, too. Eventually, it solved its problem by handing out more tickets, and with increased reserves, people were willing to go out more. </p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch1-bx1-12" block_type="sr2-h">
+<list id="krugmanwellsessentials4e-ch1-list-5" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch1-li-40" block_type="sr1-bl">In a market economy, one person&#8217;s spending is another person&#8217;s income. As a result, changes in spending behavior have repercussions that spread through the economy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-41" block_type="sr1-bl">Overall spending sometimes gets out of line with the economy&#8217;s capacity to produce goods and services. When spending is too low, the result is a recession. When spending is too high, it causes inflation.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-42" block_type="sr1-bl">Modern governments use macroeconomic policy tools to affect the overall level of spending in an effort to steer the economy between recession and inflation.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch1-bx2-13" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">1-4</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch1-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch1-p210" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Explain how each of the following examples illustrates one of the three principles of economy-wide interactions.</p>
+<list id="krugmanwellsessentials4e-ch1-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-44" block_type="sr2-nl-lvl2">The White House urged Congress to pass a package of temporary spending increases and tax cuts in early 2009, a time when employment was plunging and unemployment soaring.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-45" block_type="sr2-nl-lvl2">Oil companies are investing heavily in projects that will extract oil from the &#8220;oil sands&#8221; of Canada. In Edmonton, Alberta, near the projects, restaurants and other consumer businesses are booming.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-46" block_type="sr2-nl-lvl2">In the mid-2000s, Spain, which was experiencing a big housing boom, also had the highest inflation rate in Europe.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch1-p211" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-7" block_type="cr-que-t" title="" chapter="1" numbered="true" level="1" print_page="19">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch1-list-5" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-li-48" block_type="sum-nl">An <strong>economy</strong> is a system for coordinating society&#8217;s productive activities, and <strong>economics</strong> is the social science that studies the production, distribution, and consumption of goods and services. The United States has a <strong>market economy&#8212;</strong>an economy in which decisions about production and consumption are made by individual producers and consumers pursuing their own self-interest. The <strong>invisible hand</strong> harnesses the power of self-interest for the good of society.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-49" block_type="sum-nl"><strong>Microeconomics</strong> is the branch of economics that studies how people make decisions and how these decisions interact. <strong>Market failure</strong> occurs when the individual pursuit of self-interest leads to bad results for society as a whole.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-50" block_type="sum-nl"><strong>Macroeconomics</strong> is the branch of economics that is concerned with overall ups and downs in the economy. Despite occasional <strong>recessions,</strong> the U.S. economy has achieved long-run <strong>economic growth.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-51" block_type="sum-nl">All economic analysis is based on a set of basic principles that apply to three levels of economic activity. First, we study how individuals make choices; second, we study how these choices interact; and third, we study how the economy functions overall.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-52" block_type="sum-nl">Everyone has to make choices about what to do and what <em>not</em> to do. <strong>Individual choice</strong> is the basis of economics&#8212;if it doesn&#8217;t involve choice, it isn&#8217;t economics.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-53" block_type="sum-nl">The reason choices must be made is that <strong>resources&#8212;</strong>anything that can be used to produce something else&#8212;are <strong>scarce.</strong> Individuals are limited in their choices by money and time; economies are limited by their supplies of human and natural resources.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-54" block_type="sum-nl">Because you must choose among limited alternatives, the true cost of anything is what you must give up to get it&#8212;all costs are <strong>opportunity costs.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-55" block_type="sum-nl">Many economic decisions involve questions not of &#8220;whether&#8221; but of &#8220;how much&#8221;&#8212;how much to spend on some good, how much to produce, and so on. Such decisions must be made by performing a <strong>trade-off</strong> <em>at the margin</em>&#8212;by comparing the costs and benefits of doing a bit more or a bit less. Decisions of this type are called <strong>marginal decisions,</strong> and the study of them, <strong>marginal analysis,</strong> plays a central role in economics.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-56" block_type="sum-nl">The study of how people <em>should</em> make decisions is also a good way to understand actual behavior. Individuals usually respond to <strong>incentives&#8212;</strong>exploiting opportunities to make themselves better off.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-57" block_type="sum-nl">The next level of economic analysis is the study of <strong>interaction&#8212;</strong>how my choices depend on your choices, and vice versa. When individuals interact, the end result may be different from what anyone intends.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-58" block_type="sum-nl">Individuals interact because there are <strong>gains from trade:</strong> by engaging in the <strong>trade</strong> of goods and services with one another, the members of an economy can all be made better off. <strong>Specialization&#8212;</strong>each person specializes in the task he or she is good at&#8212;is the source of gains from trade.</p>
+<p id="krugmanwellsessentials4e_page_20" block_type="page_start">20</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-59" block_type="sum-nl">Because individuals usually respond to incentives, markets normally move toward <strong>equilibrium&#8212;</strong>a situation in which no individual can make himself or herself better off by taking a different action.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-60" block_type="sum-nl">An economy is <strong>efficient</strong> if all opportunities to make some people better off without making other people worse off are taken. Resources should be used as efficiently as possible to achieve society&#8217;s goals. But efficiency is not the sole way to evaluate an economy: <strong>equity,</strong> or fairness, is also desirable, and there is often a trade-off between equity and efficiency.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-61" block_type="sum-nl">Markets usually lead to efficiency, with some well-defined exceptions.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-62" block_type="sum-nl">When markets fail and do not achieve efficiency, government intervention can improve society&#8217;s welfare.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-63" block_type="sum-nl">Because people in a market economy earn income by selling things, including their own labor, one person&#8217;s spending is another person&#8217;s income. As a result, changes in spending behavior can spread throughout the economy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-64" block_type="sum-nl">Overall spending in the economy can get out of line with the economy&#8217;s productive capacity. Spending below the economy&#8217;s productive capacity leads to a recession; spending in excess of the economy&#8217;s productive capacity leads to inflation.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-65" block_type="sum-nl">Governments have the ability to strongly affect overall spending, an ability they use in an effort to steer the economy between recession and inflation.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-8" block_type="cr-kt-t" title="" chapter="1" numbered="true" level="1" print_page="20">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch1-exp2-28" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch1-p212" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch1-img-4" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch1-p288" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p20">Economy, p. 2</link></p>
+<p id="krugmanwellsessentials4e-ch1-p289" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p21">Economics, p. 2</link></p>
+<p id="krugmanwellsessentials4e-ch1-p290" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p23">Market economy, p. 2</link></p>
+<p id="krugmanwellsessentials4e-ch1-p291" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p28">Invisible hand, p. 2</link></p>
+<p id="krugmanwellsessentials4e-ch1-p292" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch1-p30">Microeconomics, p. 2</link></p>
+<p id="krugmanwellsessentials4e-ch1-p293" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch1-p36">Market failure, p. 3</link></p>
+<p id="krugmanwellsessentials4e-ch1-p294" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p40">Recession, p. 3</link></p>
+<p id="krugmanwellsessentials4e-ch1-p295" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p42">Macroeconomics, p. 3</link></p>
+<p id="krugmanwellsessentials4e-ch1-p296" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p46">Economic growth, p. 4</link></p>
+<p id="krugmanwellsessentials4e-ch1-p297" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p61">Individual choice, p. 4</link></p>
+<p id="krugmanwellsessentials4e-ch1-p298" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p70">Resource, p. 5</link></p>
+<p id="krugmanwellsessentials4e-ch1-p299" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p71">Scarce, p. 5</link></p>
+<p id="krugmanwellsessentials4e-ch1-p300" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p78">Opportunity cost, p. 6</link></p>
+<p id="krugmanwellsessentials4e-ch1-p301" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p91">Trade-off, p. 7</link></p>
+<p id="krugmanwellsessentials4e-ch1-p302" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p95">Marginal decisions, p. 7</link></p>
+<p id="krugmanwellsessentials4e-ch1-p303" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p95">Marginal analysis, p. 7</link></p>
+<p id="krugmanwellsessentials4e-ch1-p304" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p114">Incentive, p. 8</link></p>
+<p id="krugmanwellsessentials4e-ch1-p305" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p150">Interaction, p. 10</link></p>
+<p id="krugmanwellsessentials4e-ch1-p306" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p157">Trade, p. 11</link></p>
+<p id="krugmanwellsessentials4e-ch1-p307" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p159">Gains from trade, p. 11</link></p>
+<p id="krugmanwellsessentials4e-ch1-p308" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p159">Specialization, p. 11</link></p>
+<p id="krugmanwellsessentials4e-ch1-p309" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p170">Equilibrium, p. 12</link></p>
+<p id="krugmanwellsessentials4e-ch1-p310" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p179">Efficient, p. 13</link></p>
+<p id="krugmanwellsessentials4e-ch1-p311" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch1-p185">Equity, p. 14</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch1-sec1-9" block_type="cr-que-t" title="" chapter="1" numbered="true" level="1" print_page="20">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch1-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch1-p66" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> In each of the following situations, identify which of the twelve principles is at work.</p>
+<list id="krugmanwellsessentials4e-ch1-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-67" block_type="cr-que-ans-first">You choose to shop at the local discount store rather than paying a higher price for the same merchandise at the local department store.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-68" block_type="cr-que-ans-mid">On your spring break trip, your budget is limited to &#36;35 a day.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-69" block_type="cr-que-ans-mid">The student union provides a website on which departing students can sell items such as used books, appliances, and furniture rather than give them away to their roommates as they formerly did.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-70" block_type="cr-que-ans-mid">After a hurricane did extensive damage to homes on the island of St. Crispin, homeowners wanted to purchase many more building materials and hire many more workers than were available on the island. As a result, prices for goods and services rose dramatically across the board.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-71" block_type="cr-que-ans-mid">You buy a used textbook from your roommate. Your roommate uses the money to buy songs from iTunes.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-72" block_type="cr-que-ans-mid">You decide how many cups of coffee to have when studying the night before an exam by considering how much more work you can do by having another cup versus how jittery it will make you feel.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-73" block_type="cr-que-ans-mid">There is limited lab space available to do the project required in Chemistry 101. The lab supervisor assigns lab time to each student based on when that student is able to come.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-74" block_type="cr-que-ans-mid">You realize that you can graduate a semester early by forgoing a semester of study abroad.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-75" block_type="cr-que-ans-mid">At the student union, there is a bulletin board on which people advertise used items for sale, such as bicycles. Once you have adjusted for differences in quality, all the bikes sell for about the same price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-76" block_type="cr-que-ans-mid">You are better at performing lab experiments, and your lab partner is better at writing lab reports. So the two of you agree that you will do all the experiments and she will write up all the reports.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-77" block_type="cr-que-ans-mid">State governments mandate that it is illegal to drive without passing a driving exam.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-78" block_type="cr-que-ans-mid">Your parents&#8217; after-tax income has increased because of a tax cut passed by Congress. They therefore increase your allowance, which you spend on a spring break vacation.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch1-p79" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> Describe some of the opportunity costs when you decide to do the following.</p>
+<list id="krugmanwellsessentials4e-ch1-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-80" block_type="cr-que-ans-first">Attend college instead of taking a job</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-81" block_type="cr-que-ans-mid">Watch a movie instead of studying for an exam</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-82" block_type="cr-que-ans-mid">Ride the bus instead of driving your car</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch1-p83" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> Liza needs to buy a textbook for the next economics class. The price at the college bookstore is &#36;65. One online site offers it for &#36;55 and another site, for &#36;57. All prices include sales tax. The accompanying table indicates the typical shipping and handling charges for the textbook ordered online.</p>
+<p id="krugmanwellsessentials4e_page_21" block_type="page_start">21</p>
+<table id="krugmanwellsessentials4e-ch1-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch1-untab-4" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Shipping method</strong></td>
+<td class="tbl-lborder"><strong>Delivery time</strong></td>
+<td class="tbl-lborder"><strong>Charge</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Standard shipping</td>
+<td class="tbl-lborder">3&#8211;7 days</td>
+<td class="tbl-lborder">&#36;3.99</td></tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Second-day air</td>
+<td class="tbl-lborder">2 business days</td>
+<td class="tbl-lborder">8.98</td></tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Next-day air</td>
+<td class="tbl-lborder">1 business day</td>
+<td class="tbl-lborder">13.98</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch1-list-8" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-84" block_type="cr-que-ans-first">What is the opportunity cost of buying online instead of at the bookstore? Note that if you buy the book online, you must wait to get it.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-85" block_type="cr-que-ans-mid">Show the relevant choices for this student. What determines which of these options the student will choose?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch1-p86" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Use the concept of opportunity cost to explain the following.</p>
+<list id="krugmanwellsessentials4e-ch1-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-87" block_type="cr-que-ans-first">More people choose to get graduate degrees when the job market is poor.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-88" block_type="cr-que-ans-mid">More people choose to do their own home repairs when the economy is slow and hourly wages are down.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-89" block_type="cr-que-ans-mid">There are more parks in suburban than in urban areas.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-90" block_type="cr-que-ans-mid">Convenience stores, which have higher prices than supermarkets, cater to busy people.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-91" block_type="cr-que-ans-mid">Fewer students enroll in classes that meet before 10:00 <phrase block_type="small">A.M</phrase>.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch1-p92" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> In the following examples, state how you would use the principle of marginal analysis to make a decision.</p>
+<list id="krugmanwellsessentials4e-ch1-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-93" block_type="cr-que-ans-first">Deciding how many days to wait before doing your laundry</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-94" block_type="cr-que-ans-mid">Deciding how much library research to do before writing your term paper</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-95" block_type="cr-que-ans-mid">Deciding how many bags of chips to eat</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-96" block_type="cr-que-ans-mid">Deciding how many lectures of a class to skip</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch1-p97" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> This morning you made the following individual choices: you bought a bagel and coffee at the local caf&#233;, you drove to school in your car during rush hour, and you typed your roommate&#8217;s term paper because you are a fast typist&#8212;in return for which she will do your laundry for a month. For each of these actions, describe how your individual choices interacted with the individual choices made by others. Were other people left better off or worse off by your choices in each case?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch1-p98" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> The Hatfield family lives on the east side of the Hatatoochie River, and the McCoy family lives on the west side. Each family&#8217;s diet consists of fried chicken and corn-on-the-cob, and each is self-sufficient, raising their own chickens and growing their own corn. Explain the conditions under which each of the following would be true.</p>
+<list id="krugmanwellsessentials4e-ch1-list-11" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-99" block_type="cr-que-ans-first">The two families are made better off when the Hatfields specialize in raising chickens, the McCoys specialize in growing corn, and the two families trade.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-100" block_type="cr-que-ans-mid">The two families are made better off when the McCoys specialize in raising chickens, the Hatfields specialize in growing corn, and the two families trade.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch1-p101" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> Which of the following situations describes an equilibrium? Which does not? If the situation does not describe an equilibrium, what would an equilibrium look like?</p>
+<list id="krugmanwellsessentials4e-ch1-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-102" block_type="cr-que-ans-first">Many people regularly commute from the suburbs to downtown Pleasantville. Due to traffic congestion, the trip takes 30 minutes when you travel by highway but only 15 minutes when you go by side streets.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-103" block_type="cr-que-ans-mid">At the intersection of Main and Broadway are two gas stations. One station charges &#36;3.00 per gallon for regular gas and the other charges &#36;2.85 per gallon. Customers can get service immediately at the first station but must wait in a long line at the second.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-104" block_type="cr-que-ans-mid">Every student enrolled in Economics 101 must also attend a weekly tutorial. This year there are two sections offered: section A and section B, which meet at the same time in adjoining classrooms and are taught by equally competent instructors. Section A is overcrowded, with people sitting on the floor and often unable to see what is written on the board at the front of the room. Section B has many empty seats.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch1-p105" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> In each of the following cases, explain whether you think the situation is efficient or not. If it is not efficient, why not? What actions would make the situation efficient?</p>
+<list id="krugmanwellsessentials4e-ch1-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-106" block_type="cr-que-ans-first">Electricity is included in the rent at your dorm. Some residents in your dorm leave lights, computers, and appliances on when they are not in their rooms.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-107" block_type="cr-que-ans-mid">Although they cost the same amount to prepare, the cafeteria in your dorm consistently provides too many dishes that diners don&#8217;t like, such as tofu casserole, and too few dishes that diners do like, such as roast turkey with dressing.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-108" block_type="cr-que-ans-mid">The enrollment for a particular course exceeds the spaces available. Some students who need to take this course to complete their major are unable to get a space even though others who are taking it as an elective do get a space.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch1-p109" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> Discuss the efficiency and equity implications of each of the following policies. How would you go about balancing the concerns of equity and efficiency in these areas?</p>
+<list id="krugmanwellsessentials4e-ch1-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-110" block_type="cr-que-ans-first">The government pays the full tuition for every college student to study whatever subject he or she wishes.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-111" block_type="cr-que-ans-mid">When people lose their jobs, the government provides unemployment benefits until they find new ones.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch1-p112" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> Governments often adopt certain policies in order to promote desired behavior among their citizens. For each of the following policies, determine what the incentive is and what behavior the government wishes to promote. In each case, why do you think that the government might wish to change people&#8217;s behavior rather than allow their actions to be solely determined by individual choice?</p>
+<p id="krugmanwellsessentials4e_page_22" block_type="page_start">22</p>
+<list id="krugmanwellsessentials4e-ch1-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-113" block_type="cr-que-ans-first">A tax of &#36;5 per pack is imposed on cigarettes.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-114" block_type="cr-que-ans-mid">The government pays parents &#36;100 when their child is vaccinated for measles.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-115" block_type="cr-que-ans-mid">The government pays college students to tutor children from low-income families.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-116" block_type="cr-que-ans-mid">The government imposes a tax on the amount of air pollution that a company discharges.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch1-p117" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> In each of the following situations, explain how government intervention could improve society&#8217;s welfare by changing people&#8217;s incentives. In what sense is the market going wrong?</p>
+<list id="krugmanwellsessentials4e-ch1-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch1-li-118" block_type="cr-que-ans-first">Pollution from auto emissions has reached unhealthy levels.</p></li>
+<li><p id="krugmanwellsessentials4e-ch1-li-119" block_type="cr-que-ans-mid">Everyone in Woodville would be better off if streetlights were installed in the town. But no individual resident is willing to pay for installation of a streetlight in front of his or her house because it is impossible to recoup the cost by charging other residents for the benefit they receive from it.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch1-120" block_type="cr-que-nl-mid"><phrase block_type="qnum">13.</phrase> In 2010, Tim Geithner, Treasury secretary at the time, published an article defending the administration&#8217;s policies. In it he said, &#8220;The recession that began in late 2007 was extraordinarily severe. But the actions we took at its height to stimulate the economy helped arrest the free fall, preventing an even deeper collapse and putting the economy on the road to recovery.&#8221; Which two of the three principles of economy-wide interaction are at work in this statement?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-14" block_type="q_prob" number="14">
+<p id="krugmanwellsessentials4e-ch1-p121" block_type="cr-que-nl-mid"><phrase block_type="qnum">14.</phrase> In August 2007, a sharp downturn in the U.S. housing market reduced the income of many who worked in the home construction industry. <em>A Wall Street Journal</em> news article reported that Walmart&#8217;s wire-transfer business was likely to suffer because many construction workers are Hispanics who regularly send part of their wages back to relatives in their home countries via Walmart. With this information, use one of the principles of economy-wide interaction to trace a chain of links that explains how reduced spending for U.S. home purchases is likely to affect the performance of the Mexican economy.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-15" block_type="q_prob" number="15">
+<p id="krugmanwellsessentials4e-ch1-p122" block_type="cr-que-nl-mid"><phrase block_type="qnum">15.</phrase> In 2012, Hurricane Sandy caused massive destruction to the northeast United States. Tens of thousands of people lost their homes and possessions. Even those who weren&#8217;t directly affected by the destruction were hurt because businesses failed or contracted and jobs dried up. Using one of the principles of economy-wide interaction, explain how government intervention can help in this situation.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch1-question-16" block_type="q_prob" number="16">
+<p id="krugmanwellsessentials4e-ch1-p123" block_type="cr-que-nl-mid"><phrase block_type="qnum">16.</phrase> During the Great Depression, food was left to rot in the fields or fields that had once been actively cultivated were left fallow. Use one of the principles of economy-wide interaction to explain how this could have occurred.</p>
+</question>
+</section>
+</chapter>
+</manuscript>
