@@ -1,9 +1,13 @@
 Hand edits for KrugmanWellsEssentials4e
-edut src="images" to src="asset/ch3" (or whatever chapter number)
+edit src="images" to src="asset/ch3" (or whatever chapter number)
 *** use fix_links.pl *** resolves href="#kaufman... to URLs, either for chapters or figures 
+run keyterms scripts
 check data-href for numbered tables
 many figures need different width and align values
 took "abc" off some images files (5 & 10) and adjusted XML accordingly
 must edit key terms matching question
 
 Still need to add Show Answers after each list item in the CYU features.
+
+for consistency, ch 2, 4, 5 tables (num and unnum) were numbered from 1..n, with a pool of shared, consecutive numbers
+ch 5, first table (unnum) had no data-href

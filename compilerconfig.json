@@ -1,0 +1,26 @@
+﻿[
+  {
+    "outputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch1.css",
+    "inputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch1.less"
+  },
+  {
+    "outputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch2.css",
+    "inputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch2.less"
+  },
+  {
+    "outputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch4.css",
+    "inputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch4.less"
+  },
+  {
+    "outputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch5.css",
+    "inputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch5.less"
+  },
+  {
+    "outputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch3.css",
+    "inputFile": "krug_ess4e/html/css/krugmanwellsessentials4e_ch3.less"
+  },
+  {
+    "outputFile": "krug_ess4e/html/css/krugmanwellsessentials4e.css",
+    "inputFile": "krug_ess4e/html/css/krugmanwellsessentials4e.less"
+  }
+]

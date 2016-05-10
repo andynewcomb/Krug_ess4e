@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="05" name="" title="KRU_Chapter_05_SOL_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+title="KRU_Chapter_05_SOL_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
 <chapter number="5" id="krugmanwellsessentials4e-ch5-chapter-5" title="CHAPTER 5: Elasticity and Taxation" start-numbering-at="5" numbered="true">
 <section id="krugmanwellsessentials4e-ch5-sec1-001" block_type="h1" title="Chapter Introduction" chapter="5" numbered="false" level="1" print_page="137">
 <p id="krugmanwellsessentials4e_page_137" block_type="page_start">137</p>
@@ -9,7 +8,7 @@
 <p id="krugmanwellsessentials4e-ch3-p48am" block_type="co-t"><strong>TAKEN FOR A RIDE</strong></p>
 <figure id="krugmanwellsessentials4e-ch5-fig-001" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="images/KrugESS4e_CO05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="asset/ch5/KrugESS4e_CO05.jpg"/>
 <caption>The demand for ambulance rides to the hospital is relatively unresponsive to the price.</caption>
 <asset_source>Scott Kochsiek/iStockphoto/Getty Images</asset_source>
 </figure>
@@ -25,7 +24,7 @@
 </list>
 </box>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-1" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="asset/images/launchpad_ML_logo_black.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p09" block_type="co-txt-ni"><phrase block_type="dropcap">I</phrase>F YOU ARE EXPERIENCING A TRUE emergency, you aren&#8217;t likely to quibble about the price of an ambulance ride to the nearest emergency room. But what if it isn&#8217;t an emergency? Take the case of Kira Millas, who doesn&#8217;t even know who called an ambulance after she swam into the side of a swimming pool, breaking three teeth. Shaken, she accepted the ambulance ride to a local hospital, 15 minutes away. A week later, she received the bill: &#36;1,772.42. Stunned, she said: &#8220;We only drove nine miles and it was a non-life-threatening injury. I needed absolutely no emergency treatment.&#8221;</p>
 <p id="krugmanwellsessentials4e-ch5-p010" block_type="co-txt">Kira&#8217;s experience is by no means exceptional. Although ambulances are often requested by a bystander or by 911 dispatchers, it is the patient who receives the bill. Undoubtedly, in a true medical emergency, a patient feels fortunate that an ambulance is available. But even in nonemergency cases, like Kira&#8217;s, many patients often feel obliged to get into the ambulance once it arrives. And just like Kira, they are uninformed about the cost of the ride to the hospital. (With luck, they have recovered by the time they receive the bill!) And while many people have health insurance that will cover some or all of the cost of the ambulance service, the patient is ultimately responsible for paying the rest.</p>
@@ -47,7 +46,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-002" block_type="figure" numbered="true" number="5-1" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-002"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-1</phrase> <phrase block_type="fig_title">The Demand for Ambulance Rides</phrase></strong></phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="images/KrugESS4e_fig_5_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="asset/ch5/KrugESS4e_fig_5_01.jpg"/>
 <caption>At a price of &#36;200 per ambulance ride, the quantity of ambulance rides demanded is 10&#160;million per year (point <em>A</em>). When price rises to &#36;210 per vaccination, the quantity demanded falls to 9.9 million ambulance rides per year (point <em>B</em>).</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p019" block_type="txt"><link href="#krugmanwellsessentials4e_ch5-fig-002">Figure 5-1</link>, then, tells us the change in the quantity demanded for a particular change in the price. But how can we turn this into a measure of price responsiveness? The answer is to calculate the <em>price elasticity of demand.</em></p>
@@ -57,17 +56,17 @@
 <p id="krugmanwellsessentials4e-ch5-p021" block_type="txt">The <strong>price elasticity of demand</strong> is the ratio of the <em>percent change in quantity demanded</em> to the <em>percent change in price</em> as we move along the demand curve. As we&#8217;ll see later in this chapter, the reason economists use percent changes is to obtain a measure that doesn&#8217;t depend on the units in which a good is measured (say, a 1-mile ambulance trip versus a 10-mile ambulance trip). But before we get to that, let&#8217;s look at how elasticity is calculated.</p>
 <p id="krugmanwellsessentials4e_page_139" block_type="page_start">139</p>
 <p id="krugmanwellsessentials4e-ch5-p022" block_type="txt">To calculate the price elasticity of demand, we first calculate the <em>percent change in the quantity demanded</em> and the corresponding <em>percent change in the price</em> as we move along the demand curve. These are defined as follows:</p>
-<p id="krugmanwellsessentials4e-ch5-p023" block_type="eq"><strong>(5-1)</strong> &#37; change in quantity demanded = <image asset-id="krugmanwellsessentials4e-ch5-img-003" alt="image" src="images/KrugESS4e_5UN12.jpg"/> &#215; 100</p>
+<p id="krugmanwellsessentials4e-ch5-p023" block_type="eq"><strong>(5-1)</strong> &#37; change in quantity demanded = <image asset-id="krugmanwellsessentials4e-ch5-img-003" alt="image" src="asset/ch5/KrugESS4e_5UN12.jpg"/> &#215; 100</p>
 <p id="krugmanwellsessentials4e-ch5-p024" block_type="eq-mid">and</p>
-<p id="krugmanwellsessentials4e-ch5-p025" block_type="eq"><strong>(5-2)</strong> &#37; change in price = <image asset-id="krugmanwellsessentials4e-ch5-img-004" alt="image" src="images/KrugESS4e_5UN13.jpg"/> &#215; 100</p>
+<p id="krugmanwellsessentials4e-ch5-p025" block_type="eq"><strong>(5-2)</strong> &#37; change in price = <image asset-id="krugmanwellsessentials4e-ch5-img-004" alt="image" src="asset/ch5/KrugESS4e_5UN13.jpg"/> &#215; 100</p>
 <p id="krugmanwellsessentials4e-ch5-p026" block_type="txt-ni">In <link href="#krugmanwellsessentials4e_ch5-fig-002">Figure 5-1</link>, we see that when the price rises from &#36;200 to &#36;210, the quantity demanded falls from 10 million to 9.9 million rides, yielding a change in the quantity demanded of 0.1 million rides. So the percent change in the quantity demanded is</p>
-<p id="krugmanwellsessentials4e-ch5-p027" block_type="eq">&#37; change in quantity demanded = <image asset-id="krugmanwellsessentials4e-ch5-img-005" alt="image" src="images/KrugESS4e_5UN14.jpg"/> &#215; 100 = &#8722;1&#37;</p>
+<p id="krugmanwellsessentials4e-ch5-p027" block_type="eq">&#37; change in quantity demanded = <image asset-id="krugmanwellsessentials4e-ch5-img-005" alt="image" src="asset/ch5/KrugESS4e_5UN14.jpg"/> &#215; 100 = &#8722;1&#37;</p>
 <p id="krugmanwellsessentials4e-ch5-p029" block_type="txt">The initial price is &#36;200 and the change in the price is &#36;10, so the percent change in price is</p>
-<p id="krugmanwellsessentials4e-ch5-p030" block_type="eq">&#37; change in price = <image asset-id="krugmanwellsessentials4e-ch5-img-006" alt="image" src="images/KrugESS4e_5UN15.jpg"/> &#215; 100 = 5&#37;</p>
+<p id="krugmanwellsessentials4e-ch5-p030" block_type="eq">&#37; change in price = <image asset-id="krugmanwellsessentials4e-ch5-img-006" alt="image" src="asset/ch5/KrugESS4e_5UN15.jpg"/> &#215; 100 = 5&#37;</p>
 <p id="krugmanwellsessentials4e-ch5-p031" block_type="txt">To calculate the price elasticity of demand, we find the ratio of the percent change in the quantity demanded to the percent change in the price:</p>
-<p id="krugmanwellsessentials4e-ch5-p032" block_type="eq"><strong>(5-3)</strong> Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-007" alt="image" src="images/KrugESS4e_5UN16.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch5-p032" block_type="eq"><strong>(5-3)</strong> Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-007" alt="image" src="asset/ch5/KrugESS4e_5UN16.jpg"/></p>
 <p id="krugmanwellsessentials4e-ch5-p033" block_type="txt">In <link href="#krugmanwellsessentials4e_ch5-fig-002">Figure 5-1</link>, the price elasticity of demand is therefore</p>
-<p id="krugmanwellsessentials4e-ch5-p034" block_type="eq">Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-008" alt="image" src="images/KrugESS4e_5UN17.jpg"/> = 0.2</p>
+<p id="krugmanwellsessentials4e-ch5-p034" block_type="eq">Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-008" alt="image" src="asset/ch5/KrugESS4e_5UN17.jpg"/> = 0.2</p>
 <p id="krugmanwellsessentials4e-ch5-p035" block_type="txt">Notice that the minus sign that appeared in the calculation of the percent change in the quantity demanded has been dropped when we calculate this last equation, the price elasticity of demand. Why have we done this? The <em>law of demand</em> says that demand curves are downward sloping, so price and quantity demanded always move in opposite directions. In other words, a positive percent change in price (a rise in price) leads to a negative percent change in the quantity demanded; a negative percent change in price (a fall in price) leads to a positive percent change in the quantity demanded. This means that the price elasticity of demand is, in strictly mathematical terms, a negative number.</p>
 <p id="krugmanwellsessentials4e-ch5-p036" block_type="txt">However, it is inconvenient to repeatedly write a minus sign. So when economists talk about the price elasticity of demand, they usually drop the minus sign and report the <em>absolute value</em> of the price elasticity of demand. In this case, for example, economists would usually say &#8220;the price elasticity of demand is 0.2,&#8221; taking it for granted that you understand they mean <em>minus</em> 0.2. We follow this convention here.</p>
 <p id="krugmanwellsessentials4e-ch5-p037" block_type="txt">The larger the price elasticity of demand, the more responsive the quantity demanded is to the price. When the price elasticity of demand is large&#8212;when consumers change their quantity demanded by a large percentage compared to the percent change in the price&#8212;economists say that demand is highly elastic.</p>
@@ -84,11 +83,11 @@
 <p id="krugmanwellsessentials4e-ch5-p043" block_type="mn-gl-def">The <strong>midpoint method</strong> is a technique for calculating the percent change. In this approach, we calculate changes in a variable compared with the average, or midpoint, of the starting and final values.</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p044" block_type="txt">The <strong>midpoint method</strong> replaces the usual definition of the percent change in a variable, <em>X,</em> with a slightly different definition:</p>
-<p id="krugmanwellsessentials4e-ch5-p045" block_type="eq"><strong>(5-4)</strong> &#37; change in <em>X</em> = <image asset-id="krugmanwellsessentials4e-ch5-img-009" alt="image" src="images/KrugESS4e_5UN18.jpg"/> &#215; 100</p>
+<p id="krugmanwellsessentials4e-ch5-p045" block_type="eq"><strong>(5-4)</strong> &#37; change in <em>X</em> = <image asset-id="krugmanwellsessentials4e-ch5-img-009" alt="image" src="asset/ch5/KrugESS4e_5UN18.jpg"/> &#215; 100</p>
 <p id="krugmanwellsessentials4e-ch5-p046" block_type="txt-ni">where the average value of <em>X</em> is defined as</p>
-<p id="krugmanwellsessentials4e-ch5-p047" block_type="eq">Average value of <em>X</em> = <image asset-id="krugmanwellsessentials4e-ch5-img-010" alt="image" src="images/KrugESS4e_5UN19.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch5-p047" block_type="eq">Average value of <em>X</em> = <image asset-id="krugmanwellsessentials4e-ch5-img-010" alt="image" src="asset/ch5/KrugESS4e_5UN19.jpg"/></p>
 <p id="krugmanwellsessentials4e-ch5-p048" block_type="txt">When calculating the price elasticity of demand using the midpoint method, both the percent change in the price and the percent change in the quantity demanded are found using this method. To see how this method works, suppose you have the following data for some good:</p>
-<table id="krugmanwellsessentials4e-ch5-untab-1" block_type="un_table" data-href="" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-1" block_type="un_table" data-href="asset/ch5/tables/untable_5_1.html" data-target="_pop">
 <tbody>
 <tr>
 <td></td>
@@ -108,16 +107,16 @@
 </tbody>
 </table>
 <p id="krugmanwellsessentials4e-ch5-p049" block_type="txt">To calculate the percent change in quantity going from situation A to situation&#160;<em>B</em>, we compare the change in the quantity demanded&#8212;a fall of 200 units&#8212;with the <em>average</em> of the quantity demanded in the two situations. So we calculate</p>
-<p id="krugmanwellsessentials4e-ch5-p050" block_type="eq">&#37; change in quantity demanded = <image asset-id="krugmanwellsessentials4e-ch5-img-011" alt="image" src="images/KrugESS4e_5UN20.jpg"/> &#215; 100 = <image asset-id="krugmanwellsessentials4e-ch5-img-012" alt="image" src="images/KrugESS4e_5UN21.jpg"/> &#215; 100 = &#8722;20&#37;</p>
+<p id="krugmanwellsessentials4e-ch5-p050" block_type="eq">&#37; change in quantity demanded = <image asset-id="krugmanwellsessentials4e-ch5-img-011" alt="image" src="asset/ch5/KrugESS4e_5UN20.jpg"/> &#215; 100 = <image asset-id="krugmanwellsessentials4e-ch5-img-012" alt="image" src="asset/ch5/KrugESS4e_5UN21.jpg"/> &#215; 100 = &#8722;20&#37;</p>
 <p id="krugmanwellsessentials4e-ch5-p051" block_type="txt">In the same way, we calculate</p>
-<p id="krugmanwellsessentials4e-ch5-p052" block_type="eq">&#37; change in price = <image asset-id="krugmanwellsessentials4e-ch5-img-013" alt="image" src="images/KrugESS4e_5UN22.jpg"/> &#215; 100 = <image asset-id="krugmanwellsessentials4e-ch5-img-014" alt="image" src="images/KrugESS4e_5UN23.jpg"/> &#215; 100 = 20&#37;</p>
+<p id="krugmanwellsessentials4e-ch5-p052" block_type="eq">&#37; change in price = <image asset-id="krugmanwellsessentials4e-ch5-img-013" alt="image" src="asset/ch5/KrugESS4e_5UN22.jpg"/> &#215; 100 = <image asset-id="krugmanwellsessentials4e-ch5-img-014" alt="image" src="asset/ch5/KrugESS4e_5UN23.jpg"/> &#215; 100 = 20&#37;</p>
 <p id="krugmanwellsessentials4e-ch5-p053" block_type="txt">So in this case we would calculate the price elasticity of demand to be</p>
-<p id="krugmanwellsessentials4e-ch5-p054" block_type="eq">Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-015" alt="image" src="images/KrugESS4e_5UN24.jpg"/> = <image asset-id="krugmanwellsessentials4e-ch5-img-016" alt="image" src="images/KrugESS4e_5UN25.jpg"/> = 1</p>
+<p id="krugmanwellsessentials4e-ch5-p054" block_type="eq">Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-015" alt="image" src="asset/ch5/KrugESS4e_5UN24.jpg"/> = <image asset-id="krugmanwellsessentials4e-ch5-img-016" alt="image" src="asset/ch5/KrugESS4e_5UN25.jpg"/> = 1</p>
 <p id="krugmanwellsessentials4e-ch5-p054" block_type="txt">again dropping the minus sign.</p>
 <p id="krugmanwellsessentials4e_page_141" block_type="page_start">141</p>
 <p id="krugmanwellsessentials4e-ch5-p056" block_type="txt">The important point is that we would get the same result, a price elasticity of demand of 1, whether we go up the demand curve from situation A to situation B or down from situation B to situation A.</p>
 <p id="krugmanwellsessentials4e-ch5-p057" block_type="txt">To arrive at a more general formula for price elasticity of demand, suppose that we have data for two points on a demand curve. At point 1 the quantity demanded and price are (<em>Q</em><sub>1</sub>, <em>P</em><sub>1</sub>); at point 2 they are (<em>Q</em><sub>2</sub>, <em>P</em><sub>2</sub>). Then the formula for calculating the price elasticity of demand is:</p>
-<p id="krugmanwellsessentials4e-ch5-p058" block_type="eq"><strong>(5-5)</strong> Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-017" alt="image" src="images/KrugESS4e_5UN26.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch5-p058" block_type="eq"><strong>(5-5)</strong> Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-017" alt="image" src="asset/ch5/KrugESS4e_5UN26.jpg"/></p>
 <p id="krugmanwellsessentials4e-ch5-p059" block_type="txt">As before, when finding a price elasticity of demand calculated by the midpoint method, we drop the minus sign and use the absolute value.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-2" block_type="bx2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
@@ -127,7 +126,7 @@
 <p id="krugmanwellsessentials4e-ch5-p064" block_type="bx2-txt">Economists have estimated price elasticities of demand for a number of goods and services. <link href="#krugmanwellsessentials4e-ch5-tab-1">Table 5-1</link> summarizes some of these and shows a wide range of price elasticities. There are some goods, like gasoline, for which demand hardly responds at all to changes in the price. There are other goods, such as airline travel for leisure, or Coke and Pepsi, for which the quantity demanded is very sensitive to the price.</p>
 <p id="krugmanwellsessentials4e-ch5-p065" block_type="bx2-txt">Notice that <link href="#krugmanwellsessentials4e-ch5-tab-1">Table 5-1</link> is divided into two parts: inelastic and elastic demand. We&#8217;ll explain the significance of that division in the next section.</p>
 </box>
-<table id="krugmanwellsessentials4e-ch5-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch5-tab-1" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch5/tables/table_5_2.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">5-1</phrase></strong> <phrase block_type="tbl_title">Some Estimated Price Elasticities of Demand</phrase></table_caption>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -215,7 +214,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-3" block_type="figure" numbered="true" number="5-2" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-3"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-2</phrase></strong></phrase> <phrase block_type="fig_title">Two Extreme Cases of Price Elasticity of Demand</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-003" alt="image" src="images/KrugESS4e_fig_5_02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-003" alt="image" src="asset/ch5/KrugESS4e_fig_5_02.jpg"/>
 <caption>Panel (a) shows a perfectly inelastic demand curve, which is a vertical line. The quantity of snake anti-venom demanded is always 1,000 doses, regardless of price. As a result, the price elasticity of demand is zero&#8212;the quantity demanded is unaffected by the price. Panel (b) shows a perfectly elastic demand curve, which is a horizontal line. At a price of &#36;5, consumers will buy any quantity of pink tennis balls, but they will buy none at a price above &#36;5. If the price falls below &#36;5, they will buy an extremely large number of pink tennis balls and none of any other color.
 </caption>
 </figure>
@@ -243,7 +242,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-5" block_type="figure" numbered="true" number="5-3" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-5"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-3</phrase></strong></phrase> <phrase block_type="fig_title">Unit-Elastic Demand, Inelastic Demand, and Elastic Demand</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-005" alt="image" src="images/KrugESS4e_fig_5_03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-005" alt="image" src="asset/ch5/KrugESS4e_fig_5_03.jpg"/>
 <caption>Panel (a) shows a case of unit-elastic demand: a 20&#37; increase in price generates a 20&#37; decline in quantity demanded, implying a price elasticity of demand of 1. Panel (b) shows a case of inelastic demand: a 20&#37; increase in price generates a 10&#37; decline in quantity demanded, implying a price elasticity of demand of 0.5. A case of elastic demand is shown in panel&#160;(c): a 20&#37; increase in price causes a 40&#37; decline in quantity demanded, implying a price elasticity of demand of 2. All percentages are calculated using the midpoint method.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p093" block_type="txt">To get an idea of why total revenue is important, consider the following scenario. Suppose that the toll on the bridge is currently &#36;0.90 but that the highway department must raise extra money for road repairs. One way to do this is to raise the toll on the bridge. But this plan might backfire, since a higher toll will reduce the number of drivers who use the bridge. And if traffic on the bridge dropped a lot, a higher toll would actually reduce total revenue instead of increasing it. So it&#8217;s important for the highway department to know how drivers will respond to a toll increase.</p>
@@ -252,14 +251,14 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-006" block_type="figure" numbered="true" number="5-4" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-006"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-4</phrase></strong></phrase> <phrase block_type="fig_title">Total Revenue</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-006" alt="image" src="images/KrugESS4e_fig_5_04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-006" alt="image" src="asset/ch5/KrugESS4e_fig_5_04.jpg"/>
 <caption>The green rectangle in panel (a) shows the total revenue generated from 1,100 drivers who each pay a toll of &#36;0.90. Panel (b) shows how total revenue is affected when the price increases from &#36;0.90 to &#36;1.10. Due to the quantity effect, total revenue falls by area <em>A</em>. Due to the price effect, total revenue increases by the area <em>C</em>. In general, the overall effect can go either way, depending on the price elasticity of demand.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p096" block_type="txt">These two areas have important interpretations. Area <em>C</em> represents the revenue gain that comes from the additional &#36;0.20 paid by drivers who continue to use the bridge. That is, the 900 who continue to use the bridge contribute an additional &#36;0.20 &#215; 900 = &#36;180 per day to total revenue, represented by area <em>C.</em> But 200 drivers who would have used the bridge at a price of &#36;0.90 no longer do so, generating a loss to total revenue of &#36;0.90 &#215; 200 = &#36;180 per day, represented by area <em>A.</em> (In this particular example, because demand is unit-elastic&#8212;the same as in panel (a) of <link href="#krugmanwellsessentials4e_ch5-fig-005">Figure 5-3</link>&#8212;the rise in the toll has no effect on total revenue; areas <em>A</em> and <em>C</em> are the same size.)</p>
 <p id="krugmanwellsessentials4e-ch5-p097" block_type="txt">Except in the rare case of a good with perfectly elastic or perfectly inelastic demand, when a seller raises the price of a good, two countervailing effects are present:</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-007" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-007" alt="image" src="images/KrugESS4e_5UN01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-007" alt="image" src="asset/ch5/KrugESS4e_5UN01.jpg"/>
 <caption>The highway department uses the price elasticity of demand to calculate the change in revenue from higher tolls.</caption>
 </figure>
 <list id="krugmanwellsessentials4e-ch5-list-2" type="unordered" block_type="bullet">
@@ -283,7 +282,7 @@
 </li>
 <li><p id="krugmanwellsessentials4e-ch5-p015" block_type="bl-last">When demand is <em>elastic,</em> the quantity effect dominates the price effect; so a fall in price increases total revenue.</p></li>
 </list>
-<table id="krugmanwellsessentials4e-ch5-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch5-tab-2" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch5/tables/table_5_3.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">5-2</phrase> <phrase block_type="tbl_title">Price Elasticity of Demand and Total Revenue</phrase></strong></table_caption>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -348,7 +347,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-008" block_type="figure" numbered="true" number="5-5" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-008"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-5</phrase></strong></phrase> <phrase block_type="fig_title">The Price Elasticity of Demand Changes Along the Demand Curve</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-008" alt="image" src="images/KrugESS4e_fig_5_05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-008" alt="image" src="asset/ch5/KrugESS4e_fig_5_05.jpg"/>
 <caption>The upper panel shows a demand curve corresponding to the demand schedule in the table. The lower panel shows how total revenue changes along that demand curve: at each price and quantity combination, the height of the bar represents the total revenue generated. You can see that at a low price, raising the price increases total revenue. So demand is inelastic at low prices. At a high price, however, a rise in price reduces total revenue. So demand is elastic at high prices.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0114" block_type="txt">When the price is high, however, raising it further reduces total revenue: starting at a price of &#36;8, raising the price to &#36;9 reduces total revenue, from &#36;16 to &#36;9. This means that when the price is high, demand is elastic. Furthermore, you can see that demand is elastic over the section of the demand curve from a price of &#36;5 to &#36;10.</p>
@@ -368,7 +367,7 @@
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch5-p0123" block_type="bx2-t"><strong>Responding to Your Tuition Bill</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-2" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p0124" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-018" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p0124" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-018" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p0125" block_type="bx2-first"><phrase block_type="dropcap">C</phrase>ollege costs more than ever&#8212;and not just because of inflation. Tuition has been rising faster than the overall cost of living for years. But does rising tuition keep people from going to college? Two studies found that the answer depends on the type of college. Both studies assessed how responsive the decision to go to college is to a change in tuition.</p>
 <p id="krugmanwellsessentials4e-ch5-p0126" block_type="bx2-txt">A 1988 study found that a 3&#37; increase in tuition led to an approximately 2&#37; fall in the number of students enrolled at four-year institutions, giving a price elasticity of demand of 0.67 (2&#37;/3&#37;). In the case of two-year institutions, the study found a significantly higher response: a 3&#37; increase in tuition led to a 2.7&#37; fall in enrollments, giving a price elasticity of demand of 0.9. In other words, the enrollment decision for students at two-year colleges was significantly more responsive to price than for students at four-year colleges. The result: students at two-year colleges are more likely to forgo getting a degree because of tuition costs than students at four-year colleges.</p>
@@ -377,7 +376,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0128" block_type="bx2-txt">In response to decreased state funding, many public colleges and universities have been experimenting with changes to their tuition schedule in order to increase revenue. A 2012 study found that in-state college freshmen were significantly more responsive to the cost of tuition than freshmen from out-of-state. In-state freshmen were found to have a measured elasticity of demand of 1.8; the elasticity of demand for out-of state freshmen was statistically insignificant (that is, virtually zero). Perhaps out-of-state applicants are less price sensitive because they have higher incomes.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-009" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-009" alt="image" src="images/KrugESS4e_5UN02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-009" alt="image" src="asset/ch5/KrugESS4e_5UN02.jpg"/>
 <caption>Students at two-year schools are more responsive to the price of tuition than students at four-year schools.</caption>
 <asset_source>Wavebreakmedia/Shutterstock</asset_source>
 </figure>
@@ -422,8 +421,8 @@
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp3-7" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch5-p0149" block_type="mn-gl-def">The <strong>cross-price elasticity of demand</strong> between two goods measures the effect of the change in one good&#8217;s price on the quantity demanded of the other good. It is equal to the percent change in the quantity demanded of one good divided by the percent change in the other good&#8217;s price.</p>
 </box>
-<p id="krugmanwellsessentials4e-ch5-p0150" block_type="txt-ni">In <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link> you learned that the demand for a good is often affected by the prices of other, related goods&#8212;goods that are substitutes or complements. There you saw that a change in the price of a related good shifts the demand curve of the original good, reflecting a change in the quantity demanded at any given price. The strength of such a &#8220;cross&#8221; effect on demand can be measured by the <strong>cross-price elasticity of demand,</strong> defined as the ratio of the percent change in the quantity demanded of one good to the percent change in the price of the other.</p>
-<p id="krugmanwellsessentials4e-ch5-p0151" block_type="eq-first"><strong>(5-7)</strong> Cross-price elasticity of demand between goods A and B = <image asset-id="krugmanwellsessentials4e-ch5-img-019" alt="image" src="images/KrugESS4e_5UN27.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch5-p0150" block_type="txt-ni">In <link href="krugmanwellsessentials4e_ch3_1.html">Chapter 3</link> you learned that the demand for a good is often affected by the prices of other, related goods&#8212;goods that are substitutes or complements. There you saw that a change in the price of a related good shifts the demand curve of the original good, reflecting a change in the quantity demanded at any given price. The strength of such a &#8220;cross&#8221; effect on demand can be measured by the <strong>cross-price elasticity of demand,</strong> defined as the ratio of the percent change in the quantity demanded of one good to the percent change in the price of the other.</p>
+<p id="krugmanwellsessentials4e-ch5-p0151" block_type="eq-first"><strong>(5-7)</strong> Cross-price elasticity of demand between goods A and B = <image asset-id="krugmanwellsessentials4e-ch5-img-019" alt="image" src="asset/ch5/KrugESS4e_5UN27.jpg"/></p>
 <p id="krugmanwellsessentials4e-ch5-p0153" block_type="txt">When two goods are substitutes, like hot dogs and hamburgers, the cross-price elasticity of demand is positive: a rise in the price of hot dogs increases the demand for hamburgers&#8212;that is, it causes a rightward shift of the demand curve for hamburgers. If the goods are close substitutes, the cross-price elasticity will be positive and large; if they are not close substitutes, the cross-price elasticity will be positive and small. So when the cross-price elasticity of demand is positive, its size is a measure of how closely substitutable the two goods are, with a higher number meaning the goods are closer substitutes.</p>
 <p id="krugmanwellsessentials4e_page_151" block_type="page_start">151</p>
 <p id="krugmanwellsessentials4e-ch5-p0154" block_type="txt">When two goods are complements, like hot dogs and hot dog buns, the cross-price elasticity is negative: a rise in the price of hot dogs decreases the demand for hot dog buns&#8212;that is, it causes a leftward shift of the demand curve for hot dog buns. As with substitutes, the size of the cross-price elasticity of demand between two complements tells us how strongly complementary they are: if the cross-price elasticity is only slightly below zero, they are weak complements; if it is very negative, they are strong complements.</p>
@@ -437,8 +436,8 @@
 <p id="krugmanwellsessentials4e-ch5-p0163" block_type="mn-gl-def">The <strong>income elasticity of demand</strong> is the percent change in the quantity of a good demanded when a consumer&#8217;s income changes divided by the percent change in the consumer&#8217;s income.</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p0158" block_type="txt-ni">The <strong>income elasticity of demand</strong> is a measure of how much the demand for a good is affected by changes in consumers&#8217; incomes. It allows us to determine whether a good is a normal or inferior good as well as to measure how intensely the demand for the good responds to changes in income.</p>
-<p id="krugmanwellsessentials4e-ch5-p0159" block_type="eq-first"><strong>(5-8)</strong> Income elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-020" alt="image" src="images/KrugESS4e_5UN28.jpg"/></p>
-<p id="krugmanwellsessentials4e-ch5-p0160" block_type="txt">Just as the cross-price elasticity of demand between two goods can be either positive or negative, depending on whether the goods are substitutes or complements, the income elasticity of demand for a good can also be either positive or negative. Recall from <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link> that goods can be either <em>normal goods,</em> for which demand increases when income rises, or <em>inferior goods,</em> for which demand decreases when income rises. These definitions relate directly to the sign of the income elasticity of demand:</p>
+<p id="krugmanwellsessentials4e-ch5-p0159" block_type="eq-first"><strong>(5-8)</strong> Income elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-020" alt="image" src="asset/ch5/KrugESS4e_5UN28.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch5-p0160" block_type="txt">Just as the cross-price elasticity of demand between two goods can be either positive or negative, depending on whether the goods are substitutes or complements, the income elasticity of demand for a good can also be either positive or negative. Recall from <link href="krugmanwellsessentials4e_ch3_1.html">Chapter 3</link> that goods can be either <em>normal goods,</em> for which demand increases when income rises, or <em>inferior goods,</em> for which demand decreases when income rises. These definitions relate directly to the sign of the income elasticity of demand:</p>
 <list id="krugmanwellsessentials4e-ch5-list-6" type="unordered" block_type="bullet">
 <li><p id="krugmanwellsessentials4e-ch5-p031" block_type="bl-first">When the income elasticity of demand is positive, the good is a normal good. In this case, the quantity demanded at any given price increases as income increases.</p></li>
 <li><p id="krugmanwellsessentials4e-ch5-p032" block_type="bl-last">When the income elasticity of demand is negative, the good is an inferior good. In this case, the quantity demanded at any given price decreases as income increases.</p></li>
@@ -450,27 +449,27 @@
 <p id="krugmanwellsessentials4e-ch5-p0166" block_type="txt">The demand for a good is <strong>income-elastic</strong> if the income elasticity of demand for that good is greater than 1. When income rises, the demand for income-elastic goods rises <em>faster</em> than income. Luxury goods such as second homes and international travel tend to be income-elastic. The demand for a good is <strong>income-inelastic</strong> if the income elasticity of demand for that good is positive but less than 1. When income rises, the demand for income-inelastic goods rises, but more slowly than income. Necessities such as food and clothing tend to be income-inelastic.</p>
 <p id="krugmanwellsessentials4e_page_152" block_type="page_start">152</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx4-6" block_type="bx4-h">
-<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch5-img-7a" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase> <phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch5-img-7a" alt="image" src="asset/images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase> <phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch5-p0168" block_type="bx4-t"><strong>Food&#8217;s Bite in World Budgets</strong></p>
 <p id="krugmanwellsessentials4e-ch5-p0169" block_type="bx4-txt-ni"><phrase block_type="dropcap">I</phrase>f the income elasticity of demand for food is less than 1, we would expect to find that people in poor countries spend a larger share of their income on food than people in rich countries. And that&#8217;s exactly what the data show. In this graph, we compare per capita income&#8212;a country&#8217;s total income, divided by the population&#8212;with the share of income that is spent on food. (To make the graph a manageable size, per capita income is measured as a percentage of U.S. per capita income.)</p>
 <p id="krugmanwellsessentials4e-ch5-p0170" block_type="bx4-txt">In very poor countries, like Pakistan, people spend a large percent of their income on food. In middle-income countries, like Israel and Mexico, the share of spending that goes to food is much lower. And it&#8217;s even lower in rich countries like the United States.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-010" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0010" alt="image" src="images/KrugESS4e_5UN03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0010" alt="image" src="asset/ch5/KrugESS4e_5UN03.jpg"/>
 <asset_source><em>Data from:</em> U.S. Department of Agriculture and IMF <em>World Economic Outlook.</em></asset_source>
 </figure>
 </box>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-7" block_type="bx2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch5-img-171a" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch5-img-171a" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch5-p0172"><phrase block_type="bx2-t"><strong>Spending It</strong></phrase></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-3" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p0172" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he U.S. Bureau of Labor Statistics carries out extensive surveys of how families spend their incomes. This is not just a matter of intellectual curiosity. Quite a few government benefit programs involve some adjustment for changes in the cost of living; to estimate those changes, the government must know how people spend their money. But an additional payoff to these surveys is data on the income elasticity of demand for various goods.</p>
 <p id="krugmanwellsessentials4e-ch5-p0173" block_type="bx2-txt">What stands out from these studies? The classic result is that the income elasticity of demand for &#8220;food eaten at home&#8221; is considerably less than 1: as a family&#8217;s income rises, the share of its income spent on food consumed at home falls. Correspondingly, the lower a family&#8217;s income, the higher the share of income spent on food consumed at home.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-011" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0011" alt="image" src="images/KrugESS4e_5UN04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0011" alt="image" src="asset/ch5/KrugESS4e_5UN04.jpg"/>
 <caption>Judging by the activity at this busy McDonald&#8217;s, incomes are rising in Vietnam.</caption>
 <asset_source>Paula Bronstein/Getty Images</asset_source>
 </figure>
@@ -511,14 +510,14 @@
 <p id="krugmanwellsessentials4e-ch5-p0188" block_type="mn-gl-def">The <strong>price elasticity of supply</strong> is a measure of the responsiveness of the quantity of a good supplied to the price of that good. It is the ratio of the percent change in the quantity supplied to the percent change in the price as we move along the supply curve.</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p0189" block_type="txt-ni">The <strong>price elasticity of supply</strong> is defined the same way as the price elasticity of demand (although there is no minus sign to be eliminated here):</p>
-<p id="krugmanwellsessentials4e-ch5-p0190" block_type="eq-first"><strong>(5-9)</strong> Price elasticity of supply = <image asset-id="krugmanwellsessentials4e-ch5-img-021" alt="image" src="images/KrugESS4e_5UN29.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch5-p0190" block_type="eq-first"><strong>(5-9)</strong> Price elasticity of supply = <image asset-id="krugmanwellsessentials4e-ch5-img-021" alt="image" src="asset/ch5/KrugESS4e_5UN29.jpg"/></p>
 <p id="krugmanwellsessentials4e-ch5-p0191" block_type="txt-ni">The only difference is that now we consider movements along the supply curve rather than movements along the demand curve.</p>
 <p id="krugmanwellsessentials4e-ch5-p0192" block_type="txt">Suppose that the price of tomatoes rises by 10&#37;. If the quantity of tomatoes supplied also increases by 10&#37; in response, the price elasticity of supply of tomatoes is 1 (10&#37;/10&#37;) and supply is unit-elastic. If the quantity supplied increases by 5&#37;, the price elasticity of supply is 0.5 and supply is inelastic; if the quantity increases by 20&#37;, the price elasticity of supply is 2 and supply is elastic.</p>
 <p id="krugmanwellsessentials4e-ch5-p0193" block_type="txt">As in the case of demand, the extreme values of the price elasticity of supply have a simple graphical representation. Panel (a) of <link href="#krugmanwellsessentials4e_ch5-fig-012">Figure 5-6</link> shows the supply of cell phone frequencies, the portion of the radio spectrum that is suitable for sending and receiving cell phone signals. Governments own the right to sell the use of this part of the radio spectrum to cell phone operators inside their borders. But governments can&#8217;t increase or decrease the number of cell phone frequencies that they have to offer&#8212;for technical reasons, the quantity of frequencies suitable for cell phone operation is a fixed quantity.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-012" block_type="figure" numbered="true" number="5-6" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-6</phrase></strong></phrase> <phrase block_type="fig_title">Two Extreme Cases of Price Elasticity of Supply</phrase></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0012" alt="image" src="images/KrugESS4e_fig_5_06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0012" alt="image" src="asset/ch5/KrugESS4e_fig_5_06.jpg"/>
 <caption>Panel (a) shows a perfectly inelastic supply curve, which is a vertical line. The price elasticity of supply is zero: the quantity supplied is always the same, regardless of price. Panel (b) shows a perfectly elastic supply curve, which is a horizontal line. At a price of &#36;12, producers will supply any quantity, but they will supply none at a price below &#36;12. If price rises above &#36;12, they will supply an extremely large quantity.</caption>
 </figure>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp3-11" block_type="mn3">
@@ -544,12 +543,12 @@
 <p id="krugmanwellsessentials4e-ch5-p0206" block_type="txt">But given enough time, producers are often able to significantly change the amount they produce in response to a price change, even when production involves a limited natural resource or a very costly input. Agricultural markets provide a good example. When American farmers receive much higher prices for a given commodity, like wheat (because of a drought in a big wheat-producing country like Australia), in the next planting season they are likely to switch their acreage planted from other crops to wheat.</p>
 <p id="krugmanwellsessentials4e-ch5-p0207" block_type="txt">For this reason, economists often make a distinction between the short-run elasticity of supply, usually referring to a few weeks or months, and the long-run elasticity of supply, usually referring to several years. In most industries, the long-run elasticity of supply is larger than the short-run elasticity.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-9" block_type="bx2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch5-img-208a" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch5-img-208a" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch5-p0208" block_type="bx2-t"><strong>European Farm Surpluses</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-4" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p0273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-026" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p0273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-026" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
-<p id="krugmanwellsessentials4e-ch5-p0210" block_type="bx2-first"><phrase block_type="dropcap">O</phrase>ne of the policies we analyzed in <link href="krugmanwellsessentials4e-ch04.xml">Chapter 4</link> was the imposition of a <em>price floor,</em> a lower limit below which price of a good could not fall. We saw that price floors are often used by governments to support the incomes of farmers but create large unwanted surpluses of farm products. The most dramatic example of this is found in the European Union, where price floors have created a &#8220;butter mountain,&#8221; a &#8220;wine lake,&#8221; and so on.</p>
+<p id="krugmanwellsessentials4e-ch5-p0210" block_type="bx2-first"><phrase block_type="dropcap">O</phrase>ne of the policies we analyzed in <link href="krugmanwellsessentials4e_ch4_1.html">Chapter 4</link> was the imposition of a <em>price floor,</em> a lower limit below which price of a good could not fall. We saw that price floors are often used by governments to support the incomes of farmers but create large unwanted surpluses of farm products. The most dramatic example of this is found in the European Union, where price floors have created a &#8220;butter mountain,&#8221; a &#8220;wine lake,&#8221; and so on.</p>
 <p id="krugmanwellsessentials4e-ch5-p0211" block_type="bx2-txt">Were European politicians unaware that their price floors would create huge surpluses? They probably knew that surpluses would arise but underestimated the price elasticity of agricultural supply. In fact, when the agricultural price supports were put in place, many analysts thought they were unlikely to lead to big increases in production. After all, European countries are densely populated and there is little new land available for cultivation.</p>
 <p id="krugmanwellsessentials4e-ch5-p0212" block_type="bx2-txt">What the analysts failed to realize, however, was how much farm production could expand by adding other resources, especially fertilizer and pesticides, which were readily available. So although European farm acreage didn&#8217;t increase much in response to the imposition of price floors, European farm production did!</p>
 </box>
@@ -581,11 +580,11 @@
 <section id="krugmanwellsessentials4e-ch5-sec1-005" block_type="h1" title="" chapter="5" numbered="true" level="1" print_page="156">
 <section-metadata><section-title>An Elasticity Menagerie</section-title></section-metadata>
 <p id="krugmanwellsessentials4e-ch5-p0223" block_type="txt-ni">We&#8217;ve just run through quite a few different elasticities. Keeping them all straight can be a challenge. So in <link href="#krugmanwellsessentials4e-ch5-tab-3">Table 5-3</link> we provide a summary of all the elasticities we have discussed and their implications.</p>
-<table id="krugmanwellsessentials4e-ch5-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch5-tab-3" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-tab-4" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch5/tables/table_5_4.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">5-3</phrase> <phrase block_type="tbl_title">An Elasticity Menagerie</phrase></strong></table_caption>
 <tbody>
 <tr class="tbl-td-dark">
-<td colspan="2"><strong>Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-022" alt="image" src="images/KrugESS4e_5UN30.jpg"/> (dropping the minus sign)</strong></td>
+<td colspan="2"><strong>Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-022" alt="image" src="asset/ch5/KrugESS4e_5UN30.jpg"/> (dropping the minus sign)</strong></td>
 </tr>
 <tr class="tbl-td-light">
 <td>0</td>
@@ -608,7 +607,7 @@
 <td><strong>Perfectly elastic:</strong> any rise in price causes quantity demanded to fall to 0. Any fall in price leads to an infinite quantity demanded (horizontal demand curve).</td>
 </tr>
 <tr class="tbl-td-dark">
-<td colspan="2"><strong>Cross-price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-023" alt="image" src="images/KrugESS4e_5UN31.jpg"/></strong></td>
+<td colspan="2"><strong>Cross-price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-023" alt="image" src="asset/ch5/KrugESS4e_5UN31.jpg"/></strong></td>
 </tr>
 <tr class="tbl-td-light">
 <td>Negative</td>
@@ -619,7 +618,7 @@
 <td><strong>Substitutes:</strong> quantity demanded of one good rises when the price of another rises.</td>
 </tr>
 <tr class="tbl-td-dark">
-<td colspan="2"><strong>Income elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-024" alt="image" src="images/KrugESS4e_5UN32.jpg"/></strong></td>
+<td colspan="2"><strong>Income elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-024" alt="image" src="asset/ch5/KrugESS4e_5UN32.jpg"/></strong></td>
 </tr>
 <tr class="tbl-td-light">
 <td>Negative</td>
@@ -634,7 +633,7 @@
 <td><strong>Normal good, income-elastic:</strong> quantity demanded rises when income rises, and more rapidly than income.</td>
 </tr>
 <tr class="tbl-td-dark">
-<td colspan="2"><strong>Price elasticity of supply = <image asset-id="krugmanwellsessentials4e-ch5-img-025" alt="image" src="images/KrugESS4e_5UN33.jpg"/></strong></td>
+<td colspan="2"><strong>Price elasticity of supply = <image asset-id="krugmanwellsessentials4e-ch5-img-025" alt="image" src="asset/ch5/KrugESS4e_5UN33.jpg"/></strong></td>
 </tr>
 <tr class="tbl-td-light">
 <td>0</td>
@@ -665,7 +664,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-013" block_type="figure" numbered="true" number="5-7" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-013"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-7</phrase></strong></phrase> <phrase block_type="fig_title">The Revenue from an Excise Tax</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0013" alt="image" src="images/KrugESS4e_fig_5_07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0013" alt="image" src="asset/ch5/KrugESS4e_fig_5_07.jpg"/>
 <caption>The revenue from a &#36;40 excise tax on hotel rooms is &#36;200,000, equal to the tax rate, &#36;40&#8212;the size of the wedge that the tax drives between the supply price and the demand price&#8212;multiplied by the number of rooms rented, 5,000. This is equal to the area of the shaded rectangle.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0227" block_type="txt">Now suppose that Potterville&#8217;s city council imposes an excise tax of &#36;40 per night on hotel rooms&#8212;that is, every time a room is rented for the night, the owner of the hotel must pay the city &#36;40. For example, if a customer pays &#36;80, &#36;40 is collected as a tax, leaving the hotel owner with only &#36;40.</p>
@@ -681,7 +680,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0236" block_type="txt">This is a general principle: <em>The revenue collected by an excise tax is equal to the area of the rectangle whose height is the tax wedge between the supply and demand curves and whose width is the quantity transacted under the tax.</em></p>
 <figure id="krugmanwellsessentials4e-ch5-fig-014" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0014" alt="image" src="images/KrugESS4e_5UN05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0014" alt="image" src="asset/ch5/KrugESS4e_5UN05.jpg"/>
 <caption><em>&#8220;What taxes would you like to see imposed on other people?&#8221;</em></caption>
 <asset_source>&#169; Jeremy Banx</asset_source>
 </figure>
@@ -705,7 +704,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-015" block_type="figure" numbered="true" number="5-8" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-015"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-8</phrase></strong></phrase> <phrase block_type="fig_title">Tax Rates and Revenue</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0015" alt="image" src="images/KrugESS4e_fig_5_08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0015" alt="image" src="asset/ch5/KrugESS4e_fig_5_08.jpg"/>
 <caption>In general, doubling the excise tax rate on a good or service won&#8217;t double the amount of revenue collected, because the tax increase will reduce the quantity of the good or service bought and sold. And the relationship between the level of the tax and the amount of revenue collected may not even be positive. Panel (a) shows the revenue raised by a tax rate of &#36;20 per room, only half the tax rate in <link href="#krugmanwellsessentials4e_ch5-fig-013">Figure 5-7</link>. The tax revenue raised, equal to the area of the shaded rectangle, is &#36;150,000. That is 75&#37; of &#36;200,000, the revenue raised by a &#36;40 tax rate. Panel (b) shows that the revenue raised by a &#36;60 tax rate is also &#36;150,000. So raising the tax rate from &#36;40 to &#36;60 actually reduces tax revenue.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0247" block_type="txt">If the price elasticities of both supply and demand are low, the tax increase won&#8217;t reduce the quantity of the good sold very much, so tax revenue will definitely rise. If the price elasticities are high, the result is less certain; if they are high enough, the tax reduces the quantity sold so much that tax revenue falls. Also, if the initial tax rate is low, the government doesn&#8217;t lose much revenue from the decline in the quantity of the good sold, so the tax increase will definitely increase tax revenue. If the initial tax rate is high, the result is again less certain. Tax revenue is likely to fall or rise very little from a tax increase only in cases where the price elasticities are high and there is already a high tax rate.</p>
@@ -719,13 +718,13 @@
 <p id="krugmanwellsessentials4e-ch5-p0251" block_type="txt">No&#8212;because a tax, like a quota, prevents mutually beneficial transactions from occurring. Consider <link href="#krugmanwellsessentials4e_ch5-fig-013">Figure 5-7</link> once more. Here, with a &#36;40 tax on hotel rooms, guests pay &#36;100 per room but hotel owners receive only &#36;60 per room. Because of the wedge created by the tax, we know that some transactions don&#8217;t occur that would have occurred without the tax.</p>
 <p id="krugmanwellsessentials4e-ch5-p0252" block_type="txt">For example, we know from the supply and demand curves that there are some potential guests who would be willing to pay up to &#36;90 per night and some hotel owners who would be willing to supply rooms if they received at least &#36;70&#160;per night. If these two sets of people were allowed to trade with each other without the tax, they would engage in mutually beneficial transactions&#8212;hotel rooms would be rented.</p>
 <p id="krugmanwellsessentials4e-ch5-p0253" block_type="txt">But such deals would be illegal, because the &#36;40 tax would not be paid. In our example, 5,000 potential hotel room rentals that would have occurred in the absence of the tax, to the mutual benefit of guests and hotel owners, do not take place because of the tax.</p>
-<p id="krugmanwellsessentials4e-ch5-p0254" block_type="txt">So an excise tax imposes costs over and above the tax revenue collected in the form of inefficiency, which occurs because the tax discourages mutually beneficial transactions. As we learned in <link href="krugmanwellsessentials4e-ch04.xml">Chapter 4</link>, the cost to society of this kind of inefficiency&#8212;the value of the forgone mutually beneficial transactions&#8212;is called the deadweight loss. While all real-world taxes impose some deadweight loss, a badly designed tax imposes a larger deadweight loss than a well-designed one.</p>
+<p id="krugmanwellsessentials4e-ch5-p0254" block_type="txt">So an excise tax imposes costs over and above the tax revenue collected in the form of inefficiency, which occurs because the tax discourages mutually beneficial transactions. As we learned in <link href="krugmanwellsessentials4e_ch4_1.html">Chapter 4</link>, the cost to society of this kind of inefficiency&#8212;the value of the forgone mutually beneficial transactions&#8212;is called the deadweight loss. While all real-world taxes impose some deadweight loss, a badly designed tax imposes a larger deadweight loss than a well-designed one.</p>
 <p id="krugmanwellsessentials4e_page_161" block_type="page_start">161</p>
 <p id="krugmanwellsessentials4e-ch5-p0255" block_type="txt">To measure the deadweight loss from a tax, we turn to the concepts of producer and consumer surplus. <link href="#krugmanwellsessentials4e_ch5-fig-016">Figure 5-9</link> shows the effects of an excise tax on consumer and producer surplus. In the absence of the tax, the equilibrium is at <em>E</em> and the equilibrium price and quantity are <em>P<sub>E</sub></em> and <em>Q<sub>E</sub>,</em> respectively. An excise tax drives a wedge equal to the amount of the tax between the price received by producers and the price paid by consumers, reducing the quantity sold. In this case, where the tax is <em>T</em> dollars per unit, the quantity sold falls to <em>Q<sub>T</sub>.</em> The price paid by consumers rises to <em>P<sub>C</sub>,</em> the demand price of the reduced quantity, <em>Q<sub>T</sub>,</em> and the price received by producers falls to <em>P<sub>P</sub>,</em> the supply price of that quantity. The difference between these prices, <em>P<sub>C</sub></em> &#8722; <em>P<sub>P</sub>,</em> is equal to the excise tax, <em>T.</em></p>
 <figure id="krugmanwellsessentials4e-ch5-fig-016" block_type="figure" numbered="true" number="5-9" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-016"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-9</phrase></strong></phrase> <phrase block_type="fig_title">A Tax Reduces Consumer and Producer Surplus</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0016" alt="image" src="images/KrugESS4e_fig_5_09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0016" alt="image" src="asset/ch5/KrugESS4e_fig_5_09.jpg"/>
 <caption>Before the tax, the equilibrium price and quantity are <em>P<sub>E</sub></em> and <em>Q<sub>E</sub>,</em> respectively. After an excise tax of <em>T</em> per unit is imposed, the price to consumers rises to <em>P<sub>C</sub></em> and consumer surplus falls by the sum of the dark blue rectangle, labeled <em>A,</em> and the light blue triangle, labeled <em>B.</em> The tax also causes the price to producers to fall to <em>P<sub>P</sub>;</em> producer surplus falls by the sum of the red rectangle, labeled <em>C,</em> and the pink triangle, labeled <em>F.</em> The government receives revenue from the tax equal to <em>Q</em>(<em>T</em>) &#215; <em>T</em>, which is given by the sum of the areas <em>A</em> and <em>C</em>. Areas <em>B</em> and <em>F</em> represent the losses to consumer and producer surplus that are not collected by the government as revenue. They are the deadweight loss to society of the tax.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0256" block_type="txt">The rise in the price paid by consumers causes a loss equal to the sum of the areas of a rectangle and a triangle: the dark blue rectangle labeled <em>A</em> and the area of the light blue triangle labeled <em>B</em> in <link href="#krugmanwellsessentials4e_ch5-fig-016">Figure 5-9</link>.</p>
@@ -736,7 +735,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-017" block_type="figure" numbered="true" number="5-10" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-017"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-10</phrase></strong></phrase> <phrase block_type="fig_title">The Deadweight Loss of a Tax</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0017" alt="image" src="images/KrugESS4e_fig_5_10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0017" alt="image" src="asset/ch5/KrugESS4e_fig_5_10.jpg"/>
 <caption>A tax leads to a deadweight loss because it creates inefficiency: some mutually beneficial transactions never take place because of the tax&#8212;namely, the transactions <em>Q<sub>E</sub></em>&#8211;<em>Q<sub>T</sub></em>. The yellow area here represents the value of the deadweight loss: it is the total surplus that would have been gained from the <em>Q<sub>E</sub></em>&#8211;<em>Q<sub>T</sub></em> transactions. If the tax had not discouraged transactions&#8212;had the number of transactions remained at <em>Q<sub>E</sub></em> because of either perfectly inelastic supply or perfectly inelastic demand&#8212;no deadweight loss would have been incurred.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_162" block_type="page_start">162</p>
@@ -744,7 +743,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0262" block_type="txt">Using a triangle to measure deadweight loss is a technique used in many economic applications. For example, triangles are used to measure the deadweight loss produced by types of taxes other than excise taxes. They are also used to measure the deadweight loss produced by monopoly, another kind of market distortion. And deadweight-loss triangles are often used to evaluate the benefits and costs of public policies besides taxation&#8212;such as whether to impose stricter safety standards on a product.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-018" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0018" alt="image" src="images/KrugESS4e_5UN06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0018" alt="image" src="asset/ch5/KrugESS4e_5UN06.jpg"/>
 <caption>Society ultimately pays the administrative costs of taxes.</caption>
 <asset_source>David Paul Morris/Bloomberg via Getty Images</asset_source>
 </figure>
@@ -766,7 +765,7 @@
 <figure id="krugmanwellsessentials4e-ch5-fig-019" block_type="figure" numbered="true" number="5-11" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch5-fig-019"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">5-11</phrase></strong></phrase> <phrase block_type="fig_title">Deadweight Loss and Elasticities</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0019" alt="image" src="images/KrugESS4e_fig_5_11.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0019" alt="image" src="asset/ch5/KrugESS4e_fig_5_11.jpg"/>
 <caption>Demand is elastic in panel (a) and inelastic in panel (b), but the supply curves are the same. Supply is elastic in panel (c)&#160;and inelastic in panel (d), but the demand curves are the same. The deadweight losses are larger in panels (a) and (c) than in panels (b) and (d) because the greater the price elasticity of demand or supply, the greater the tax-induced fall in the quantity transacted. In contrast, the lower the price elasticity of demand or supply, the smaller the tax-induced fall in the quantity transacted and the smaller the deadweight loss.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0270" block_type="txt">The implication of this result is clear: if you want to minimize the efficiency costs of taxation, you should choose to tax only those goods for which demand or supply, or both, is relatively inelastic. For such goods, a tax has little effect on behavior because behavior is relatively unresponsive to changes in the price. In the extreme case in which demand is perfectly inelastic (a vertical demand curve), the quantity demanded is unchanged by the imposition of the tax. As a result, the tax imposes no deadweight loss. Similarly, if supply is perfectly inelastic (a vertical supply curve), the quantity supplied is unchanged by the tax and there is also no deadweight loss.</p>
@@ -775,11 +774,11 @@
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch5-p0272" block_type="bx2-t"><strong>Taxing the Marlboro Man</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-5" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p0273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-026" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p0273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-026" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p0274" block_type="bx2-first"><phrase block_type="dropcap">O</phrase>ne of the most important excise taxes in the United States is the tax on cigarettes. The federal government imposes a tax of &#36;1.01 a pack; state governments impose taxes that range from &#36;0.17 cents a pack in Missouri to &#36;4.35 a pack in New York; and many cities impose further taxes. In general, tax rates on cigarettes have increased over time, because more and more governments have seen them not just as a source of revenue but as a way to discourage smoking. But the rise in cigarette taxes has not been gradual. Usually, once a state government decides to raise cigarette taxes, it raises them a lot&#8212;which provides economists with useful data on what happens when there is a big tax increase.</p>
 </box>
-<table id="krugmanwellsessentials4e-ch5-tab-4" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch5-tab-4" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-tab-5" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch5/tables/table_5_5.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">5-4</phrase> <phrase block_type="tbl_title">Results of Increases in Cigarette Taxes</phrase></strong></table_caption>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -865,7 +864,7 @@
 <li><p id="krugmanwellsessentials4e-ch5-p049" block_type="sr1-bl">The larger the number of transactions prevented by a tax, the larger the deadweight loss. As a result, taxes on goods with a greater price elasticity of supply or demand, or both, generate higher deadweight losses. There is no deadweight loss when the number of transactions is unchanged by the tax.</p></li>
 </list>
 </box>
-<table id="krugmanwellsessentials4e-ch5-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-tab-1" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-6" block_type="un_table" data-href="asset/ch5/tables/untable_5_6.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-ljust"><strong>Consumer</strong></td>
@@ -911,7 +910,7 @@
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx7-13" block_type="sum-h">
 <box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">Drive We Must</phrase></box-title></box-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-6" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p0297" block_type="fg1-t"><strong><image asset-id="krugmanwellsessentials4e-ch5-img-027" alt="image" src="images/launchpad_logo_cmyk.jpg"/></strong> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+<p id="krugmanwellsessentials4e-ch5-p0297" block_type="fg1-t"><strong><image asset-id="krugmanwellsessentials4e-ch5-img-027" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/></strong> for interactive tutorials with step-by-step guidance on how to solve problems</p>
 </box>
 <p id="krugmanwellsessentials4e-ch5-p0300" block_type="wio-txt-ni">In late 2013, U.S. gasoline prices started to drop from over &#36;4.00 a gallon to under &#36;2.50 by 2015. You&#8217;ve learned that when prices fall, quantity demanded rises. But, in the case of gasoline, it can take time for consumers to change their behavior. So despite the lower gas prices, in the short run, consumers didn&#8217;t run out to buy gas-guzzling sport-utility vehicles (SUVs) or change their driving behavior by taking long road trips. But with lower gas prices holding steady, consumer behavior did change in the long run. In 2015, the <em>New York Times</em> reported that consumers were buying fewer electric and hybrid cars while SUV sales were reaching record highs.</p>
 <p id="krugmanwellsessentials4e-ch5-p0301" block_type="wio-txt">Because consumers are slow to change their behavior in response to a change in gas prices, economists have to make different elasticity estimates of demand. Specifically, economists estimate the short-run elasticity for gasoline to be about 0.10, and the long-run elasticity of demand for gasoline to be about 0.30.</p>
@@ -943,7 +942,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0326" block_type="wio-txt">An elasticity of demand of 0.30 is slightly more inelastic than an elasticity of demand of .50, so we would draw the curve to be slightly more vertical than that of the figure. That is, we would rotate the curve slightly to the right. As shown in the figure, point <em>A</em> now corresponds to a price of &#36;4.00 and a quantity of 10 million barrels per day, and point <em>B</em> now corresponds to a price of &#36;2.50 and a quantity of 11.125 million barrels, as calculated in Step 4.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-020" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0020" alt="image" src="images/KrugESS4e_5UN07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0020" alt="image" src="asset/ch5/KrugESS4e_5UN07.jpg"/>
 </figure>
 </box>
 <p id="krugmanwellsessentials4e_page_167" block_type="page_start">167</p>
@@ -964,7 +963,7 @@
 <li><p id="krugmanwellsessentials4e-ch5-p071" block_type="sum-nl">An <strong>excise tax</strong> generates revenue for the government but lowers total surplus. The loss in total surplus exceeds the tax revenue, resulting in a deadweight loss to society. This deadweight loss is represented by a triangle, the area of which equals the value of the transactions discouraged by the tax. The greater the elasticity of demand or supply, or both, the larger the deadweight loss from a tax. If either demand or supply is perfectly inelastic, there is no deadweight loss from a tax.</p></li>
 </list>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-7" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 </section>
 <section id="krugmanwellsessentials4e-ch5-sec1-008" block_type="cr-kt-t" title="" chapter="5" numbered="true" level="1" print_page="167">
@@ -1002,7 +1001,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch5-question-2" block_type="q_prob" number="2">
 <p id="krugmanwellsessentials4e-ch5-p0362" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> In the United States, 2013 was a bad year for growing wheat. And as wheat supply decreased, the price of wheat rose dramatically, leading to a lower quantity demanded (a movement along the demand curve). The accompanying table describes what happened to prices and the quantity of wheat demanded.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-untab-2" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-7" block_type="un_table" data-href="asset/ch5/tables/untable_5_7.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-ljust"></td>
@@ -1029,7 +1028,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch5-question-3" block_type="q_prob" number="3">
 <p id="krugmanwellsessentials4e-ch5-p0366" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> The accompanying table gives part of the supply schedule for personal computers in the United States.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-untab-3" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-8" block_type="un_table" data-href="asset/ch5/tables/untable_5_8.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-rborder">Price of computer</td>
@@ -1062,7 +1061,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch5-question-5" block_type="q_prob" number="5">
 <p id="krugmanwellsessentials4e-ch5-p0378" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> The accompanying table shows the price and yearly quantity sold of souvenir T-shirts in the town of Crystal Lake according to the average income of the tourists visiting.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-untab-4" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-9" block_type="un_table" data-href="asset/ch5/tables/untable_5_9.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-rborder"><strong>Price of T-shirt</strong></td>
@@ -1141,7 +1140,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch5-question-12" block_type="q_prob" number="12">
 <p id="krugmanwellsessentials4e-ch5-p0401" block_type="cr-que-nl-first"><phrase block_type="qnum">12.</phrase> The United States imposes an excise tax on the sale of domestic airline tickets. Let&#8217;s assume that in 2013 the total excise tax was &#36;6.10 per airline ticket (consisting of the &#36;3.60 flight segment tax plus the &#36;2.50 September 11 fee). According to data from the Bureau of Transportation Statistics, in 2013, 643 million passengers traveled on domestic airline trips at an average price of &#36;380.00 per trip. The following table shows the supply and demand schedules for airline trips. The quantity demanded at the average price of &#36;380.00 is actual data; the rest is hypothetical.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-untab-5" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-10" block_type="un_table" data-href="asset/ch5/tables/untable_5_10.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-rborder"><strong>Price of trip</strong></td>
@@ -1185,7 +1184,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0405" block_type="cr-que-nl-mid"><phrase block_type="qnum">13.</phrase> In 1990, the United States began to levy a tax on sales of luxury cars. For simplicity, assume that the tax was an excise tax of &#36;6,000 per car. The accompanying figure shows hypothetical demand and supply curves for luxury cars.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-021" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0021" alt="image" src="images/KrugESS4e_5UN08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0021" alt="image" src="asset/ch5/KrugESS4e_5UN08.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e_page_170" block_type="page_start">170</p>
 <list id="krugmanwellsessentials4e-ch5-list-21" type="ordered" block_type="loweralpha">
@@ -1199,7 +1198,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch5-question-14" block_type="q_prob" number="14">
 <p id="krugmanwellsessentials4e-ch5-p0410" block_type="cr-que-nl-mid"><phrase block_type="qnum">14.</phrase> The following table lists the cross-price elasticities of demand for several goods, where the percent quantity change is measured for the first good of the pair, and the percent price change is measured for the second good.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-untab-6" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-11" block_type="un_table" data-href="asset/ch5/tables/untable_5_11.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-rborder"><strong>Good</strong></td>
@@ -1242,7 +1241,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch5-question-17" block_type="q_prob" number="17">
 <p id="krugmanwellsessentials4e-ch5-p0417" block_type="cr-que-nl-mid"><phrase block_type="qnum">17.</phrase> The U.S. government would like to help the American auto industry compete against foreign automakers that sell trucks in the United States. It can do this by imposing an excise tax on each foreign truck sold in the United States. The hypothetical pre-tax demand and supply schedules for imported trucks are given in this table.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-untab-7" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-12" block_type="un_table" data-href="asset/ch5/tables/untable_5_12.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td rowspan="2"><strong>Price of<br/>imported truck</strong></td>
@@ -1297,11 +1296,11 @@
 <section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
 <p id="krugmanwellsessentials4e_page_171" block_type="page_start">171</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-8" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p0422" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-028" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p0422" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-028" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <question id="krugmanwellsessentials4e-ch5-question-18" block_type="q_prob" number="18">
 <p id="krugmanwellsessentials4e-ch5-p0423" block_type="cr-wio-nl-first"><phrase block_type="qnum">18.</phrase> <link href="http://Nile.com">Nile.com</link>, the online bookseller, wants to increase its total revenue. One strategy is to offer a 10&#37; discount on every book it sells. <link href="http://">Nile.com</link> knows that its customers can be divided into two distinct groups according to their likely responses to the discount. The table shows how the two groups respond to the discount.</p>
-<table id="krugmanwellsessentials4e-ch5-untab-12" block_type="un_table" data-href="#krugmanwellsessentials4e-ch5-tab-1" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch5-untab-13" block_type="un_table" data-href="asset/ch5/tables/untable_5_13.html" data-target="_pop">
 <tbody>
 <tr class="tbl-hdr-bg">
 <td class="tbl-rborder"></td>
@@ -1336,7 +1335,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0430" block_type="bx5-txt-ni"><phrase block_type="dropcap">I</phrase>n a densely populated city like New York City, finding a taxi is a relatively easy task on most days&#8212;stand on a corner, put out your arm and, usually, before long an available cab stops to pick you up. And even before you step into the car you will know approximately how much it will cost to get to your destination, because taxi meter rates are set by city regulators and posted for riders.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-021" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0021" alt="image" src="images/KrugESS4e_5UN09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0021" alt="image" src="asset/ch5/KrugESS4e_5UN09.jpg"/>
 <asset_source>&#169; Mark Avery/ZUMA Wire/Alamy</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0431" block_type="bx5-txt">But at times it is not so easy to find a taxi&#8212;on rainy days, during rush hour, and at crowded locations where many people are looking for a taxi at the same time. At such times, you could wait a very long while before finding an available cab. As you wait, you will probably notice empty taxis passing you by&#8212;drivers who have quit working for the day and are headed home or back to the garage. There will be drivers who might stop, but then won&#8217;t pick you up because they find your destination inconvenient. Moreover, there are times when it is simply impossible to hail a taxi&#8212;for example, during a snowstorm or on New Year&#8217;s Eve when the demand for taxis far exceeds the supply.</p>
@@ -1357,7 +1356,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0443" block_type="bx5-txt-ni"><phrase block_type="dropcap">B</phrase>ack in 1937, before New York City froze its number of taxi medallions, Andrew Murstein&#8217;s immigrant grandfather bought his first one for &#36;10. Over time, the grandfather accumulated 500 medallions, which he rented to other drivers. Those 500 taxi medallions became the foundation for Medallion Financial: the company that would eventually pass to Andrew, its current president.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-022" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0022" alt="image" src="images/KrugESS4e_5UN10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0022" alt="image" src="asset/ch5/KrugESS4e_5UN10.jpg"/>
 <asset_source>The Photo Works</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0445" block_type="bx5-txt">With a market value of &#36;385 million in late 2013, Medallion Financial shifted its major line of business from renting out medallions to financing the purchase of new ones, lending money to those who want to buy a medallion but don&#8217;t have the sizable amount of cash required to do so. Murstein believes that he is helping people who, like his Polish immigrant grandfather, want to buy a piece of the American dream.</p>
@@ -1381,7 +1380,7 @@
 <p id="krugmanwellsessentials4e-ch5-p0460" block_type="bx5-txt-ni"><phrase block_type="dropcap">T</phrase>he airline industry is forecast to earn nearly &#36;25 billion in profits in 2015, up from nearly &#36;12 billion in 2013. But in 2008, the industry was teetering on the edge of disaster. According to the International Air Transport Association, the industry lost &#36;11 billion that year. However, by 2009, despite the fact that the economy was still extremely weak and airline traffic was still well below normal, profitability began to rebound. And by 2010, despite continued economic weakness, the airline industry had definitely recovered, achieving an &#36;8.9 billion profit that year.</p>
 <figure id="krugmanwellsessentials4e-ch5-fig-023" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch5-img-0023" alt="image" src="images/KrugESS4e_5UN11.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch5-img-0023" alt="image" src="asset/ch5/KrugESS4e_5UN11.jpg"/>
 <asset_source>June Lloyd/Getty Images</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0461" block_type="bx5-txt">How did the airline industry achieve such a dramatic turnaround? Simple: fly less and charge more. In 2011, fares were 8&#37; higher than they had been the previous year and 17&#37; higher compared to 2009. Flights were more crowded than they had been in decades, with fewer than one in five seats empty on domestic flights. And that trend continues today.</p>
@@ -1398,4 +1397,3 @@
 </box>
 </section>
 </chapter>
-</manuscript>

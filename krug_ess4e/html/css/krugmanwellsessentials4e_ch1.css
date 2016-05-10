@@ -1,0 +1,78 @@
+﻿/* krugman Essentials 4e LESS CSS */
+/* lists */
+/* Chapter Introduction Section */
+[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] {
+  width: 600px !important;
+  border: 0;
+}
+[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] [data-type="figure_text"] {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] img {
+  max-width: 600px !important;
+  padding: 0;
+}
+[data-type="section"][data-block_type="intro"] div#krugmanwellsessentials4e-ch1-exp2-2 {
+  position: initial;
+  width: initial;
+  margin: 1em 0 2em 0;
+}
+div#digfir_section_2 {
+  padding-bottom: 1em;
+}
+div#digfir_section_2 div#krugmanwellsessentials4e-ch1-fig-3 {
+  margin-top: -4em;
+}
+div#digfir_section_2 div#krugmanwellsessentials4e-ch1-exp3-9 {
+  margin-top: 216px;
+}
+div#digfir_section_2 div#krugmanwellsessentials4e-ch1-exp3-10 {
+  margin-top: 126px;
+}
+/* margin adjustments */
+div#krugmanwellsessentials4e-ch1-p15 {
+  margin-top: -98px;
+}
+div#krugmanwellsessentials4e-ch1-exp3-13 {
+  margin-top: -262px;
+}
+div#krugmanwellsessentials4e-ch1-exp3-14 {
+  margin-top: -197px;
+}
+div#krugmanwellsessentials4e-ch1-exp3-21 {
+  margin-top: -14px;
+}
+div#krugmanwellsessentials4e_page_10 {
+  margin-top: -3px;
+}
+div#krugmanwellsessentials4e_page_17 {
+  margin-top: -107px;
+}
+div#krugmanwellsessentials4e_page_18 {
+  margin-top: -107px;
+}
+div#krugmanwellsessentials4e_page_19 {
+  margin-top: -4px;
+}
+div#krugmanwellsessentials4e_page_20 {
+  margin-top: -2em;
+}
+/*div#krugmanwellsessentials4e-ch1-exp2-19 {
+    position: absolute;
+    left: 660px;
+    margin-left: 1em;
+    width: 250px;
+    text-align: left;
+    margin-top: -1em;
+}
+
+div#krugmanwellsessentials4e-ch1-exp2-26 {
+    position: absolute;
+    left: 660px;
+    margin-left: 1em;
+    width: 250px;
+    text-align: left;
+    margin-top: -1em;
+}*/

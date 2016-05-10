@@ -58,6 +58,51 @@
     <Content Include="krug_ess4e\htmlKrugESS4e_3UN07.html" />
     <Content Include="krug_ess4e\htmlKrugESS4e_CO3a.html" />
     <Content Include="krug_ess4e\htmlKrugESS4e_CO3b.html" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN06.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN07.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN09.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_1UN11.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch1\KrugESS4e_CO1.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2AUN01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2AUN02a-d.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2AUN03ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2AUN04abcd.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN06.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN07.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_2UN12.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_CO2.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_02ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_03ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_04abcd.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_06ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_07ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_09.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_11.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2A_12.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2_01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2_02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2_03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2_04ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2_05ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch2\KrugESS4e_fig_2_06.jpg" />
     <Content Include="krug_ess4e\html\asset\ch3\KrugESS4e_3UN01.html" />
     <Content Include="krug_ess4e\html\asset\ch3\KrugESS4e_3UN01.jpg" />
     <Content Include="krug_ess4e\html\asset\ch3\KrugESS4e_3UN02.html" />
@@ -232,6 +277,82 @@
     <Content Include="krug_ess4e\html\asset\ch3\XKrugESS4e_fig_3_03.html" />
     <Content Include="krug_ess4e\html\asset\ch3\XKrugESS4e_fig_3_04.html" />
     <Content Include="krug_ess4e\html\asset\ch3\XKrugESS4e_fig_3_05.html" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN06.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN07.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN09.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN11.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN12.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN13.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN14.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN15.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_4UN16.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_CO04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_06.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_07.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_09ab.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_11.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_12.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_13.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch4\KrugESS4e_fig_4_14.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN06.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN07.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN09.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN11.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN12.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN13.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN14.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN15.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN16.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN17.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN18.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN19.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN20.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN21.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN22.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN23.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN24.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN25.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN26.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN27.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN28.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN29.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN30.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN31.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN32.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_5UN33.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_CO05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_01.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_02.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_03.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_04.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_05.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_06.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_07.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_08.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_09.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_10.jpg" />
+    <Content Include="krug_ess4e\html\asset\ch5\KrugESS4e_fig_5_11.jpg" />
     <Content Include="krug_ess4e\html\asset\images\green-square.png" />
     <Content Include="krug_ess4e\html\asset\images\red-dot.png" />
     <Content Include="krug_ess4e\html\asset\images\video.jpg" />
@@ -256,10 +377,48 @@
     <Content Include="krug_ess4e\html\css\images\ui-icons_cccccc_256x240.png" />
     <Content Include="krug_ess4e\html\css\images\ui-icons_ffffff_256x240.png" />
     <Content Include="krug_ess4e\html\css\jquery-ui-custom.css" />
-    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e.css" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e.css">
+      <DependentUpon>krugmanwellsessentials4e.less</DependentUpon>
+    </Content>
     <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e.less" />
-    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch3.css" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e.min.css">
+      <DependentUpon>krugmanwellsessentials4e.css</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch1.css">
+      <DependentUpon>krugmanwellsessentials4e_ch1.less</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch1.less" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch1.min.css">
+      <DependentUpon>krugmanwellsessentials4e_ch1.css</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch2.css">
+      <DependentUpon>krugmanwellsessentials4e_ch2.less</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch2.less" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch2.min.css">
+      <DependentUpon>krugmanwellsessentials4e_ch2.css</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch3.css">
+      <DependentUpon>krugmanwellsessentials4e_ch3.less</DependentUpon>
+    </Content>
     <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch3.less" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch3.min.css">
+      <DependentUpon>krugmanwellsessentials4e_ch3.css</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch4.css">
+      <DependentUpon>krugmanwellsessentials4e_ch4.less</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch4.less" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch4.min.css">
+      <DependentUpon>krugmanwellsessentials4e_ch4.css</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch5.css">
+      <DependentUpon>krugmanwellsessentials4e_ch5.less</DependentUpon>
+    </Content>
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch5.less" />
+    <Content Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch5.min.css">
+      <DependentUpon>krugmanwellsessentials4e_ch5.css</DependentUpon>
+    </Content>
     <Content Include="krug_ess4e\html\css\manuscript.css" />
     <Content Include="krug_ess4e\html\js\bh_cleanup.js" />
     <Content Include="krug_ess4e\html\js\digfir_ebook_fw.js" />
@@ -286,7 +445,11 @@
     <Content Include="krug_ess4e\html\krugmanwellsessentials4e_ch3_9.html" />
     <Content Include="krug_ess4e\html\links.js" />
     <Content Include="krug_ess4e\html\mapping.txt" />
+    <Content Include="krug_ess4e\keyterms\kt_ch1.js" />
+    <Content Include="krug_ess4e\keyterms\kt_ch2.js" />
     <Content Include="krug_ess4e\keyterms\kt_ch3.js" />
+    <Content Include="krug_ess4e\keyterms\kt_ch4.js" />
+    <Content Include="krug_ess4e\keyterms\kt_ch5.js" />
     <Content Include="krug_ess4e\toc\krugmanwellsessentials4e.xml" />
     <Content Include="krug_ess4e\xml\0_ch1_handedit.xml" />
     <Content Include="krug_ess4e\xml\0_ch2_handedit.xml" />
@@ -307,8 +470,14 @@
     <Content Include="krug_ess4e\xml\XML_EDITS.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="compilerconfig.json" />
+    <None Include="compilerconfig.json.defaults">
+      <DependentUpon>compilerconfig.json</DependentUpon>
+    </None>
     <None Include="krug_ess4e\create_supp_wins.pl" />
     <None Include="krug_ess4e\docs\KrugESS4e Questions.docx" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH01_pp_001_022.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH02_pp_023_046.pdf" />
     <None Include="krug_ess4e\docs\KrugESS4e_CH03_pp_066_100.pdf" />
     <None Include="krug_ess4e\docs\KrugESS4e_CH04_pp_101_136.pdf" />
     <None Include="krug_ess4e\docs\Krugmanwelssessentials4e.docx" />
@@ -322,8 +491,6 @@
     <None Include="krug_ess4e\html\asset\ch3\KrugESS4e_fig_3_10.zip" />
     <None Include="krug_ess4e\html\catcall" />
     <None Include="krug_ess4e\html\create_page_number_map.pl" />
-    <None Include="krug_ess4e\html\css\krugmanwellsessentials4e.css.map" />
-    <None Include="krug_ess4e\html\css\krugmanwellsessentials4e_ch3.css.map" />
     <None Include="krug_ess4e\html\krugmanwellsessentials4e.zip" />
     <None Include="krug_ess4e\keyterms.pl" />
     <None Include="krug_ess4e\keyterms_runall.pl" />
@@ -337,6 +504,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\" />
+    <Folder Include="krug_ess4e\html\asset\ch1\questions\" />
+    <Folder Include="krug_ess4e\html\asset\ch1\tables\" />
+    <Folder Include="krug_ess4e\html\asset\ch2\questions\" />
+    <Folder Include="krug_ess4e\html\asset\ch2\tables\" />
+    <Folder Include="krug_ess4e\html\asset\ch4\questions\" />
+    <Folder Include="krug_ess4e\html\asset\ch4\tables\" />
+    <Folder Include="krug_ess4e\html\asset\ch5\questions\" />
+    <Folder Include="krug_ess4e\html\asset\ch5\tables\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>

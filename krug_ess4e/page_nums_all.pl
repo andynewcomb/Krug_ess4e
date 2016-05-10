@@ -7,7 +7,7 @@
 my $inputfile;
 my $outputfile;
 
-for $chapter (3) { #(1..14) {
+for $chapter (1..5) { #(1..14) {
 	
 	print STDERR "CHAPTER $chapter\n";
 	
@@ -15,8 +15,8 @@ for $chapter (3) { #(1..14) {
 # Run page numbering script
 #####################################################################################
 
-$inputfile = "XML/0_ch${chapter}_handedit.xml";
-$outputfile = "XML/1_ch${chapter}_clean.xml";
+$inputfile = "xml/0_ch${chapter}_handedit.xml";
+$outputfile = "xml/1_ch${chapter}_clean.xml";
 
 system("perl page_nums.pl < $inputfile > $outputfile");
 

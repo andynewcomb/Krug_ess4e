@@ -10,6 +10,12 @@ body, #manuscript {
     margin-left: 30px;
 }
 
+p {
+    margin: 0;
+}
+
+@ol-sum-margin: 30px;
+
 /* All sections */
 [data-type="section"] {
     width: @body-text-width;
@@ -47,8 +53,46 @@ body, #manuscript {
             [data-type="title"] {
                 color: @bhead-green;
                 font-size: 1.1em;
+                text-align: left;
+                display: inline-block;
             }
         }
+        [data-block_type="ext-b-i"] {
+            margin: 15px 2em;
+        }
+        // For Inquiring Minds box -- distinguish this bx3 from one used in intro section
+        [data-block_type="bx3"] {
+            margin: 1em 0;
+            text-align: left;
+            font-family: Arial, sans-serif;
+            font-size: .9em;
+            [data-block_type="bx3-t"] {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                font-size: 1.1em;
+                [data-block_type="inqmind-intro"] {
+                    color: @chapter-line-blue;
+                    display: inline-block;
+                    padding-right: 8px;
+                }
+                [data-block_type="inqmind-title"] {
+                    color: @table-title-purple;
+                    display: inline-block;
+                    padding: 6px 8px 6px 10px;
+                    border-left: 1px solid @table-title-purple;
+                }
+            }
+            [data-block_type="bx3-txt"] {
+                text-indent: 2em;
+            }
+            [data-block_type="bx3-txt-ni"] {
+                text-indent: 0;
+            }
+            p {
+                margin: 0;
+            }
+        }
+    
     }
     &[data-block_type="solved_problem"] {
         text-align: justify;
@@ -73,6 +117,19 @@ body, #manuscript {
         ul[data-block_type="bullet"] {
             margin: .5em 1em;
         }
+
+        ol[data-block_type="numbered"] {
+            margin-left: @ol-sum-margin;
+            > li {
+                &:before {
+                    width: @ol-sum-margin;
+                    margin-left: -@ol-sum-margin;
+                }
+            }
+        }
+
+
+
         [data-block_type="un_table"] {
             width: @body-text-width !important;
             margin: 1em 0;
@@ -121,9 +178,15 @@ body, #manuscript {
                 }
             }
         }
+        [data-type="question"] {
+            [data-block_type="page_start"] {
+                left: -80px;
+            }
+        }
     }
     /* Key Terms section */
     &[data-block_type="cr-kt-t"] {
+        //position: relative;
         h2.section-title {
             margin: 1em 0;
             border-bottom: 2px solid @chapter-line-blue;
@@ -139,9 +202,10 @@ body, #manuscript {
         [data-block_type="mn2"] {
             position: absolute;
             left: 400px;
-            margin-top: -45px;
+            margin-top: -53px;
             padding: 0 8px;
             font-family: sans-serif;
+            width: initial;
         }
     }
 }
@@ -265,6 +329,7 @@ div[data-type="table"][data-block_type="table"] {
     table {
         border: 0;
         margin: 0 auto;
+        width: 100%;
         tr {
             border-bottom: 6px solid white;
             &:first-child {
@@ -379,6 +444,7 @@ div[data-type="table"][data-block_type="un_table"] {
             //background-repeat: no-repeat;
             border-top: 8px solid @worldview-icon-line;
             position: relative;
+            padding: 6px;
             // margin-left: 200px;
             img {
                 max-width: 60px;
@@ -387,11 +453,19 @@ div[data-type="table"][data-block_type="un_table"] {
                 top: -6px;
             }
             p {
-                margin-left: 27px;
+                margin-left: 21px;
                 display: inline-block;
                 strong {
                     color: @accent-blue;
                     font-size: 1.5em;
+                }
+            }
+        }
+        [data-type="figure"] {
+            [data-type="figure_text"] {
+                [data-type="caption"] {
+                    color: @co-subtitle_blue;
+                    font-size: 0.8em;
                 }
             }
         }
@@ -400,10 +474,12 @@ div[data-type="table"][data-block_type="un_table"] {
     [data-block_type="co-txt"] {
         text-indent: 2em;
         font-family: serif;
+        text-align: justify;
     }
     [data-block_type="co-txt-ni"] {
         text-indent: 0;
         font-family: serif;
+        text-align: justify;
     }
     [data-block_type="dropcap"] {
         font-size: 73px;
@@ -443,6 +519,12 @@ div[data-type="table"][data-block_type="un_table"] {
 
     // interactive activity box
     &[data-block_type="mn2"] {
+        position: absolute;
+        left: 660px;
+        margin-left: 1em;
+        width: 250px;
+        text-align: left;
+        margin-top: -1em;
         img {
             max-width: 105px;
             position: relative;
@@ -457,7 +539,7 @@ div[data-type="table"][data-block_type="un_table"] {
     &[data-block_type="mn3"] {
         //display: none;
         position: absolute;
-        left: @body-text-width + 80px;
+        left: @body-text-width + 93px;
         width: @sidebar-width;
         font-family: sans-serif;
         font-size: 15px;
@@ -599,12 +681,22 @@ div[data-type="table"][data-block_type="un_table"] {
                 background-color: @in-action-purple;
                 display: inline-block;
                 padding: 0 8px;
+                margin: -4px;
+            }
+            // image in title is world icon
+            img {
+                position: absolute;
+                max-width: 72px;
+                left: 559px;
+                margin-top: -22px;
             }
         }
         // subtitle
         [data-block_type="bx-2-t"] {
             color: @pitfall-subtitle-purple;
             font-family: sans-serif;
+            font-weight: bold;
+            margin-bottom: 10px;
         }
         [data-block_type="bx2-txt"] {
             text-indent: 2em;
@@ -677,6 +769,7 @@ div[data-type="table"][data-block_type="un_table"] {
                 background-color: @review-gold;
                 display: inline-block;
                 padding: 0 8px;
+                margin-left: -6px;
             }
         }
         ol[data-block_type="numbered"] {
@@ -1064,6 +1157,15 @@ div[data-type="figure"][data-block_type="figure"] {
 
 div[data-type="figure"][data-block_type="un_figure"] {
     border: 0;
+    img {
+        padding: 0;
+    }
+    [data-type="figure_text"] {
+        [data-type="caption"] {
+            font-family: Arial, sans-serif;
+            font-size: .9em;
+        }
+    }
 }
 
 // a white-background variant style figure - experimental until more chapters are seen
@@ -1232,7 +1334,7 @@ ul[data-block_type="bluesquare"] > li {
 }
 */
 ul[data-block_type="bullet"] {
-    margin: 1em 2em;
+    margin: 1em 0 1em 2em;
     list-style-type: disc;
     > li {
         p {
@@ -1331,3 +1433,7 @@ div[data-block_type="sl"] {
     word-wrap: break-word;
 }
 
+/* suppress asset source credits -- should be embedded in graphics */
+[data-type="asset_source"] {
+    display: none;
+}
