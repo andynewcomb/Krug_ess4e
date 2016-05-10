@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<manifest id="krugmanwellsessentials4e" timestamp="1459950156" supp_win="0"><manuscript id="56f043d3757a2e8f50000001" title="CHAPTER 3: Supply and Demand" question-delivery-method="ARGA" number="3">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch3-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch3_1.html" dlapFilename="krugmanwellsessentials4e_ch3_1_dlap.xml" numquestions="0"/>
+    <section number="3.1" id="krugmanwellsessentials4e-ch3-sec1-1" folder="false" filename="krugmanwellsessentials4e_ch3_2.html" dlapFilename="krugmanwellsessentials4e_ch3_2_dlap.xml" numquestions="0">
+      <title>Supply and Demand: A Model of a Competitive Market</title>
+    </section>
+    <section number="3.2" id="krugmanwellsessentials4e-ch3-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch3_3.html" dlapFilename="krugmanwellsessentials4e_ch3_3_dlap.xml" numquestions="0">
+      <title>The Demand Curve</title>
+      <section id="krugmanwellsessentials4e-ch3-sec2-1" folder="false">
+        <title>The Demand Schedule and the Demand Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-2" folder="false">
+        <title>Shifts of the Demand Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-3" folder="false">
+        <title>Understanding Shifts of the Demand Curve</title>
+      </section>
+    </section>
+    <section number="3.3" id="krugmanwellsessentials4e-ch3-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch3_4.html" dlapFilename="krugmanwellsessentials4e_ch3_4_dlap.xml" numquestions="0">
+      <title>The Supply Curve</title>
+      <section id="krugmanwellsessentials4e-ch3-sec2-4" folder="false">
+        <title>The Supply Schedule and the Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-5" folder="false">
+        <title>Shifts of the Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-6" folder="false">
+        <title>Understanding Shifts of the Supply Curve</title>
+      </section>
+    </section>
+    <section number="3.4" id="krugmanwellsessentials4e-ch3-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch3_5.html" dlapFilename="krugmanwellsessentials4e_ch3_5_dlap.xml" numquestions="0">
+      <title>Supply, Demand, and Equilibrium</title>
+      <section id="krugmanwellsessentials4e-ch3-sec2-7" folder="false">
+        <title>Finding the Equilibrium Price and Quantity</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-8" folder="false">
+        <title>Why Do All Sales and Purchases in a Market Take Place at the Same Price?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-9" folder="false">
+        <title>Why Does the Market Price Fall If It Is Above the Equilibrium Price?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-10" folder="false">
+        <title>Why Does the Market Price Rise If It Is Below the Equilibrium Price?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-11" folder="false">
+        <title>Using Equilibrium to Describe Markets</title>
+      </section>
+    </section>
+    <section number="3.5" id="krugmanwellsessentials4e-ch3-sec1-5" folder="true" filename="krugmanwellsessentials4e_ch3_6.html" dlapFilename="krugmanwellsessentials4e_ch3_6_dlap.xml" numquestions="0">
+      <title>Changes in Supply and Demand</title>
+      <section id="krugmanwellsessentials4e-ch3-sec2-12" folder="false">
+        <title>What Happens When the Demand Curve Shifts</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-13" folder="false">
+        <title>What Happens When the Supply Curve Shifts</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch3-sec2-14" folder="false">
+        <title>Simultaneous Shifts of Supply and Demand Curves</title>
+      </section>
+    </section>
+    <section number="3.6" id="krugmanwellsessentials4e-ch3-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch3_7.html" dlapFilename="krugmanwellsessentials4e_ch3_7_dlap.xml" numquestions="0">
+      <title>Competitive Markets&#x2014;and Others</title>
+    </section>
+    <section number="3.7" id="krugmanwellsessentials4e-ch3-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch3_8.html" dlapFilename="krugmanwellsessentials4e_ch3_8_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="3.8" id="krugmanwellsessentials4e-ch3-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch3_9.html" dlapFilename="krugmanwellsessentials4e_ch3_9_dlap.xml" numquestions="1">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="3.9" id="krugmanwellsessentials4e-ch3-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch3_10.html" dlapFilename="krugmanwellsessentials4e_ch3_10_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+  </manuscript></manifest>

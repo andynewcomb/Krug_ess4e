@@ -1,0 +1,6 @@
+To substitue tags in figures
+
+<caption><phrase block_type="fig-label"><strong>FIGURE ([^<]+)</strong></phrase>([^<]+)</caption>
+
+
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">$1</phrase></strong></phrase><phrase block_type="fig_title">$2</phrase></caption>

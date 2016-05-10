@@ -1,0 +1,1203 @@
+<chapter number="3" id="krugmanwellsessentials4e-ch3-chapter-3" title="CHAPTER 3: Supply and Demand" start-numbering-at="3" numbered="true">
+<section id="krugmanwellsessentials4e-ch3-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="66">
+<p id="krugmanwellsessentials4e_page_66" block_type="page_start">66</p>
+<p id="krugmanwellsessentials4e-ch3-p1" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase><phrase block_type="chapnum">3</phrase></p>
+<p id="krugmanwellsessentials4e-ch3-p2" block_type="chapter_title">Supply and Demand</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-bx3-1a" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch3-p48am" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch3-img-1a" alt="image" src="asset/ch3/world_view_icon.jpg"/> <strong>A NATURAL GAS BOOM</strong></p>
+<figure id="krugmanwellsessentials4e-ch3-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-1" alt="image" src="asset/ch3/KrugESS4e_CO3a.jpg"/>
+<asset_source>AP Photo/Andrew Rush</asset_source>
+</figure>
+<figure id="krugmanwellsessentials4e-ch3-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-2" alt="image" src="asset/ch3/KrugESS4e_CO3b.jpg"/>
+<caption>The adoption of new drilling technologies leads to cheaper natural gas and vigorous protests.</caption>
+<asset_source>Spencer Platt/Getty Images</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch3-p3" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch3-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch3-p4" block_type="obj-bl">What a <strong>competitive market</strong> is and how it is described by the <strong>supply and demand model</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p5" block_type="obj-bl">What the <strong>demand curve</strong> and the <strong>supply curve</strong> are</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p6" block_type="obj-bl">The difference between <strong>movements along a curve</strong> and <strong>shifts of a curve</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p7" block_type="obj-bl">How the supply and demand curves determine a market&#8217;s <strong>equilibrium price</strong> and <strong>equilibrium quantity</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p8" block_type="obj-bl">In the case of a <strong>shortage</strong> or <strong>surplus</strong>, how price moves the market back to equilibrium</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p9" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-3" alt="image" src="asset/ch3/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p10" block_type="co-txt-ni"><phrase block_type="dropcap">P</phrase>RESIDENT OBAMA GOT A VIVID illustration of American free speech in action while touring upstate New York on August 23, 2013. The president was greeted by more than 500 chanting and sign-toting supporters and opponents. Why the ruckus? Because upstate New York is a key battleground over the adoption of a relatively new method of producing energy supplies. <em>Hydraulic fracturing,</em> or <em>fracking</em>, is a method of extracting natural gas (and to a lesser extent, oil) from deposits trapped between layers of shale rock thousands of feet underground&#8212;using powerful jets of chemical-laden water to release the gas. While it has been known for almost a century that the United States contains vast deposits of natural gas within these shale formations, they lay untapped because drilling for them was considered too difficult.</p>
+<p id="krugmanwellsessentials4e-ch3-p11" block_type="co-txt">Until recently, that is. A few decades ago, new drilling technologies were developed that made it possible to reach these deeply embedded deposits. But what finally pushed energy companies to invest in and adopt these new extraction technologies was the high price of natural gas over the last decade. What accounted for these high natural gas prices&#8212;a quadrupling from 2002 to 2006? There were two principal factors&#8212;one reflecting the demand for natural gas, the other the supply of natural gas.</p>
+<p id="krugmanwellsessentials4e-ch3-p12" block_type="co-txt">First, the demand side. In 2002, the U.S. economy was mired in recession; with economic activity low and job losses high, people and businesses cut back their energy consumption. For example, to save money, homeowners turned down their thermostats in winter and turned them up in the summer. But by 2006, the U.S. economy came roaring back, and natural gas consumption rose. Second, the supply side. In 2005, Hurricane Katrina devastated the American Gulf Coast, site of most of the country&#8217;s natural gas production at the time. So by 2006 the demand for natural gas had surged while the supply of natural gas had been severely curtailed. As a result, in 2006 natural gas prices peaked at around &#36;14 per thousand cubic feet, up from around &#36;2 in 2002.</p>
+<p id="krugmanwellsessentials4e-ch3-p13" block_type="co-txt">Fast-forward to 2015: natural gas prices once again fell to &#36;2 per thousand cubic feet. But this time it wasn&#8217;t a slow economy that was the principal explanation, it was the use of the new technologies. &#8220;Boom,&#8221; &#8220;supply shock,&#8221; and &#8220;game changer&#8221; was how energy experts described the impact of these technologies on oil and natural gas production and prices. To illustrate, the United States produced 10.37 trillion cubic feet of natural gas from shale deposits in 2012, nearly doubling the total from 2010. That total increased again in 2014, to 13.45 trillion cubic feet of natural gas, making the United States the world&#8217;s largest producer of both oil and natural gas&#8212;overtaking both Russia and Saudia Arabia.</p>
+<p id="krugmanwellsessentials4e-ch3-p14" block_type="co-txt">The benefits of much lower natural gas prices have not only led to lower heating costs for American consumers, they have also cascaded through American industries, particularly power generation and transportation. Electricity-generating power plants are switching from coal to natural gas, and mass-transit vehicles are switching from gasoline to natural gas. (You can even buy an inexpensive kit to convert your car from gasoline to natural gas.) The effect has been so significant that many European manufacturers, paying four times more for gas than their U.S. rivals, have been forced to relocate plants to American soil to survive. In addition, the revived U.S. natural gas industry has directly created tens of thousands of new jobs.</p>
+<p id="krugmanwellsessentials4e_page_67" block_type="page_start">67</p>
+<p id="krugmanwellsessentials4e-ch3-p15" block_type="co-txt">Yet the benefits of natural gas have been accompanied by deep reservations and controversy over the environmental effects of fracking. While there are clear environmental benefits from the shift by consumers and industries to natural gas (which burns cleaner than the other, heavily polluting fossil fuels, gasoline and coal), fracking has sparked another set of environmental worries. One is the potential for contamination of local groundwater by chemicals used in fracking. Another is that cheap natural gas may discourage the adoption of more expensive renewable energy sources like solar and wind power, furthering our dependence upon fossil fuel.</p>
+<p id="krugmanwellsessentials4e-ch3-p16" block_type="co-txt">So it was the face-off between these interests&#8212;pro-fracking and anti-fracking&#8212;that confronted President Obama that August day. While we, the authors, do not espouse one side or the other (believing that science as well as economics should provide guidance about the best course to follow), we will use the recent history of the U.S. natural gas industry to help illustrate important economic concepts such as supply and demand, price effects, firms&#8217; costs, and trade, among others.</p>
+<p id="krugmanwellsessentials4e-ch3-p17" block_type="co-txt">But for this chapter we will stick to the topic of supply and demand. How, exactly, does the high price of natural gas nearly a decade ago translate into today&#8217;s switch to vehicles powered by natural gas? The short answer is that it&#8217;s a matter of supply and demand. But what does that mean? Many people use &#8220;supply and demand&#8221; as a sort of catchphrase to mean &#8220;the laws of the marketplace at work.&#8221; To economists, however, the concept of supply and demand has a precise meaning: it is a model of how a market behaves that is extremely useful for understanding many&#8212;but not all&#8212;markets.</p>
+<p id="krugmanwellsessentials4e-ch3-p18" block_type="co-txt">In this chapter, we lay out the pieces that make up the supply and demand model, put them together, and show how this model can be used.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-1" block_type="h1" title="" chapter="3" numbered="true" level="1" print_page="67">
+<section-metadata><section-title>Supply and Demand: A Model of a Competitive Market</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p19" block_type="mn-gl-def">A <strong>competitive market</strong> is a market in which there are many buyers and sellers of the same good or service, none of whom can influence the price at which the good or service is sold.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p20" block_type="txt-ni">Natural gas sellers and natural gas buyers constitute a market&#8212;a group of producers and consumers who exchange a good or service for payment. In this chapter, we&#8217;ll focus on a particular type of market known as a <em>competitive market</em>. A <strong>competitive market</strong> is a market in which there are many buyers and sellers of the same good or service. More precisely, the key feature of a competitive market is that no individual&#8217;s actions have a noticeable effect on the price at which the good or service is sold. It&#8217;s important to understand, however, that this is not an accurate description of every market.</p>
+<p id="krugmanwellsessentials4e-ch3-p21" block_type="txt">For example, it&#8217;s not an accurate description of the market for cola beverages. That&#8217;s because in this market, Coca-Cola and Pepsi account for such a large proportion of total sales that they are able to influence the price at which cola beverages are bought and sold. But it is an accurate description of the market for natural gas. The global marketplace for natural gas is so huge that even the biggest U.S. driller for natural gas&#8212;Exxon Mobil&#8212;accounts for such a small share of total global transactions that it is unable to influence the price at which natural gas is bought and sold.</p>
+<p id="krugmanwellsessentials4e-ch3-p22" block_type="txt">It&#8217;s a little hard to explain why competitive markets are different from other markets until we&#8217;ve seen how a competitive market works. So let&#8217;s take a rain check&#8212;we&#8217;ll return to that issue at the end of this chapter. For now, let&#8217;s just say that it&#8217;s easier to model competitive markets than other markets. When taking an exam, it&#8217;s always a good strategy to begin by answering the easier questions. In this book, we&#8217;re going to do the same thing. So we will start with competitive markets.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p23" block_type="mn-gl-def">The <strong>supply and demand model</strong> is a model of how a competitive market behaves.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p24" block_type="txt">When a market is competitive, its behavior is well described by the <strong>supply and demand model</strong>. Because many markets are competitive, the supply and demand model is a very useful one indeed.</p>
+<p id="krugmanwellsessentials4e-ch3-p25" block_type="txt">There are five key elements in this model:</p>
+<list id="krugmanwellsessentials4e-ch3-list-2" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p26" block_type="bl-first">The <em>demand curve</em></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p27" block_type="bl-mid">The <em>supply curve</em></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p28" block_type="bl-mid">The set of factors that cause the demand curve to shift and the set of factors that cause the supply curve to shift</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p29" block_type="bl-mid">The <em>market equilibrium</em>, which includes the <em>equilibrium price</em> and <em>equilibrium quantity</em></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p30" block_type="bl-last">The way the market equilibrium changes when the supply curve or demand curve shifts</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch3-p31" block_type="txt-ni">To understand the supply and demand model, we will examine each of these elements.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-2" block_type="h1" title="" chapter="3" numbered="true" level="1" print_page="67">
+<section-metadata><section-title>The Demand Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_68" block_type="page_start">68</p>
+<p id="krugmanwellsessentials4e-ch3-p32" block_type="txt-ni">How much natural gas will American consumers want to buy in a given year? You might at first think that we can answer this question by adding up the amounts each American household and business consumes in that year. But that&#8217;s not enough to answer the question, because how much natural gas Americans want to buy depends upon the price of natural gas.</p>
+<p id="krugmanwellsessentials4e-ch3-p33" block_type="txt">When the price of natural gas falls, as it did from 2006 to 2015, consumers will generally respond to the lower price by using more natural gas&#8212;for example, by turning up their thermostats to keep their houses warmer in the winter or switching to vehicles powered by natural gas. In general, the amount of natural gas, or of any good or service that people want to buy, depends upon the price. The higher the price, the less of the good or service people want to purchase; alternatively, the lower the price, the more they want to purchase.</p>
+<p id="krugmanwellsessentials4e-ch3-p34" block_type="txt">So the answer to the question &#8220;How many units of natural gas do consumers want to buy?&#8221; depends on the price of a unit of natural gas. If you don&#8217;t yet know what the price will be, you can start by making a table of how many units of natural gas people would want to buy at a number of different prices. Such a table is known as a <em>demand schedule</em>. This, in turn, can be used to draw a <em>demand curve</em>, which is one of the key elements of the supply and demand model.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-1" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="68">
+<section-metadata><section-title>The Demand Schedule and the Demand Curve</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p35" block_type="mn-gl-def">A <strong>demand schedule</strong> shows how much of a good or service consumers will want to buy at different prices.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p36" block_type="txt-ni">A <strong>demand schedule</strong> is a table showing how much of a good or service consumers will want to buy at different prices. At the right of <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link>, we show a hypothetical demand schedule for natural gas. It&#8217;s expressed in BTUs (British thermal units), a commonly used measure of quantity of natural gas. It&#8217;s a hypothetical demand schedule&#8212;it doesn&#8217;t use actual data on American demand for natural gas.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-3" block_type="figure" numbered="true" number="3-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-1</phrase></strong></phrase><phrase block_type="fig_title"> The Demand Schedule and the Demand Curve</phrase></caption>
+<image asset-id="krugmanwellsessentials4e-ch3-img-4" alt="image" src="asset/ch3/KrugESS4e_fig_3_01.jpg"/>
+<caption>The demand schedule for natural gas yields the corresponding demand curve, which shows how much of a good or service consumers want to buy at any given price. The demand curve and the demand schedule reflect the law of demand: as price rises, the quantity demanded falls. Similarly, a fall in price raises the quantity demanded. As a result, the demand curve is downward sloping.</caption>
+</figure>
+<figure id="krugmanwellsessentials4e-ch3-fig-3sample" block_type="figure" numbered="true" number="3-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-1</phrase></strong></phrase><phrase block_type="fig_title"> The Demand Schedule and the Demand Curve</phrase></caption>
+<image asset-id="krugmanwellsessentials4e-ch3-img-4" alt="image" src="asset/ch3/KrugESS4e_fig_3_01sample.jpg"/>
+<caption>The demand schedule for natural gas yields the corresponding demand curve, which shows how much of a good or service consumers want to buy at any given price. The demand curve and the demand schedule reflect the law of demand: as price rises, the quantity demanded falls. Similarly, a fall in price raises the quantity demanded. As a result, the demand curve is downward sloping.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p37" block_type="mn-gl-def">The <strong>quantity demanded</strong> is the actual amount of a good or service consumers are willing to buy at some specific price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p38" block_type="txt">According to the table, if a BTU of natural gas costs &#36;3, consumers around the world will want to purchase 10 trillion BTUs of natural gas over the course of a year. If the price is &#36;3.25 per BTU, they will want to buy only 8.9 trillion BTUs; if the price is only &#36;2.75 per BTU, they will want to buy 11.5 trillion BTUs. The higher the price, the fewer BTUs of natural gas consumers will want to purchase. So, as the price rises, the <strong>quantity demanded</strong> of natural gas&#8212;the actual amount consumers are willing to buy at some specific price&#8212;falls.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p39" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-5" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p40" block_type="mn-gl-def">A <strong>demand curve</strong> is a graphical representation of the demand schedule. It shows the relationship between quantity demanded and price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p41" block_type="txt">The graph in <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link> is a visual representation of the information in the table. (You might want to review the discussion of graphs in economics in the appendix to <link href="krugmanwellsessentials4e_ch2_1.html">Chapter 2</link>.) The vertical axis shows the price of a BTU of natural gas and the horizontal axis shows the quantity of natural gas in trillions of BTUs. Each point on the graph corresponds to one of the entries in the table. The curve that connects these points is a <strong>demand curve</strong>. A demand curve is a graphical representation of the demand schedule, another way of showing the relationship between the quantity demanded and price.</p>
+<p id="krugmanwellsessentials4e-ch3-p42" block_type="txt">Note that the demand curve shown in <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link> slopes downward. This reflects the inverse relationship between price and the quantity demanded: a higher price reduces the quantity demanded, and a lower price increases the quantity demanded. We can see this from the demand curve in <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link>. As price falls, we move down the demand curve and quantity demanded increases. And as price increases, we move up the demand curve and quantity demanded falls.</p>
+<p id="krugmanwellsessentials4e_page_69" block_type="page_start">69</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p43" block_type="mn-gl-def">The <strong>law of demand</strong> says that a higher price for a good or service, other things equal, leads people to demand a smaller quantity of that good or service.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p44" block_type="txt">In the real world, demand curves almost always <em>do</em> slope downward. (The exceptions are so rare that for practical purposes we can ignore them.) Generally, the proposition that a higher price for a good, <em>other things equal,</em> leads people to demand a smaller quantity of that good is so reliable that economists are willing to call it a &#8220;law&#8221;&#8212;the <strong>law of demand</strong>.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-2" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="69">
+<section-metadata><section-title>Shifts of the Demand Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p45" block_type="txt-ni">Although natural gas prices in 2006 were higher than they had been in 2002, U.S. consumption of natural gas was higher in 2006. How can we reconcile this fact with the law of demand, which says that a higher price reduces the quantity demanded, other things equal?</p>
+<p id="krugmanwellsessentials4e-ch3-p46" block_type="txt">The answer lies in the crucial phrase <em>other things equal</em>. In this case, other things weren&#8217;t equal: the U.S. economy had changed between 2002 and 2006 in ways that increased the amount of natural gas demanded at any given price. For one thing, the U.S. economy was much stronger in 2006 than in 2002. <link href="asset/ch3/KrugESS4e_fig_3_02.html">Figure 3-2</link> illustrates this phenomenon using the demand schedule and demand curve for natural gas. (As before, the numbers in <link href="asset/ch3/KrugESS4e_fig_3_02.html">Figure 3-2</link> are hypothetical.)</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-4" block_type="figure" numbered="true" number="3-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-2</phrase></strong></phrase><phrase block_type="fig_title">An Increase in Demand</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-6" alt="image" src="asset/ch3/KrugESS4e_fig_3_02.jpg"/>
+<caption>A strong economy is one factor that increases the demand for natural gas&#8212;a rise in the quantity demanded at any given price. This is represented by the two demand schedules&#8212;one showing the demand in 2002 when the economy was weak, the other showing the demand in 2006, when the economy was strong&#8212;and their corresponding demand curves. The increase in demand shifts the demand curve to the right.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_70" block_type="page_start">70</p>
+<p id="krugmanwellsessentials4e-ch3-p47" block_type="txt">The table in <link href="asset/ch3/KrugESS4e_fig_3_02.html">Figure 3-2</link> shows two demand schedules. The first is the demand schedule for 2002, the same as shown in <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link>. The second is the demand schedule for 2006. It differs from the 2002 schedule because of the stronger U.S. economy, leading to an increase in the quantity of natural gas demanded at any given price. So at each price the 2006 schedule shows a larger quantity demanded than the 2002 schedule. For example, the quantity of natural gas consumers wanted to buy at a price of &#36;3 per BTU increased from 10 trillion to 12 trillion BTUs per year; the quantity demanded at &#36;3.25 per BTU went from 8.9 trillion to 10.7 trillion, and so on.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx4-1" block_type="bx4-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch3-img-7a" alt="image" src="asset/ch3/World_icon_no_type.jpg"/><phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch3-p48" block_type="bx4-t"><strong>Pay More, Pump Less</strong></p>
+<figure id="krugmanwellsessentials4e-ch3-fig-5" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-7" alt="image" src="asset/ch3/KrugESS4e_3UN01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p49" block_type="bx4-txt-ni"><phrase block_type="dropcap">F</phrase>or a real-world illustration of the law of demand, consider how gasoline consumption varies according to the prices consumers pay at the pump. Because of high taxes, gasoline and diesel fuel are more than twice as expensive in most European countries and in many East Asian countries than in the United States. According to the law of demand, this should lead Europeans to buy less gasoline than Americans&#8212;and they do. As you can see from the figure, per person, Europeans consume less than half as much fuel as Americans, mainly because they drive smaller cars with better mileage.</p>
+<p id="krugmanwellsessentials4e-ch3-p50" block_type="bx4-txt">Prices aren&#8217;t the only factor affecting fuel consumption, but they&#8217;re probably the main cause of the difference between European and American fuel consumption per person.</p>
+<p id="krugmanwellsessentials4e-ch3-p51" block_type="bx4-sc"><em>Data from:</em> World Development Indicators and U.S. Energy Information Administration, 2013.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p52" block_type="mn-gl-def">A <strong>shift of the demand curve</strong> is a change in the quantity demanded at any given price, represented by the shift of the original demand curve to a new position, denoted by a new demand curve.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_71" block_type="page_start">71</p>
+<p id="krugmanwellsessentials4e-ch3-p53" block_type="txt">What is clear from this example is that the changes that occurred between 2002 and 2006 generated a <em>new</em> demand schedule, one in which the quantity demanded was greater at any given price than in the original demand schedule. The two curves in <link href="asset/ch3/KrugESS4e_fig_3_02.html">Figure 3-2</link> show the same information graphically. As you can see, the demand schedule for 2006 corresponds to a new demand curve, <em>D</em><sub>2</sub>, that is to the right of the demand schedule for 2002, <em>D</em><sub>1</sub>. This <strong>shift of the demand curve</strong> shows the change in the quantity demanded at any given price, represented by the change in position of the original demand curve <em>D</em><sub>1</sub> to its new location at <em>D</em><sub>2</sub>.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p54" block_type="mn-gl-def">A <strong>movement along the demand curve</strong> is a change in the quantity demanded of a good arising from a change in the good&#8217;s price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p55" block_type="txt">It&#8217;s crucial to make the distinction between such shifts of the demand curve and <strong>movements along the demand curve</strong>, changes in the quantity demanded of a good arising from a change in that good&#8217;s price. <link href="asset/ch3/KrugESS4e_fig_3_03.html">Figure 3-3</link> illustrates the difference.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-6" block_type="figure" numbered="true" number="3-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-3</phrase></strong></phrase><phrase block_type="fig_title"> Movement Along the Demand Curve versus Shift of the Demand Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-8" alt="image" src="asset/ch3/KrugESS4e_fig_3_03.jpg"/>
+<caption>The rise in quantity demanded when going from point <em>A</em> to point <em>B</em> reflects a movement along the demand curve: it is the result of a fall in the price of the good. The rise in quantity demanded when going from point <em>A</em> to point <em>C</em> reflects a shift of the demand curve: it is the result of a rise in the quantity demanded at any given price.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p56" block_type="txt">The movement from point <em>A</em> to point <em>B</em> is a movement along the demand curve: the quantity demanded rises due to a fall in price as you move down <em>D</em><sub>1</sub>. Here, a fall in the price of natural gas from &#36;3.50 to &#36;3 per BTU generates a rise in the quantity demanded from 8.1 trillion to 10 trillion BTUs per year. But the quantity demanded can also rise when the price is unchanged if there is an <em>increase in demand</em>&#8212;a rightward shift of the demand curve. This is illustrated in <link href="asset/ch3/KrugESS4e_fig_3_03.html">Figure 3-3</link> by the shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. Holding the price constant at &#36;3.50 per BTU, the quantity demanded rises from 8.1 trillion BTUs at point <em>A</em> on <em>D</em><sub>1</sub> to 9.7 trillion BTUs at point <em>C</em> on <em>D</em><sub>2</sub>.</p>
+<p id="krugmanwellsessentials4e-ch3-p57" block_type="txt">When economists say &#8220;the demand for <em>X</em> increased&#8221; or &#8220;the demand for <em>Y</em> decreased,&#8221; they mean that the demand curve for <em>X</em> or <em>Y</em> shifted&#8212;not that the quantity demanded rose or fell because of a change in the price.</p>
+<p id="krugmanwellsessentials4e_page_72" block_type="page_start">72</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch3-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch3-p58" block_type="bx1-t"><strong>DEMAND VERSUS QUANTITY DEMANDED</strong></p>
+<p id="krugmanwellsessentials4e-ch3-p59" block_type="bx1-txt-ni">When economists say &#8220;an increase in demand,&#8221; they mean a rightward shift of the demand curve, and when they say &#8220;a decrease in demand,&#8221; they mean a leftward shift of the demand curve&#8212;that is, when they&#8217;re being careful. In ordinary speech most people, including professional economists, use the word <em>demand</em> casually. For example, an economist might say &#8220;the demand for air travel has doubled over the past 15 years, partly because of falling airfares&#8221; when he or she really means that the <em>quantity demanded</em> has doubled.</p>
+<p id="krugmanwellsessentials4e-ch3-p60" block_type="bx1-txt">It&#8217;s OK to be a bit sloppy in ordinary conversation. But when you&#8217;re doing economic analysis, it&#8217;s important to make the distinction between changes in the quantity demanded, which involve movements along a demand curve, and shifts of the demand curve (see <link href="asset/ch3/KrugESS4e_fig_3_03.html">Figure 3-3</link> for an illustration). Sometimes students end up writing something like this: &#8220;If demand increases, the price will go up, but that will lead to a fall in demand, which pushes the price down &#8230;&#8221; and then go around in circles. If you make a clear distinction between changes in <em>demand,</em> which mean shifts of the demand curve, and changes in <em>quantity demanded,</em> which means movement along the demand curve, you can avoid a lot of confusion.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-3" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="72">
+<section-metadata><section-title>Understanding Shifts of the Demand Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p61" block_type="txt-ni"><link href="asset/ch3/KrugESS4e_fig_3_04.html">Figure 3-4</link> illustrates the two basic ways in which demand curves can shift. When economists talk about an &#8220;increase in demand,&#8221; they mean a <em>rightward</em> shift of the demand curve: at any given price, consumers demand a larger quantity of the good or service than before. This is shown by the rightward shift of the original demand curve <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. And when economists talk about a &#8220;decrease in demand,&#8221; they mean a <em>leftward</em> shift of the demand curve: at any given price, consumers demand a smaller quantity of the good or service than before. This is shown by the leftward shift of the original demand curve <em>D</em><sub>1</sub> to <em>D</em><sub>3</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-7" block_type="figure" numbered="true" number="3-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-4</phrase></strong></phrase><phrase block_type="fig_title"> Shifts of the Demand Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-9" alt="image" src="asset/ch3/KrugESS4e_fig_3_04.jpg"/>
+<caption>Any event that increases demand shifts the demand curve to the right, reflecting a rise in the quantity demanded at any given price. Any event that decreases demand shifts the demand curve to the left, reflecting a fall in the quantity demanded at any given price.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p62" block_type="txt">What caused the demand curve for natural gas to shift? As we mentioned earlier, the reason was the stronger U.S. economy in 2006 compared to 2002. If you think about it, you can come up with other factors that would be likely to shift the demand curve for natural gas. For example, suppose that the price of heating oil rises. This will induce some consumers, who heat their homes and businesses in winter with heating oil, to switch to natural gas instead, increasing the demand for natural gas.</p>
+<p id="krugmanwellsessentials4e_page_73" block_type="page_start">73</p>
+<p id="krugmanwellsessentials4e-ch3-p63" block_type="txt">Economists believe that there are five principal factors that shift the demand curve for a good or service:</p>
+<list id="krugmanwellsessentials4e-ch3-list-3" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p64" block_type="bl-first">Changes in the prices of related goods or services</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p65" block_type="bl-mid">Changes in income</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p66" block_type="bl-mid">Changes in tastes</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p67" block_type="bl-mid">Changes in expectations</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p68" block_type="bl-last">Changes in the number of consumers</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch3-p69" block_type="txt">Although this is not an exhaustive list, it contains the five most important factors that can shift demand curves. So when we say that the quantity of a good or service demanded falls as its price rises, <em>other things equal</em>, we are in fact stating that the factors that shift demand are remaining unchanged. Let&#8217;s now explore, in more detail, how those factors shift the demand curve.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p70" block_type="mn-gl-def">Two goods are <strong>substitutes</strong> if a rise in the price of one of the goods leads to an increase in the demand for the other good.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p71" block_type="txt-3"><phrase block_type="h3"><strong>Changes in the Prices of Related Goods or Services</strong></phrase> Heating oil is what economists call a <em>substitute</em> for natural gas. A pair of goods are <strong>substitutes</strong> if a rise in the price of one good (heating oil) makes consumers more likely to buy the other good (natural gas). Substitutes are usually goods that in some way serve a similar function: coffee and tea, muffins and doughnuts, train rides and air flights. A rise in the price of the alternative good induces some consumers to purchase the original good <em>instead</em> of it, shifting demand for the original good to the right.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p72" block_type="mn-gl-def">Two goods are <strong>complements</strong> if a rise in the price of one good leads to a decrease in the demand for the other good.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p73" block_type="txt">But sometimes a rise in the price of one good makes consumers <em>less</em> willing to buy another good. Such pairs of goods are known as <strong>complements</strong>. Complements are usually goods that in some sense are consumed together: computers and software, cappuccinos and cookies, cars and gasoline. Because consumers like to consume a good and its complement together, a change in the price of one of the goods will affect the demand for its complement. In particular, when the price of one good rises, the demand for its complement decreases, shifting the demand curve for the complement to the left. So, for example, when the price of gasoline began to rise in 2009 from under &#36;3 per gallon to close to &#36;4 per gallon in 2011, the demand for gas-guzzling cars fell.</p>
+<p id="krugmanwellsessentials4e-ch3-p74" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Income</strong></phrase> Why did the stronger economy in 2006 lead to an increase in the demand for natural gas compared to the demand during the weak economy of 2002? Because with the stronger economy, Americans had more income, making them more likely to purchase more of <em>most</em> goods and services at any given price. For example, with a higher income you are likely to keep your house warmer in the winter than if your income is low.</p>
+<p id="krugmanwellsessentials4e-ch3-p75" block_type="txt">And, the demand for natural gas, a major source of fuel for electricity-generating power plants, is tied to the demand for other goods and services. For example, businesses must consume power in order to provide goods and services to households. So when the economy is strong and household incomes are high, businesses will consume more electricity and, indirectly, more natural gas.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p76" block_type="mn-gl-def">When a rise in income increases the demand for a good&#8212;the normal case&#8212;it is a <strong>normal good</strong>.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p77" block_type="mn-gl-def">When a rise in income decreases the demand for a good, it is an <strong>inferior good</strong>.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p78" block_type="txt">Why do we say that people are likely to purchase more of &#8220;most goods,&#8221; not &#8220;all goods&#8221;? Most goods are <strong>normal goods</strong><strong>&#8212;</strong>the demand for them increases when consumer income rises. However, the demand for some products falls when income rises. Goods for which demand decreases when income rises are known as <strong>inferior goods</strong>. Usually an inferior good is one that is considered less desirable than more expensive alternatives&#8212;such as a bus ride versus a taxi ride. When they can afford to, people stop buying an inferior good and switch their consumption to the preferred, more expensive alternative. So when a good is inferior, a rise in income shifts the demand curve to the left. And, not surprisingly, a fall in income shifts the demand curve to the right.</p>
+<p id="krugmanwellsessentials4e_page_74" block_type="page_start">74</p>
+<p id="krugmanwellsessentials4e-ch3-p79" block_type="txt">One example of the distinction between normal and inferior goods that has drawn considerable attention in the business press is the difference between so-called casual-dining restaurants such as Applebee&#8217;s or Olive Garden and fast-food chains such as McDonald&#8217;s and KFC. When their incomes rise, Americans tend to eat out more at casual-dining restaurants. However, some of this increased dining out comes at the expense of fast-food venues&#8212;to some extent, people visit McDonald&#8217;s less once they can afford to move upscale. So casual dining is a normal good, whereas fast-food consumption appears to be an inferior good.</p>
+<p id="krugmanwellsessentials4e-ch3-p80" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Tastes</strong></phrase> Why do people want what they want? Fortunately, we don&#8217;t need to answer that question&#8212;we just need to acknowledge that people have certain preferences, or tastes, that determine what they choose to consume and that these tastes can change. Economists usually lump together changes in demand due to fads, beliefs, cultural shifts, and so on under the heading of changes in tastes or preferences.</p>
+<p id="krugmanwellsessentials4e-ch3-p81" block_type="txt">For example, once upon a time men wore hats. Up until around World War II, a respectable man wasn&#8217;t fully dressed unless he wore a dignified hat along with his suit. But the returning GIs adopted a more informal style, perhaps due to the rigors of the war. And President Eisenhower, who had been supreme commander of Allied Forces before becoming president, often went hatless. After World War II, it was clear that the demand curve for hats had shifted leftward, reflecting a decrease in the demand for hats.</p>
+<p id="krugmanwellsessentials4e-ch3-p82" block_type="txt">Economists have relatively little to say about the forces that influence consumers&#8217; tastes. (Although marketers and advertisers have plenty to say about them!) However, a change in tastes has a predictable impact on demand. When tastes change in favor of a good, more people want to buy it at any given price, so the demand curve shifts to the right. When tastes change against a good, fewer people want to buy it at any given price, so the demand curve shifts to the left.</p>
+<p id="krugmanwellsessentials4e-ch3-p83" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Expectations</strong></phrase> When consumers have some choice about when to make a purchase, current demand for a good is often affected by expectations about its future price. For example, savvy shoppers often wait for seasonal sales&#8212;say, buying next year&#8217;s holiday gifts during the post-holiday markdowns. In this case, expectations of a future drop in price lead to a decrease in demand today. Alternatively, expectations of a future rise in price are likely to cause an increase in demand today.</p>
+<p id="krugmanwellsessentials4e-ch3-p84" block_type="txt">For example, the fall in gas prices in recent years to around &#36;2 per BTU has spurred more consumers to switch to natural gas from other fuel types than when natural gas fell to &#36;2 per BTU in 2002. But why are consumers more willing to switch now? Because in 2002, consumers didn&#8217;t expect the fall in the price of natural gas to last&#8212;and they were right.</p>
+<p id="krugmanwellsessentials4e-ch3-p85" block_type="txt">In 2002, natural gas prices fell because of the weak economy. That situation changed in 2006 when the economy came roaring back and the price of natural gas rose dramatically. In contrast, consumers have come to expect that the more recent fall in the price of natural gas will not be temporary because it is based on a permanent change: the ability to tap much larger deposits of natural gas.</p>
+<p id="krugmanwellsessentials4e-ch3-p86" block_type="txt">Expected changes in future income can also lead to changes in demand: if you expect your income to rise in the future, you will typically borrow today and increase your demand for certain goods; if you expect your income to fall in the future, you are likely to save today and reduce your demand for some goods.</p>
+<p id="krugmanwellsessentials4e-ch3-p87" block_type="txt-3"><phrase block_type="h3"><strong>Changes in the Number of Consumers</strong></phrase> Another factor that can cause a change in demand is a change in the number of consumers of a good or service. For example, population growth in the United States eventually leads to higher demand for natural gas as more homes and businesses need to be heated in the winter and cooled in the summer.</p>
+<p id="krugmanwellsessentials4e_page_75" block_type="page_start">75</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p88" block_type="mn-gl-def">An <strong>individual demand curve</strong> illustrates the relationship between quantity demanded and price for an individual consumer.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p89" block_type="txt">Let&#8217;s introduce a new concept: the <strong>individual demand curve</strong>, which shows the relationship between quantity demanded and price for an individual consumer. For example, suppose that the Gonzalez family is a consumer of natural gas for heating and cooling their home. Panel (a) of <link href="asset/ch3/KrugESS4e_fig_3_05abc.html">Figure 3-5</link> shows how many BTUs of natural gas they will buy per year at any given price. The Gonzalez family&#8217;s individual demand curve is <em>D<sub>Gonzalez</sub></em>.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-8" block_type="figure" numbered="true" number="3-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-5</phrase></strong></phrase><phrase block_type="fig_title"> Individual Demand Curves and the Market Demand Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-10" alt="image" src="asset/ch3/KrugESS4e_fig_3_05abc.jpg"/>
+<caption>The Gonzalez family and the Murray family are the only two consumers of natural gas in the market. Panel (a) shows the Gonzalez family&#8217;s individual demand curve: the number of BTUs they will buy per year at any given price. Panel (b) shows the Murray family&#8217;s individual demand curve. Given that the Gonzalez family and the Murray family are the only two consumers, the <em>market demand curve,</em> which shows the quantity of BTUs demanded by all consumers at any given price, is shown in panel (c). The market demand curve is the <em>horizontal sum</em> of the individual demand curves of all consumers. In this case, at any given price, the quantity demanded by the market is the sum of the quantities demanded by the Gonzalez family and the Murray family.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p90" block_type="txt">The <em>market demand curve</em> shows how the combined quantity demanded by all consumers depends on the market price of the good. (Most of the time when economists refer to the demand curve they mean the market demand curve.) The market demand curve is the <em>horizontal sum</em> of the individual demand curves of all consumers in that market. To see what we mean by the term <em>horizontal sum</em>, assume for a moment that there are only two consumers of natural gas, the Gonzalez family and the Murray family. The Murray family consumes natural gas to fuel their natural gas&#8211;powered car. The Murray family&#8217;s individual demand curve, <em>D<sub>Murray</sub></em>, is shown in panel (b). Panel (c) shows the market demand curve. At any given price, the quantity demanded by the market is the sum of the quantities demanded by the Gonzalez family and the Murray family. For example, at a price of &#36;5 per BTU, the Gonzalez family demands 30 BTUs of natural gas per year and the Murray family demands 20 BTUs per year. So the quantity demanded by the market is 50 BTUs per year, as seen on the market demand curve, <em>D<sub>Market</sub></em>.</p>
+<p id="krugmanwellsessentials4e-ch3-p91" block_type="txt">Clearly, the quantity demanded by the market at any given price is larger with the Murray family present than it would be if the Gonzalez family were the only consumer. The quantity demanded at any given price would be even larger if we added a third consumer, then a fourth, and so on. So an increase in the number of consumers leads to an increase in demand.</p>
+<p id="krugmanwellsessentials4e-ch3-p92" block_type="txt">For a review of the factors that shift demand, see <link href="#krugmanwellsessentials4e-ch3-untab-1">Table 3-1</link>.</p>
+<p id="krugmanwellsessentials4e_page_76" block_type="page_start">76</p>
+<table id="krugmanwellsessentials4e-ch3-tab-1" block_type="table" numbered="false" caption-placement="Top">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">3-1</phrase></strong><phrase block_type="tbl_title">Factors That Shift Demand</phrase></table_caption>
+<tbody>
+<tr>
+<td class="tbl-hdr-bg tbl-ljust"><phrase block_type="tbn-colhd"><strong>When this<br/>happens &#8230;</strong></phrase></td>
+<td class="tbl-hdr-bg"><phrase block_type="tbn-colhd"><strong>&#8230; demand increases</strong></phrase></td>
+<td class="tbl-hdr-bg tbl-ljust"><phrase block_type="tbn-colhd"><strong>But when this<br/>happens &#8230;</strong></phrase></td>
+<td class="tbl-hdr-bg"><phrase block_type="tbn-colhd"><strong>&#8230; demand decreases</strong></phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-11" alt="image" src="asset/ch3/KrugESS4e_3UN08a.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-12" alt="image" src="asset/ch3/KrugESS4e_3UN08h.jpg"/></phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-13" alt="image" src="asset/ch3/KrugESS4e_3UN08b.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-14" alt="image" src="asset/ch3/KrugESS4e_3UN08i.jpg"/>
+</phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-15" alt="image" src="asset/ch3/KrugESS4e_3UN08c.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-16" alt="image" src="asset/ch3/KrugESS4e_3UN08j.jpg"/>
+</phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-17" alt="image" src="asset/ch3/KrugESS4e_3UN08d.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-18" alt="image" src="asset/ch3/KrugESS4e_3UN08k.jpg"/>
+</phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-19" alt="image" src="asset/ch3/KrugESS4e_3UN08e.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-20" alt="image" src="asset/ch3/KrugESS4e_3UN08L.jpg"/>
+</phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-21" alt="image" src="asset/ch3/KrugESS4e_3UN08f.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-22" alt="image" src="asset/ch3/KrugESS4e_3UN08m.jpg"/>
+</phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-23" alt="image" src="asset/ch3/KrugESS4e_3UN08g.jpg"/>
+</phrase></td>
+<td colspan="2" class="tbl-td-dark"><phrase block_type="tbn-tb-txt">
+<image asset-id="krugmanwellsessentials4e-ch3-img-24" alt="image" src="asset/ch3/KrugESS4e_3UN08n.jpg"/>
+</phrase></td>
+</tr>
+</tbody>
+</table>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch3-img-7a1" alt="image" src="asset/ch3/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e_page_77" block_type="page_start">77</p>
+<p id="krugmanwellsessentials4e-ch3-p93" block_type="bx-2-t"><strong>Beating the Traffic</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p94" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-25" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<figure id="krugmanwellsessentials4e-ch3-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="small" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-26" alt="image" src="asset/ch3/KrugESS4e_3UN02.jpg"/>
+<caption>Cities can reduce traffic congestion by raising the price of driving.</caption>
+<asset_source>Global Warming Images/Alamy</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p95" block_type="bx2-first"><phrase block_type="dropcap">A</phrase>ll big cities have traffic problems, and many local authorities try to discourage driving in the crowded city center. If we think of an auto trip to the city center as a good that people consume, we can use the economics of demand to analyze anti-traffic policies.</p>
+<p id="krugmanwellsessentials4e-ch3-p96" block_type="bx2-txt">One common strategy is to reduce the demand for auto trips by lowering the prices of substitutes. Many metropolitan areas subsidize bus and rail service, hoping to lure commuters out of their cars. An alternative is to raise the price of complements: several major U.S. cities impose high taxes on commercial parking garages and impose short time limits on parking meters, both to raise revenue and to discourage people from driving into the city.</p>
+<p id="krugmanwellsessentials4e-ch3-p97" block_type="bx2-txt">A few major cities&#8212;including Singapore, London, Oslo, Stockholm, and Milan&#8212;have been willing to adopt a direct and politically controversial approach: reducing congestion by raising the price of driving. Under &#8220;congestion pricing&#8221; (or &#8220;congestion charging&#8221; in the United Kingdom), a charge is imposed on cars entering the city center during business hours. Drivers buy passes, which are then debited electronically as they drive by monitoring stations. Compliance is monitored with automatic cameras that photograph license plates.</p>
+<p id="krugmanwellsessentials4e-ch3-p98" block_type="bx2-txt">The current daily cost of driving in London ranges from &#163;9 to &#163;12 (about &#36;14 to &#36;19). And drivers who don&#8217;t pay and are caught pay a fine of &#163;120 (about &#36;192) for each transgression.</p>
+<p id="krugmanwellsessentials4e-ch3-p99" block_type="bx2-txt">Not surprisingly, studies have shown that after the implementation of congestion pricing, traffic does indeed decrease. In the 1990s, London had some of the worst traffic in Europe. The introduction of its congestion charge in 2003 immediately reduced traffic in the city center by about 15&#37;, with overall traffic falling by 21&#37; between 2002 and 2006. And there has been increased use of substitutes, such as public transportation, bicycles, motorbikes, and ride-sharing. From 2001 to 2011, bike trips in London increased by 79&#37;, and bus usage was up by 30&#37;.</p>
+<p id="krugmanwellsessentials4e-ch3-p100" block_type="bx2-txt">In the United States, the U.S. Department of Transportation has implemented pilot programs to study congestion pricing. For example, in 2012 Los Angeles County imposed a congestion charge on an 11-mile stretch of highway in central Los Angeles. Drivers pay up to &#36;1.40 per mile, the amount depending upon traffic congestion, with a money-back guarantee that their average speed will never drop below 45 miles per hour. While some drivers were understandably annoyed at the charge, others were more philosophical. One driver felt that the toll was a fair price to escape what often turned into a crawling 45-minute drive, saying, &#8220;It&#8217;s worth it if you&#8217;re in a hurry to get home. You got to pay the price. If not, get stuck in traffic.&#8221;</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch3-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch3-list-4" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch3-p101" block_type="sr1-bl">The <strong>supply and demand model</strong> is a model of a <strong>competitive market&#8212;</strong>one in which there are many buyers and sellers of the same good or service.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p102" block_type="sr1-bl">The <strong>demand schedule</strong> shows how the <strong>quantity demanded</strong> changes as the price changes. A <strong>demand curve</strong> illustrates this relationship.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p103" block_type="sr1-bl">The <strong>law of demand</strong> asserts that a higher price reduces the quantity demanded. Thus, demand curves normally slope downward.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p104" block_type="sr1-bl">An increase in demand leads to a rightward <strong>shift of the demand curve:</strong> the quantity demanded rises for any given price. A decrease in demand leads to a leftward shift: the quantity demanded falls for any given price. A change in price results in a change in the quantity demanded and a <strong>movement along the demand curve.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p105" block_type="sr1-bl">The five main factors that can shift the demand curve are changes in (1) the price of a related good, such as a <strong>substitute</strong> or a <strong>complement,</strong> (2) income, (3) tastes, (4) expectations, and (5) the number of consumers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p106" block_type="sr1-bl">The market demand curve is the horizontal sum of the <strong>individual demand curves</strong> of all consumers in the market.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">3-1</phrase></box-title></box-metadata>
+<list id="krugmanwellsessentials4e-ch3-list-5" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-p107" block_type="sr2-nl-first">Explain whether each of the following events represents (i) a <em>shift of</em> the demand curve or (ii) a <em>movement along</em> the demand curve.</p>
+<list id="krugmanwellsessentials4e-ch3-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p108" block_type="sr2-nl-lvl2">A store owner finds that customers are willing to pay more for umbrellas on rainy days.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p109" block_type="sr2-nl-lvl2">When Circus Cruise Lines offered reduced prices for summer cruises in the Caribbean, their number of bookings increased sharply.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p110" block_type="sr2-nl-lvl2">People buy more long-stem roses the week of Valentine&#8217;s Day, even though the prices are higher than at other times during the year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p111" block_type="sr2-nl-lvl2">A sharp rise in the price of gasoline leads many commuters to join carpools in order to reduce their gasoline purchases.</p></li>
+</list></li>
+</list>
+<p id="krugmanwellsessentials4e-ch3-p112" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-3" block_type="h1" title="" chapter="3" numbered="true" level="1" print_page="78">
+<section-metadata><section-title>The Supply Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_78" block_type="page_start">78</p>
+<p id="krugmanwellsessentials4e-ch3-p113" block_type="txt-ni">Some deposits of natural gas are easier to tap than others. Before the widespread use of fracking, drillers would limit their natural gas wells to deposits that lay in easily reached pools beneath the earth. How much natural gas they would tap from existing wells, and how extensively they searched for new deposits and drilled new wells, depended on the price they expected to get for the natural gas. The higher the price they expected, the more they would tap existing wells as well as drill and tap new wells.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p114" block_type="mn-gl-def">The <strong>quantity supplied</strong> is the actual amount of a good or service people are willing to sell at some specific price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p115" block_type="txt">So just as the quantity of natural gas that consumers want to buy depends upon the price they have to pay, the quantity that producers of natural gas, or of any good or service, are willing to produce and sell&#8212;the <strong>quantity supplied</strong><strong>&#8212;</strong>depends upon the price they are offered.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-4" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="78">
+<section-metadata><section-title>The Supply Schedule and the Supply Curve</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p116" block_type="mn-gl-def">A <strong>supply schedule</strong> shows how much of a good or service would be supplied at different prices.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p117" block_type="txt-ni">The table in <link href="asset/ch3/KrugESS4e_fig_3_06.html">Figure 3-6</link> shows how the quantity of natural gas made available varies with the price&#8212;that is, it shows a hypothetical <strong>supply schedule</strong> for natural gas.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-24" block_type="figure" numbered="true" number="3-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-6</phrase></strong></phrase><phrase block_type="fig_title"> The Supply Schedule and the Supply Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-27" alt="image" src="asset/ch3/KrugESS4e_fig_3_06.jpg"/>
+<caption>The supply schedule for natural gas is plotted to yield the corresponding supply curve, which shows how much of a good producers are willing to sell at any given price. The supply curve and the supply schedule reflect the fact that supply curves are usually upward sloping: the quantity supplied rises when the price rises.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p118" block_type="txt">A supply schedule works the same way as the demand schedule shown in <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link>: in this case, the table shows the number of BTUs of natural gas producers are willing to sell at different prices. At a price of &#36;2.50 per BTU, producers are willing to sell only 8 trillion BTUs of natural gas per year. At &#36;2.75 per BTU, they&#8217;re willing to sell 9.1 trillion BTUs. At &#36;3, they&#8217;re willing to sell 10 trillion BTUs, and so on.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p119" block_type="mn-gl-def">A <strong>supply curve</strong> shows the relationship between quantity supplied and price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p120" block_type="txt">In the same way that a demand schedule can be represented graphically by a demand curve, a supply schedule can be represented by a <strong>supply curve</strong>, as shown in <link href="asset/ch3/KrugESS4e_fig_3_06.html">Figure 3-6</link>. Each point on the curve represents an entry from the table.</p>
+<p id="krugmanwellsessentials4e-ch3-p121" block_type="txt">Suppose that the price of natural gas rises from &#36;3 to &#36;3.25; we can see that the quantity of natural gas producers are willing to sell rises from 10 trillion to 10.7 trillion BTUs. This is the normal situation for a supply curve, that a higher price leads to a higher quantity supplied. So just as demand curves normally slope downward, supply curves normally slope upward: the higher the price being offered, the more of any good or service producers will be willing to sell.</p>
+<p id="krugmanwellsessentials4e_page_79" block_type="page_start">79</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-5" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="79">
+<section-metadata><section-title>Shifts of the Supply Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p122" block_type="txt-ni">As we described in the opening story, innovations in the technology of drilling natural gas deposits have recently led to a huge increase in U.S. production of natural gas&#8212;a 30&#37; increase in daily production from 2005 through 2014. <link href="asset/ch3/KrugESS4e_fig_3_07.html">Figure 3-7</link> illustrates these events in terms of the supply schedule and the supply curve for natural gas. The table in <link href="asset/ch3/KrugESS4e_fig_3_07.html">Figure 3-7</link> shows two supply schedules. The schedule before improved natural gas&#8211;drilling technology was adopted is the same one as in <link href="asset/ch3/KrugESS4e_fig_3_06.html">Figure 3-6</link>. The second schedule shows the supply of natural gas <em>after</em> the improved technology was adopted.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-25" block_type="figure" numbered="true" number="3-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-7</phrase></strong></phrase><phrase block_type="fig_title"> An Increase in Supply</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-28" alt="image" src="asset/ch3/KrugESS4e_fig_3_07.jpg"/>
+<caption>The adoption of improved natural gas&#8211;drilling technology generated an increase in supply&#8212;a rise in the quantity supplied at any given price. This event is represented by the two supply schedules&#8212;one showing supply before the new technology was adopted, the other showing supply after the new technology was adopted&#8212;and their corresponding supply curves. The increase in supply shifts the supply curve to the right.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p123" block_type="mn-gl-def">A <strong>shift of the supply curve</strong> is a change in the quantity supplied of a good or service at any given price. It is represented by the change of the original supply curve to a new position, denoted by a new supply curve.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p124" block_type="txt">Just as a change in demand schedules leads to a shift of the demand curve, a change in supply schedules leads to a <strong>shift of the supply curve</strong><strong>&#8212;</strong>a change in the quantity supplied at any given price. This is shown in <link href="asset/ch3/KrugESS4e_fig_3_07.html">Figure 3-7</link> by the shift of the supply curve before the adoption of new natural gas&#8211;drilling technology, <em>S</em><sub>1</sub>, to its new position after the adoption of new natural gas&#8211;drilling technology, <em>S</em><sub>2</sub>. Notice that <em>S</em><sub>2</sub> lies to the right of <em>S</em><sub>1</sub>, a reflection of the fact that quantity supplied rises at any given price.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-18" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p125" block_type="mn-gl-def">A <strong>movement along the supply curve</strong> is a change in the quantity supplied of a good arising from a change in the good&#8217;s price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p126" block_type="txt">As in the analysis of demand, it&#8217;s crucial to draw a distinction between such shifts of the supply curve and <strong>movements along the supply curve</strong><strong>&#8212;</strong>changes in the quantity supplied arising from a change in price. We can see this difference in <link href="asset/ch3/KrugESS4e_fig_3_08.html">Figure 3-8</link>. The movement from point <em>A</em> to point <em>B</em> is a movement along the supply curve: the quantity supplied rises along <em>S</em><sub>1</sub> due to a rise in price. Here, a rise in price from &#36;3 to &#36;3.50 leads to a rise in the quantity supplied from 10 trillion to 11.2 trillion BTUs of natural gas. But the quantity supplied can also rise when the price is unchanged if there is an increase in supply&#8212;a rightward shift of the supply curve. This is shown by the rightward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. Holding the price constant at &#36;3, the quantity supplied rises from 10 trillion BTUs at point <em>A</em> on <em>S</em><sub>1</sub> to 12 billion pounds at point <em>C</em> on <em>S</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-26" block_type="figure" numbered="true" number="3-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-8</phrase></strong></phrase><phrase block_type="fig_title"> Movement Along the Supply Curve versus Shift of the Supply Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-29" alt="image" src="asset/ch3/KrugESS4e_fig_3_08.jpg"/>
+<caption>The increase in quantity supplied when going from point <em>A</em> to point <em>B</em> reflects a movement along the supply curve: it is the result of a rise in the price of the good. The increase in quantity supplied when going from point <em>A</em> to point <em>C</em> reflects a shift of the supply curve: it is the result of an increase in the quantity supplied at any given price.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_80" block_type="page_start">80</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-6" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="80">
+<section-metadata><section-title>Understanding Shifts of the Supply Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p127" block_type="txt-ni"><link href="asset/ch3/KrugESS4e_fig_3_09.html">Figure 3-9</link> illustrates the two basic ways in which supply curves can shift. When economists talk about an &#8220;increase in supply,&#8221; they mean a <em>rightward</em> shift of the supply curve: at any given price, producers supply a larger quantity of the good than before. This is shown in <link href="asset/ch3/KrugESS4e_fig_3_09.html">Figure 3-9</link> by the rightward shift of the original supply curve <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. And when economists talk about a &#8220;decrease in supply,&#8221; they mean a <em>leftward</em> shift of the supply curve: at any given price, producers supply a smaller quantity of the good than before. This is represented by the leftward shift of <em>S</em><sub>1</sub> to <em>S</em><sub>3</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-27" block_type="figure" numbered="true" number="3-9" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-9</phrase></strong></phrase><phrase block_type="fig_title"> Shifts of the Supply Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-30" alt="image" src="asset/ch3/KrugESS4e_fig_3_09.jpg"/>
+<caption>Any event that increases supply shifts the supply curve to the right, reflecting a rise in the quantity supplied at any given price. Any event that decreases supply shifts the supply curve to the left, reflecting a fall in the quantity supplied at any given price.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_81" block_type="page_start">81</p>
+<p id="krugmanwellsessentials4e-ch3-p128" block_type="txt">Economists believe that shifts of the supply curve for a good or service are mainly the result of five factors (though, as with demand, there are other possible causes):</p>
+<list id="krugmanwellsessentials4e-ch3-list-7" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p129" block_type="bl-first">Changes in input prices</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p130" block_type="bl-mid">Changes in the prices of related goods or services</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p131" block_type="bl-mid">Changes in technology</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p132" block_type="bl-mid">Changes in expectations</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p133" block_type="bl-last">Changes in the number of producers</p></li>
+</list>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-19" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p134" block_type="mn-gl-def">An <strong>input</strong> is a good or service that is used to produce another good or service.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p135" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Input Prices</strong></phrase> To produce output, you need inputs. For example, to make vanilla ice cream, you need vanilla beans, cream, sugar, and so on. An <strong>input</strong> is any good or service that is used to produce another good or service. Inputs, like outputs, have prices. And an increase in the price of an input makes the production of the final good more costly for those who produce and sell it. So producers are less willing to supply the final good at any given price, and the supply curve shifts to the left. That is, supply decreases. For example, fuel is a major cost for airlines. When oil prices surged in 2007&#8211;2008, airlines began cutting back on their flight schedules and some went out of business.</p>
+<p id="krugmanwellsessentials4e-ch3-p136" block_type="txt">Similarly, a fall in the price of an input makes the production of the final good less costly for sellers. They are more willing to supply the good at any given price, and the supply curve shifts to the right. That is, supply increases.</p>
+<p id="krugmanwellsessentials4e-ch3-p137" block_type="txt-3"><phrase block_type="h3"><strong>Changes in the Prices of Related Goods or Services</strong></phrase> A single producer often produces a mix of goods rather than a single product. For example, an oil refinery produces gasoline from crude oil, but it also produces heating oil and other products from the same raw material. When a producer sells several products, the quantity of any one good it is willing to supply at any given price depends on the prices of its other co-produced goods.</p>
+<p id="krugmanwellsessentials4e-ch3-p138" block_type="txt">This effect can run in either direction. An oil refiner will supply less gasoline at any given price when the price of heating oil rises, shifting the supply curve for gasoline to the left. But it will supply more gasoline at any given price when the price of heating oil falls, shifting the supply curve for gasoline to the right. This means that gasoline and other co-produced oil products are <em>substitutes in production</em> for refiners.</p>
+<p id="krugmanwellsessentials4e-ch3-p139" block_type="txt">In contrast, due to the nature of the production process, other goods can be <em>complements in production</em>. For example, producers of natural gas often find that natural gas wells also produce oil as a by-product of extraction. The higher the price at which a driller can sell its oil, the more willing it will be to drill natural gas wells and the more natural gas it will supply at any given price. In other words, higher oil prices lead to more natural gas supplied at any given price because oil and natural gas can be tapped simultaneously. As a result, oil is a complement in the production of natural gas. The reverse is also true: natural gas is a complement in the production of oil.</p>
+<p id="krugmanwellsessentials4e-ch3-p140" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Technology</strong></phrase> As the opening story illustrates, changes in technology affect the supply curve. Improvements in technology enable producers to spend less on inputs (in this case, drilling equipment, labor, land purchases, and so on), yet still produce the same amount of output. When a better technology becomes available, reducing the cost of production, supply increases and the supply curve shifts to the right.</p>
+<p id="krugmanwellsessentials4e-ch3-p141" block_type="txt">Improved technology enabled natural gas producers to more than double output in less than two years. Technology is also the main reason that natural gas has remained relatively cheap, even as demand has grown.</p>
+<p id="krugmanwellsessentials4e-ch3-p142" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Expectations</strong></phrase> Just as changes in expectations can shift the demand curve, they can also shift the supply curve. When suppliers have some choice about when they put their good up for sale, changes in the expected future price of the good can lead a supplier to supply less or more of the good today.</p>
+<p id="krugmanwellsessentials4e-ch3-p143" block_type="txt">For example, consider the fact that gasoline and other oil products are often stored for significant periods of time at oil refineries before being sold to consumers. In fact, storage is normally part of producers&#8217; business strategy. Knowing that the demand for gasoline peaks in the summer, oil refiners normally store some of their gasoline produced during the spring for summer sale. Similarly, knowing that the demand for heating oil peaks in the winter, they normally store some of their heating oil produced during the fall for winter sale.</p>
+<p id="krugmanwellsessentials4e_page_82" block_type="page_start">82</p>
+<p id="krugmanwellsessentials4e-ch3-p144" block_type="txt">In each case, there&#8217;s a decision to be made between selling the product now versus storing it for later sale. Which choice a producer makes depends on a comparison of the current price versus the expected future price. This example illustrates how changes in expectations can alter supply: an increase in the anticipated future price of a good or service reduces supply today, a leftward shift of the supply curve. But a fall in the anticipated future price increases supply today, a rightward shift of the supply curve.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-20" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p145" block_type="mn-gl-def">An <strong>individual supply curve</strong> illustrates the relationship between quantity supplied and price for an individual producer.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p146" block_type="txt-3"><phrase block_type="h3"><strong>Changes in the Number of Producers</strong></phrase> Just as changes in the number of consumers affect the demand curve, changes in the number of producers affect the supply curve. Let&#8217;s examine the <strong>individual supply curve</strong>, by looking at panel (a) in <link href="asset/ch3/KrugESS4e_fig_3_10abc.html">Figure 3-10</link>. The individual supply curve shows the relationship between quantity supplied and price for an individual producer. For example, suppose that Louisiana Drillers is a natural gas producer and that panel (a) of <link href="asset/ch3/KrugESS4e_fig_3_10abc.html">Figure 3-10</link> shows the quantity of BTUs it will supply per year at any given price. Then <em>S<sub>Louisiana</sub></em> is its individual supply curve.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-28" block_type="figure" numbered="true" number="3-10" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-10</phrase></strong></phrase><phrase block_type="fig_title"> The Individual Supply Curve and the Market Supply Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-31" alt="image" src="asset/ch3/KrugESS4e_fig_3_10abc.jpg"/>
+<caption>Panel (a) shows the individual supply curve for Louisiana Drillers, <em>S<sub>Louisiana</sub></em>, the quantity it will sell at any given price. Panel (b) shows the individual supply curve for Allegheny Natural Gas, <em>S<sub>Allegheny</sub></em>. The market supply curve, which shows the quantity of natural gas supplied by all producers at any given price is shown in panel (c). The market supply curve is the horizontal sum of the individual supply curves of all producers.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p147" block_type="txt">The <em>market supply curve</em> shows how the combined total quantity supplied by all individual producers in the market depends on the market price of that good. Just as the market demand curve is the horizontal sum of the individual demand curves of all consumers, the market supply curve is the horizontal sum of the individual supply curves of all producers. Assume for a moment that there are only two natural gas producers, Louisiana Drillers and Allegheny Natural Gas. Allegheny&#8217;s individual supply curve is shown in panel (b). Panel (c) shows the market supply curve. At any given price, the quantity supplied to the market is the sum of the quantities supplied by Louisiana Drillers and Allegheny Natural Gas. For example at a price of around &#36;2 per BTU, Louisiana Drillers supplies 200,000 BTUs and Allegheny Natural Gas supplies 100,000 BTUs per year, making the quantity supplied to the market 300,000 BTUs.</p>
+<p id="krugmanwellsessentials4e_page_83" block_type="page_start">83</p>
+<p id="krugmanwellsessentials4e-ch3-p148" block_type="txt">Clearly, the quantity supplied to the market at any given price is larger when Allegheny Natural Gas is also a producer than it would be if Louisiana Drillers were the only supplier. The quantity supplied at a given price would be even larger if we added a third producer, then a fourth, and so on. So an increase in the number of producers leads to an increase in supply and a rightward shift of the supply curve.</p>
+<p id="krugmanwellsessentials4e-ch3-p149" block_type="txt">For a review of the factors that shift supply, see <link href="#krugmanwellsessentials4e-ch3-untab-2">Table 3-2</link>.</p>
+<table id="krugmanwellsessentials4e-ch3-tab-2" block_type="table" caption-placement="Top">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">3-2</phrase></strong><phrase block_type="tbl_title">Factors That Shift Supply</phrase></table_caption>
+<tbody>
+<tr>
+<td class="tbl-hdr-bg tbl-ljust"><phrase block_type="tbn-colhd tbl-ljust"><strong>When this<br/>happens &#8230;</strong></phrase></td>
+<td class="tbl-hdr-bg"><phrase block_type="tbn-colhd"><strong>&#8230; supply increases</strong></phrase></td>
+<td class="tbl-hdr-bg tbl-ljust"><phrase block_type="tbn-colhd tbl-ljust"><strong>But when this<br/>happens &#8230;</strong></phrase></td>
+<td class="tbl-hdr-bg"><phrase block_type="tbn-colhd"><strong>&#8230; supply decreases</strong></phrase></td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light">
+<image asset-id="krugmanwellsessentials4e-ch3-img-32" alt="image" src="asset/ch3/KrugESS4e_3UN09a.jpg"/>
+</td>
+<td colspan="2" class="tbl-td-dark">
+<image asset-id="krugmanwellsessentials4e-ch3-img-33" alt="image" src="asset/ch3/KrugESS4e_3UN09g.jpg"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light">
+<image asset-id="krugmanwellsessentials4e-ch3-img-34" alt="image" src="asset/ch3/KrugESS4e_3UN09b.jpg"/>
+</td>
+<td colspan="2" class="tbl-td-dark">
+<image asset-id="krugmanwellsessentials4e-ch3-img-35" alt="image" src="asset/ch3/KrugESS4e_3UN09h.jpg"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light">
+<image asset-id="krugmanwellsessentials4e-ch3-img-36" alt="image" src="asset/ch3/KrugESS4e_3UN09c.jpg"/>
+</td>
+<td colspan="2" class="tbl-td-dark">
+<image asset-id="krugmanwellsessentials4e-ch3-img-37" alt="image" src="asset/ch3/KrugESS4e_3UN09i.jpg"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light">
+<image asset-id="krugmanwellsessentials4e-ch3-img-38" alt="image" src="asset/ch3/KrugESS4e_3UN09d.jpg"/>
+</td>
+<td colspan="2" class="tbl-td-dark">
+<image asset-id="krugmanwellsessentials4e-ch3-img-39" alt="image" src="asset/ch3/KrugESS4e_3UN09j.jpg"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light">
+<image asset-id="krugmanwellsessentials4e-ch3-img-40" alt="image" src="asset/ch3/KrugESS4e_3UN09e.jpg"/>
+</td>
+<td colspan="2" class="tbl-td-dark">
+<image asset-id="krugmanwellsessentials4e-ch3-img-41" alt="image" src="asset/ch3/KrugESS4e_3UN09k.jpg"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="tbl-td-light">
+<image asset-id="krugmanwellsessentials4e-ch3-img-42" alt="image" src="asset/ch3/KrugESS4e_3UN09f.jpg"/>
+</td>
+<td colspan="2" class="tbl-td-dark">
+<image asset-id="krugmanwellsessentials4e-ch3-img-43" alt="image" src="asset/ch3/KrugESS4e_3UN09L.jpg"/>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_84" block_type="page_start">84</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch3-img-7a2" alt="image" src="asset/ch3/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch3-p150" block_type="bx-2-t"><strong>Only Creatures Small and Pampered</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p151" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-44" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<figure id="krugmanwellsessentials4e-ch3-fig-41" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="small" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-45" alt="image" src="asset/ch3/KrugESS4e_3UN03.jpg"/>
+<caption>Higher spending on pets means fewer veterinarians are available to tend to farm animals.</caption>
+<asset_source>iStockphoto/Thinkstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p152" block_type="bx2-first"><phrase block_type="dropcap">B</phrase>ack in the 1970s, British television featured a popular show titled <em>All Creatures Great and Small</em>. It chronicled the real life of James Herriot, a country veterinarian who tended to cows, pigs, sheep, horses, and the occasional house pet, often under arduous conditions, in rural England during the 1930s. The show made it clear that in those days the local vet was a critical member of farming communities, saving valuable farm animals and helping farmers survive financially. And it was also clear that Mr. Herriot considered his life&#8217;s work well spent.</p>
+<p id="krugmanwellsessentials4e-ch3-p153" block_type="bx2-txt">But that was then and this is now. According to an article in the <em>New York Times</em>, the United States has experienced a severe decline in the number of farm veterinarians over the past 25 years. The source of the problem is competition. As the number of household pets has increased and the incomes of pet owners have grown, the demand for pet veterinarians has increased sharply. As a result, vets are being drawn away from the business of caring for farm animals into the more lucrative business of caring for pets. As one vet stated, she began her career caring for farm animals but changed her mind after &#8220;doing a C-section on a cow and it&#8217;s 50 bucks. Do a C-section on a Chihuahua and you get &#36;300. It&#8217;s the money. I hate to say that.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch3-p154" block_type="bx2-txt">How can we translate this into supply and demand curves? Farm veterinary services and pet veterinary services are like gasoline and fuel oil: they&#8217;re related goods that are substitutes in production. A veterinarian typically specializes in one type of practice or the other, and that decision often depends on the going price for the service. America&#8217;s growing pet population, combined with the increased willingness of doting owners to spend on their companions&#8217; care, has driven up the price of pet veterinary services. As a result, fewer and fewer veterinarians have gone into farm animal practice. So the supply curve of farm veterinarians has shifted leftward&#8212;fewer farm veterinarians are offering their services at any given price.</p>
+<p id="krugmanwellsessentials4e-ch3-p155" block_type="bx2-txt">In the end, farmers understand that it is all a matter of dollars and cents; they get fewer veterinarians because they are unwilling to pay more. As one farmer, who had recently lost an expensive cow due to the unavailability of a veterinarian, stated, &#8220;The fact that there&#8217;s nothing you can do, you accept it as a business expense now. You didn&#8217;t used to. If you have livestock, sooner or later you&#8217;re going to have deadstock.&#8221; (Although we should note that this farmer could have chosen to pay more for a vet who would have then saved his cow.)</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch3-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch3-list-8" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch3-p156" block_type="sr1-bl">The <strong>supply schedule</strong> shows how the <strong>quantity supplied</strong> depends on the price. The <strong>supply curve</strong> illustrates this relationship.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p157" block_type="sr1-bl">Supply curves are normally upward sloping: at a higher price, producers are willing to supply more of a good or service.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p158" block_type="sr1-bl">A change in price results in a <strong>movement along the supply curve</strong> and a change in the quantity supplied.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p159" block_type="sr1-bl">Increases or decreases in supply lead to <strong>shifts of the supply curve.</strong> An increase in supply is a rightward shift: the quantity supplied rises for any given price. A decrease in supply is a leftward shift: the quantity supplied falls for any given price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p160" block_type="sr1-bl">The five main factors that can shift the supply curve are changes in (1) <strong>input</strong> prices, (2) prices of related goods or services, (3) technology, (4) expectations, and (5) number of producers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p161" block_type="sr1-bl">The market supply curve is the horizontal sum of the <strong>individual supply</strong> curves of all producers in the market.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">3-2</phrase></box-title></box-metadata>
+<list id="krugmanwellsessentials4e-ch3-list-9" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-p162" block_type="sr2-nl-first">Explain whether each of the following events represents (i) a <em>shift of</em> the supply curve or (ii) a <em>movement along</em> the supply curve.</p>
+<list id="krugmanwellsessentials4e-ch3-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p163" block_type="sr2-nl-lvl2">More homeowners put their houses up for sale during a real estate boom that causes house prices to rise.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p164" block_type="sr2-nl-lvl2">Many strawberry farmers open temporary roadside stands during harvest season, even though prices are usually low at that time.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p165" block_type="sr2-nl-lvl2">Immediately after the school year begins, fast-food chains must raise wages, which represent the price of labor, to attract workers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p166" block_type="sr2-nl-lvl2">Many construction workers temporarily move to areas that have suffered hurricane damage, lured by higher wages.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p167" block_type="sr2-nl-lvl2">Since new technologies have made it possible to build larger cruise ships (which are cheaper to run per passenger), Caribbean cruise lines offer more cabins, at lower prices, than before.</p></li>
+</list></li>
+</list>
+<p id="krugmanwellsessentials4e-ch3-p168" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-4" block_type="h1" title="" chapter="3" numbered="true" level="1" print_page="85">
+<section-metadata><section-title>Supply, Demand, and Equilibrium</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_85" block_type="page_start">85</p>
+<p id="krugmanwellsessentials4e-ch3-p169" block_type="txt-ni">We have now covered the first three key elements in the supply and demand model: the demand curve, the supply curve, and the set of factors that shift each curve. The next step is to put these elements together to show how they can be used to predict the actual price at which the good is bought and sold, as well as the actual quantity transacted.</p>
+<p id="krugmanwellsessentials4e-ch3-p170" block_type="txt">What determines the price at which a good or service is bought and sold? What determines the quantity transacted of the good or service? In <link href="krugmanwellsessentials4e_ch1_1.html">Chapter 1</link> we learned the general principle that <em>markets move toward equilibrium</em>, a situation in which no individual would be better off taking a different action. In the case of a competitive market, we can be more specific: a competitive market is in equilibrium when the price has moved to a level at which the quantity of a good demanded equals the quantity of that good supplied. At that price, no individual seller could make herself better off by offering to sell either more or less of the good and no individual buyer could make himself better off by offering to buy more or less of the good. In other words, at the market equilibrium, price has moved to a level that exactly matches the quantity demanded by consumers to the quantity supplied by sellers.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-21" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p171" block_type="mn-gl-def">A competitive market is in equilibrium when price has moved to a level at which the quantity of a good or service demanded equals the quantity of that good or service supplied. The price at which this takes place is the <strong>equilibrium price,</strong> also referred to as the <strong>market-clearing price.</strong> The quantity of the good or service bought and sold at that price is the <strong>equilibrium quantity.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p172" block_type="txt">The price that matches the quantity supplied and the quantity demanded is the <strong>equilibrium price</strong>; the quantity bought and sold at that price is the <strong>equilibrium quantity</strong>. The equilibrium price is also known as the <strong>market-clearing price</strong>: it is the price that &#8220;clears the market&#8221; by ensuring that every buyer willing to pay that price finds a seller willing to sell at that price, and vice versa. So how do we find the equilibrium price and quantity?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-7" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="85">
+<section-metadata><section-title>Finding the Equilibrium Price and Quantity</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p173" block_type="txt-ni">The easiest way to determine the equilibrium price and quantity in a market is by putting the supply curve and the demand curve on the same diagram. Since the supply curve shows the quantity supplied at any given price and the demand curve shows the quantity demanded at any given price, the price at which the two curves cross is the equilibrium price: the price at which quantity supplied equals quantity demanded.</p>
+<p id="krugmanwellsessentials4e-ch3-p174" block_type="txt"><link href="asset/ch3/KrugESS4e_fig_3_11.html">Figure 3-11</link> combines the demand curve from <link href="asset/ch3/KrugESS4e_fig_3_01.html">Figure 3-1</link> and the supply curve from <link href="asset/ch3/KrugESS4e_fig_3_06.html">Figure 3-6</link>. They <em>intersect</em> at point <em>E,</em> which is the equilibrium of this market; &#36;3 is the equilibrium price and 10 trillion BTUs is the equilibrium quantity.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-42" block_type="figure" numbered="true" number="3-11" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-11</phrase></strong></phrase><phrase block_type="fig_title"> Market Equilibrium</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-46" alt="image" src="asset/ch3/KrugESS4e_fig_3_11.jpg"/>
+<caption>Market equilibrium occurs at point <em>E</em>, where the supply curve and the demand curve intersect. In equilibrium, the quantity demanded is equal to the quantity supplied. In this market, the equilibrium price is &#36;3 per BTU and the equilibrium quantity is 10 trillion BTUs per year.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p175" block_type="txt">Let&#8217;s confirm that point <em>E</em> fits our definition of equilibrium. At a price of &#36;3 per BTU, natural gas producers are willing to sell 10 trillion BTUs a year and natural gas consumers want to buy 10 trillion BTUs a year. So at the price of &#36;3 per BTU, the quantity of natural gas supplied equals the quantity demanded. Notice that at any other price the market would not clear: every willing buyer would not be able to find a willing seller, or vice versa. More specifically, if the price were more than &#36;3, the quantity supplied would exceed the quantity demanded; if the price were less than &#36;3, the quantity demanded would exceed the quantity supplied.</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch3-bx1-2" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch3-p176" block_type="bx1-t"><strong>BOUGHT AND SOLD?</strong></p>
+<p id="krugmanwellsessentials4e-ch3-p177" block_type="bx1-txt-ni">We have been talking about the price at which a good or service is bought <em>and</em> sold, as if the two were the same. But shouldn&#8217;t we make a distinction between the price received by sellers and the price paid by buyers? In principle, yes; but it is helpful at this point to sacrifice a bit of realism in the interest of simplicity&#8212;by assuming away the difference between the prices received by sellers and those paid by buyers.</p>
+<p id="krugmanwellsessentials4e-ch3-p178" block_type="bx1-txt">In reality, there is often a middleman&#8212;someone who brings buyers and sellers together. The middleman buys from suppliers, then sells to consumers at a markup. For example, natural gas brokers buy natural gas from drillers, and then sell the natural gas to gas companies who distribute it to households and firms. The drillers generally receive less than the gas companies pay per BTU of gas. But no mystery there: that difference is how natural gas brokers make a living.</p>
+<p id="krugmanwellsessentials4e-ch3-p179" block_type="bx1-txt">In many markets, however, the difference between the buying and selling price is quite small. So it&#8217;s not a bad approximation to think of the price paid by buyers as being the <em>same</em> as the price received by sellers. And that is what we assume in this chapter.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_86" block_type="page_start">86</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-43" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="small" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-47" alt="image" src="asset/ch3/KrugESS4e_3UN04.jpg"/>
+<asset_source>&#169; Dan Piraro</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p180" block_type="txt">The model of supply and demand, then, predicts that given the demand and supply curves shown in <link href="asset/ch3/KrugESS4e_fig_3_11.html">Figure 3-11</link>, 10 trillion BTUs would change hands at a price of &#36;3 per BTU. But how can we be sure that the market will arrive at the equilibrium price? We begin by answering three simple questions:</p>
+<list id="krugmanwellsessentials4e-ch3-list-11" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-p181" block_type="nl-first">Why do all sales and purchases in a market take place at the same price?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p182" block_type="nl-mid">Why does the market price fall if it is above the equilibrium price?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p183" block_type="nl-last">Why does the market price rise if it is below the equilibrium price?</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-8" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="86">
+<section-metadata><section-title>Why Do All Sales and Purchases in a Market Take Place at the Same Price?</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p184" block_type="txt-ni">There are some markets where the same good can sell for many different prices, depending on who is selling or who is buying. For example, have you ever bought a souvenir in a &#8220;tourist trap&#8221; and then seen the same item on sale somewhere else (perhaps even in the shop next door) for a lower price? Because tourists don&#8217;t know which shops offer the best deals and don&#8217;t have time for comparison shopping, sellers in tourist areas can charge different prices for the same good.</p>
+<p id="krugmanwellsessentials4e-ch3-p185" block_type="txt">But in any market where the buyers and sellers have both been around for some time, sales and purchases tend to converge at a generally uniform price, so we can safely talk about <em>the</em> market price. It&#8217;s easy to see why. Suppose a seller offered a potential buyer a price noticeably above what the buyer knew other people to be paying. The buyer would clearly be better off shopping elsewhere&#8212;unless the seller were prepared to offer a better deal.</p>
+<p id="krugmanwellsessentials4e_page_87" block_type="page_start">87</p>
+<p id="krugmanwellsessentials4e-ch3-p186" block_type="txt">Conversely, a seller would not be willing to sell for significantly less than the amount he knew most buyers were paying; he would be better off waiting to get a more reasonable customer. So in any well-established, ongoing market, all sellers receive and all buyers pay approximately the same price. This is what we call the <em>market price.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-9" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="87">
+<section-metadata><section-title>Why Does the Market Price Fall If It Is Above the Equilibrium Price?</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p187" block_type="txt-ni">Suppose the supply and demand curves are as shown in <link href="asset/ch3/KrugESS4e_fig_3_11.html">Figure 3-11</link> but the market price is above the equilibrium level of &#36;3&#8212;say, &#36;3.50. This situation is illustrated in <link href="asset/ch3/KrugESS4e_fig_3_12.html">Figure 3-12</link>. Why can&#8217;t the price stay there?</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-44" block_type="figure" numbered="true" number="3-12" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-12</phrase></strong></phrase><phrase block_type="fig_title"> Price Above Its Equilibrium Level Creates a Surplus</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-48" alt="image" src="asset/ch3/KrugESS4e_fig_3_12.jpg"/>
+<caption>The market price of &#36;3.50 is above the equilibrium price of &#36;3. This creates a surplus: at a price of &#36;3.50, producers would like to sell 11.2 trillion BTUs but consumers want to buy only 8.1 trillion BTUs, so there is a surplus of 3.1 trillion BTUs. This surplus will push the price down until it reaches the equilibrium price of &#36;3.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-22" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p188" block_type="mn-gl-def">There is a <strong>surplus</strong> of a good or service when the quantity supplied exceeds the quantity demanded. Surpluses occur when the price is above its equilibrium level.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p189" block_type="txt">As the figure shows, at a price of &#36;3.50 there would be more BTUs of natural gas available than consumers wanted to buy: 11.2 trillion BTUs versus 8.1 trillion BTUs. The difference of 3.1 trillion BTUs is the <strong>surplus</strong>&#8212;also known as the <em>excess supply</em>&#8212;of natural gas at &#36;3.50.</p>
+<p id="krugmanwellsessentials4e-ch3-p190" block_type="txt">This surplus means that some natural gas producers are frustrated: at the current price, they cannot find consumers who want to buy their natural gas. The surplus offers an incentive for those frustrated would-be sellers to offer a lower price in order to poach business from other producers and entice more consumers to buy. The result of this price cutting will be to push the prevailing price down until it reaches the equilibrium price. So the price of a good will fall whenever there is a surplus&#8212;that is, whenever the market price is above its equilibrium level.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-10" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="87">
+<section-metadata><section-title>Why Does the Market Price Rise If It Is Below the Equilibrium Price?</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-23" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch3-p191" block_type="mn-gl-def">There is a <strong>shortage</strong> of a good or service when the quantity demanded exceeds the quantity supplied. Shortages occur when the price is below its equilibrium level.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p192" block_type="txt-ni">Now suppose the price is below its equilibrium level&#8212;say, at &#36;2.75 per BTU, as shown in <link href="asset/ch3/KrugESS4e_fig_3_13.html">Figure 3-13</link>. In this case, the quantity demanded, 11.5 trillion BTUs, exceeds the quantity supplied, 9.1 trillion BTUs, implying that there are would-be buyers who cannot find natural gas: there is a <strong>shortage</strong>, also known as an <em>excess demand,</em> of 2.4 trillion BTUs.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-45" block_type="figure" numbered="true" number="3-13" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-13</phrase></strong></phrase><phrase block_type="fig_title"> Price Below Its Equilibrium Level Creates a Shortage</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-49" alt="image" src="asset/ch3/KrugESS4e_fig_3_13.jpg"/>
+<caption>The market price of &#36;2.75 is below the equilibrium price of &#36;3. This creates a shortage: consumers want to buy 11.5 trillion BTUs, but only 9.1 trillion BTUs are for sale, so there is a shortage of 2.4 trillion BTUs. This shortage will push the price up until it reaches the equilibrium price of &#36;3.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_88" block_type="page_start">88</p>
+<p id="krugmanwellsessentials4e-ch3-p193" block_type="txt">When there is a shortage, there are frustrated would-be buyers&#8212;people who want to purchase natural gas but cannot find willing sellers at the current price. In this situation, either buyers will offer more than the prevailing price or sellers will realize that they can charge higher prices. Either way, the result is to drive up the prevailing price. This bidding up of prices happens whenever there are shortages&#8212;and there will be shortages whenever the price is below its equilibrium level. So the market price will always rise if it is below the equilibrium level.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-11" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="88">
+<section-metadata><section-title>Using Equilibrium to Describe Markets</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p194" block_type="txt-ni">We have now seen that a market tends to have a single price, the equilibrium price. If the market price is above the equilibrium level, the ensuing surplus leads buyers and sellers to take actions that lower the price. And if the market price is below the equilibrium level, the ensuing shortage leads buyers and sellers to take actions that raise the price. So the market price always <em>moves toward</em> the equilibrium price, the price at which there is neither surplus nor shortage.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch3-p195" block_type="bx-2-t"><strong>The Price of Admission</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p196" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-50" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p197" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he market equilibrium, so the theory goes, is pretty egalitarian because the equilibrium price applies to everyone. That is, all buyers pay the same price&#8212;the equilibrium price&#8212;and all sellers receive that same price. But is this realistic?</p>
+<p id="krugmanwellsessentials4e-ch3-p198" block_type="bx2-txt">The market for concert tickets is an example that seems to contradict the theory&#8212;there&#8217;s one price at the box office, and there&#8217;s another price (typically much higher) for the same event online where people who already have tickets resell them, such as <link href="http://www.StubHub.com">StubHub.com</link> or eBay. For example, compare the box office price for a Drake concert in Miami, Florida, to the <link href="http://www.StubHub.com">StubHub.com</link> price for seats in the same location: &#36;88.50 versus &#36;155.</p>
+<p id="krugmanwellsessentials4e_page_89" block_type="page_start">89</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-46" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="small" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-51" alt="image" src="asset/ch3/KrugESS4e_3UN05.jpg"/>
+<caption>The competitive market model determines the price you pay for concert tickets.</caption>
+<asset_source>Frazer Harrision/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p199" block_type="bx2-txt">Puzzling as this may seem, there is no contradiction once we take opportunity costs and tastes into account. For major events, buying tickets from the box office means waiting in very long lines. Ticket buyers who use online resellers have decided that the opportunity cost of their time is too high to spend waiting in line. And tickets for major events being sold at face value by online box offices often sell out within minutes. In this case, some people who want to go to the concert badly but have missed out on the opportunity to buy cheaper tickets from the online box office are willing to pay the higher online reseller price.</p>
+<p id="krugmanwellsessentials4e-ch3-p200" block_type="bx2-txt">Not only that&#8212;at <link href="http://www.StubHub.com">StubHub.com</link>, you can see that markets really do move to equilibrium. You&#8217;ll notice that the prices quoted by different sellers for seats close to one another are also very close: &#36;184.99 versus &#36;185 for seats on the main floor of the Drake concert. As the competitive market model predicts, units of the same good end up selling for the same price. And prices move in response to demand and supply.</p>
+<p id="krugmanwellsessentials4e-ch3-p201" block_type="bx2-txt">According to an article in the <em>New York Times,</em> tickets on <link href="http://www.StubHub.com">StubHub.com</link> can sell for less than the face value for events with little appeal, but prices can skyrocket for events that are in high demand. (The article quotes a price of &#36;3,530 for a Madonna concert.) Even <link href="http://www.StubHub.com">StubHub.com</link>&#8217;s chief executive says his site is &#8220;the embodiment of supply-and-demand economics.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch3-p202" block_type="bx2-txt">So the theory of competitive markets isn&#8217;t just speculation. If you want to experience it for yourself, try buying tickets to a concert.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch3-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch3-list-12" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch3-p203" block_type="sr1-bl">Price in a competitive market moves to the <strong>equilibrium price,</strong> or <strong>market-clearing price,</strong> where the quantity supplied is equal to the quantity demanded. This quantity is the <strong>equilibrium quantity.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p204" block_type="sr1-bl">All sales and purchases in a market take place at the same price. If the price is above its equilibrium level, there is a <strong>surplus</strong> that drives the price down to the equilibrium level. If the price is below its equilibrium level, there is a <strong>shortage</strong> that drives the price up to the equilibrium level.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">3-3</phrase></box-title></box-metadata>
+<list id="krugmanwellsessentials4e-ch3-list-13" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-p205" block_type="sr2-nl-first">In the following three situations, the market is initially in equilibrium. Explain the changes in either supply or demand that result from each event. After each event described below, does a surplus or shortage exist at the original equilibrium price? What will happen to the equilibrium price as a result?</p>
+<list id="krugmanwellsessentials4e-ch3-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p206" block_type="sr2-nl-lvl2">2015 was a very good year for California wine-grape growers, who produced a bumper crop.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p207" block_type="sr2-nl-lvl2">After a hurricane, Florida hoteliers often find that many people cancel their upcoming vacations, leaving them with empty hotel rooms.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p208" block_type="sr2-nl-lvl2">After a heavy snowfall, many people want to buy second-hand snowblowers at the local tool shop.</p></li>
+</list></li>
+</list>
+<p id="krugmanwellsessentials4e-ch3-p209" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-5" block_type="h1" title="" chapter="3" numbered="true" level="1" print_page="89">
+<section-metadata><section-title>Changes in Supply and Demand</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p210" block_type="txt-ni">The huge fall in the price of natural gas from &#36;14 to &#36;2 per BTU from 2006 to 2015 may have come as a surprise to consumers, but to suppliers it was no surprise at all. Suppliers knew that advances in drilling technology had opened up vast reserves of natural gas that had been too costly to tap in the past. And, predictably, an increase in supply reduces the equilibrium price.</p>
+<p id="krugmanwellsessentials4e-ch3-p211" block_type="txt">The adoption of improved drilling technology is an example of an event that shifted the supply curve for a good without having an effect on the demand curve. There are many such events. There are also events that shift the demand curve without shifting the supply curve. For example, a medical report that chocolate is good for you increases the demand for chocolate but does not affect the supply. Events often shift either the supply curve or the demand curve, but not both; it is therefore useful to ask what happens in each case.</p>
+<p id="krugmanwellsessentials4e_page_90" block_type="page_start">90</p>
+<p id="krugmanwellsessentials4e-ch3-p212" block_type="txt">We have seen that when a curve shifts, the equilibrium price and quantity change. We will now concentrate on exactly how the shift of a curve alters the equilibrium price and quantity.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-12" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="90">
+<section-metadata><section-title>What Happens When the Demand Curve Shifts</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p213" block_type="txt-ni">Heating oil and natural gas are substitutes: if the price of heating oil rises, the demand for natural gas will increase, and if the price of heating oil falls, the demand for natural gas will decrease. But how does the price of heating oil affect the <em>market equilibrium</em> for natural gas?</p>
+<p id="krugmanwellsessentials4e-ch3-p214" block_type="txt"><link href="asset/ch3/KrugESS4e_fig_3_14.html">Figure 3-14</link> shows the effect of a rise in the price of heating oil on the market for natural gas. The rise in the price of heating oil increases the demand for natural gas. Point <em>E</em><sub>1</sub> shows the equilibrium corresponding to the original demand curve, with <em>P</em><sub>1</sub> the equilibrium price and <em>Q</em><sub>1</sub> the equilibrium quantity bought and sold.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-47" block_type="figure" numbered="true" number="3-14" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-14</phrase></strong></phrase><phrase block_type="fig_title"> Equilibrium and Shifts of the Demand Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-52" alt="image" src="asset/ch3/KrugESS4e_fig_3_14.jpg"/>
+<caption>The original equilibrium in the market for natural gas is at <em>E</em><sub>1</sub>, at the intersection of the supply curve and the original demand curve, <em>D</em><sub>1</sub>. A rise in the price of heating oil, a substitute, shifts the demand curve rightward to <em>D</em><sub>2</sub>. A shortage exists at the original price, <em>P</em><sub>1</sub>, causing both the price and quantity supplied to rise, a movement along the supply curve. A new equilibrium is reached at <em>E</em><sub>2</sub>, with a higher equilibrium price, <em>P</em><sub>2</sub>, and a higher equilibrium quantity, <em>Q</em><sub>2</sub>. When demand for a good or service increases, the equilibrium price and the equilibrium quantity of the good or service both rise.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p215" block_type="txt">An increase in demand is indicated by a <em>rightward</em> shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. At the original market price <em>P</em><sub>1</sub>, this market is no longer in equilibrium: a shortage occurs because the quantity demanded exceeds the quantity supplied. So the price of natural gas rises and generates an increase in the quantity supplied, an upward <em>movement along the supply curve.</em> A new equilibrium is established at point <em>E</em><sub>2</sub>, with a higher equilibrium price, <em>P</em><sub>2</sub>, and higher equilibrium quantity, <em>Q</em><sub>2</sub>. This sequence of events reflects a general principle: <em>When demand for a good or service increases, the equilibrium price and the equilibrium quantity of the good or service both rise.</em></p>
+<p id="krugmanwellsessentials4e-ch3-p216" block_type="txt">What would happen in the reverse case, a fall in the price of heating oil? A fall in the price of heating oil reduces the demand for natural gas, shifting the demand curve to the <em>left.</em> At the original price, a surplus occurs as quantity supplied exceeds quantity demanded. The price falls and leads to a decrease in the quantity supplied, resulting in a lower equilibrium price and a lower equilibrium quantity. This illustrates another general principle: <em>When demand for a good or service decreases, the equilibrium price and the equilibrium quantity of the good or service both fall.</em></p>
+<p id="krugmanwellsessentials4e_page_91" block_type="page_start">91</p>
+<p id="krugmanwellsessentials4e-ch3-p217" block_type="txt">To summarize how a market responds to a change in demand: <em>An increase in demand leads to a rise in both the equilibrium price and the equilibrium quantity. A decrease in demand leads to a fall in both the equilibrium price and the equilibrium quantity.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-13" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="91">
+<section-metadata><section-title>What Happens When the Supply Curve Shifts</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p218" block_type="txt-ni">For most goods and services, it is a bit easier to predict changes in supply than changes in demand. Physical factors that affect supply, like weather or the availability of inputs, are easier to get a handle on than the fickle tastes that affect demand. Still, with supply as with demand, what we can best predict are the <em>effects</em> of shifts of the supply curve.</p>
+<p id="krugmanwellsessentials4e-ch3-p219" block_type="txt">As we mentioned in the opening story, improved drilling technology significantly increased the supply of natural gas from 2006 onward. <link href="asset/ch3/KrugESS4e_fig_3_15.html">Figure 3-15</link> shows how this shift affected the market equilibrium. The original equilibrium is at <em>E</em><sub>1</sub>, the point of intersection of the original supply curve, <em>S</em><sub>1</sub>, with an equilibrium price <em>P</em><sub>1</sub> and equilibrium quantity <em>Q</em><sub>1</sub>. As a result of the improved technology, supply increases and <em>S</em><sub>1</sub> shifts <em>rightward</em> to <em>S</em><sub>2</sub>. At the original price <em>P</em><sub>1</sub>, a surplus of natural gas now exists and the market is no longer in equilibrium. The surplus causes a fall in price and an increase in the quantity demanded, a downward movement along the demand curve. The new equilibrium is at <em>E</em><sub>2</sub>, with an equilibrium price <em>P</em><sub>2</sub> and an equilibrium quantity <em>Q</em><sub>2</sub><em>.</em> In the new equilibrium <em>E</em><sub>2</sub>, the price is lower and the equilibrium quantity is higher than before. This can be stated as a general principle: <em>When supply of a good or service increases, the equilibrium price of the good or service falls and the equilibrium quantity of the good or service rises.</em></p>
+<figure id="krugmanwellsessentials4e-ch3-fig-48" block_type="figure" numbered="true" number="3-15" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-15</phrase></strong></phrase><phrase block_type="fig_title"> Equilibrium and Shifts of the Supply Curve</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-53" alt="image" src="asset/ch3/KrugESS4e_fig_3_15.jpg"/>
+<caption>The original equilibrium in the market is at <em>E</em><sub>1</sub>. Improved technology causes an increase in the supply of natural gas and shifts the supply curve rightward from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. A new equilibrium is established at <em>E</em><sub>2</sub>, with a lower equilibrium price, <em>P</em><sub>2</sub>, and a higher equilibrium quantity, <em>Q</em><sub>2</sub>.</caption>
+</figure>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch3-bx1-3" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch3-p220" block_type="bx1-t"><strong>WHICH CURVE IS IT, ANYWAY?</strong></p>
+<p id="krugmanwellsessentials4e-ch3-p221" block_type="bx1-txt-ni">When the price of some good or service changes, in general, we can say that this reflects a change in either supply or demand. But it is easy to get confused about which one. A helpful clue is the direction of change in the quantity. If the quantity sold changes in the <em>same</em> direction as the price&#8212;for example, if both the price and the quantity rise&#8212;this suggests that the demand curve has shifted. If the price and the quantity move in <em>opposite</em> directions, the likely cause is a shift of the supply curve.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p222" block_type="txt">What happens to the market when supply falls? A fall in supply leads to a <em>leftward</em> shift of the supply curve. At the original price a shortage now exists; as a result, the equilibrium price rises and the quantity demanded falls. This describes what happened to the market for natural gas after Hurricane Katrina damaged natural gas production in the Gulf of Mexico in 2006. We can formulate a general principle: <em>When supply of a good or service decreases, the equilibrium price of the good or service rises and the equilibrium quantity of the good or service falls.</em></p>
+<p id="krugmanwellsessentials4e_page_92" block_type="page_start">92</p>
+<p id="krugmanwellsessentials4e-ch3-p223" block_type="txt">To summarize how a market responds to a change in supply: <em>An increase in supply leads to a fall in the equilibrium price and a rise in the equilibrium quantity. A decrease in supply leads to a rise in the equilibrium price and a fall in the equilibrium quantity.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec2-14" block_type="h2" title="" chapter="3" numbered="false" level="2" print_page="92">
+<section-metadata><section-title>Simultaneous Shifts of Supply and Demand Curves</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p224" block_type="txt-ni">Finally, it sometimes happens that events shift <em>both</em> the demand and supply curves at the same time. This is not unusual; in real life, supply curves and demand curves for many goods and services shift quite often because the economic environment continually changes. <link href="asset/ch3/KrugESS4e_fig_3_16.html">Figure 3-16</link> illustrates two examples of simultaneous shifts. In both panels there is an increase in supply&#8212;that is, a rightward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>&#8212;representing, for example, adoption of an improved drilling technology. Notice that the rightward shift in panel (a) is larger than the one in panel (b): we can suppose that panel (a) represents a small, incremental change in technology while panel (b) represents a big advance in technology. Both panels show a decrease in demand&#8212;that is, a leftward shift from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. Also notice that the leftward shift in panel (a) is relatively larger than the one in panel (b): we can suppose that panel (a) reflects the effect on demand of a deep recession in the overall economy, while panel (b) reflects the effect of a mild winter.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-49" block_type="figure" numbered="true" number="3-16" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-16</phrase></strong></phrase><phrase block_type="fig_title"> Simultaneous Shifts of the Demand and Supply Curves</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-54" alt="image" src="asset/ch3/KrugESS4e_fig_3_16.jpg"/>
+<caption>In panel (a) there is a simultaneous leftward shift of the demand curve and a rightward shift of the supply curve. Here the decrease in demand is relatively larger than the increase in supply, so the equilibrium quantity falls as the equilibrium price also falls. In panel (b) there is also a simultaneous leftward shift of the demand curve and rightward shift of the supply curve. Here the increase in supply is large relative to the decrease in demand, so the equilibrium quantity rises as the equilibrium price falls.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p225" block_type="txt">In both cases the equilibrium price falls from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub> as the equilibrium moves from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. But what happens to the equilibrium quantity, the quantity of natural gas bought and sold? In panel (a) the decrease in demand is large relative to the increase in supply, and the equilibrium quantity falls as a result. In panel (b) the increase in supply is large relative to the decrease in demand, and the equilibrium quantity rises as a result. That is, when demand decreases and supply increases, the actual quantity bought and sold can go either way depending on <em>how much</em> the demand and supply curves have shifted.</p>
+<p id="krugmanwellsessentials4e_page_93" block_type="page_start">93</p>
+<p id="krugmanwellsessentials4e-ch3-p226" block_type="txt">In general, when supply and demand shift in opposite directions, we can&#8217;t predict what the ultimate effect will be on the quantity bought and sold. What we can say is that a curve that shifts a disproportionately greater distance than the other curve will have a disproportionately greater effect on the quantity bought and sold. That said, we can make the following prediction about the outcome when the supply and demand curves shift in opposite directions:</p>
+<list id="krugmanwellsessentials4e-ch3-list-15" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p227" block_type="bl-first">When demand decreases and supply increases, the equilibrium price falls but the change in the equilibrium quantity is ambiguous.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p228" block_type="bl-last">When demand increases and supply decreases, the equilibrium price rises but the change in the equilibrium quantity is ambiguous.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch3-p229" block_type="txt">But suppose that the demand and supply curves shift in the same direction. This is what has happened in recent years in the United States, as the economy has made a gradual recovery from the recession of 2008, resulting in an increase in both demand and supply. Can we safely make any predictions about the changes in price and quantity? In this situation, the change in quantity bought and sold can be predicted, but the change in price is ambiguous. The two possible outcomes when the supply and demand curves shift in the same direction (which you should check for yourself) are as follows:</p>
+<list id="krugmanwellsessentials4e-ch3-list-16" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p230" block_type="bl-first">When both demand and supply increase, the equilibrium quantity rises but the change in equilibrium price is ambiguous.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p231" block_type="bl-last">When both demand and supply decrease, the equilibrium quantity falls but the change in equilibrium price is ambiguous.</p></li>
+</list>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx2-4" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch3-img-7a3" alt="image" src="asset/ch3/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch3-p232" block_type="bx-2-t"><strong>The Cotton Panic and Crash of 2011</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp3-21" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p233" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-55" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p234" block_type="bx2-first"><phrase block_type="dropcap">W</phrase>hen fear of a future price increase strikes a large enough number of consumers, it can become a self-fulfilling prophecy. Much to the dismay of owners of cotton textile mills, this is exactly what happened in early 2011, when a huge surge in the price of raw cotton peaked, followed by an equally spectacular fall. In situations like these, consumers become their own worst enemy, engaging in what is called <em>panic buying:</em> rushing to purchase more of a good because its price has gone up, which precipitates only a further price rise and more panic buying. So how did cotton buyers find themselves in this predicament in 2011? And what finally got them out of it?</p>
+<p id="krugmanwellsessentials4e-ch3-p235" block_type="bx2-txt">The process had, in fact, been started by real events that occurred years earlier. By 2010, demand for cotton had rebounded sharply from lows set during the global financial crisis of 2006&#8211;2007. In addition, greater demand for cotton clothing in countries with rapidly growing middle classes, like China, added to the increased demand for cotton. This had the effect of shifting the demand curve rightward.</p>
+<p id="krugmanwellsessentials4e-ch3-p236" block_type="bx2-txt">At the same time there were significant supply reductions to the worldwide market for cotton. India, the second largest exporter of cotton (an <em>exporter</em> is a seller of a good to foreign buyers), had imposed restrictions on the sale of its cotton abroad in order to aid its own textile mills. And Pakistan, China, and Australia, which were big growers of cotton, experienced widespread flooding that significantly reduced their cotton crops. The Indian export restrictions and the floods in cotton-producing areas had the effect of shifting the supply curve leftward.</p>
+<p id="krugmanwellsessentials4e-ch3-p237" block_type="bx2-txt">So, as shown in <link href="asset/ch3/KrugESS4e_fig_3_17.html">Figure 3-17</link>, while cotton had traded at between &#36;0.35 and &#36;0.60 per pound from 2000 to 2010, it surged to more than &#36;2.40 per pound in early 2011&#8212;up more than 200&#37; in one year. As high prices for cotton sparked panic buying, the demand curve shifted further rightward, further feeding the buying frenzy.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-50" block_type="figure" numbered="true" number="3-17" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="medium" border="true"/>
+<caption><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">3-17</phrase></strong></phrase><phrase block_type="fig_title"> Cotton Prices in the United States, 1999&#8211;2013</phrase></caption><image asset-id="krugmanwellsessentials4e-ch3-img-56" alt="image" src="asset/ch3/KrugESS4e_fig_3_17.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_94" block_type="page_start">94</p>
+<p id="krugmanwellsessentials4e-ch3-p238" block_type="bx2-txt">Yet by the end of 2011, cotton prices had plummeted to &#36;0.86 per pound. What happened? A number of things, illustrating the forces of supply and demand. First, demand fell as clothing manufacturers, unwilling to pass on huge price increases to their customers, shifted to less expensive fabrics like polyester. Second, supply increased as farmers planted more acreage of cotton in hopes of garnering high prices. As the effects of supply and demand became obvious, buyers stopped panicking and cotton prices finally fell back down to earth.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch3-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch3-list-17" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch3-p239" block_type="sr1-bl">Changes in the equilibrium price and quantity in a market result from shifts of the supply curve, the demand curve, or both.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p240" block_type="sr1-bl">An increase in demand increases both the equilibrium price and the equilibrium quantity. A decrease in demand decreases both the equilibrium price and the equilibrium quantity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p241" block_type="sr1-bl">An increase in supply drives the equilibrium price down but increases the equilibrium quantity. A decrease in supply raises the equilibrium price but reduces the equilibrium quantity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p242" block_type="sr1-bl">Often fluctuations in markets involve shifts of both the supply and demand curves. When they shift in the same direction, the change in equilibrium quantity is predictable but the change in equilibrium price is not. When they shift in opposite directions, the change in equilibrium price is predictable but the change in equilibrium quantity is not. When there are simultaneous shifts of the demand and supply curves, the curve that shifts the greater distance has a greater effect on the change in equilibrium price and quantity.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx6-4" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">3-4</phrase></box-title></box-metadata>
+<list id="krugmanwellsessentials4e-ch3-list-18" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-p243" block_type="sr2-nl-first">In each of the following examples, determine (i) the market in question; (ii) whether a shift in demand or supply occurred, the direction of the shift, and what induced the shift; and (iii) the effect of the shift on the equilibrium price and the equilibrium quantity.</p>
+<list id="krugmanwellsessentials4e-ch3-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p244" block_type="sr2-nl-lvl2">As the price of gasoline fell in the United States during the 1990s, more people bought large cars.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p245" block_type="sr2-nl-lvl2">As technological innovation has lowered the cost of recycling used paper, fresh paper made from recycled stock is used more frequently.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p246" block_type="sr2-nl-lvl2">When a local cable company offers cheaper on-demand films, local movie theaters have more unfilled seats.</p></li>
+</list></li>
+<li><p id="krugmanwellsessentials4e-ch3-p247" block_type="sr2-nl-mid">When a new, faster computer chip is introduced, demand for computers using the older, slower chips decreases. Simultaneously, computer makers increase their production of computers containing the old chips in order to clear out their stocks of old chips.</p>
+<p id="krugmanwellsessentials4e-ch3-p248" block_type="sr2-nl-txt">Draw two diagrams of the market for computers containing the old chips:</p>
+<list id="krugmanwellsessentials4e-ch3-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p249" block_type="sr2-nl-lvl2">one in which the equilibrium quantity falls in response to these events and</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p250" block_type="sr2-nl-lvl2">one in which the equilibrium quantity rises.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p251" block_type="sr2-nl-lvl2">What happens to the equilibrium price in each diagram?</p></li>
+</list></li></list>
+<p id="krugmanwellsessentials4e-ch3-p252" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-6" block_type="h1" title="" chapter="3" numbered="true" level="1" print_page="94">
+<section-metadata><section-title>Competitive Markets&#8212;and Others</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch3-p253" block_type="txt-ni">Early in this chapter, we defined a competitive market and explained that the supply and demand framework is a model of competitive markets. But we took a rain check on the question of why it matters whether or not a market is competitive. Now that we&#8217;ve seen how the supply and demand model works, we can offer some explanation.</p>
+<p id="krugmanwellsessentials4e-ch3-p254" block_type="txt">To understand why competitive markets are different from other markets, compare the problems facing two individuals: a wheat farmer who must decide whether to grow more wheat and the president of a giant aluminum company&#8212;say, Alcoa&#8212;who must decide whether to produce more aluminum.</p>
+<p id="krugmanwellsessentials4e-ch3-p255" block_type="txt">For the wheat farmer, the question is simply whether the extra wheat can be sold at a price high enough to justify the extra production cost. The farmer need not worry about whether producing more wheat will affect the price of the wheat he or she was already planning to grow. That&#8217;s because the wheat market is competitive. There are thousands of wheat farmers, and no one farmer&#8217;s decision will have any impact on the market price.</p>
+<p id="krugmanwellsessentials4e-ch3-p256" block_type="txt">For the Alcoa executive, things are not that simple because the aluminum market is <em>not</em> competitive. There are only a few big producers, including Alcoa, and each of them is well aware that its actions <em>do</em> have a noticeable impact on the market price. This adds a whole new level of complexity to the decisions producers have to make. Alcoa can&#8217;t decide whether or not to produce more aluminum just by asking whether the additional product will sell for more than it costs to make. The company also has to ask whether producing more aluminum will drive down the market price and reduce its <em>profit,</em> its net gain from producing and selling its output.</p>
+<p id="krugmanwellsessentials4e_page_95" block_type="page_start">95</p>
+<p id="krugmanwellsessentials4e-ch3-p257" block_type="txt">When a market is competitive, individuals can base decisions on less complicated analyses than those used in a noncompetitive market. This in turn means that it&#8217;s easier for economists to build a model of a competitive market than of a noncompetitive market.</p>
+<p id="krugmanwellsessentials4e-ch3-p258" block_type="txt">Don&#8217;t take this to mean that economic analysis has nothing to say about noncompetitive markets. On the contrary, economists can offer some very important insights into how other kinds of markets work. But those insights require other models, which we will learn about later on.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch3-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase><phrase block_type="gc2">Sugar, Sugar</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p259" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-57" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch3-p260" block_type="wio-txt-ni">&#8220;U.S. Sugar Soars Above World Prices.&#8221; So read the headline in the <em>Wall Street Journal</em> in December 2014. Although the price for sugar on the international market was &#36;0.15 per pound at the time, American buyers were paying 50&#37; more, nearly &#36;0.25 per pound. The impact was felt by candy companies like PEZ Candy, which purchases 75,000 pounds of sugar each week. Why was there a disparity in price?</p>
+<table id="krugmanwellsessentials4e-ch3-untab-3" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td colspan="2" class="tbl-bborder"><strong>Quantity of sugar (millions of tons)</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Price of sugar<br/>(per pound)</strong></td>
+<td><strong>Quantity<br/>demanded</strong></td>
+<td><strong>Quantity<br/>supplied</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;0.45</td>
+<td class="tbl-rborder">1.6</td>
+<td>2.8</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.35</td>
+<td class="tbl-rborder">1.8</td>
+<td>2.4</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.25</td>
+<td class="tbl-rborder">2.0</td>
+<td>2.0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.15</td>
+<td class="tbl-rborder">2.2</td>
+<td>1.6</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.05</td>
+<td class="tbl-rborder">2.4</td>
+<td>1.2</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch3-p261" block_type="wio-txt">To protect sugar farmers, the U.S. government limits the quantity of sugar that domestic buyers, like PEZ Candy, can purchase from international suppliers. These restrictions leave U.S. buyers with virtually no other choice; they have to purchase the higher-priced sugar from domestic suppliers.</p>
+<p id="krugmanwellsessentials4e-ch3-p262" block_type="wio-txt">The table is a hypothetical supply and demand schedule for the U.S. sugar market.</p>
+<p id="krugmanwellsessentials4e-ch3-p263" block_type="wio-txt">Use a supply and demand graph to find the equilibrium quantity and price for sugar in the United States. Show how a shortage would occur if U.S. sugar farmers were forced to set prices equal to the world price of &#36;0.15 per pound.</p>
+<figure id="krugmanwellsessentials4e-ch3-fig-51" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-58" alt="image" src="asset/ch3/KrugESS4e_3UN06.jpg"/>
+</figure>
+<figure id="krugmanwellsessentials4e-ch3-fig-52" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-img-59" alt="image" src="asset/ch3/KrugESS4e_3UN07.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-p264" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase><phrase block_type="step-title"><strong>Draw and label supply and demand curves. Find the equilibrium quantity demanded.</strong>
+<phrase block_type="step-subtext">Review pages 68&#8211;70, 78&#8211;79 and 85&#8211;88.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch3-p266" block_type="wio-txt-ni">The equilibrium quantity demanded is at point <em>E</em>, the point at which quantity supplied equals quantity demanded. As shown both in the supply and demand schedule and in the figure, this occurs at an equilibrium quantity of 2.0 billion pounds and an equilibrium price of &#36;0.25.</p>
+<p id="krugmanwellsessentials4e-ch3-p267" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase><phrase block_type="step-title"><strong>Calculate the shortage of sugar that would occur at a price of &#36;0.15.</strong>
+<phrase block_type="step-subtext">Review pages 85&#8211;88.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch3-p269" block_type="wio-txt-ni">As shown in the upcoming graph, a price of &#36;0.15 corresponds to point <em>A</em> on the supply curve. The quantity supplied at a price of 0.15 can be found by starting at point <em>A</em>, following the dotted line down to the horizontal axis, and observing that the quantity supplied by U.S. sugar farmers is 1.6 billion pounds. Similarly, a price of &#36;0.15 corresponds to point <em>B</em> on the demand curve. The quantity demanded at a price of &#36;0.15 can be found by starting at point <em>B</em>, following the dotted line down to the horizontal axis, and observing that the quantity demanded is 2.2 billion pounds. The difference between the quantity demanded and the quantity supplied is 2.2 &#8722; 1.6 = 0.6 billion pounds. This difference can also be found from the supply and demand schedule. As shown in the schedule, at a price of &#36;0.15, the quantity supplied (1.6 billion pounds) is less than the quantity demanded (2.2 billion pounds) by 0.6 billion pounds.</p>
+<p id="krugmanwellsessentials4e_page_96" block_type="page_start">96</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-7" block_type="cr-que-t" title="" chapter="3" numbered="true" level="1" print_page="96">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch3-list-21" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-p270" block_type="sum-nl">The <strong>supply and demand model</strong> illustrates how a <strong>competitive market,</strong> one with many buyers and sellers, none of whom can influence the market price, works.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p271" block_type="sum-nl">The <strong>demand schedule</strong> shows the <strong>quantity demanded</strong> at each price and is represented graphically by a <strong>demand curve.</strong> The <strong>law of demand</strong> says that demand curves slope downward; that is, a higher price for a good or service leads people to demand a smaller quantity, other things equal.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p272" block_type="sum-nl">A <strong>movement along the demand curve</strong> occurs when a price change leads to a change in the quantity demanded. When economists talk of increasing or decreasing demand, they mean <strong>shifts of the demand curve&#8212;</strong>a change in the quantity demanded at any given price. An increase in demand causes a rightward shift of the demand curve. A decrease in demand causes a leftward shift.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p273" block_type="sum-nl">There are five main factors that shift the demand curve:</p>
+<list id="krugmanwellsessentials4e-ch3-list-22" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p274" block_type="sum-bl">A change in the prices of related goods or services, such as <strong>substitutes</strong> or <strong>complements</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p275" block_type="sum-bl">A change in income: when income rises, the demand for <strong>normal goods</strong> increases and the demand for <strong>inferior goods</strong> decreases</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p276" block_type="sum-bl">A change in tastes</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p277" block_type="sum-bl">A change in expectations</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p278" block_type="sum-bl">A change in the number of consumers</p></li>
+</list></li>
+<li><p id="krugmanwellsessentials4e-ch3-p279" block_type="sum-nl">The market demand curve for a good or service is the horizontal sum of the <strong>individual demand curves</strong> of all consumers in the market.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p280" block_type="sum-nl">The <strong>supply schedule</strong> shows the <strong>quantity supplied</strong> at each price and is represented graphically by a <strong>supply curve.</strong> Supply curves usually slope upward.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p281" block_type="sum-nl">A <strong>movement along the supply curve</strong> occurs when a price change leads to a change in the quantity supplied. When economists talk of increasing or decreasing supply, they mean <strong>shifts of the supply curve&#8212;</strong>a change in the quantity supplied at any given price. An increase in supply causes a rightward shift of the supply curve. A decrease in supply causes a leftward shift.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p282" block_type="sum-nl">There are five main factors that shift the supply curve:</p>
+<list id="krugmanwellsessentials4e-ch3-list-23" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch3-p283" block_type="sum-bl">A change in <strong>input</strong> prices</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p284" block_type="sum-bl">A change in the prices of related goods and services</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p285" block_type="sum-bl">A change in technology</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p286" block_type="sum-bl">A change in expectations</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p287" block_type="sum-bl">A change in the number of producers</p></li>
+</list></li>
+<li><p id="krugmanwellsessentials4e-ch3-p288" block_type="sum-nl">The market supply curve for a good or service is the horizontal sum of the <strong>individual supply curves</strong> of all producers in the market.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p289" block_type="sum-nl">The supply and demand model is based on the principle that the price in a market moves to its <strong>equilibrium price,</strong> or <strong>market-clearing price,</strong> the price at which the quantity demanded is equal to the quantity supplied. This quantity is the <strong>equilibrium quantity.</strong> When the price is above its market-clearing level, there is a <strong>surplus</strong> that pushes the price down. When the price is below its market-clearing level, there is a <strong>shortage</strong> that pushes the price up.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p290" block_type="sum-nl">An increase in demand increases both the equilibrium price and the equilibrium quantity; a decrease in demand has the opposite effect. An increase in supply reduces the equilibrium price and increases the equilibrium quantity; a decrease in supply has the opposite effect.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p291" block_type="sum-nl">Shifts of the demand curve and the supply curve can happen simultaneously. When they shift in opposite directions, the change in equilibrium price is predictable but the change in equilibrium quantity is not. When they shift in the same direction, the change in equilibrium quantity is predictable but the change in equilibrium price is not. In general, the curve that shifts the greater distance has a greater effect on the changes in equilibrium price and quantity.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-8" block_type="cr-kt-t" title="" chapter="3" numbered="true" level="1" print_page="97">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_97" block_type="page_start">97</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p292" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-60" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+
+<question id="krugmanwellsessentials4e-ch3-keyterms-ques1" numbered="false" title="" number="">
+<query id="krugmanwellsessentials4e-ch3-keyterms-ques1-qry">MA:
+
+a.Competitive market:: A <strong>competitive market</strong> is a market in which there are many buyers and sellers of the same good or service, none of whom can influence the price at which the good or service is sold.
+a.Supply and demand model:: The <strong>supply and demand model</strong> is a model of how a competitive market behaves.
+a.Demand schedule:: A <strong>demand schedule</strong> shows how much of a good or service consumers will want to buy at different prices.
+a.Quantity demanded:: The <strong>quantity demanded</strong> is the actual amount of a good or service consumers are willing to buy at some specific price.
+a.Demand curve:: 'A <strong>demand curve</strong> is a graphical representation of the demand schedule. It shows the relationship between quantity demanded and price.
+a.Law of demand:: The <strong>law of demand</strong> says that a higher price for a good or service, other things equal, leads people to demand a smaller quantity of that good or service.
+a.Shift of the demand curve:: A <strong>shift of the demand curve</strong> is a change in the quantity demanded at any given price, represented by the shift of the original demand curve to a new position, denoted by a new demand curve.
+a.Movement along the demand curve:: A <strong>movement along the demand curve</strong> is a change in the quantity demanded of a good arising from a change in the good&#8217;s price.
+a.Substitutes:: Two goods are <strong>substitutes</strong> if a rise in the price of one of the goods leads to an increase in the demand for the other good.
+a.Complements:: Two goods are <strong>complements</strong> if a rise in the price of one good leads to a decrease in the demand for the other good.
+a.Normal good:: When a rise in income increases the demand for a good&#8212;the normal case&#8212;it is a <strong>normal good</strong>.
+a.Inferior good:: When a rise in income decreases the demand for a good, it is an <strong>inferior good</strong>.
+a.Individual demand curve:: An <strong>individual demand curve</strong> illustrates the relationship between quantity demanded and price for an individual consumer.
+a.Quantity supplied:: The <strong>quantity supplied</strong> is the actual amount of a good or service people are willing to sell at some specific price.
+a.Supply schedule:: A <strong>supply schedule</strong> shows how much of a good or service would be supplied at different prices.
+a.Supply curve:: A <strong>supply curve</strong> shows the relationship between quantity supplied and price.
+a.Shift of the supply curve:: A <strong>shift of the supply curve</strong> is a change in the quantity supplied of a good or service at any given price. It is represented by the change of the original supply curve to a new position, denoted by a new supply curve.
+a.Movement along the supply curve:: A <strong>movement along the supply curve</strong> is a change in the quantity supplied of a good arising from a change in the good&#8217;s price.
+a.Input:: An <strong>input</strong> is a good or service that is used to produce another good or service.
+a.Individual supply curve:: An <strong>individual supply curve</strong> illustrates the relationship between quantity supplied and price for an individual producer.
+a.Equilibrium price:: A competitive market is in equilibrium when price has moved to a level at which the quantity of a good or service demanded equals the quantity of that good or service supplied. The price at which this takes place is the <strong>equilibrium price</strong>, also referred to as the <strong>market-clearing price</strong>. The quantity of the good or service bought and sold at that price is the <strong>equilibrium quantity</strong>.
+a.Equilibrium quantity:: A competitive market is in equilibrium when price has moved to a level at which the quantity of a good or service demanded equals the quantity of that good or service supplied. The price at which this takes place is the <strong>equilibrium price</strong>, also referred to as the <strong>market-clearing price</strong>. The quantity of the good or service bought and sold at that price is the <strong>equilibrium quantity</strong>.
+a.Market-clearing price:: 
+a.Surplus:: There is a <strong>surplus</strong> of a good or service when the quantity supplied exceeds the quantity demanded. Surpluses occur when the price is above its equilibrium level.
+a.Shortage:: There is a <strong>shortage</strong> of a good or service when the quantity demanded exceeds the quantity supplied. Shortages occur when the price is below its equilibrium level.
+
+</query>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch3-sec1-9" block_type="cr-que-t" title="" chapter="3" numbered="true" level="1" print_page="97">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch3-question-1" number="1">
+<p id="krugmanwellsessentials4e-ch3-p318" block_type="cr-que-nl-first">A survey indicated that chocolate is the most popular flavor of ice cream in America. For each of the following, indicate the possible effects on demand, supply, or both as well as equilibrium price and quantity of chocolate ice cream.</p>
+<list id="krugmanwellsessentials4e-ch3-list-24" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p319" block_type="cr-que-ans-first">A severe drought in the Midwest causes dairy farmers to reduce the number of milk-producing cattle in their herds by a third. These dairy farmers supply cream that is used to manufacture chocolate ice cream.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p320" block_type="cr-que-ans-mid">A new report by the American Medical Association reveals that chocolate does, in fact, have significant health benefits.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p321" block_type="cr-que-ans-mid">The discovery of cheaper synthetic vanilla flavoring lowers the price of vanilla ice cream.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p322" block_type="cr-que-ans-mid">New technology for mixing and freezing ice cream lowers manufacturers&#8217; costs of producing chocolate ice cream.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-2" number="2">
+<p id="krugmanwellsessentials4e-ch3-p323" block_type="cr-que-nl-mid">In a supply and demand diagram, draw the shift of the demand curve for hamburgers in your hometown due to the following events. In each case, show the effect on equilibrium price and quantity.</p>
+<list id="krugmanwellsessentials4e-ch3-list-25" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p324" block_type="cr-que-ans-first">The price of tacos increases.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p325" block_type="cr-que-ans-mid">All hamburger sellers raise the price of their french fries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p326" block_type="cr-que-ans-mid">Income falls in town. Assume that hamburgers are a normal good for most people.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p327" block_type="cr-que-ans-mid">Income falls in town. Assume that hamburgers are an inferior good for most people.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p328" block_type="cr-que-ans-mid">Hot dog stands cut the price of hot dogs.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-3" number="3">
+<p id="krugmanwellsessentials4e-ch3-p329" block_type="cr-que-nl-mid">The market for many goods changes in predictable ways according to the time of year, in response to events such as holidays, vacation times, seasonal changes in production, and so on. Using supply and demand, explain the change in price in each of the following cases. Note that supply and demand may shift simultaneously.</p>
+<list id="krugmanwellsessentials4e-ch3-list-26" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p330" block_type="cr-que-ans-first">Lobster prices usually fall during the summer peak lobster harvest season, despite the fact that people like to eat lobster during the summer more than at any other time of year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p331" block_type="cr-que-ans-mid">The price of a Christmas tree is lower after Christmas than before but fewer trees are sold.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p332" block_type="cr-que-ans-mid">The price of a round-trip ticket to Paris on Air France falls by more than &#36;200 after the end of school vacation in September. This happens despite the fact that generally worsening weather increases the cost of operating flights to Paris, and Air France therefore reduces the number of flights to Paris at any given price.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-4" number="4">
+<p id="krugmanwellsessentials4e-ch3-p333" block_type="cr-que-nl-mid">Show in a diagram the effect on the demand curve, the supply curve, the equilibrium price, and the equilibrium quantity of each of the following events.</p>
+<list id="krugmanwellsessentials4e-ch3-list-27" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p334" block_type="cr-que-ans-first">The market for newspapers in your town</p>
+<p id="krugmanwellsessentials4e-ch3-p335" block_type="cr-que-mcl">Case 1: The salaries of journalists go up.</p>
+<p id="krugmanwellsessentials4e-ch3-p336" block_type="cr-que-mcl">Case 2: There is a big news event in your town, which is reported in the newspapers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p337" block_type="cr-que-ans-mid">The market for St. Louis Rams cotton T-shirts</p>
+<p id="krugmanwellsessentials4e-ch3-p338" block_type="cr-que-mcl">Case 1: The Rams win the Super Bowl.</p>
+<p id="krugmanwellsessentials4e-ch3-p339" block_type="cr-que-mcl">Case 2: The price of cotton increases.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p340" block_type="cr-que-ans-mid">The market for bagels</p>
+<p id="krugmanwellsessentials4e-ch3-p341" block_type="cr-que-mcl">Case 1: People realize how fattening bagels are.</p>
+<p id="krugmanwellsessentials4e-ch3-p342" block_type="cr-que-mcl">Case 2: People have less time to make themselves a cooked breakfast.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p343" block_type="cr-que-ans-mid">The market for the Krugman and Wells economics textbook</p>
+<p id="krugmanwellsessentials4e-ch3-p344" block_type="cr-que-mcl">Case 1: Your professor makes it required reading for all of his or her students.</p>
+<p id="krugmanwellsessentials4e-ch3-p345" block_type="cr-que-mcl">Case 2: Printing costs for textbooks are lowered by the use of synthetic paper.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-5" number="5">
+<p id="krugmanwellsessentials4e-ch3-p346" block_type="cr-que-nl-mid">Let&#8217;s assume that each person in the United States consumes an average of 37 gallons of soft drinks (nondiet) at an average price of &#36;2 per gallon and that the U.S. population is 294 million. At a price of &#36;1.50 per gallon, each individual consumer would demand 50 gallons of soft drinks. From this information about the individual demand schedule, calculate the market demand schedule for soft drinks for the prices of &#36;1.50 and &#36;2 per gallon.</p>
+</question>
+<p id="krugmanwellsessentials4e_page_98" block_type="page_start">98</p>
+<question id="krugmanwellsessentials4e-ch3-question-6" number="6">
+<p id="krugmanwellsessentials4e-ch3-p347" block_type="cr-que-nl-mid">Suppose that the supply schedule of Maine lobsters is as follows:</p>
+<table id="krugmanwellsessentials4e-ch3-untab-4" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of lobster<br/>(per pound)</strong></td>
+<td><strong>Quantity of lobster<br/>supplied (pounds)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;25</td>
+<td>800</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">20</td>
+<td>700</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">15</td>
+<td>600</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td>400</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch3-p348" block_type="cr-que-txt">Suppose that Maine lobsters can be sold only in the United States. The U.S. demand schedule for Maine lobsters is as follows:</p>
+<table id="krugmanwellsessentials4e-ch3-untab-5" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of lobster<br/>(per pound)</strong></td>
+<td><strong>Quantity of lobster<br/>demanded (pounds)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;25</td>
+<td>200</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">20</td>
+<td>400</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">15</td>
+<td>600</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>800</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td>1,000</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch3-list-28" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p349" block_type="cr-que-ans-first">Draw the demand curve and the supply curve for Maine lobsters. What are the equilibrium price and quantity of lobsters?</p>
+<p id="krugmanwellsessentials4e-ch3-p350" block_type="cr-que-txt">Now suppose that Maine lobsters can be sold in France. The French demand schedule for Maine lobsters is as follows:</p>
+<table id="krugmanwellsessentials4e-ch3-untab-6" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of lobster<br/>(per pound)</strong></td>
+<td><strong>Quantity of lobster<br/>demanded (pounds)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;25</td>
+<td>100</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">20</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">15</td>
+<td>500</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>700</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td>900</td>
+</tr>
+</tbody>
+</table></li>
+<li><p id="krugmanwellsessentials4e-ch3-p351" block_type="cr-que-ans-first">What is the demand schedule for Maine lobsters now that French consumers can also buy them? Draw a supply and demand diagram that illustrates the new equilibrium price and quantity of lobsters. What will happen to the price at which fishermen can sell lobster? What will happen to the price paid by U.S. consumers? What will happen to the quantity consumed by U.S. consumers?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-7" number="7">
+<p id="krugmanwellsessentials4e-ch3-p352" block_type="cr-que-nl-mid">Find the flaws in reasoning in the following statements, paying particular attention to the distinction between shifts of and movements along the supply and demand curves. Draw a diagram to illustrate what actually happens in each situation.</p>
+<list id="krugmanwellsessentials4e-ch3-list-29" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p353" block_type="cr-que-ans-first">&#8220;A technological innovation that lowers the cost of producing a good might seem at first to result in a reduction in the price of the good to consumers. But a fall in price will increase demand for the good, and higher demand will send the price up again. It is not certain, therefore, that an innovation will really reduce price in the end.&#8221;</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p354" block_type="cr-que-ans-mid">&#8220;A study shows that eating a clove of garlic a day can help prevent heart disease, causing many consumers to demand more garlic. This increase in demand results in a rise in the price of garlic. Consumers, seeing that the price of garlic has gone up, reduce their demand for garlic. This causes the demand for garlic to decrease and the price of garlic to fall. Therefore, the ultimate effect of the study on the price of garlic is uncertain.&#8221;</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-8" number="8">
+<p id="krugmanwellsessentials4e-ch3-p355" block_type="cr-que-nl-mid">The following table shows a demand schedule for a normal good.</p>
+<table id="krugmanwellsessentials4e-ch3-untab-7" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price</strong></td>
+<td><strong>Quantity demanded</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;23</td>
+<td>70</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">21</td>
+<td>90</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">19</td>
+<td>110</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">17</td>
+<td>130</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch3-list-30" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p356" block_type="cr-que-ans-first">Do you think that the increase in quantity demanded (say, from 90 to 110 in the table) when price decreases (from &#36;21 to &#36;19) is due to a rise in consumers&#8217; income? Explain clearly (and briefly) why or why not.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p357" block_type="cr-que-ans-mid">Now suppose that the good is an inferior good. Would the demand schedule still be valid for an inferior good?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p358" block_type="cr-que-ans-mid">Lastly, assume you do not know whether the good is normal or inferior. Devise an experiment that would allow you to determine which one it was. Explain.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-9" number="9">
+<p id="krugmanwellsessentials4e-ch3-p359" block_type="cr-que-nl-mid">In recent years, the number of car producers in China has increased rapidly. In fact, China now has more car brands than the United States. In addition, car sales have climbed every year and automakers have increased their output at even faster rates, causing fierce competition and a decline in prices. At the same time, Chinese consumers&#8217; incomes have risen. Assume that cars are a normal good. Draw a diagram of the supply and demand curves for cars in China to explain what has happened in the Chinese car market.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-10" number="10">
+<p id="krugmanwellsessentials4e-ch3-p360" block_type="cr-que-nl-mid">Aaron Hank is a star hitter for the Bay City baseball team. He is close to breaking the major league record for home runs hit during one season, and it is widely anticipated that in the next game he will break that record. As a result, tickets for the team&#8217;s next game have been a hot commodity. But today it is announced that, due to a knee injury, he will not in fact play in the team&#8217;s next game. Assume that season ticket-holders are able to resell their tickets if they wish. Use supply and demand diagrams to explain your answers to parts a and b.</p>
+<p id="krugmanwellsessentials4e_page_99" block_type="page_start">99</p>
+<list id="krugmanwellsessentials4e-ch3-list-31" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p361" block_type="cr-que-ans-first">Show the case in which this announcement results in a lower equilibrium price and a lower equilibrium quantity than before the announcement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p362" block_type="cr-que-ans-mid">Show the case in which this announcement results in a lower equilibrium price and a higher equilibrium quantity than before the announcement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p363" block_type="cr-que-ans-mid">What accounts for whether case a or case b occurs?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p364" block_type="cr-que-ans-mid">Suppose that a scalper had secretly learned before the announcement that Aaron Hank would not play in the next game. What actions do you think he would take?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-11" number="11">
+<p id="krugmanwellsessentials4e-ch3-p365" block_type="cr-que-nl-mid">Fans of rock often bemoan the high price of concert tickets. One superstar has argued that it isn&#8217;t worth hundreds, even thousands, of dollars to hear him and his band play. Let&#8217;s assume this star sold out arenas around the country at an average ticket price of &#36;75.</p>
+<list id="krugmanwellsessentials4e-ch3-list-32" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p366" block_type="cr-que-ans-first">How would you evaluate the argument that ticket prices are too high?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p367" block_type="cr-que-ans-mid">Suppose that due to this star&#8217;s protests, ticket prices were lowered to &#36;50. In what sense is this price too low? Draw a diagram using supply and demand curves to support your argument.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p368" block_type="cr-que-ans-mid">Suppose the rock superstar really wanted to bring down ticket prices. Since he and his band control the supply of their services, what do you recommend they do? Explain using a supply and demand diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p369" block_type="cr-que-ans-mid">Suppose the band&#8217;s next album was a total dud. Do you think they would still have to worry about ticket prices being too high? Why or why not? Draw a supply and demand diagram to support your argument.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p370" block_type="cr-que-ans-mid">Suppose the group announced their next tour was going to be their last. What effect would this likely have on the demand for and price of tickets? Illustrate with a supply and demand diagram.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-12" number="12">
+<p id="krugmanwellsessentials4e-ch3-p371" block_type="cr-que-nl-mid">After several years of decline, the market for handmade acoustic guitars is making a comeback. These guitars are usually made in small workshops employing relatively few highly skilled luthiers. Assess the impact on the equilibrium price and quantity of handmade acoustic guitars as a result of each of the following events. In your answers indicate which curve(s) shift(s) and in which direction.</p>
+<list id="krugmanwellsessentials4e-ch3-list-33" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p372" block_type="cr-que-ans-first">Environmentalists succeed in having the use of Brazilian rosewood banned in the United States, forcing luthiers to seek out alternative, more costly woods.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p373" block_type="cr-que-ans-mid">A foreign producer reengineers the guitar-making process and floods the market with identical guitars.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p374" block_type="cr-que-ans-mid">Music featuring handmade acoustic guitars makes a comeback as audiences tire of heavy metal and alternative rock music.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p375" block_type="cr-que-ans-mid">The country goes into a deep recession and the income of the average American falls sharply.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-13" number="13">
+<p id="krugmanwellsessentials4e-ch3-p376" block_type="cr-que-nl-mid"><em>Demand twisters:</em> Sketch and explain the demand relationship in each of the following statements.</p>
+<list id="krugmanwellsessentials4e-ch3-list-34" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p377" block_type="cr-que-ans-first">I would never buy a Miley Cyrus album! You couldn&#8217;t even give me one for nothing.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p378" block_type="cr-que-ans-mid">I generally buy a bit more coffee as the price falls. But once the price falls to &#36;2 per pound, I&#8217;ll buy out the entire stock of the supermarket.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p379" block_type="cr-que-ans-mid">I spend more on orange juice even as the price rises. (Does this mean that I must be violating the law of demand?)</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p380" block_type="cr-que-ans-mid">Due to a tuition rise, most students at a college find themselves with less disposable income. Almost all of them eat more frequently at the school cafeteria and less often at restaurants, even though prices at the cafeteria have risen, too. (This one requires that you draw both the demand and the supply curves for school cafeteria meals.)</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-14" number="14">
+<p id="krugmanwellsessentials4e-ch3-p381" block_type="cr-que-nl-mid">Will Shakespeare is a struggling playwright in sixteenth-century London. As the price he receives for writing a play increases, he is willing to write more plays. For the following situations, use a diagram to illustrate how each event affects the equilibrium price and quantity in the market for Shakespeare&#8217;s plays.</p>
+<list id="krugmanwellsessentials4e-ch3-list-35" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p382" block_type="cr-que-ans-first">The playwright Christopher Marlowe, Shakespeare&#8217;s chief rival, is killed in a bar brawl.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p383" block_type="cr-que-ans-mid">The bubonic plague, a deadly infectious disease, breaks out in London.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p384" block_type="cr-que-ans-mid">To celebrate the defeat of the Spanish Armada, Queen Elizabeth declares several weeks of festivities, which involves commissioning new plays.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-15" number="15">
+<p id="krugmanwellsessentials4e-ch3-p385" block_type="cr-que-nl-mid">This year, the small town of Middling experiences a sudden doubling of the birth rate. After three years, the birth rate returns to normal. Use a diagram to illustrate the effect of these events on the following.</p>
+<list id="krugmanwellsessentials4e-ch3-list-36" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p386" block_type="cr-que-ans-first">The market for an hour of babysitting services in Middling this year</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p387" block_type="cr-que-ans-mid">The market for an hour of babysitting services 14 years into the future, after the birth rate has returned to normal, by which time children born today are old enough to work as babysitters</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p388" block_type="cr-que-ans-mid">The market for an hour of babysitting services 30 years into the future, when children born today are likely to be having children of their own</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-16" number="16">
+<p id="krugmanwellsessentials4e-ch3-p389" block_type="cr-que-nl-mid">Use a diagram to illustrate how each of the following events affects the equilibrium price and quantity of pizza.</p>
+<list id="krugmanwellsessentials4e-ch3-list-37" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p390" block_type="cr-que-ans-first">The price of mozzarella cheese rises.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p391" block_type="cr-que-ans-mid">The health hazards of hamburgers are widely publicized.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p392" block_type="cr-que-ans-mid">The price of tomato sauce falls.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p393" block_type="cr-que-ans-mid">The incomes of consumers rise and pizza is an inferior good.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p394" block_type="cr-que-ans-mid">Consumers expect the price of pizza to fall next week.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-17" number="17">
+<p id="krugmanwellsessentials4e_page_100" block_type="page_start">100</p>
+<p id="krugmanwellsessentials4e-ch3-p395" block_type="cr-que-nl-mid">Although he was a prolific artist, Pablo Picasso painted only 1,000 canvases during his &#8220;Blue Period.&#8221; Picasso is now dead, and all of his Blue Period works are currently on display in museums and private galleries throughout Europe and the United States.</p>
+<list id="krugmanwellsessentials4e-ch3-list-38" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p396" block_type="cr-que-ans-first">Draw a supply curve for Picasso Blue Period works. Why is this supply curve different from ones you have seen?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p397" block_type="cr-que-ans-mid">Given the supply curve from part a, the price of a Picasso Blue Period work will be entirely dependent on what factor(s)? Draw a diagram showing how the equilibrium price of such a work is determined.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p398" block_type="cr-que-ans-mid">Suppose rich art collectors decide that it is essential to acquire Picasso Blue Period art for their collections. Show the impact of this on the market for these paintings.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch3-question-18" number="18">
+<p id="krugmanwellsessentials4e-ch3-p399" block_type="cr-que-nl-mid">Draw the appropriate curve in each of the following cases. Is it like or unlike the curves you have seen so far? Explain.</p>
+<list id="krugmanwellsessentials4e-ch3-list-39" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p400" block_type="cr-que-ans-first">The demand for cardiac bypass surgery, given that the government pays the full cost for any patient</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p401" block_type="cr-que-ans-mid">The demand for elective cosmetic plastic surgery, given that the patient pays the full cost</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p402" block_type="cr-que-ans-mid">The supply of reproductions of Rembrandt paintings</p></li>
+</list>
+</question>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-wio-1" block_type="workitout">
+<p id="krugmanwellsessentials4e-ch3-p402t" block_type="wio-title">WORK IT OUT</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-exp2-8" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch3-p403" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch3-img-61" alt="image" src="asset/ch3/launchpad_logo_cmyk.jpg"/> interactive activity</p>
+</box>
+</box>
+<question id="krugmanwellsessentials4e-ch3-question-19" number="19">
+<p id="krugmanwellsessentials4e-ch3-p404" block_type="cr-wio-nl-first">The accompanying table gives the annual U.S. demand and supply schedules for pickup trucks.</p>
+<table id="krugmanwellsessentials4e-ch3-untab-8" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of truck</strong></td>
+<td class="tbl-rborder"><strong>Quantity of<br/>trucks demanded<br/>(millions)</strong></td>
+<td><strong>Quantity of<br/>trucks supplied<br/>(millions)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;20,000</td>
+<td class="tbl-rborder">20</td>
+<td>14</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">25,000</td>
+<td class="tbl-rborder">18</td>
+<td>15</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">30,000</td>
+<td class="tbl-rborder">16</td>
+<td>16</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">35,000</td>
+<td class="tbl-rborder">14</td>
+<td>17</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">40,000</td>
+<td class="tbl-rborder">12</td>
+<td>18</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch3-list-40" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-p405" block_type="cr-wio-ans-first">Plot the demand and supply curves using these schedules. Indicate the equilibrium price and quantity on your diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p406" block_type="cr-wio-ans-mid">Suppose the tires used on pickup trucks are found to be defective. What would you expect to happen in the market for pickup trucks? Show this on your diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-p407" block_type="cr-wio-ans-last">Suppose that the U.S. Department of Transportation imposes costly regulations on manufacturers that cause them to reduce supply by one-third at any given price. Calculate and plot the new supply schedule and indicate the new equilibrium price and quantity on your diagram.</p></li>
+</list>
+</question>
+</section>
+</chapter>

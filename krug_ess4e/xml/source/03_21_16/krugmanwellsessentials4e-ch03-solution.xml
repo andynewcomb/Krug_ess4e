@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="03" title="KRU_Chapter_03_SOL_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/manuscript_full.xsd">
+<chapter number="3" id="krugmanwellsessentials4e-ch3-solution-chapter-3" title="CHAPTER 3: Supply and Demand" start-numbering-at="3" numbered="true">
+<section id="krugmanwellsessentials4e-ch3-solution-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="S-33">
+<p id="krugmanwellsessentials4e-ch3-solution-p1" block_type="chapter_number">CHAPTER 3</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p2" block_type="chapter_title">Supply and Demand</p>
+<p id="krugmanwellsessentials4e_page_S-33" block_type="page_start">S-33</p>
+<question id="krugmanwellsessentials4e-ch3-solution-question-1" number="1">
+<p id="krugmanwellsessentials4e-ch3-solution-p3" block_type="prn">A survey indicated that chocolate is the most popular flavor of ice cream in America. For each of the following, indicate the possible effects on demand, supply, or both as well as equilibrium price and quantity of chocolate ice cream.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-1" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p4" block_type="prsl">A severe drought in the Midwest causes dairy farmers to reduce the number of milk-producing cattle in their herds by a third. These dairy farmers supply cream that is used to manufacture chocolate ice cream.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p5" block_type="prsl">A new report by the American Medical Association reveals that chocolate does, in fact, have significant health benefits.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p6" block_type="prsl">The discovery of cheaper synthetic vanilla flavoring lowers the price of vanilla ice cream.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p7" block_type="prsl">New technology for mixing and freezing ice cream lowers manufacturers&#8217; costs of producing chocolate ice cream.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-2" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p8" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p9" block_type="sol-yusl-first">By reducing their herds, dairy farmers reduce the supply of cream, a leftward shift of the supply curve for cream. As a result, the market price of cream rises, raising the cost of producing a unit of chocolate ice cream. This results in a leftward shift of the supply curve for chocolate ice cream as ice-cream producers reduce the quantity of chocolate ice cream supplied at any given price. Ultimately, this leads to a rise in the equilibrium price and a fall in the equilibrium quantity of chocolate ice cream.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p10" block_type="sol-yusl">Consumers will now demand more chocolate ice cream at any given price, represented by a rightward shift of the demand curve. As a result, both equilibrium price and quantity rise.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p11" block_type="sol-yusl">The price of a substitute (vanilla ice cream) has fallen, leading consumers to substitute it for chocolate ice cream. The demand for chocolate ice cream decreases, represented by a leftward shift of the demand curve. Both equilibrium price and quantity fall.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p12" block_type="sol-yusl">Because the cost of producing ice cream falls, manufacturers are willing to supply more units of chocolate ice cream at any given price. This is represented by a rightward shift of the supply curve and results in a fall in the equilibrium price and a rise in the equilibrium quantity of chocolate ice cream.</p></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-2" number="2">
+<p id="krugmanwellsessentials4e-ch3-solution-p13" block_type="prn">In a supply and demand diagram, draw the shift of the demand curve for hamburgers in your hometown due to the following events. In each case, show the effect on equilibrium price and quantity.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p14" block_type="prsl">The price of tacos increases.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p15" block_type="prsl">All hamburger sellers raise the price of their french fries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p16" block_type="prsl">Income falls in town. Assume that hamburgers are a normal good for most people.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p17" block_type="prsl">Income falls in town. Assume that hamburgers are an inferior good for most people.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p18" block_type="prsl">Hot dog stands cut the price of hot dogs.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_S-34" block_type="page_start">S-34</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-5" type="ordered" start="2" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p19" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p20" block_type="sol-yusl-first">A rise in the price of a substitute (tacos) causes the demand for hamburgers to increase. This represents a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and results in a rise in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-1" alt="image" src="images/KrugESS4e_fig_SOL_3_02a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p21" block_type="sol-yusl">A rise in the price of a complement (french fries) causes the demand for hamburgers to decrease. This represents a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and results in a fall in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-2" alt="image" src="images/KrugESS4e_fig_SOL_3_02b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p22" block_type="sol-yusl">A fall in income causes the demand for a normal good (hamburgers) to decrease. This represents a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and results in a fall in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-3" alt="image" src="images/KrugESS4e_fig_SOL_3_02c.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-35" block_type="page_start">S-35</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p23" block_type="sol-yusl">A fall in income causes the demand for an inferior good (hamburgers) to increase. This represents a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and results in a rise in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-4" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-4" alt="image" src="images/KrugESS4e_fig_SOL_3_02d.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p24" block_type="sol-yusl">A fall in the price of a substitute (hot dogs) causes demand for hamburgers to decrease. This is represented by a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and results in a fall in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-5" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-5" alt="image" src="images/KrugESS4e_fig_SOL_3_02e.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-3" number="3">
+<p id="krugmanwellsessentials4e-ch3-solution-p25" block_type="prn">The market for many goods changes in predictable ways according to the time of year, in response to events such as holidays, vacation times, seasonal changes in production, and so on. Using supply and demand, explain the change in price in each of the following cases. Note that supply and demand may shift simultaneously.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p26" block_type="prsl">Lobster prices usually fall during the summer peak lobster harvest season, despite the fact that people like to eat lobster during the summer more than at any other time of year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p27" block_type="prsl">The price of a Christmas tree is lower after Christmas than before but fewer trees are sold.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p28" block_type="prsl">The price of a round-trip ticket to Paris on Air France falls by more than &#36;200 after the end of school vacation in September. This happens despite the fact that generally worsening weather increases the cost of operating flights to Paris, and Air France therefore reduces the number of flights to Paris at any given price.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-8" type="ordered" start="3" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p29" block_type="sol-yusl-first">&#160;</p>
+<p id="krugmanwellsessentials4e_page_S-36" block_type="page_start">S-36</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p30" block_type="sol-yusl-first">There is a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> during the summer because consumers prefer to eat more lobster during the summer than at other times of the year. Other things equal, this leads to a rise in the price of lobster. Simultaneously, lobster fishermen produce more lobster during the summer peak harvest time, when it is cheaper to harvest lobster, representing a rightward shift of the supply curve of lobster from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. Other things equal, this leads to a fall in the price of lobster. Given the simultaneous rightward shifts of both the demand and supply curves, the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. The fall in price indicates that the rightward shift of the supply curve exceeds the rightward shift of the demand curve.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-6" alt="image" src="images/KrugESS4e_fig_SOL_3_03a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p31" block_type="sol-yusl">There is a leftward shift of the demand curve for Christmas trees after Christmas from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, as fewer consumers want Christmas trees at any given price. The supply curve does not shift; the reduction in the quantity of trees supplied is a movement along the supply curve. This leads to a fall in the equilibrium price and quantity, as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-7" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-7" alt="image" src="images/KrugESS4e_fig_SOL_3_03b.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-37" block_type="page_start">S-37</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p32" block_type="sol-yusl">There is a leftward shift of the demand curve for tickets to Paris in September, after the end of school vacation, from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. Other things equal, this leads to a fall in the price of tickets. At the same time, as the cost of operating flights increases, Air France decreases the number of flights, shifting the supply curve leftward from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. Other things equal, this leads to a rise in price. Given the simultaneous leftward shifts of both the demand and supply curves, the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. The fall in price indicates that the leftward shift of the demand curve exceeds the leftward shift of the supply curve.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-8" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-8" alt="image" src="images/KrugESS4e_fig_SOL_3_03c.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-4" number="4">
+<p id="krugmanwellsessentials4e-ch3-solution-p33" block_type="prn">Show in a diagram the effect on the demand curve, the supply curve, the equilibrium price, and the equilibrium quantity of each of the following events.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p34" block_type="prsl">The market for newspapers in your town</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p35" block_type="prsl">Case 1: The salaries of journalists go up.</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p36" block_type="prsl">Case 2: There is a big news event in your town, which is reported in the newspapers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p37" block_type="prsl">The market for St. Louis Rams cotton T-shirts</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p38" block_type="prsl">Case 1: The Rams win the Super Bowl.</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p39" block_type="prsl">Case 2: The price of cotton increases.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p40" block_type="prsl">The market for bagels</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p41" block_type="prsl">Case 1: People realize how fattening bagels are.</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p42" block_type="prsl">Case 2: People have less time to make themselves a cooked breakfast.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p43" block_type="prsl">The market for the Krugman and Wells economics textbook</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p44" block_type="prsl">Case 1: Your professor makes it required reading for all of his or her students.</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p45" block_type="prsl">Case 2: Printing costs for textbooks are lowered by the use of synthetic paper.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-11" type="ordered" start="4" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p46" block_type="sol-yusl-first">&#160;</p>
+<p id="krugmanwellsessentials4e_page_S-38" block_type="page_start">S-38</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p47" block_type="sol-yusl-first"><strong>Case 1:</strong> Journalists are an input in the production of newspapers; an increase in their salaries will cause newspaper publishers to reduce the quantity supplied at any given price. This represents a leftward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub> and results in a rise in the equilibrium price and a fall in the equilibrium quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-9" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-9" alt="image" src="images/KrugESS4e_fig_SOL_3_04aA.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-solution-p48" block_type="sol-yusl"><strong>Case 2:</strong> Townspeople will wish to purchase more newspapers at any given price. This represents a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and leads to a rise in both the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-10" alt="image" src="images/KrugESS4e_fig_SOL_3_04aB.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p49" block_type="sol-yusl"><strong>Case 1:</strong> Fans will demand more St. Louis Rams memorabilia at any given price. This represents a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and leads to a rise in both the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-11" alt="image" src="images/KrugESS4e_fig_SOL_3_04bA.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-39" block_type="page_start">S-39</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p50" block_type="sol-yusl"><strong>Case 2:</strong> Cotton is an input into T-shirts; an increase in its price will cause T-shirt manufacturers to reduce the quantity supplied at any given price, representing a leftward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. This leads to a rise in the equilibrium price and a fall in the equilibrium quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-12" alt="image" src="images/KrugESS4e_fig_SOL_3_04bB.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p51" block_type="sol-yusl"><strong>Case 1:</strong> Consumers will demand fewer bagels at any given price. This represents a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and leads to a fall in both the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-13" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-13" alt="image" src="images/KrugESS4e_fig_SOL_3_04cA.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-solution-p52" block_type="sol-yusl"><strong>Case 2:</strong> Consumers will demand more bagels (a substitute for cooked breakfasts) at any given price. This represents a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub> and leads to a rise in both the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-14" alt="image" src="images/KrugESS4e_fig_SOL_3_04cB.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-40" block_type="page_start">S-40</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p53" block_type="sol-yusl"><strong>Case 1:</strong> A greater quantity of textbooks will be demanded at any given price, representing a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. Equilibrium price and quantity will rise as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-15" alt="image" src="images/KrugESS4e_fig_SOL_3_04dA.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch3-solution-p54" block_type="sol-yusl"><strong>Case 2:</strong> The textbook publisher will offer more textbooks for sale at any given price, representing a rightward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. Equilibrium price will fall and equilibrium quantity will rise as the equilibrium changes from <em>E</em><SUB>1</SUB> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-16" alt="image" src="images/KrugESS4e_fig_SOL_3_04dB.jpg"/>
+</figure>
+</li>
+</list></li></list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-5" number="5">
+<p id="krugmanwellsessentials4e-ch3-solution-p55" block_type="prn">Let&#8217;s assume that each person in the United States consumes an average of 37 gallons of soft drinks (nondiet) at an average price of &#36;2 per gallon and that the U.S. population is 294 million. At a price of &#36;1.50 per gallon, each individual consumer would demand 50 gallons of soft drinks. From this information about the individual demand schedule, calculate the market demand schedule for soft drinks for the prices of &#36;1.50 and &#36;2 per gallon.</p>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-13" type="ordered" start="5" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p56" block_type="sol-yusl-first">The quantity demanded by an individual consumer at a price of &#36;2 was 37 gallons, and there were 294 million consumers. Multiplying the quantity demanded at that price by each individual consumer gives us the market quantity demanded at that price: 294 million &#215; 37 gallons = 10.9 billion gallons. Similarly, the market quantity demanded at a price of &#36;1.50 would be 294 million &#215; 50 gallons = 14.7 billion gallons.</p></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-6" number="6">
+<p id="krugmanwellsessentials4e-ch3-solution-p57" block_type="prn">Suppose that the supply schedule of Maine lobsters is as follows:</p>
+<p id="krugmanwellsessentials4e_page_S-41" block_type="page_start">S-41</p>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-1" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price of lobster (per pound)</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of lobster supplied (pounds)</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;25</phrase></td>
+<td><phrase block_type="prtb-mc-first">800</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">20</phrase></td>
+<td><phrase block_type="prtb-mc-first">700</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">15</phrase></td>
+<td><phrase block_type="prtb-mc-first">600</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">10</phrase></td>
+<td><phrase block_type="prtb-mc-first">500</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">5</phrase></td>
+<td><phrase block_type="prtb-mc-first">400</phrase></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch3-solution-p58" block_type="prn">Suppose that Maine lobsters can be sold only in the United States. The U.S. demand schedule for Maine lobsters is as follows:</p>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-2" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price of lobster (per pound)</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of lobster demanded (pounds)</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;25</phrase></td>
+<td><phrase block_type="prtb-mc-first">200</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">20</phrase></td>
+<td><phrase block_type="prtb-mc-first">400</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">15</phrase></td>
+<td><phrase block_type="prtb-mc-first">600</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">10</phrase></td>
+<td><phrase block_type="prtb-mc-first">800</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">5</phrase></td>
+<td><phrase block_type="prtb-mc-first">1,000</phrase></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch3-solution-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p59" block_type="prsl">Draw the demand curve and the supply curve for Maine lobsters. What are the equilibrium price and quantity of lobsters?</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p60" block_type="prn">Now suppose that Maine lobsters can be sold in France. The French demand schedule for Maine lobsters is as follows:</p>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-3" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price of lobster (per pound)</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of lobster demanded (pounds)</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;25</phrase></td>
+<td><phrase block_type="prtb-mc-first">100</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">20</phrase></td>
+<td><phrase block_type="prtb-mc-first">300</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">15</phrase></td>
+<td><phrase block_type="prtb-mc-first">500</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">10</phrase></td>
+<td><phrase block_type="prtb-mc-first">700</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">5</phrase></td>
+<td><phrase block_type="prtb-mc-first">900</phrase></td>
+</tr>
+</tbody>
+</table></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p61" block_type="prsl">What is the demand schedule for Maine lobsters now that French consumers can also buy them? Draw a supply and demand diagram that illustrates the new equilibrium price and quantity of lobsters. What will happen to the price at which fishermen can sell lobster? What will happen to the price paid by U.S. consumers? What will happen to the quantity consumed by U.S. consumers?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_S-42" block_type="page_start">S-42</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-15" type="ordered" start="6" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p62" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p63" block_type="sol-yusl-first">The equilibrium price of lobster is &#36;15 per pound and the equilibrium quantity is 600 pounds, point <em>E</em> in the accompanying diagram.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-17" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-17" alt="image" src="images/KrugESS4e_fig_SOL_3_06a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p64" block_type="sol-yusl">The new demand schedule is obtained by adding together, at any given price, the quantity demanded by American consumers and the quantity demanded by French consumers, as shown in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-4" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price of lobster (per pound)</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of lobster demanded (U.S. pounds plus French pounds)</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;25</phrase></td>
+<td><phrase block_type="prtb-mc-first">300</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">20</phrase></td>
+<td><phrase block_type="prtb-mc-first">700</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">15</phrase></td>
+<td><phrase block_type="prtb-mc-first">1,100</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">10</phrase></td>
+<td><phrase block_type="prtb-mc-first">1,500</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">5</phrase></td>
+<td><phrase block_type="prtb-mc-first">1,900</phrase></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch3-solution-p65" block_type="sol-yusl">The new equilibrium price of lobster is &#36;20 per pound and the new equilibrium quantity is 700 pounds, point <em>E</em> in the accompanying diagram. The opportunity to sell to French consumers makes Maine fishermen better off: they sell more lobster and at a higher price than before. U.S. consumers, however, are made worse off: they must pay a higher price for lobster (&#36;20 versus &#36;15 per pound) and, as a result, consume less lobster (400 versus 600 pounds).</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-18" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-18" alt="image" src="images/KrugESS4e_fig_SOL_3_06b.jpg"/>
+</figure></li>
+</list></li></list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-7" number="7">
+<p id="krugmanwellsessentials4e-ch3-solution-p66" block_type="prn">Find the flaws in reasoning in the following statements, paying particular attention to the distinction between shifts of and movements along the supply and demand curves. Draw a diagram to illustrate what actually happens in each situation.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p67" block_type="prsl">&#8220;A technological innovation that lowers the cost of producing a good might seem at first to result in a reduction in the price of the good to consumers. But a fall in price will increase demand for the good, and higher demand will send the price up again. It is not certain, therefore, that an innovation will really reduce price in the end.&#8221;</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p68" block_type="prsl">&#8220;A study shows that eating a clove of garlic a day can help prevent heart disease, causing many consumers to demand more garlic. This increase in demand results in a rise in the price of garlic. Consumers, seeing that the price of garlic has gone up, reduce their demand for garlic. This causes the demand for garlic to decrease and the price of garlic to fall. Therefore, the ultimate effect of the study on the price of garlic is uncertain.&#8221;</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_S-43" block_type="page_start">S-43</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-18" type="ordered" start="7" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p69" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p70" block_type="sol-yusl-first">This statement confuses a shift of a curve with a movement along a curve. A technological innovation lowers the cost of producing the good, leading producers to offer more of the good at any given price. This is represented by a rightward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. As a result, the equilibrium price falls and the equilibrium quantity rises, as shown by the change from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. The statement &#8220;but a fall in price will increase demand for the good, and higher demand will send the price up again&#8221; is wrong for the following reasons. A fall in price does increase the quantity demanded and leads to an increase in the equilibrium quantity as one moves down along the demand curve. But it does not lead to an increase in demand&#8212;a rightward shift of the demand curve&#8212;and therefore does not cause the price to go up again.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-19" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-19" alt="image" src="images/KrugESS4e_fig_SOL_3_07a.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-44" block_type="page_start">S-44</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p71" block_type="sol-yusl">This statement also confuses a shift of a curve with a movement along a curve. The health report generates an increase in demand&#8212;a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. This leads to a higher equilibrium price and quantity as we move up along the supply curve, and the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. The following statements are wrong: &#8220;Consumers, seeing that the price of garlic has gone up, reduce their demand for garlic. This causes the demand for garlic to decrease and the price of garlic to fall.&#8221; They are wrong because they imply that the rise in the equilibrium price causes the demand for garlic to decrease&#8212;a leftward shift of the demand curve. But a rise in the equilibrium price via a movement along the supply curve does not cause the demand curve to shift leftward.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-20" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-20" alt="image" src="images/KrugESS4e_fig_SOL_3_07b.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-8" number="8">
+<p id="krugmanwellsessentials4e-ch3-solution-p72" block_type="prn">The following table shows a demand schedule for a normal good.</p>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-5" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity demanded</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;23</phrase></td>
+<td><phrase block_type="prtb-mc-first">70</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">21</phrase></td>
+<td><phrase block_type="prtb-mc-first">90</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">19</phrase></td>
+<td><phrase block_type="prtb-mc-first">110</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">17</phrase></td>
+<td><phrase block_type="prtb-mc-first">130</phrase></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch3-solution-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p73" block_type="prsl">Do you think that the increase in quantity demanded (say, from 90 to 110 in the table) when price decreases (from &#36;21 to &#36;19) is due to a rise in consumers&#8217; income? Explain clearly (and briefly) why or why not.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p74" block_type="prsl">Now suppose that the good is an inferior good. Would the demand schedule still be valid for an inferior good?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p75" block_type="prsl">Lastly, assume you do not know whether the good is normal or inferior. Devise an experiment that would allow you to determine which one it was. Explain.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-21" type="ordered" start="8" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p76" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p77" block_type="sol-yusl-first">The increase in quantity demanded from 90 to 110 when the price declines from &#36;21 to &#36;19 is not due to a rise in consumers&#8217; income. Rather, it represents a movement along the demand curve as the price falls. In contrast, a rise in consumers&#8217; income causes the demand curve to shift rightward for a normal good; as a result, the quantity demanded will increase at any given price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p78" block_type="sol-yusl">This demand schedule is valid for an inferior good because inferior goods obey the law of demand: a rise in the price leads to a fall in the quantity demanded, other things equal.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p79" block_type="sol-yusl">You can determine whether a good is normal or inferior only by examining what happens to the demand after consumers&#8217; income changes. A rise in income leads to an increase in demand for a normal good and a decrease in demand for an inferior good. A fall in income leads to a decrease in demand for a normal good and an increase in demand for an inferior good. So a suitable experiment would be to raise consumers&#8217; income: if the quantity demanded at any given price rises, the good is normal; if the quantity demanded at any given price falls, the good is inferior. If you experiment by reducing consumers&#8217; income, the results are reversed for the two types of goods.</p></li>
+</list></li>
+</list>
+<p id="krugmanwellsessentials4e_page_S-45" block_type="page_start">S-45</p>
+<question id="krugmanwellsessentials4e-ch3-solution-question-9" number="9">
+<p id="krugmanwellsessentials4e-ch3-solution-p80" block_type="prn">In recent years, the number of car producers in China has increased rapidly. In fact, China now has more car brands than the United States. In addition, car sales have climbed every year and automakers have increased their output at even faster rates, causing fierce competition and a decline in prices. At the same time, Chinese consumers&#8217; incomes have risen. Assume that cars are a normal good. Draw a diagram of the supply and demand curves for cars in China to explain what has happened in the Chinese car market.</p>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-23" type="ordered" start="9" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p81" block_type="sol-yusl-first">As more automakers enter the Chinese market, the supply curve shifts to the right, from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. And as Chinese consumers&#8217; incomes rise, the demand curve for cars shifts to the right, from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, because cars are a normal good. As a result, the equilibrium moves from its initial position at <em>E</em><sub>1</sub> to the new equilibrium at <em>E</em><sub>2</sub>, and the quantity of cars bought and sold increases from <em>Q</em><sub>1</sub> to <em>Q</em><sub>2</sub>. This accounts for the rapid increase in sales. Since the question mentions a decline in prices, the rightward shift of the supply curve must have been greater than the rightward shift of the demand curve.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-21" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-21" alt="image" src="images/KrugESS4e_fig_SOL_3_09.jpg"/>
+</figure></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-10" number="10">
+<p id="krugmanwellsessentials4e-ch3-solution-p82" block_type="prn">Aaron Hank is a star hitter for the Bay City baseball team. He is close to breaking the major league record for home runs hit during one season, and it is widely anticipated that in the next game he will break that record. As a result, tickets for the team&#8217;s next game have been a hot commodity. But today it is announced that, due to a knee injury, he will not in fact play in the team&#8217;s next game. Assume that season ticket-holders are able to resell their tickets if they wish. Use supply and demand diagrams to explain your answers to parts a and b.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-24" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p83" block_type="prsl">Show the case in which this announcement results in a lower equilibrium price and a lower equilibrium quantity than before the announcement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p84" block_type="prsl">Show the case in which this announcement results in a lower equilibrium price and a higher equilibrium quantity than before the announcement.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p85" block_type="prsl">What accounts for whether case a or case b occurs?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p86" block_type="prsl">Suppose that a scalper had secretly learned before the announcement that Aaron Hank would not play in the next game. What actions do you think he would take?</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-25" type="ordered" start="10" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p87" block_type="prsl">&#160;</p>
+<p id="krugmanwellsessentials4e_page_S-46" block_type="page_start">S-46</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-26" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p88" block_type="sol-yusl-first">Fewer fans want to attend the next game after the announcement is made. As a result, the demand curve will shift leftward from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, as fewer tickets are demanded at any given price; other things equal, this results in a fall in both equilibrium price and quantity. In addition, the supply curve will shift rightward from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>, as more season ticket-holders are willing to sell tickets at any given price. Other things equal, this results in a fall in equilibrium price and a rise in equilibrium quantity. In this case, the leftward shift of the demand curve exceeds the rightward shift of the supply curve; as a result, equilibrium quantity falls, shown by the change of the equilibrium from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-22" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-22" alt="image" src="images/KrugESS4e_fig_SOL_3_10a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p89" block_type="sol-yusl">The supply and demand curves shift in the same manner as in part a, but in this case the rightward shift of the supply curve exceeds the leftward shift of the demand curve. Consequently, equilibrium quantity rises, shown by the change of the equilibrium from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-23" alt="image" src="images/KrugESS4e_fig_SOL_3_10b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p90" block_type="sol-yusl">Case a (equilibrium quantity falls) occurs because the decrease in demand exceeds the increase in supply. Case b (equilibrium quantity rises) occurs because the increase in supply exceeds the decrease in demand.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p91" block_type="sol-yusl">A scalper who learns about the announcement secretly should take actions&#8212;such as lowering price somewhat&#8212;that ensure that he will sell all of his tickets before the announcement is made. He will do this because he knows a ticket will command a much lower price after the announcement. An expectation that the price will be lower in the future causes supply to increase today.</p></li>
+</list></li>
+</list>
+<p id="krugmanwellsessentials4e_page_S-47" block_type="page_start">S-47</p>
+<question id="krugmanwellsessentials4e-ch3-solution-question-11" number="11">
+<p id="krugmanwellsessentials4e-ch3-solution-p92" block_type="prn">Fans of rock often bemoan the high price of concert tickets. One superstar has argued that it isn&#8217;t worth hundreds, even thousands, of dollars to hear him and his band play. Let&#8217;s assume this star sold out arenas around the country at an average ticket price of &#36;75.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-27" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p93" block_type="prsl">How would you evaluate the argument that ticket prices are too high?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p94" block_type="prsl">Suppose that due to this star&#8217;s protests, ticket prices were lowered to &#36;50. In what sense is this price too low? Draw a diagram using supply and demand curves to support your argument.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p95" block_type="prsl">Suppose the rock superstar really wanted to bring down ticket prices. Since he and his band control the supply of their services, what do you recommend they do? Explain using a supply and demand diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p96" block_type="prsl">Suppose the band&#8217;s next album was a total dud. Do you think they would still have to worry about ticket prices being too high? Why or why not? Draw a supply and demand diagram to support your argument.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p97" block_type="prsl">Suppose the group announced their next tour was going to be their last. What effect would this likely have on the demand for and price of tickets? Illustrate with a supply and demand diagram.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-28" type="ordered" start="11" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p98" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-29" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p99" block_type="sol-yusl-first">If markets are competitive, the ticket price is simply the equilibrium price: the price at which quantity supplied is equal to quantity demanded. No one is &#8220;made&#8221; to pay &#36;75 to go to a concert: a potential concert-goer will pay &#36;75 if going to the concert seems worth that amount and will choose to do something else if it isn&#8217;t.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p100" block_type="sol-yusl">At &#36;50 each, the quantity of tickets demanded exceeds the quantity of tickets supplied. There is a shortage of tickets at this price, shown by the difference between the quantity demanded at this price, <em>Q<sub>D</sub>,</em> and the quantity supplied at this price, Q<sub><em>S</em></sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-24" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-24" alt="image" src="images/KrugESS4e_fig_SOL_3_11b.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-48" block_type="page_start">S-48</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p101" block_type="sol-yusl">The band can lower the average price of a ticket by increasing supply: give more concerts. This is shown as a rightward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>, resulting in a lower equilibrium price and a higher equilibrium quantity, shown by the change of the equilibrium from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-25" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-25" alt="image" src="images/KrugESS4e_fig_SOL_3_11c.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p102" block_type="sol-yusl">If the band&#8217;s album is a total dud, the demand for concert tickets is likely to decrease. This represents a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, resulting in a lower equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. This is likely to eliminate the worry that ticket prices are &#8220;too high.&#8221;</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-26" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-26" alt="image" src="images/KrugESS4e_fig_SOL_3_11d.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p103" block_type="sol-yusl">The announcement that this is the group&#8217;s last tour causes the demand for tickets to increase. This is represented by a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, resulting in an increase in both the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-27" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-27" alt="image" src="images/KrugESS4e_fig_SOL_3_11e.jpg"/>
+</figure></li>
+</list>
+</li>
+</list>
+<p id="krugmanwellsessentials4e_page_S-49" block_type="page_start">S-49</p>
+<question id="krugmanwellsessentials4e-ch3-solution-question-12" number="12">
+<p id="krugmanwellsessentials4e-ch3-solution-p104" block_type="prn">After several years of decline, the market for handmade acoustic guitars is making a comeback. These guitars are usually made in small workshops employing relatively few highly skilled luthiers. Assess the impact on the equilibrium price and quantity of handmade acoustic guitars as a result of each of the following events. In your answers indicate which curve(s) shift(s) and in which direction.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-30" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p105" block_type="prsl">Environmentalists succeed in having the use of Brazilian rosewood banned in the United States, forcing luthiers to seek out alternative, more costly woods.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p106" block_type="prsl">A foreign producer reengineers the guitar-making process and floods the market with identical guitars.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p107" block_type="prsl">Music featuring handmade acoustic guitars makes a comeback as audiences tire of heavy metal and alternative rock music.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p108" block_type="prsl">The country goes into a deep recession and the income of the average American falls sharply.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-31" type="ordered" start="12" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p109" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-32" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p110" block_type="sol-yusl-first">The cost of producing handmade acoustic guitars rises as more costly woods are used to construct them. This reduces supply, as luthiers offer fewer guitars at any given price. This is represented by a leftward shift of the supply curve and results in a rise in the equilibrium price and a fall in the equilibrium quantity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p111" block_type="sol-yusl">This represents a rightward shift of the supply curve, resulting in a fall in the equilibrium price and a rise in the equilibrium quantity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p112" block_type="sol-yusl">As more people demand music played on acoustic guitars, the demand for these guitars by musicians increases as well. (Acoustic guitars are an input into the production of this music.) This represents a rightward shift of the demand curve, leading to a higher equilibrium price and quantity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p113" block_type="sol-yusl">If average American income falls sharply, then the demand for handmade acoustic guitars will decrease sharply as well because they are a normal good. This is represented by a leftward shift of the demand curve, leading to a lower equilibrium price and quantity.</p></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-13" number="13">
+<p id="krugmanwellsessentials4e-ch3-solution-p114" block_type="prn"><em>Demand twisters:</em> Sketch and explain the demand relationship in each of the following statements.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-33" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p115" block_type="prsl">I would never buy a Miley Cyrus album! You couldn&#8217;t even give me one for nothing.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p116" block_type="prsl">I generally buy a bit more coffee as the price falls. But once the price falls to &#36;2 per pound, I&#8217;ll buy out the entire stock of the supermarket.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p117" block_type="prsl">I spend more on orange juice even as the price rises. (Does this mean that I must be violating the law of demand?)</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p118" block_type="prsl">Due to a tuition rise, most students at a college find themselves with less disposable income. Almost all of them eat more frequently at the school cafeteria and less often at restaurants, even though prices at the cafeteria have risen, too. (This one requires that you draw both the demand and the supply curves for school cafeteria meals.)</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_S-50" block_type="page_start">S-50</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-34" type="ordered" start="13" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p119" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-35" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p120" block_type="sol-yusl-first">In this case, the quantity demanded is zero regardless of the price. So this person&#8217;s demand curve for Miley Cyrus albums is a vertical line at the quantity of zero&#8212;that is, a vertical line that lies on top of the vertical axis.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-28" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-28" alt="image" src="images/KrugESS4e_fig_SOL_3_13a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p121" block_type="sol-yusl">The person here has the typical downward-sloping demand curve for coffee until it reaches the price of &#36;2 per pound, at which point it becomes horizontal, showing that he or she would buy a very large quantity at that price.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-29" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-29" alt="image" src="images/KrugESS4e_fig_SOL_3_13b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p122" block_type="sol-yusl">This person does not necessarily violate the law of demand: the quantity of orange juice demanded may in fact fall as price goes up. The likely explanation is the following: spending is price times the quantity demanded. Although price goes up, the total amount of money this person spends on orange juice rises because he or she does not reduce the quantity demanded enough to offset the increased cost per unit. This person will have a steep demand curve as shown in the diagram: quantity demanded falls as price rises, but the fall in quantity demanded is proportionately less than the rise in price.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-30" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-30" alt="image" src="images/KrugESS4e_fig_SOL_3_13c.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-51" block_type="page_start">S-51</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p123" block_type="sol-yusl">Since students&#8217; income has fallen, but the demand for cafeteria meals has increased, cafeteria meals must be an inferior good. The rightward shift of the demand curve, from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, results in an increase in the equilibrium price and quantity of cafeteria meals, as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-31" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-31" alt="image" src="images/KrugESS4e_fig_SOL_3_13d.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-14" number="14">
+<p id="krugmanwellsessentials4e-ch3-solution-p124" block_type="prn">Will Shakespeare is a struggling playwright in sixteenth-century London. As the price he receives for writing a play increases, he is willing to write more plays. For the following situations, use a diagram to illustrate how each event affects the equilibrium price and quantity in the market for Shakespeare&#8217;s plays.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-36" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p125" block_type="prsl">The playwright Christopher Marlowe, Shakespeare&#8217;s chief rival, is killed in a bar brawl.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p126" block_type="prsl">The bubonic plague, a deadly infectious disease, breaks out in London.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p127" block_type="prsl">To celebrate the defeat of the Spanish Armada, Queen Elizabeth declares several weeks of festivities, which involves commissioning new plays.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-37" type="ordered" start="14" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p128" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-38" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p129" block_type="sol-yusl-first">The death of Marlowe means that the supply of a substitute good (Marlowe&#8217;s plays) has decreased. As a result, the demand for Shakespeare&#8217;s plays will increase, inducing a rightward shift of the demand curve in the market for Shakespeare&#8217;s plays from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. As a result, equilibrium price and quantity will rise as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-32" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-32" alt="image" src="images/KrugESS4e_fig_SOL_3_14a.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-52" block_type="page_start">S-52</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p130" block_type="sol-yusl">After the outbreak of the plague, fewer Londoners will wish to see Shakespeare&#8217;s plays to avoid contracting the illness, inducing a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. Equilibrium price and quantity will fall as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-33" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-33" alt="image" src="images/KrugESS4e_fig_SOL_3_14b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p131" block_type="sol-yusl">Queen Elizabeth&#8217;s commissions result in a greater quantity of Shakespeare&#8217;s plays demanded at any given price. This represents a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, resulting in a higher equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-34" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-34" alt="image" src="images/KrugESS4e_fig_SOL_3_14c.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-15" number="15">
+<p id="krugmanwellsessentials4e-ch3-solution-p132" block_type="prn">This year, the small town of Middling experiences a sudden doubling of the birth rate. After three years, the birth rate returns to normal. Use a diagram to illustrate the effect of these events on the following.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-39" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p133" block_type="prsl">The market for an hour of babysitting services in Middling this year</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p134" block_type="prsl">The market for an hour of babysitting services 14 years into the future, after the birth rate has returned to normal, by which time children born today are old enough to work as babysitters</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p135" block_type="prsl">The market for an hour of babysitting services 30 years into the future, when children born today are likely to be having children of their own</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-40" type="ordered" start="15" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p136" block_type="sol-yusl-first">&#160;</p>
+<p id="krugmanwellsessentials4e_page_S-53" block_type="page_start">S-53</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-41" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p137" block_type="sol-yusl-first">There are more babies today, so the demand for an hour of babysitting services has increased. This produces a rightward shift of the demand curve for babysitting services from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, resulting in a rise in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-35" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-35" alt="image" src="images/KrugESS4e_fig_SOL_3_15a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p138" block_type="sol-yusl">The children born today will cause an increase in the supply of babysitters available 14 years from now, when there will be a rightward shift of the supply curve for babysitting services from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. This will result in a lower equilibrium price and a higher equilibrium quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-36" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-36" alt="image" src="images/KrugESS4e_fig_SOL_3_15b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p139" block_type="sol-yusl">It is likely that there will be an increase in the number of babies born 30 years from now. Therefore, there will be an increase in the demand for babysitting services, shifting the demand curve rightward from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>. This will result in a higher equilibrium quantity and price as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-37" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-37" alt="image" src="images/KrugESS4e_fig_SOL_3_15c.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-16" number="16">
+<p id="krugmanwellsessentials4e_page_S-54" block_type="page_start">S-54</p>
+<p id="krugmanwellsessentials4e-ch3-solution-p140" block_type="prn">Use a diagram to illustrate how each of the following events affects the equilibrium price and quantity of pizza.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-42" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p141" block_type="prsl">The price of mozzarella cheese rises.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p142" block_type="prsl">The health hazards of hamburgers are widely publicized.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p143" block_type="prsl">The price of tomato sauce falls.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p144" block_type="prsl">The incomes of consumers rise, and pizza is an inferior good.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p145" block_type="prsl">Consumers expect the price of pizza to fall next week.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-43" type="ordered" start="16" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p146" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-44" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p147" block_type="sol-yusl-first">Mozzarella is an input in the production of pizza. Since the cost of an input has risen, pizza producers will reduce the quantity supplied at any given price, a leftward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. As a result, the equilibrium price of pizza will rise and the equilibrium quantity will fall as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-38" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-38" alt="image" src="images/KrugESS4e_fig_SOL_3_16a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p148" block_type="sol-yusl">Consumers will substitute pizza in place of hamburgers, resulting in an increased demand for pizza at any given price. This generates a rightward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, leading to a rise in the equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-39" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-39" alt="image" src="images/KrugESS4e_fig_SOL_3_16b.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-55" block_type="page_start">S-55</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p149" block_type="sol-yusl">Tomato sauce is an input in the production of pizza. Since the cost of an input has fallen, pizza producers will increase the quantity supplied at any given price, a rightward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. As a result, the equilibrium price of pizza will fall and the equilibrium quantity will rise as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-40" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-40" alt="image" src="images/KrugESS4e_fig_SOL_3_16c.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p150" block_type="sol-yusl">The demand for an inferior good decreases when the incomes of consumers rise. So a rise in consumer incomes produces a leftward shift of the demand curve from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, resulting in a lower equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-41" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-41" alt="image" src="images/KrugESS4e_fig_SOL_3_16d.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p151" block_type="sol-yusl">Consumers will delay their purchases of pizza today in anticipation of consuming more pizza next week. As a result, the demand curve shifts leftward from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, resulting in a lower equilibrium price and quantity as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-42" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-42" alt="image" src="images/KrugESS4e_fig_SOL_3_16e.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<p id="krugmanwellsessentials4e_page_S-56" block_type="page_start">S-56</p>
+<question id="krugmanwellsessentials4e-ch3-solution-question-17" number="17">
+<p id="krugmanwellsessentials4e-ch3-solution-p152" block_type="prn">Although he was a prolific artist, Pablo Picasso painted only 1,000 canvases during his &#8220;Blue Period.&#8221; Picasso is now dead, and all of his Blue Period works are currently on display in museums and private galleries throughout Europe and the United States.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-45" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p153" block_type="prsl">Draw a supply curve for Picasso Blue Period works. Why is this supply curve different from ones you have seen?</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p154" block_type="prsl">Given the supply curve from part a, the price of a Picasso Blue Period work will be entirely dependent on what factor(s)? Draw a diagram showing how the equilibrium price of such a work is determined.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p155" block_type="prsl">Suppose rich art collectors decide that it is essential to acquire Picasso Blue Period art for their collections. Show the impact of this on the market for these paintings.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-46" type="ordered" start="17" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p156" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-47" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p157" block_type="sol-yusl-first">There are no more Picasso Blue Period works available. Hence the supply curve is a vertical line at the quantity 1,000.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-43" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-43" alt="image" src="images/KrugESS4e_fig_SOL_3_17a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p158" block_type="sol-yusl">Since supply is fixed, the price of a Picasso Blue Period work is entirely determined by demand. Any change in demand is fully reflected in a change in price.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-44" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-44" alt="image" src="images/KrugESS4e_fig_SOL_3_17b.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-57" block_type="page_start">S-57</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p159" block_type="sol-yusl">This results in a rightward shift of the demand curve for these works from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, and the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. But since no more works are available, this increase in demand simply results in an increase in the equilibrium price.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-45" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-45" alt="image" src="images/KrugESS4e_fig_SOL_3_17c.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-18" number="18">
+<p id="krugmanwellsessentials4e-ch3-solution-p160" block_type="prn">Draw the appropriate curve in each of the following cases. Is it like or unlike the curves you have seen so far? Explain.</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-48" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p161" block_type="prsl">The demand for cardiac bypass surgery, given that the government pays the full cost for any patient</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p162" block_type="prsl">The demand for cosmetic plastic surgery, given that the patient pays the full cost</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p163" block_type="prsl">The supply of reproductions of Rembrandt paintings</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-49" type="ordered" start="18" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p164" block_type="sol-yusl-first">&#160;</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-50" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p165" block_type="sol-yusl-first">Since the government pays the full cost of cardiac bypass surgery, the price paid by the patient is always zero. Consequently, the demand for surgery is constant, regardless of the price actually paid by the government. The quantity demanded is constant at the quantity that would be demanded by patients if the government, not the patient, pays for surgery. That is, it is a vertical line at the quantity that patients would demand if the price of surgery to them were zero.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-46" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-46" alt="image" src="images/KrugESS4e_fig_SOL_3_18a.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_S-58" block_type="page_start">S-58</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p166" block_type="sol-yusl">In this case, the patient must pay the cost of the surgery, so the quantity demanded is affected by price, and the demand curve has its usual downward-sloping shape.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-47" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-47" alt="image" src="images/KrugESS4e_fig_SOL_3_18b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p167" block_type="sol-yusl">The supply of Rembrandt reproductions is not fixed because they can be created by existing artists. So the supply curve of these reproductions has the familiar upward-sloping shape.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-48" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-48" alt="image" src="images/KrugESS4e_fig_SOL_3_18c.jpg"/>
+</figure></li>
+</list></li>
+</list>
+<question id="krugmanwellsessentials4e-ch3-solution-question-19" number="19">
+<p id="krugmanwellsessentials4e-ch3-solution-p168" block_type="prn">The accompanying table gives the annual U.S. demand and supply schedules for pickup trucks.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch3-solution-exp4-1" block_type="mn4">
+<p id="krugmanwellsessentials4e-ch3-solution-p169" block_type="prn"><image asset-id="krugmanwellsessentials4e-ch3-solution-img-49" alt="image" src="images/launchpad_ML_logo_black.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch3-solution-p170" block_type="prn-txt"><strong>A Work It Out tutorial helps students solve this problem step by step.</strong></p>
+</box>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-6" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price of truck</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of trucks supplied (millions)</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of trucks demanded (millions)</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;20,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">20</phrase></td>
+<td><phrase block_type="prtb-mc-first">14</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">25,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">18</phrase></td>
+<td><phrase block_type="prtb-mc-first">15</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">30,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">16</phrase></td>
+<td><phrase block_type="prtb-mc-first">16</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">35,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">14</phrase></td>
+<td><phrase block_type="prtb-mc-first">17</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">40,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">12</phrase></td>
+<td><phrase block_type="prtb-mc-first">18</phrase></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch3-solution-list-51" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p171" block_type="prsl">Plot the demand and supply curves using these schedules. Indicate the equilibrium price and quantity on your diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p172" block_type="prsl">Suppose the tires used on pickup trucks are found to be defective. What would you expect to happen in the market for pickup trucks? Show this on your diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p173" block_type="prsl">Suppose that the U.S. Department of Transportation imposes costly regulations on manufacturers that cause them to reduce supply by one-third at any given price. Calculate and plot the new supply schedule and indicate the new equilibrium price and quantity on your diagram.</p></li>
+</list>
+</question>
+<list id="krugmanwellsessentials4e-ch3-solution-list-52" type="ordered" start="19" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p174" block_type="sol-yusl-first">&#160;</p>
+<p id="krugmanwellsessentials4e_page_S-59" block_type="page_start">S-59</p>
+<list id="krugmanwellsessentials4e-ch3-solution-list-53" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch3-solution-p175" block_type="sol-yusl-first">The supply curve is <em>S</em><sub>1</sub> and the demand curve is <em>D</em><sub>1</sub>. The equilibrium in the market for pickup trucks is indicated by point <em>E</em><sub>1</sub>, with an equilibrium price of &#36;30,000 and an equilibrium quantity of 16 million trucks bought and sold.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-49" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-50" alt="image" src="images/KrugESS4e_fig_SOL_3_19a.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p176" block_type="sol-yusl">The announcement of a defect is likely to decrease the demand for pickup trucks. This is represented by a leftward shift of the demand curve, as shown by the shift from <em>D</em><sub>1</sub> to <em>D</em><sub>2</sub>, and causes the equilibrium price and quantity to fall as the equilibrium changes from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-50" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-51" alt="image" src="images/KrugESS4e_fig_SOL_3_19b.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p177" block_type="sol-yusl">The new supply schedule is as follows.</p>
+<table id="krugmanwellsessentials4e-ch3-solution-untab-7" block_type="un_table">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td><phrase block_type="prtbt"><strong>Price of truck</strong></phrase></td>
+<td><phrase block_type="prtbt"><strong>Quantity of trucks supplied (millions)</strong></phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">&#36;20,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">9.3</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">25,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">10.0</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">30,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">10.7</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">35,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">11.3</phrase></td>
+</tr>
+<tr>
+<td><phrase block_type="prtb-mc-first">40,000</phrase></td>
+<td><phrase block_type="prtb-mc-first">12.0</phrase></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_S-60" block_type="page_start">S-60</p></li>
+<li><p id="krugmanwellsessentials4e-ch3-solution-p178" block_type="sol-yusl">This one-third decrease in the quantity supplied at any given price is shown as a leftward shift of the supply curve from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. It results in a new, higher equilibrium price, &#36;40,000 per truck, and a lower equilibrium quantity, 12 million trucks, as shown by the change of the equilibrium from <em>E</em><sub>1</sub> to <em>E</em><sub>3</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch3-solution-fig-51" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch3-solution-img-52" alt="image" src="images/KrugESS4e_fig_SOL_3_19c.jpg"/>
+</figure></li>
+</list></li>
+</list>
+</section>
+</chapter>
+</manuscript>

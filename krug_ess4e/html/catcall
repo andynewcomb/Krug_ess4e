@@ -1,0 +1,21 @@
+#!/bin/sh
+# concatenate HTML file per chapter
+# used in preparation for creation of supplemental windows
+# run from shell
+
+# LASTCHAP = 14 (not working in this bash)
+
+chapname=krugmanwellsessentials4e_chCHAP_1.html
+
+for ch in {3..4}
+{ # or do
+  # echo $ch
+  # echo ${chapname/CHAP/$ch}
+  cat krugmanwellsessentials4e_ch${ch}_*.html > all_ch${ch}.html
+} # or done
+
+# also do appendix 14
+# cat gore1e_app1_*.html > all_app1.html
+
+# alternate
+# for ((ch=1; ch <= LASTCHAP ; ch++))

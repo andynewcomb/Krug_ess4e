@@ -1,0 +1,516 @@
+/* font family */
+body, #manuscript, .ui-widget, .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button, td { 
+	font-family: 'Open Sans', Arial , sans-serif; 
+	font-weight:400;
+}
+
+#manuscript {
+	font-size:14px;
+	margin-bottom:0px;
+	margin-left:50px;	/* Leave room for left navigation */
+}
+
+h1, h2, h3 {
+	font-family: 'Lato', 'Trebuchet MS', sans-serif; 
+}
+
+/* hide chapter titles (they'll be in the Portal) */
+h1 {
+	display:none;
+}
+
+h2 {
+	font-weight:bold;
+}
+
+[data-block_type=margin_text], [data-block_type=margin_quote] {
+    background-color:#cfc;
+    margin-right:-180px;
+    padding:10px;
+    border-width:1px;
+}
+
+
+#toc_head {
+	padding-bottom:10px;
+}
+
+.toc_section_title {
+	margin-top:-1px;
+	border:1px solid #ccc;
+	padding:3px 5px;
+	cursor:pointer;
+	font-size: 12px;
+}
+
+.toc_section_not_available {
+	background-color:#ccc;
+}
+
+[data-type=figure], [data-type=table], [data-block_type=margin_text], [data-block_type=margin_quote] {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    border:2px solid #333;
+}
+
+/* Make sure figures don't collide */
+[data-layout-align="right"] {
+	clear:right;
+}
+
+[data-layout-align="left"] {
+	clear:left;
+}
+
+/* ===================== */
+/* left navigation menu */
+/* (for historical purposes, called "rightnav") */
+
+#rightnav {
+	font-family:Arial;
+	position:absolute;
+	z-index:1000;
+	left:5px;
+	top:40px;
+	text-align:left;
+	line-height:24px;
+	color:#99f;
+	font-size:50px;
+}
+
+.rightnav_page, .rightnav_curpage {
+	height:24px;
+	overflow:hidden;
+}
+
+.rightnav_page {
+	cursor:pointer;
+	clear:both;
+	padding-bottom:10px;
+	margin-top:-5px;
+}
+
+.rightnav_curpage {
+	cursor:default;
+	color:#66f;
+}
+
+#rightnav_navmode_button {
+	cursor:pointer;
+	font-size:31px;
+	margin-top:15px;
+	color:#66f;
+}
+
+.rightnav_title {
+	float:right;
+	font-size:13px;
+	background-color:#ddd;
+	color:#33c;
+	padding:0px 5px;
+	border-radius:5px;
+	-moz-border-radius:5px; 
+	-khtml-border-radius:5px; 
+	-webkit-border-radius:5px;
+	font-weight:normal;
+	font-family: 'Lato', 'Trebuchet MS', sans-serif;
+}
+
+.rightnav_curpage .rightnav_title {
+	font-weight:bold;
+}
+
+button.readon_button {
+	float:none;
+	margin-top:10px;
+	width:800px;
+	clear:both;
+	font-size:1.5em;
+	padding-top:10px;
+	padding-bottom:10px;
+        /* display is set to inline-block in jquery-ui-custom.css line 397, but inline-block renders the clear: both useless, 
+           so we need to set it to block instead */
+        display: block;
+}
+
+.readon_dimmed {
+    opacity: .5;
+    filter: alpha(opacity=50);
+}
+
+[data-type=section].singlepage {
+	margin-bottom:20px;
+	padding-bottom:20px;
+	border-bottom:5px dotted #999;
+}
+
+/* override overflow-y: scroll from boilerplate */
+html { overflow-y: auto; }
+
+
+/* Added by Bruce 1/15/2014 for hover glossary terms */
+.termdef-popup {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #000000;
+    display: none;
+    padding: 3px;
+    position: absolute;
+    text-indent: 0;
+    width: 350px;
+    z-index: 9001;
+    font-family: arial, helvetica, sans-serif;
+}
+.termdef-popup .top-bar {
+    background: #000;
+    font-size: 10px;
+    line-height: 13px;
+    padding: 4px;
+    text-align: right;
+}
+.termdef-popup .top-bar:hover {
+    cursor: pointer;
+}
+.termdef-popup .content {
+    padding: 7px;
+}
+#glossary-sticky-close {
+    border-radius: 3px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 9.5px;
+    padding: 3px 0 2px;
+    text-align: center;
+    width: 1.4em;
+}
+#glossary-sticky-close:before {
+    content: "X";
+    font-family: verdana,monospace;
+}
+#glossary-sticky-close:hover {
+    color: #000;
+    background: darkgray;
+}
+#glossary-sticky-close:active, #glossary-sticky-close:focus {
+    color: #000;
+    background: darkgray;
+}
+#glossary-sticky-kb {
+    text-align: center;
+    display: none;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: arial, helvetica, sans-serif;
+}
+.keydown #glossary-sticky-kb {
+    display: block;
+}
+#glossary-sticky-kb-leave:hover, #glossary-sticky-kb-close:hover {
+    cursor: pointer;
+}
+#glossary-sticky-kb-leave:active, #glossary-sticky-kb-leave:focus,
+#glossary-sticky-kb-close:active, #glossary-sticky-kb-close:focus {
+    outline: thin dotted;
+}
+[data-mouse="noclick"]:hover {
+    cursor: default;
+}
+
+/* accessibility */
+[data-type="termref"]:active, [data-type="termref"]:focus {
+    outline: thin dotted;
+}
+a:focus, a:active {
+    outline: thin dotted;
+}
+
+/* Added by Bruce 2/6/2014: get rid of Next button in supp window */
+#supp_win #readon_button {
+    display: none;
+}
+
+/* Added by Bruce 2/7/2014 for 'Show Answer' button */
+.show_answer_button {
+    display: block;
+    margin: 0.5em 0;
+}
+/* Default button text (when answer is not displayed) */
+.show_answer_button:before {
+    content: "Show Answer";
+}
+/* Button text when answer is displayed */
+.show_answer_button.show_answer_button_on:before {
+    content: "Hide Answer";
+}
+/* Defaults for answer container */
+.show_answer_container {
+    display: none;
+    background-color: #EFEFEF;
+    border: 2px solid #000000;
+    margin: 0.5em 0 1em;
+    padding: 0.5em;
+}
+.show_answer_container .show_answer_title {
+    margin-bottom: 0.25em;
+    font-size: 1em;
+}
+[data-type="question"] .show_answer_title {
+    display: block;
+}
+.show_answer_container .show_answer_title:before {
+    content: "Answer";
+    color: #000;
+    font-weight: bold;
+}
+/* When button is turned on we show the container */
+.show_answer_container.show_answer_button_on {
+    display: block;
+}
+
+
+/* elements that have been made clickable */
+[data-href]:hover, [data-href-px]:hover, [data-href-alias]:hover {
+    cursor: pointer;
+}
+
+/* hide next button if we are in LC page viewer */
+body.lc-dialog-viewer button#readon_button.label-next {
+    display: none;
+}
+
+[data-block_type="nobr"] {
+    white-space: nowrap;
+}
+
+/* hide next button if we are in the ebook page supp window */
+body.xBookSuppWinNavPage button.readon_button.label-next {
+    display: none;
+}
+
+
+/* Resource Links */
+[data-block_type="rl_linkbox"] {
+    border: 0;
+    padding: 0;
+    float: right;
+    background: transparent;
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+}
+[data-block_type="rl_linkbox"] h3 {
+    display: none;
+}
+
+[data-block_type="rl_dataset"] {
+    display: table-cell;
+    padding-right: 5px;
+    vertical-align: top;
+}
+[data-block_type="rl_dataset"] p {
+    margin: 0;
+    width: 53px;
+    height: 60px;
+    background: url(../asset/pics/modicondataset.gif) no-repeat;
+    cursor: pointer;
+}
+[data-block_type="rl_crunchit"] {
+    display: table-cell;
+    padding-right: 5px;
+    vertical-align: top;
+}
+[data-block_type="rl_crunchit"] p {
+    width: 56px;
+    height: 40px;
+    background: url(../asset/pics/modiconcrunchit.gif) no-repeat;
+    margin: 0;
+    cursor: pointer;
+}
+#rl_datasetpopin {
+    width: 10em;
+    background: #eee;
+    border: 1px solid #000;
+    padding: 0;
+    position: absolute;
+    z-index: 9001;
+    display: none;
+}
+#rl_datasetpopin.show {
+    display: block;
+}
+#rl_datasetpopin .rl_dataset-content {
+    padding: 5px 7px;
+}
+#rl_datasetpopin a {
+    font-weight: normal;
+    font-size: 0.9em;
+    color: #337ab7;
+}
+#rl_datasetpopin .rl_dataset-header {
+    background: #000;
+    cursor: -webkit-grab;
+    cursor: grab;
+    text-align: right;
+    padding-right: 5px;
+}
+#rl_datasetpopin .rl_dataset-header:active {
+    cursor: -webkit-grabbing;
+    cursor: grabbing;
+}
+#rl_datasetpopin .rl_dataset-close {
+    color: #fff;
+    display: inline;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+/* print_page box */
+#print_page_box {
+    display: none;
+    left: 685px;
+    left: calc(625px + 4em);
+    position: absolute;
+    top: 5px;
+    /*width: auto;*/
+    z-index: 900;
+}
+#manuscript #print_page_header {
+    background: #000 none repeat scroll 0 0;
+    color: #fff;
+    display: table-cell;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 0.9em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0.2em 0 0.3em 0.55em;
+    white-space: nowrap;
+}
+#manuscript #print_page_number {
+    display: inline;
+    padding-right: 0.5em;
+    vertical-align: middle;
+}
+#manuscript #print_page_box.continued #print_page_number_cont {
+    padding-right: 0.5em;
+    vertical-align: middle;
+}
+#manuscript #print_page_icon {
+    display: none;
+    padding-right: 0.5em;
+    vertical-align: middle;
+}
+#manuscript #print_page_icon.enable {
+    display: inline-block;
+}
+#manuscript #print_page_icon a {
+    background: transparent url("../asset/pics/print_page_menu_icon.png") no-repeat scroll 0 0 / 1.4287em auto;
+    color: #fff;
+    cursor: pointer;
+    display: table;
+    width: 1.5em;
+}
+#manuscript #print_page_icon a .text {
+    color: transparent;
+    display: inline-block;
+    overflow: hidden;
+    width: 1em;
+}
+#manuscript #print_page_icon a:hover,
+#manuscript #print_page_icon a:active,
+#manuscript #print_page_icon a:focus {
+    background: #777 url("../asset/pics/print_page_menu_icon.png") no-repeat scroll 0 0 / 1.4287em auto;
+}
+#manuscript #print_page_icon a .icon_bar {
+    background-color: #fff;
+    display: block;
+    height: 0.15em;
+    margin: 0.25em 0.1em;
+}
+#manuscript #print_page_menu {
+    display: none;
+}
+#manuscript #print_page_menu ul {
+    background: #eee;
+    border: 1px solid #000;
+    border-bottom: 0;
+    color: #000;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 0.9em;
+    list-style-image: none;
+    list-style-type: none;
+    margin: 0;
+    width: auto;
+}
+#manuscript #print_page_box.expanded #print_page_menu {
+    display: block;
+}
+#manuscript #print_page_menu li {
+    border-bottom: 1px solid #000;
+    margin: 0;
+    line-height: 1.2;
+    padding: 0;
+    white-space: nowrap;
+    list-style-type: none;
+}
+#manuscript #print_page_menu li a {
+    text-decoration: none;
+    font-weight: normal;
+    color: #000;
+    padding: 0.25em 0.5em;
+    display: block;
+    letter-spacing: 1px;
+}
+#manuscript #print_page_menu li a:hover,
+#manuscript #print_page_menu li a:active,
+#manuscript #print_page_menu li a:focus {
+    background: #ccc;
+    color: #000;
+    text-decoration: none;
+}
+
+/* page_start numbers */
+[data-block_type="page_start"] {
+    background: #000;
+    color: #fff;
+    font-size: 0.85em;
+    font-weight: bold;
+    /*left: 750px;*/
+    left: 0;
+    /*padding: 0.2em 0.5em 0.35em;*/
+    padding: 0.2em 5px 0.3em;
+    position: absolute;
+    z-index: 900;
+    margin-top: 0.35em;
+    font-family: Arial,Verdana,sans-serif;
+}
+#manuscript.hide_page_start [data-block_type="page_start"] {
+    display: none;
+}
+
+
+/* char align in tables */
+#manuscript td span.char-align-table {
+    display: inline-block;
+    white-space: nowrap;
+}
+#manuscript td [align="char"] {
+    text-align: left;
+}
+
+
+/* supplemental content (i.e. instructor's notes) */
+[data-supp_content="IN"] {
+    display: none;
+}
+.supp_content_IN [data-supp_content="IN"] {
+    display: block;
+}
+[data-supp_content="GN"] {
+    display: none;
+}
+.supp_content_GN [data-supp_content="GN"] {
+    display: block;
+}

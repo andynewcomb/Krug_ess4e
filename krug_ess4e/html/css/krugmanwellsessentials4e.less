@@ -1,0 +1,1333 @@
+/* krugman Essentials 4e LESS CSS */
+
+@import "constants";
+
+// general normalizations
+body, #manuscript {
+    font-family: serif;
+    color: @font-black;
+    min-width: @body-text-width;
+    margin-left: 30px;
+}
+
+/* All sections */
+[data-type="section"] {
+    width: @body-text-width;
+    clear: both;
+    font-family: serif;
+    font-size: 18px;
+    line-height: 1.3;
+    h2.section-title {
+        [data-type="number"] {
+            display: none;
+        }
+        [data-type="title"] {
+            color: @ahead-red;
+            font-size: 1.1em;
+        }
+    }
+    &[data-block_type="h1"] {
+        text-align: justify;
+        h2.section-title {
+            [data-type="number"] {
+                display: none;
+            }
+            [data-type="title"] {
+                color: @ahead-red;
+                font-size: 1.1em;
+            }
+        }
+    }
+    &[data-block_type="h2"] {
+        text-align: justify;
+        h2.section-title {
+            [data-type="number"] {
+                display: none;
+            }
+            [data-type="title"] {
+                color: @bhead-green;
+                font-size: 1.1em;
+            }
+        }
+    }
+    &[data-block_type="solved_problem"] {
+        text-align: justify;
+        h2.section-title {
+            display: none;
+        }
+    }
+    /* Summary & Problems section (with absorded Work It Out section) */
+    &[data-block_type="cr-que-t"] {
+        border-bottom: 10px solid lighten(@chapter-line-blue, 20%);
+        h2.section-title {
+            margin: 1em 0;
+            border-bottom: 2px solid @chapter-line-blue;
+            [data-type="title"] {
+                color: @background-white;
+                font-size: 1.1em;
+                background-color: @chapter-line-blue;
+                display: inline-block;
+                padding: 0 1em;
+            }
+        }
+        ul[data-block_type="bullet"] {
+            margin: .5em 1em;
+        }
+        [data-block_type="un_table"] {
+            width: @body-text-width !important;
+            margin: 1em 0;
+            padding: 0;
+        }
+        // reverting to default
+        //ol[data-block_type="loweralpha"] {
+        //    margin: 0 2em;
+        //}
+        
+        // questions moved outside of this block to be available to supp wins
+        
+        /* Work It Out section, changed to box in Problems section */
+        [data-block_type="workitout"] {
+            margin: 3em 0 1em -20px;
+            background-color: @chapter-line-blue;
+            height: 18px;
+            [data-block_type="wio-title"] {
+                background-color: @background-white;
+                color: @bhead-green;
+                font-family: sans-serif;
+                font-size: 1.3em;
+                font-weight: bold;
+                display: inline-block;
+                position: relative;
+                padding: 0 1em;
+                margin-left: 2em;
+                line-height: 1em;
+                top: -4px;
+                p {
+                    margin: 0;
+                }
+            }
+            // not sure if this should be global like this -- check in other chapters
+            [data-block_type="mn2"] {
+                position: absolute;
+                left: 385px;
+                margin-top: -2em;
+                margin-bottom: 0;
+                background-color: @background-white;
+                padding: 0 8px;
+                font-family: sans-serif;
+                font-size: 1.1em;
+                p {
+                    margin: 0;
+                }
+            }
+        }
+    }
+    /* Key Terms section */
+    &[data-block_type="cr-kt-t"] {
+        h2.section-title {
+            margin: 1em 0;
+            border-bottom: 2px solid @chapter-line-blue;
+            [data-type="title"] {
+                color: @background-white;
+                font-size: 1.1em;
+                background-color: @chapter-line-blue;
+                display: inline-block;
+                padding: 0 1em;
+            }
+        }
+        // not sure if this should be global like this -- check in other chapters
+        [data-block_type="mn2"] {
+            position: absolute;
+            left: 400px;
+            margin-top: -45px;
+            padding: 0 8px;
+            font-family: sans-serif;
+        }
+    }
+}
+// keep questions out of Problems block above so that the rules are caught by supp win code
+[data-type="question"] {
+    border: 0;
+    margin: 2px 0 2px 20px;
+    position: relative;
+    h3 {
+        display: none;
+    }
+    [data-block_type="qnum"] {
+        position: absolute;
+        left: -2em;
+        width: 2em;
+        font-weight: bold;
+        font-family: sans-serif;
+        text-align: right;
+    }
+    // show answer button
+    .show_answer_button {
+        background-color: #e3d8ca;
+        color: #4e5151;
+        font-family: Verdana,sans-serif;
+        font-weight: bold;
+        font-size: 80%;
+        border: 6px solid @bhead-green;
+        border-radius: 10px;
+        cursor: pointer;
+        padding: 5px auto 5px auto;
+        width: 160px;
+        margin-bottom: 15px;
+    }
+    // style answer panel
+    .show_answer_container {
+        background-color: transparent;
+        //border: 2px solid #000000;
+        //margin: 0.5em 0 1em;
+        //padding: 0.5em;
+    }
+    .show_answer_title {
+        display: none;
+    }
+}
+
+
+/* C-heads */
+[data-block_type="txt-3"] {
+    margin-top: 1em;
+    margin-bottom: 0;
+    p {
+        margin: 0;
+    }
+    [data-block_type="h3"] {
+        font-family: sans-serif;
+        font-weight: bold;
+        color: @chead-blue;
+    }
+}
+
+/********************************/
+/* paragraphs                   */
+/********************************/
+/*
+[data-block_type="txt-v1"] p {
+    margin: 0;
+}
+[data-block_type="txt-v2"] p {
+    text-indent: 2em;
+}
+*/
+[data-block_type="txt"] p {
+    text-indent: 2em;
+    margin: 0;
+}
+[data-block_type="txt-ni"] p {
+    text-indent: 0;
+    margin: 0;
+}
+
+
+/* lists */
+ul, ol {
+    margin: 1em 0;
+}
+
+/* tables */
+// Numbered Tables
+div[data-type="table"][data-block_type="table"] {
+    border: 0;
+    width: @extra-wide-width;
+    [data-type="table_text"] {
+        font-family: sans-serif;
+        [data-type="number"] {
+            display: none;
+        }
+        [data-type="table_caption"] {
+            strong {
+                display: inline-block;
+                background-color: #ffe090;
+                padding: 3px 6px;
+                border-top-left-radius: 8px;
+                border-top-right-radius: 8px;
+            }
+            [data-block_type="tbl"] {
+                background-color: @table-header;
+                color: @table-title-purple;
+            }
+            [data-block_type="tbl_num"] {
+                background-color: @table-header;
+                color: black;
+            }
+            [data-block_type="tbl_title"] {
+                color: @pitfall-subtitle-purple;
+                font-weight: bold;
+                display: inline-block;
+                margin-left: 6px;
+            }
+        }
+    }
+    table {
+        border: 0;
+        margin: 0 auto;
+        tr {
+            border-bottom: 6px solid white;
+            &:first-child {
+                border-bottom: 0;
+            }
+        }
+        td {
+            padding: 6px 14px;
+            border: 0;
+            vertical-align: bottom;
+            text-align: center;
+        }
+        img {
+            max-width: 373px;
+        }
+    }
+}
+// Unnumbered Tables
+div[data-type="table"][data-block_type="un_table"] {
+    border: 0;
+    width: @body-text-width;
+    table {
+        border: 0;
+        margin: 0 auto;
+        td {
+            padding: 2px 14px;
+            border: 0;
+            vertical-align: bottom;
+        }
+    }
+}
+// a couple utility classes for table rows, cells
+.tbl-hdr-bg {
+    background-color: @table-header;
+}
+.tbl-td-light {
+    background-color: @table-row-light;
+}
+.tbl-td-dark {
+    background-color: @table-row-dark;
+}
+.tbl-lborder {
+    border-left: 1px solid black !important;
+}
+.tbl-rborder {
+    border-right: 1px solid black !important;
+}
+.tbl-tborder {
+    border-top: 1px solid black !important;
+}
+.tbl-bborder {
+    border-bottom: 1px solid black !important;
+}
+.tbl-ljust {
+    text-align: left !important;
+}
+
+/* Key term matching exercise section */
+[data-type="section"][data-block_type="cr-kt-t"] {
+    [data-type="question"] {
+        margin-top: 2em;
+        border: 0;
+        h3 {
+            display: none;
+        }
+    }
+}
+
+
+/* Chapter Introduction Section */ 
+[data-type="section"][data-block_type="intro"] {
+    font-family: Arial, Verdana, sans-serif;
+    p {
+        margin: 0;
+    }
+    // chapter title elements
+    > h2.section-title {
+        display: none;
+    }
+    div[data-block_type="chapter_title"] {
+        display: table-cell;
+        color: @ahead-red;
+        font-size: 42px;
+        width: 540px;
+        vertical-align: middle;
+        border-right: solid 2px @chapter-line-blue;
+        padding-left: 0;
+    }
+    div[data-block_type="chapter_number"] {
+        display: table-cell;
+        color: @chapter-gray;
+        width: 160px;
+        
+        [data-block_type="chap"] {
+            display: block;
+            font-size: 1em;
+        }
+        [data-block_type="chapnum"] {
+            font-size: 5em;
+            line-height: 1em;
+        }
+        p {
+            text-align: center;
+            color: @chapter-gray;
+        }
+    }
+    // intro box with icons + image(s)
+    [data-block_type="bx3"] {
+        [data-block_type="co-t"] {
+            //background-image: url("../asset/ch3/world_view_icon.jpg");
+            //background-size: 30px 30px;
+            //background-repeat: no-repeat;
+            border-top: 8px solid @worldview-icon-line;
+            position: relative;
+            // margin-left: 200px;
+            img {
+                max-width: 60px;
+                position: absolute;
+                left: -42px;
+                top: -6px;
+            }
+            p {
+                margin-left: 27px;
+                display: inline-block;
+                strong {
+                    color: @accent-blue;
+                    font-size: 1.5em;
+                }
+            }
+        }
+    }
+    // div/paragraph text definitions
+    [data-block_type="co-txt"] {
+        text-indent: 2em;
+        font-family: serif;
+    }
+    [data-block_type="co-txt-ni"] {
+        text-indent: 0;
+        font-family: serif;
+    }
+    [data-block_type="dropcap"] {
+        font-size: 73px;
+        line-height: 56px;
+        color: @accent-blue;
+        font-family: sans-serif;
+        float: left;
+        padding-top: 5px;
+        padding-right: 8px;
+    }
+}
+
+/* various box features */
+[data-type="box"] {
+    background-color: transparent;
+    border: 0;
+    padding: 0;
+    
+    // intro toc
+    &[data-block_type="mn1"] {
+        text-align: left;
+        font-weight: bold;
+        // title
+        [data-block_type="obj-h"] {
+            color: @bhead-green;
+        }
+        // toc list
+        ul[data-block_type="greensquare"] {
+            list-style-type: square;
+            list-style-image: url('../asset/images/green-square.png');
+            list-style-position: inside;
+            li div, li div p {
+                display: inline;
+            }
+        }
+    }
+
+    // interactive activity box
+    &[data-block_type="mn2"] {
+        img {
+            max-width: 105px;
+            position: relative;
+            top: 3px;
+        }
+        h3 {
+            display: none;
+        }
+    }
+    
+    // inline key term definitions boxes
+    &[data-block_type="mn3"] {
+        //display: none;
+        position: absolute;
+        left: @body-text-width + 80px;
+        width: @sidebar-width;
+        font-family: sans-serif;
+        font-size: 15px;
+        text-align: left;
+        margin: 0;
+        strong {
+            color: @table-title-purple;
+            line-height: 1.3;
+        }
+        p {
+            line-height: 1.3;
+        }
+    }
+    
+    // global comparison box
+    &[data-block_type="bx4-h"] {
+        background-color: @global-comparison-bg;
+        font-family: sans-serif;
+        padding: 8px;
+        margin: 1em 0;
+        width: @figure-xlarge-width;
+        // title on left
+        [data-type="title"] {
+            color: @accent-blue;
+            display: table-cell;
+            border-right: 1px solid @accent-blue;
+            width: 200px;
+            img {
+                float: left;
+                width: 60px;
+                padding-right: 10px;
+            }
+            [data-block_type="gc1"] {
+                display: block;
+                font-size: 25px;
+                padding-top: 8px;
+            }
+            [data-block_type="gc2"] {
+                display: block;
+            }
+        }
+        // subtitle on right
+        [data-block_type="bx4-t"] {
+            display: table-cell;
+            color: @table-title-purple;
+            font-size: 19px;
+            padding-left: 14px;
+            vertical-align: bottom;
+            p {
+                margin: 0;
+            }
+        }
+        // paragraph text
+        [data-block_type="bx4-txt"] {
+            text-indent: 2em;
+        }
+        [data-block_type="bx4-txt-ni"] {
+            text-indent: 0;
+            // adding upper margin here as elements above are not contained
+            margin-top: 1em;
+        }
+        // source credits
+        [data-block_type="bx4-sc"] {
+            text-indent: 0;
+            font-size: 11px;
+            border-top: 1px solid @accent-blue;
+            padding-top: 6px;
+            width: 500px;
+        }
+        [data-block_type="dropcap"] {
+            font-size: 44px;
+            line-height: 37px;
+            color: @table-title-purple;
+            font-family: sans-serif;
+            float: left;
+            padding-top: 4px;
+            padding-right: 3px;
+        }
+        // putting figure here, globally, but may need one-off styling
+        // also needs override for supplemental windows
+        [data-type="figure"] {
+            width: 320px !important;
+            margin-left: 2em;
+            margin-right: 20px;
+            margin-top: 18px;
+            border: 3px solid @border-gray;
+            padding: 0;
+            box-shadow: 7px 8px 8px @shadow-gray;
+            img {
+                max-width: 320px !important;
+                padding: 0;
+            }
+        }
+    }
+    
+    
+    // PITFALLS box
+    &[data-block_type="bx-1-h"] {
+        margin: 2em 0;
+        font-family: sans-serif;
+        text-align: left;
+        [data-type="title"] {
+            color: @pitfall-title-green;
+            background-color: @pitfall-bg-green;
+            text-align: center;
+            letter-spacing: 5px;
+            line-height: 16px;
+        }
+        // subtitle
+        [data-block_type="bx1-t"] {
+            color: @pitfall-subtitle-purple;
+        }
+        [data-block_type="bx1-txt"] {
+            text-indent: 2em;
+        }
+        [data-block_type="bx1-txt-ni"] {
+            text-indent: 0;
+        }
+        p {
+            margin: 0;
+        }
+    }
+    
+    
+    // Economics in Action box
+    &[data-block_type="bx-2-h"] {
+        margin: 2em 0;
+        text-align: justify;
+        [data-type="title"] {
+            border-bottom: 1px solid @pitfall-subtitle-purple;
+            [data-block_type="title"] {
+                color: @background-white;
+                background-color: @ahead-red;
+                display: inline-block;
+                padding: 0 11px;
+            }
+            [data-block_type="number"] {
+                color: @background-white;
+                background-color: @in-action-purple;
+                display: inline-block;
+                padding: 0 8px;
+            }
+        }
+        // subtitle
+        [data-block_type="bx-2-t"] {
+            color: @pitfall-subtitle-purple;
+            font-family: sans-serif;
+        }
+        [data-block_type="bx2-txt"] {
+            text-indent: 2em;
+        }
+        [data-block_type="bx2-txt-ni"] {
+            text-indent: 0;
+        }
+        p {
+            margin: 0;
+        }
+        [data-block_type="dropcap"] {
+            font-size: 66px;
+            line-height: 50px;
+            color: @review-gold;
+            font-family: sans-serif;
+            float: left;
+            padding-top: 9px;
+            padding-right: 2px;
+        }
+    }
+    
+    
+    // Quick Review
+    &[data-block_type="sr-1-h"] {
+        margin: 0 0 0 1em;
+        text-align: left;
+        width: @quick-review-width;
+        position: absolute;
+        left: @sidebar-left;
+        border-left: 2px solid @review-gold;
+        // border-top: 2px solid @review-gold;
+        border-bottom: 2px solid @review-gold;
+        border-bottom-left-radius: 20px;
+        [data-type="title"] {
+            color: @background-white;
+            background-color: @review-gold;
+            padding-left: 1em;
+            margin-left: -1px;
+        }
+        ul[data-block_type="redbullet"] {
+            list-style-type: disc;
+            list-style-image: url('../asset/images/red-dot.png');
+            list-style-position: inside;
+            margin-left: 8px;
+            li p {
+                line-height: 1.4;
+                margin-bottom: 4px;
+            }
+        }
+        p {
+            font-size: 12px;
+        }
+    }
+    
+    
+    // Check Your Understanding
+    &[data-block_type="sr2-h"] {
+        margin: 2em 0;
+        text-align: justify;
+        [data-type="title"] {
+            border-bottom: 1px solid @bhead-green;
+            [data-block_type="title"] {
+                color: @background-white;
+                background-color: @bhead-green;
+                display: inline-block;
+                padding: 0 11px;
+            }
+            [data-block_type="number"] {
+                color: black;
+                background-color: @review-gold;
+                display: inline-block;
+                padding: 0 8px;
+            }
+        }
+        ol[data-block_type="numbered"] {
+            ol[data-block_type="loweralpha"] {
+                margin: 0 20px;
+                p {
+                    margin: 0;
+                }
+            }
+        }
+        [data-block_type="sr2-nl-fn"] {
+            display: none;
+            //text-align: right;
+            //font-size: 12px;
+        }
+    }
+    
+    // Solved Problem box
+    &[data-block_type="sum-h"] {
+        margin: 5em 0 3em 0;
+        padding: 1em;
+        background-color: @solved-problem-bg;
+        width: @figure-xlarge-width;
+        border-top: 8px solid @solved-problem-accent;
+        position: relative;
+        box-shadow: 4px 4px 4px lighten(@shadow-gray, 10%);
+        [data-type="title"] {
+            position: absolute;
+            top: -46px;
+            left: 0;
+            font-size: 20px;
+            [data-block_type="gc1"] {
+                display: inline-block;
+                padding: 4px 8px;
+                color: @background-white;
+                background-color: @chapter-line-blue;
+            }
+            [data-block_type="gc2"] {
+                display: inline-block;
+                color: @sugar-green;
+                padding: 4px 8px;
+            }
+        }
+        [data-block_type="wio-txt"] {
+            text-indent: 2em;
+            width: @body-text-width - 1em;
+        }
+        [data-block_type="wio-txt-ni"] {
+            text-indent: 0;
+            width: @body-text-width - 1em;
+        }
+        // launchpad box in upper right
+        [data-block_type="fg1-t"] {
+            float: right;
+            width: 200px;
+            text-align: left;
+            font-family: sans-serif;
+            border-bottom: 1px solid @solved-problem-accent;
+            margin-left: 2em;
+            img {
+                display: block;
+                margin-bottom: 5px;
+            }
+            p {
+                font-size: .9em;
+                line-height: 1.2;
+                margin-bottom: 6px;
+            }
+        }
+        [data-type="table"] {
+            background-color: transparent !important;
+        }
+        [data-type="figure"] {
+            width: 300px !important;
+            float: right !important;
+            position: static;
+            padding: 0;
+            margin: 0 27px;
+            background-color: transparent !important;
+            img {
+                max-width: 300px !important;
+            }
+        }
+        // steps
+        [data-block_type="sp-stp-txt"] {
+            display: table;
+            [data-block_type="step"] {
+                display: table-cell;
+                width: 62px;
+                font-family: sans-serif;
+                [data-block_type="step-green"] {
+                    color: @pitfall-title-green;
+                    font-weight: bold;
+                }
+            }
+            [data-block_type="step-title"] {
+                display: table-cell;
+                font-family: sans-serif;
+            }
+            [data-block_type="step-subtext"] {
+                display: block;
+                font-family: serif;
+            }
+        }
+    }
+}
+
+// General, book-wide rules
+div > p {
+    line-height: 1.3;
+}
+/* key term definition links */
+[data-type=termref] {
+    color: @chead-blue;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+    &[data-term^="fn-"] {
+        text-decoration: none;
+    }
+}
+// hide embedded footnotes in text
+[data-block_type="fn"] {
+    display: none;
+}
+/* other links */
+a[data-type="lh-link"] {
+    color: @chead-blue;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* h4 not really a D-head, but it is used (e.g. as a "Step n" box) */
+[data-block_type="h4"] {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 1em 0;
+    p {
+        color: @font-black;
+        > strong {
+            color: @ahead-red;
+            // this MUST have been a mistake in the XML (chapter 12), but we accommodate it here
+            [data-block_type="h4-N-ril"] {
+                color: @background-white;
+                background-color: @ahead-red;
+                padding: 1px 3px;
+            }
+        }
+    }
+    [data-block_type="h4-n-ri"],
+    [data-block_type="h4-n-ril"] {
+        strong {
+            color: @background-white;
+            background-color: @ahead-red;
+            padding: 1px 3px;
+        }
+    }
+}
+
+
+// step line headers, used outside of boxes and inside, too
+[data-block_type="h4-n-ri"] {
+    strong {
+        color: @background-white;
+        background-color: @ahead-red;
+        padding: 1px 3px;
+        font-family: sans-serif;
+    }
+    + strong {
+        color: @ahead-red;
+        font-family: sans-serif;
+    }
+}
+
+[data-block_type="h4-txt-ni"] {
+    color: @font-black;
+    font-family: serif;
+    margin-top: 1em;
+    [data-block_type="h4-N-ri1"] {
+        strong {
+            color: @background-white;
+            background-color: @ahead-red;
+            padding: 1px 3px;
+            font-family: sans-serif;
+        }
+    }
+    [data-block_type="SR-X-h4-T-ri"] {
+        strong {
+            color: @ahead-red;
+            font-family: sans-serif;
+        }
+    }
+}
+
+
+
+/* Practice Problems box */
+[data-block_type="sr-h"] {
+    margin: 2em 0 4em 0;
+    position: relative;
+    border-bottom: 1px solid @ahead-red;
+    padding-bottom: 1em;
+    h3[data-type="title"] {
+        background-color: #168ca8;
+        color: white;
+        padding: 3px 11px;
+    }
+    // review your knowledge & apply your knowledge
+    [data-block_type="sr-h1"] {
+        font-family: sans-serif;
+        color: @ahead-red;
+    }
+    // questions
+    [data-block_type="sr-que-nl"] {
+        p {
+            margin-left: 3em;
+            [data-block_type="question_num"] {
+                font-family: sans-serif;
+                font-weight: bold;
+                color: @ahead-red;
+                position: absolute;
+                left: 0;
+            }
+        }
+    }
+    // adjust page numbers within this relative box
+    [data-block_type="page_start"] {
+        position: absolute;
+        left: -60px;
+    }
+}
+
+
+/*
+    // headers
+    [data-block_type="sum-hd1"] {
+        font-family: sans-serif;
+        color: @ahead-red;
+        p {
+            margin: 0;
+        }
+    }
+    ul[data-block_type="bluebullet"] {
+        margin-top: 0 !important;
+        margin-left: 2em;
+        list-style-image: url("../asset/images/bluelidot.png");
+    }
+}
+*/
+
+// Chapter Exercises section
+/*
+[data-block_type="cr-x-h"] {
+    h2.section-title {
+        border-top: 1px solid @ahead-red;
+        
+        [data-type="title"] {
+            color: @background-white;
+            background-color: @ahead-red;
+            display: inline-block;
+            padding: 0 8px;
+        }
+    }
+    // headers
+    [data-block_type="cr-x-hd1"] {
+        font-family: sans-serif;
+        color: @ahead-red;
+        margin: 1em 0 10px 0;
+        p {
+            margin: 0;
+        }
+    }
+    // header with grey border above
+    [data-block_type="cr-x-hd1-rule"] {
+        font-family: sans-serif;
+        color: @ahead-red;
+        margin: 2em 0 10px 0;
+        border-top: 1px solid @font-gray;
+        padding-top: 8px;
+        p {
+            margin: 0;
+        }
+    }
+    // questions
+    // first form found in chapter 12
+    [data-block_type="cr_x_nl"],
+    [data-block_type="cr-x-nl-txt"] {
+        position: relative;
+        p {
+            margin-left: 3em;
+            [data-block_type="question_num"] {
+                font-family: sans-serif;
+                font-weight: bold;
+                color: @ahead-red;
+                position: absolute;
+                left: 0;
+            }
+        }
+    }
+    // bullet list override for this section only
+    ol[data-block_type="bullet"] {
+        margin-left: 4em !important;
+        font-weight: normal !important;
+        li p {
+            margin: 0;
+        }
+    }
+    // lower alpha list override for this section only
+    ol[data-block_type="loweralpha"] {
+        margin-left: 4em !important;
+        li p {
+            margin: 0;
+        }
+    }
+}
+*/
+
+/********************************/
+/* figures                      */
+/********************************/
+div[data-type="figure"][data-block_type="figure"] {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border: 3px solid @border-gray;
+    background-color: @table-bg-blue;
+    width: @extra-wide-width !important;
+    padding-top: 0 !important;
+    [data-type="figure_text"] {
+        font-family: sans-serif;
+        position: relative;
+        top: -33px;
+        left: 15px;
+        [data-type="number"] {
+            display: none;
+        }
+        [data-type="caption"] {
+            color: @font-black;
+            strong {
+                display: inline-block;
+                background-color: @table-bg-blue;
+                padding: 3px 6px 6px 6px;
+                border-top-left-radius: 8px;
+                border-top-right-radius: 8px;
+                border: 3px solid @border-gray;
+                border-bottom: 0;
+            }
+            [data-block_type="fig"] {
+                background-color:@table-bg-blue;
+                color: @table-title-purple;
+            }
+            [data-block_type="fig_num"] {
+                background-color: @table-bg-blue;
+                color: black;
+            }
+            [data-block_type="fig_title"] {
+                color: @table-title-purple;
+                font-weight: bold;
+                display: inline-block;
+                margin-left: 6px;
+            }
+        }
+    }
+    img {
+        margin: 0 auto;
+        + [data-type="figure_text"] {
+            position: static;
+            margin: 0 18px;
+            border-top: 2px solid #888;
+            padding-top: 12px;
+        }
+    }
+    &[data-layout-align="right"] {
+        margin-top: 0;
+        border: 0;
+        background-color: transparent;
+        [data-type="figure_text"] {
+            position: static;
+            margin: 0;
+            border: 0;
+            padding: 0;
+        }
+    }
+}
+
+div[data-type="figure"][data-block_type="un_figure"] {
+    border: 0;
+}
+
+// a white-background variant style figure - experimental until more chapters are seen
+div[data-type="figure"][data-block_type="figure2"] {
+    margin-top: 32px;
+    border: 3px solid @border-gray;
+    background-color: @background-white;
+    width: @figure-medium-width !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    [data-type="figure_text"] {
+        font-family: sans-serif;
+        position: relative;
+        top: -33px;
+        left: 15px;
+        [data-type="number"] {
+            display: none;
+        }
+        [data-type="caption"] {
+            color: @font-black;
+            vertical-align: top;
+            strong {
+                display: inline-block;
+                background-color: @border-gray;
+                padding: 3px 6px 6px 6px;
+                border-top-left-radius: 8px;
+                border-top-right-radius: 8px;
+                border: 3px solid @border-gray;
+                border-bottom: 0;
+                vertical-align: top;
+            }
+            [data-block_type="fig"] {
+                background-color:@border-gray;
+                color: @table-title-purple;
+            }
+            [data-block_type="fig_num"] {
+                background-color: @border-gray;
+                color: black;
+            }
+            [data-block_type="fig_title"] {
+                color: @table-title-purple;
+                font-weight: bold;
+                display: inline-block;
+                margin-left: 6px;
+            }
+        }
+    }
+    img {
+        margin: 0 auto;
+        + [data-type="figure_text"] {
+            position: static;
+            margin: 0 18px;
+            border-top: 2px solid #888;
+            padding-top: 12px;
+        }
+    }
+    &[data-layout-width=medium] {
+        padding: 16px 0;
+        &[data-layout-align="right"] {
+            width: @figure-medium-width !important;
+        }
+        img {
+            max-width: @figure-medium-width !important;
+        }
+    }
+    &[data-layout-align="right"] {
+        margin: 20px -264px 10px 20px;
+        background-color: transparent;
+    }
+}
+
+// change some figure layout defaults
+[data-layout-width=xlarge] {
+    padding: 0 0 16px 0;
+    img {
+        max-width: @figure-xlarge-width !important;
+    }
+}
+[data-layout-width=large] {
+    padding: 0 0 16px 0;
+    width: @extra-wide-width !important;
+    img {
+        max-width: @figure-large-width !important;
+    }
+}
+
+[data-layout-width=medium] {
+    padding: 0 0 16px 0;
+    &[data-layout-align="center"] {
+        width: @extra-wide-width !important;
+    }
+    img {
+        max-width: @figure-medium-width !important;
+    }
+}
+
+[data-layout-width=small] {
+    padding: 16px;
+    &[data-layout-align="center"] {
+        width: @body-text-width !important;
+    }
+    &[data-layout-align="right"] {
+        width: @figure-small-width !important;
+        float: none;
+        position: absolute;
+        left: @sidebar-left;
+    }
+    img {
+        max-width: @figure-small-width !important;
+        padding: 0;
+    }
+}
+
+/* supplemental windows */
+body#supp_win {
+    [data-type="figure"] {
+        float: none;
+        &[data-layout-width="small"] {
+            position: static !important;
+            width: @body-text-width !important;
+            img {
+                max-width: @body-text-width !important;
+            }
+            [data-type="figure_text"] {
+                width: @body-text-width !important;
+            }
+        }
+        img {
+            cursor: auto !important;
+        }
+        &[data-block_type="figure2"] {
+            margin-top: 4em;
+        }
+        &[data-block_type="un_figure"] {
+            width: @extra-wide-width;
+            border: 0;
+            img {
+                max-width: @extra-wide-width;
+            }
+            [data-type="figure_text"] {
+                width: @extra-wide-width;
+            }
+        }
+    }
+    [data-type="table"] {
+        &[data-block_type="un_table"] {
+            width: @body-text-width !important;
+            margin-top: 50px;
+        }
+    }
+}
+
+
+/********************************/
+/* lists                        */
+/********************************/
+/*
+ul[data-block_type="bluesquare"] > li {
+    text-indent: 0;
+    padding: 5px 0;
+    background-image: url('../asset/images/bluesquare.png');
+    background-repeat: no-repeat;
+    background-position: 0 12px;
+    padding-left: 1.5em;
+    display: block !important;
+}
+*/
+ul[data-block_type="bullet"] {
+    margin: 1em 2em;
+    list-style-type: disc;
+    > li {
+        p {
+            margin: 0;
+        }
+    }
+    > li > ul[data-block_type="bluebullet"] {
+        margin: 0 1em;
+        list-style-image: url("../asset/images/bluelidot.png");
+        p {
+            
+        }
+        ul[data-block_type="bullet"] {
+            list-style-image: none;
+            margin: 0 2em;
+        }
+    }
+}
+
+@ol-margin: 20px;        // left margin for ordered lists
+
+// Numbered Lists
+ol[data-block_type="numbered"] {
+    margin-left: @ol-margin;
+    counter-reset: numbered-list;
+    list-style: none;
+    p {
+        margin: 0;
+    }
+    > li {
+        counter-increment: numbered-list;
+        margin: 4px 0;
+        list-style: none;
+        &:before {
+            content: counter(numbered-list, decimal) ".";
+            font-weight: bold;
+            width: @ol-margin;
+            margin-left: -@ol-margin;
+            display: inline-block;
+            float:left;
+            margin-top: 2px;
+        }
+    }
+}
+
+// Lower Alpha Lists
+ol[data-block_type="loweralpha"] {
+    margin: 4px @ol-margin;
+    counter-reset: alpha-list;
+    list-style: none;
+    > li {
+        counter-increment: alpha-list;
+        margin: 4px 0;
+        list-style: none;
+        &:before {
+            content: counter(alpha-list, lower-alpha) ".";
+            font-weight: bold;
+            font-family: sans-serif;
+            width: @ol-margin;
+            margin-left: -@ol-margin;
+            display: inline-block;
+            float:left;
+            margin-top: 2px;
+        }
+    }
+}
+
+
+// more sentence title definitions (first found in chapter 13)
+div[data-block_type="sl"] {
+    margin: 1em 0;
+    [data-block_type="h5-ri"] {
+        strong {
+            font-family: sans-serif;
+        }
+    }
+}
+
+/* enable page numbering -- as per wiki */
+#print_page_box { display: block; }
+[data-block_type="page_start"] { display: block; }
+
+
+/* mavigation buttons                                         */
+/* make background transparent for colored parent backgrounds */
+#toolbar_bottom {
+    background-color: transparent;
+}
+#toolbar_top {
+    background-color: transparent;
+    border: 0;
+}
+
+/* glossary popups - prevent long words/urls from extending outside the term box */
+.glossary-content {
+    word-wrap: break-word;
+}
+

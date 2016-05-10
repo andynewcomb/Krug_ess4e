@@ -1,0 +1,162 @@
+Questions
+is there a book to model after? May answer much of below.
+Left side main text, right margin?
+Pop figures? including unnumbered? tables?
+Expand wider material into margin? - figures, tables
+Style Figures and their captions as in PDF? Alternative is to make them all "figure over caption", centered in text area, which most already are. (see page 19, figure 1.9 - left-side figure)(see page 23, figure 1.12 - left-side caption)
+Some side figures do exist
+Some sidebar text also exists. These could be made central or kept in side margin.
+How to style links? table/figure, key terms, section
+Key Terms section not to be included or is it made into interactive quiz?
+Key terms per chapter and not book?
+Problems-sanswers - will these be interactive?
+Will there be footnotes? I don't see any in this chapter.
+Look at styling on various features for acceptability.
+
+Need to establish page layout: column widths, page number boxes, etc.
+
+Introduction
+    Learning Objectives - caps blue sans
+        blue square marker list, black list sans
+    Chapter Overview - caps blue sans
+        title blue sans caps
+        body black sans
+    TOC
+        all blue, sans-serif
+        
+Subsection
+    Title blue, sans: number & title
+    Body black serif fill-justified
+        First word bold
+        links blue
+        first para no indent, rest indented
+    B-heads
+        margin above below
+        blue, bold
+        
+Practice Problems
+    Header blue background, white text
+    Review Your Knowledge
+    Apply Your Knowledge
+    XML Notes - Not numbered as in PDF but given as questions. Question 1.1 needs to be 1.01, but can we rely on question numbering, which is done by DF?
+
+    
+Summary section
+    Different background image, but still blue splotch
+    ul with blue circle markers outside - left margin inset from headers
+        li left justified
+        
+Key Terms section
+    Not included, right?
+    
+Chapter Exercises section
+    Review Your Knowledge
+    Apply Your Knowledge
+    some small, italic subtitles along with standard, blue subtitles
+ 
+        
+Tables
+    Implemented with figures, so ignore below
+        header sans
+        body serif
+        top/bottom borders blue
+        other borders black
+        sub notes black
+        Some with header and first col blue font, header with blue background
+    some table images wider than text -- allow this?
+    table images have extra text at bottom, between Note and Source
+    
+Lists
+    ul in intro - blue square markers outside
+    ul in text - black circle markers outside, fill justify
+    ol in text - black number, bold?
+    ol in Chapter Exercises
+        markers like 1.22, right justified, blue, sans, outside
+        li serif, left justified
+    ol in Chapter Exercises
+        lower alpha, all black, outside
+    
+    
+Marginal material
+    Quote
+        black border top and bottom
+        blue italic font, left justify
+    Images
+        small unnumbered diagrams (all in one?)
+        some numbered figures
+        
+Figures
+    Numbered, caption to right, bottom
+    Numbered, caption on bottom, full width, image smaller, centered
+    Some numbered with caption to left and in margin
+    
+Blue box feature in text      bx-1-h
+    light blue background
+    Q & A blue, title blue, text black, sans
+    
+Worked Example feature in text
+    special styling, whole feature with top and right blue border
+    "Worked Example" in left column, blue border
+    May contain figures, caption to left, bottom
+    
+DIY box feature
+    blue border
+    black text, serif, fill
+    
+Application Demonstration box feature -- can be more than one page
+    left margin polygon with title, connected to box
+    box with blue upper and lower borders, light blue fill
+    text follows main text styling
+    
+Math
+    many simple, one with square root, some standalone quotients
+    some larger, standalone, requiring MathML
+    XML -- looks like complex math delivered in images. Any interest in MathML? :)
+    
+Key Terms
+    black, bold
+    
+    
+    
+---------------------------------------------------------------
+XML Requests
+
+General
+    Please consolidate all block_types into one, eliminating all variations.
+    Please make model chapter and the remainder of the chapters consistent (i.e. use same block_types for same features.)
+
+Intro section
+    put "Chapter" and chapter number in separate <phrase> tags with different block_types, like 
+    
+    <p id="krugmanwellsessentials4e-ch3-p1" block_type="chapter_number">CHAPTER 3</p>
+    
+    changes to 
+    
+    <p id="krugmanwellsessentials4e-ch3-p1" block_type="chapter_number">
+        <phrase block_type="chap">CHAPTER</phrase>
+        <phrase block_type="chapnum">3</phrase>
+    </p>
+    
+Titles, subtitles
+    if there is a number and text components, please surround number with phrase block-type="title_number", or "subtitle_number", or whatever seems appropriate, using the PDF as a guide as needed
+    
+    Example: 1.1 The Purpose of Statistics
+    Add tags: <phrase block_type="sec_num">1.1</phrase><phrase block_type="sec_title">The Purpose of Statistics</phrase>
+
+Figures
+    As with titles, please put figure number in separate tag. For example, "Figure 1.13 Order of Operations" is currently just surrounded with a <strong> tag. Instead, please use something like <phrase block_type="fig_text">Figure</phrase><phrase block_type="fig_num">1.13</phrase><phrase block_type="fig_title">Order of Operations</phrase>.
+    
+    Example: <caption><phrase block_type="fig-label"><strong>Figure 3-14</strong></phrase> Equilibrium and Shifts of the Demand Curve</caption>
+    Add tags: <caption><strong><phrase block_type="fig_text">Figure</phrase><phrase block_type="fig_num">1.13</phrase></strong><phrase block_type="fig_title">Order of Operations</phrase></caption>
+    
+    Mark figures that exceed the text area in width as "xlarge"
+    (e.g. <layout align="center" width="xlarge" border="true"/>)
+
+Introduction
+    Please place TOC contents in a box.
+    
+Practice Problems & Apply Your Knowledge - Andy, will these be interactive? If not, maybe not use questions to code them.
+    Please include numbering as found in PDF. Currently, these are question divs with the text, but no number, like 1.01, as in the PDF. Please make separate tag for this number, such as <p> or <phrase> with block_type="problem_number".
+
+Chapter Exercises and anywhere there are numbered problems
+    Treat with same suggestions as Practice Problems above (i.e. include the problem number within tags and block type)
