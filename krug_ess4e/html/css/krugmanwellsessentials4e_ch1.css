@@ -1,24 +1,5 @@
 ﻿/* krugman Essentials 4e LESS CSS */
 /* lists */
-/* Chapter Introduction Section */
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] {
-  width: 600px !important;
-  border: 0;
-}
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] [data-type="figure_text"] {
-  border: 0;
-  margin: 0;
-  padding: 0;
-}
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] img {
-  max-width: 600px !important;
-  padding: 0;
-}
-[data-type="section"][data-block_type="intro"] div#krugmanwellsessentials4e-ch1-exp2-2 {
-  position: initial;
-  width: initial;
-  margin: 1em 0 2em 0;
-}
 div#digfir_section_2 {
   padding-bottom: 1em;
 }

@@ -23,7 +23,7 @@
 </list>
 </box>
 <box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-1" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch2-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-2" alt="image" src="asset/images/launchpad_ML_logo_black.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch2-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-2" alt="image" src="asset/images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch2-p11" block_type="co-txt-ni"><phrase block_type="dropcap">I</phrase>N DECEMBER 2009, BOEING&#8217;S NEWest jet, the 787 Dreamliner, took its first three-hour test flight. It was a historic moment: the Dreamliner was the result of an aerodynamic revolution&#8212;a super efficient airplane designed to cut airline operating costs and the first to use superlight composite materials.</p>
 <p id="krugmanwellsessentials4e-ch2-p12" block_type="co-txt">To ensure that the Dreamliner was sufficiently lightweight and aerodynamic, it underwent over 15,000 hours of wind tunnel tests&#8212;tests that resulted in subtle design changes that improved its performance, making it 20&#37; more fuel efficient and 20&#37; less pollutant emitting than existing passenger jets.</p>
@@ -132,7 +132,6 @@
 <box numbered="false" id="krugmanwellsessentials4e-ch2-exp3-5" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch2-p67" block_type="mn-gl-def"><strong>Technology</strong> is the technical means for producing goods and services.</p>
 </box>
-<p id="krugmanwellsessentials4e-ch2-p68" block_type="txt">The other source of economic growth is progress in <strong>technology,</strong> the technical means for the production of goods and services. Composite materials had been used in some parts of aircraft before the Boeing Dreamliner was developed. But Boeing engineers realized that there were large additional advantages to building a whole plane out of composites. The plane would be lighter, stronger, and have better aerodynamics than a plane built in the traditional way. It would therefore have longer range, be able to carry more people, and use less fuel, in addition to being able to maintain higher cabin pressure. So in a real sense Boeing&#8217;s innovation&#8212;a whole plane built out of composites&#8212;was a way to do more with any given amount of resources, pushing out the production possibility frontier.</p>
 <figure id="krugmanwellsessentials4e-ch2-fig-5a" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <image asset-id="krugmanwellsessentials4e-ch2-img-6a" alt="image" src="asset/ch2/KrugESS4e_2UN02.jpg"/>
@@ -142,6 +141,7 @@
 <asset_source>iStockphoto/Thinkstock</asset_source>
 <asset_source>iStockphoto/Thinkstock</asset_source>
 </figure>
+<p id="krugmanwellsessentials4e-ch2-p68" block_type="txt">The other source of economic growth is progress in <strong>technology,</strong> the technical means for the production of goods and services. Composite materials had been used in some parts of aircraft before the Boeing Dreamliner was developed. But Boeing engineers realized that there were large additional advantages to building a whole plane out of composites. The plane would be lighter, stronger, and have better aerodynamics than a plane built in the traditional way. It would therefore have longer range, be able to carry more people, and use less fuel, in addition to being able to maintain higher cabin pressure. So in a real sense Boeing&#8217;s innovation&#8212;a whole plane built out of composites&#8212;was a way to do more with any given amount of resources, pushing out the production possibility frontier.</p>
 <p id="krugmanwellsessentials4e_page_30" block_type="page_start">30</p>
 <p id="krugmanwellsessentials4e-ch2-p69" block_type="txt">Because improved jet technology has pushed out the production possibility frontier, it has made it possible for the economy to produce more of everything, not just jets and air travel. Over the past 30 years, the biggest technological advances have taken place in information technology, not in construction or food services. Yet Americans have chosen to buy bigger houses and eat out more than they used to because the economy&#8217;s growth has made it possible to do so.</p>
 <p id="krugmanwellsessentials4e-ch2-p70" block_type="txt">The production possibility frontier is a very simplified model of an economy. Yet it teaches us important lessons about real-life economies. It gives us our first clear sense of what constitutes economic efficiency, it illustrates the concept of opportunity cost, and it makes clear what economic growth is all about.</p>
@@ -242,8 +242,8 @@
 </table>
 <figure id="krugmanwellsessentials4e-ch2-fig-7" block_type="figure" numbered="true" number="2-5" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch2-img-8" alt="image" src="asset/ch2/KrugESS4e_fig_2_05ab.jpg"/>
 <caption><link href="#krugmanwellsessentials4e-ch2-fig-7"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">2-5</phrase></strong></phrase> <phrase block_type="fig_title">Comparative Advantage and Gains from Trade</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch2-img-8" alt="image" src="asset/ch2/KrugESS4e_fig_2_05ab.jpg"/>
 <caption>By specializing and trading, the United States and Brazil can produce and consume more of both large jets and small jets. The United States specializes in manufacturing large jets, its comparative advantage, and Brazil&#8212;which has an <em>absolute</em> disadvantage in both goods but a <em>comparative</em> advantage in small jets&#8212;specializes in manufacturing small jets. With trade, both countries can consume more of both goods than either could without trade.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_32" block_type="page_start">32</p>
@@ -269,15 +269,15 @@
 <section-metadata><section-title>Comparative Advantage and International Trade, in Reality</section-title></section-metadata>
 <p id="krugmanwellsessentials4e-ch2-p91" block_type="txt-ni">Look at the label on a manufactured good sold in the United States, and there&#8217;s a good chance you will find that it was produced in some other country&#8212;in China, or Japan, or even in Canada, eh? On the other side, many U.S. industries sell a large fraction of their output overseas. (This is particularly true of agriculture, high technology, and entertainment.)</p>
 <p id="krugmanwellsessentials4e-ch2-p92" block_type="txt">Should all this international exchange of goods and services be celebrated, or is it cause for concern? Politicians and the public often question the desirability of international trade, arguing that the nation should produce goods for itself rather than buying them from foreigners. Industries around the world demand protection from foreign competition: Japanese farmers want to keep out American rice, American steelworkers want to keep out European steel. And these demands are often supported by public opinion.</p>
-<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch2-bx1-1" block_type="bx1-h">
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch2-bx1-1" block_type="bx-1-h">
 <p id="krugmanwellsessentials4e-ch2-p93" block_type="bx1-t"><strong>MISUNDERSTANDING COMPARATIVE ADVANTAGE</strong></p>
 <p id="krugmanwellsessentials4e-ch2-p94" block_type="bx1-txt-ni">Students do it, pundits do it, and politicians do it all the time: they confuse <em>comparative advantage</em> with <em>absolute advantage</em>. For example, back in the 1980s, when the U.S. economy seemed to be lagging behind that of Japan, one often heard commentators warn that if we didn&#8217;t improve our productivity, we would soon have no comparative advantage in anything.</p>
 <p id="krugmanwellsessentials4e-ch2-p95" block_type="bx1-txt">What those commentators meant was that we would have no <em>absolute</em> advantage in anything&#8212;that there might come a time when the Japanese were better at everything than we were. (It didn&#8217;t turn out that way, but that&#8217;s another story.) And they had the idea that in that case we would no longer be able to benefit from trade with Japan.</p>
 <p id="krugmanwellsessentials4e-ch2-p96" block_type="bx1-txt">But just as Brazil, in our example, was able to benefit from trade with the United States (and vice versa) despite the fact that the United States was better at manufacturing both large and small jets, in real life nations can still gain from trade even if they are less productive in all industries than the countries they trade with.</p>
 </box>
+<p id="krugmanwellsessentials4e_page_34" block_type="page_start">34</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx4-1" block_type="bx4-h">
 <box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch2-img-9" alt="image" src="asset/images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
-<p id="krugmanwellsessentials4e_page_34" block_type="page_start">34</p>
 <p id="krugmanwellsessentials4e-ch2-p97" block_type="bx4-t"><strong>Pajama Republics</strong></p>
 <p id="krugmanwellsessentials4e-ch2-p98" block_type="bx4-txt-ni"><phrase block_type="dropcap">I</phrase>n April 2013, a terrible industrial disaster made world headlines: in Bangladesh, a building housing five clothing factories collapsed, killing more than a thousand garment workers trapped inside. Attention soon focused on the substandard working conditions in those factories, as well as the many violations of building codes and safety procedures&#8212;including those required by Bangladeshi law&#8212;that set the stage for the tragedy.</p>
 <p id="krugmanwellsessentials4e-ch2-p99" block_type="bx4-txt">While the story provoked a justified outcry, it also highlighted the remarkable rise of Bangladesh&#8217;s clothing industry, which has become a major player in world markets&#8212;second only to China in total exports&#8212;and a desperately needed source of income and employment in a very poor country.</p>
@@ -337,22 +337,22 @@
 </list>
 <p id="krugmanwellsessentials4e-ch2-p122" block_type="txt"><link href="#krugmanwellsessentials4e_ch2-fig-9">Figure 2-6</link>, in other words, is by no means a complete picture either of all the types of inhabitants of the real economy or of all the flows of money and physical items that take place among these inhabitants.</p>
 <p id="krugmanwellsessentials4e-ch2-p123" block_type="txt">Despite its simplicity, the circular-flow diagram is a very useful aid to thinking about the economy.</p>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx2-1" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx2-1" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch2-img-12" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch2-p124" block_type="bx2-t">Rich Nation, Poor Nation</p>
+<p id="krugmanwellsessentials4e-ch2-p124" block_type="bx-2-t">Rich Nation, Poor Nation</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-2" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch2-p125" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-13" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch2-p126" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>ry taking off your clothes&#8212;at a suitable time and in a suitable place, of course&#8212;and taking a look at the labels inside that say where they were made. It&#8217;s a very good bet that much, if not most, of your clothing was manufactured overseas, in a country that is much poorer than the United States&#8212;say, in El Salvador, Sri Lanka, or Bangladesh.</p>
 <p id="krugmanwellsessentials4e-ch2-p127" block_type="bx2-txt">Why are these countries so much poorer than we are? The immediate reason is that their economies are much less <em>productive&#8212;</em>firms in these countries are just not able to produce as much from a given quantity of resources as comparable firms in the United States or other wealthy countries. Why countries differ so much in productivity is a deep question&#8212;indeed, one of the main questions that preoccupy economists. But in any case, the difference in productivity is a fact.</p>
-<p id="krugmanwellsessentials4e-ch2-p128" block_type="bx2-txt">But if the economies of these countries are so much less productive than ours, how is it that they make so much of our clothing? Why don&#8217;t we do it for ourselves?</p>
-<p id="krugmanwellsessentials4e-ch2-p129" block_type="bx2-txt">The answer is &#8220;comparative advantage.&#8221; Just about every industry in Bangladesh is much less productive than the corresponding industry in the United States. But the productivity difference between rich and poor countries varies across goods; it is very large in the production of sophisticated goods like aircraft but not that large in the production of simpler goods like clothing. So Bangladesh&#8217;s position with regard to clothing production is like Embraer&#8217;s position with respect to producing small jets: it&#8217;s not as good at it as Boeing, but it&#8217;s the thing Embraer does comparatively well.</p>
 <figure id="krugmanwellsessentials4e-ch2-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <image asset-id="krugmanwellsessentials4e-ch2-img-14" alt="image" src="asset/ch2/KrugESS4e_2UN04.jpg"/>
 <caption>Although less productive than American workers, Bangladeshi workers have a comparative advantage in clothing production.</caption>
 <asset_source>Robert Nickelsberg/Getty Images</asset_source>
 </figure>
+<p id="krugmanwellsessentials4e-ch2-p128" block_type="bx2-txt">But if the economies of these countries are so much less productive than ours, how is it that they make so much of our clothing? Why don&#8217;t we do it for ourselves?</p>
+<p id="krugmanwellsessentials4e-ch2-p129" block_type="bx2-txt">The answer is &#8220;comparative advantage.&#8221; Just about every industry in Bangladesh is much less productive than the corresponding industry in the United States. But the productivity difference between rich and poor countries varies across goods; it is very large in the production of sophisticated goods like aircraft but not that large in the production of simpler goods like clothing. So Bangladesh&#8217;s position with regard to clothing production is like Embraer&#8217;s position with respect to producing small jets: it&#8217;s not as good at it as Boeing, but it&#8217;s the thing Embraer does comparatively well.</p>
 <p id="krugmanwellsessentials4e-ch2-p130" block_type="bx2-txt">Bangladesh, though it is at an absolute disadvantage compared with the United States in almost everything, has a comparative advantage in clothing production. This means that both the United States and Bangladesh are able to consume more because they specialize in producing different things, with Bangladesh supplying our clothing and the United States supplying Bangladesh with more sophisticated goods.</p>
 </box>
 <box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch2-bx5-1" block_type="sr-1-h">
@@ -363,9 +363,9 @@
 <li><p id="krugmanwellsessentials4e-ch2-p134" block_type="sr1-bl">In the simplest economies people <strong>barter</strong> rather than transact with money. The <strong>circular-flow diagram</strong> illustrates transactions within the economy as flows of goods and services, <strong>factors of production,</strong> and money between <strong>households</strong> and <strong>firms.</strong> These transactions occur in <strong>markets for goods and services</strong> and <strong>factor markets.</strong> Ultimately, factor markets determine the economy&#8217;s <strong>income distribution.</strong></p></li>
 </list>
 </box>
+<p id="krugmanwellsessentials4e_page_37" block_type="page_start">37</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx6-1" block_type="sr2-h">
 <box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">2-1</phrase></box-title></box-metadata>
-<p id="krugmanwellsessentials4e_page_37" block_type="page_start">37</p>
 <question id="krugmanwellsessentials4e-ch2-cyuquestion-1" block_type="q_cyu" number="1">
 <p id="krugmanwellsessentials4e-ch2-p135" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> True or false? Explain your answer.</p>
 <list id="krugmanwellsessentials4e-ch2-list-5" type="ordered" block_type="loweralpha">
@@ -443,9 +443,9 @@
 <p id="krugmanwellsessentials4e-ch2-p174" block_type="txt">Because the economists have used different models&#8212;that is, made different simplifying assumptions&#8212;they arrive at different conclusions. And so the two economists may find themselves on different sides of the issue.</p>
 <p id="krugmanwellsessentials4e-ch2-p175" block_type="txt">In most cases such disputes are eventually resolved by the accumulation of evidence showing which of the various models proposed by economists does a better job of fitting the facts. However, in economics, as in any science, it can take a long time before research settles important disputes&#8212;decades, in some cases. And since the economy is always changing, in ways that make old models invalid or raise new policy questions, there are always new issues on which economists disagree. The policy maker must then decide which economist to believe.</p>
 <p id="krugmanwellsessentials4e-ch2-p176" block_type="txt">The important point is that economic analysis is a method, not a set of conclusions.</p>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx2-2" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx2-2" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch2-p177" block_type="bx2-t">Economists, Beyond the Ivory Tower</p>
+<p id="krugmanwellsessentials4e-ch2-p177" block_type="bx-2-t">Economists, Beyond the Ivory Tower</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-2b" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch2-p178" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-13b" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
@@ -470,7 +470,7 @@
 <li><p id="krugmanwellsessentials4e-ch2-p187" block_type="sr1-bl">Economists do disagree&#8212;though not as much as legend has it&#8212;for two main reasons: (1) they may disagree about which simplifications to make in a model and (2) they may disagree about values.</p></li>
 </list>
 </box>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx6-1" block_type="sr2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx6-2" block_type="sr2-h">
 <box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">2-2</phrase></box-title></box-metadata>
 <question id="krugmanwellsessentials4e-ch2-cyuquestion-5" block_type="q_cyu" number="1">
 <p id="krugmanwellsessentials4e-ch2-p188" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following statements is a positive statement? Which is a normative statement?</p>
@@ -515,13 +515,13 @@
 <p id="krugmanwellsessentials4e-ch2-p205" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Does China have a comparative advantage at producing soybeans?</strong>
 <phrase block_type="step-subtext">Review pages 30&#8211;33.</phrase></phrase></p>
 <p id="krugmanwellsessentials4e-ch2-p206" block_type="wio-txt-ni">A country has a comparative advantage in the production of a good if the opportunity cost of production is lower for that country than for another country. In this case, the opportunity cost of producing 1 billion pounds of soybeans is &#188; of a thousand tons of rare earths (250 tons) for China and 1/10 of a thousand tons (100 tons) of rare earths for the United States. Since 1/10 is less than &#188;, the United States, not China, has a comparative advantage in the production of soybeans.</p>
-<p id="krugmanwellsessentials4e-ch2-p207" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Suppose China wishes to consume 64 billion pounds of soybeans and 12 thousand tons of rare earths. Show this point on a graph of the production possibilities. Is this possible without trade?</strong>
-<phrase block_type="step-subtext">Review pages 30&#8211;33 and <link href="#krugmanwellsessentials4e_ch2-fig-7">Figure 2-5</link>.</phrase></phrase></p>
-<p id="krugmanwellsessentials4e-ch2-p208" block_type="wio-txt-ni">As shown on the graph, China&#8217;s consumption of 64 billion pounds of soybeans and 12 thousand tons of rare earths, demonstrated at point B, is outside the production possibility frontier without trade. If China consumed 64 billion pounds of soybeans, without trade, it could consume only 4 thousand tons of rare earths, shown at point A. Thus, without trade, this level of consumption of both goods would be impossible.</p>
 <figure id="krugmanwellsessentials4e-ch2-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <image asset-id="krugmanwellsessentials4e-ch2-img-20" alt="image" src="asset/ch2/KrugESS4e_2UN08.jpg"/>
 </figure>
+<p id="krugmanwellsessentials4e-ch2-p207" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Suppose China wishes to consume 64 billion pounds of soybeans and 12 thousand tons of rare earths. Show this point on a graph of the production possibilities. Is this possible without trade?</strong>
+<phrase block_type="step-subtext">Review pages 30&#8211;33 and <link href="#krugmanwellsessentials4e_ch2-fig-7">Figure 2-5</link>.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch2-p208" block_type="wio-txt-ni">As shown on the graph, China&#8217;s consumption of 64 billion pounds of soybeans and 12 thousand tons of rare earths, demonstrated at point B, is outside the production possibility frontier without trade. If China consumed 64 billion pounds of soybeans, without trade, it could consume only 4 thousand tons of rare earths, shown at point A. Thus, without trade, this level of consumption of both goods would be impossible.</p>
 </box>
 </section>
 <section id="krugmanwellsessentials4e-ch2-sec1-5" block_type="cr-que-t" title="" chapter="2" numbered="true" level="1" print_page="42">
@@ -701,11 +701,13 @@
 <question id="krugmanwellsessentials4e-ch2-question-15" block_type="q_prob" number="15">
 <p id="krugmanwellsessentials4e-ch2-p289" block_type="cr-que-nl-first"><phrase block_type="qnum">15.</phrase> Assess the following statement: &#8220;If economists just had enough data, they could solve all policy questions in a way that maximizes the social good. There would be no need for divisive political debates, such as whether the government should provide free medical care for all.&#8221;</p>
 </question>
-</section>
-<section id="krugmanwellsessentials4e-ch2-sec1-8" block_type="sum-h" title="" chapter="2" numbered="true" level="1" print_page="45">
-<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch2-wio-1" block_type="workitout">
+<p id="krugmanwellsessentials4e-ch2-p289t" block_type="wio-title">WORK IT OUT</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-5" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch2-p290" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-22" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> interactive activity</p>
+<p id="krugmanwellsessentials4e-ch2-p290" block_type="fg1-t">
+  <image asset-id="krugmanwellsessentials4e-ch2-img-22" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> interactive activity
+</p>
+</box>
 </box>
 <question id="krugmanwellsessentials4e-ch2-question-16" block_type="q_prob" number="16">
 <p id="krugmanwellsessentials4e-ch2-p291" block_type="cr-que-nl-first"><phrase block_type="qnum">16.</phrase> Atlantis is a small, isolated island in the South Atlantic. The inhabitants grow potatoes and catch fish. The following table shows the maximum annual output combinations of potatoes and fish that can be produced. Obviously, given their limited resources and available technology, as they use more of their resources for potato production, there are fewer resources available for catching fish.</p>

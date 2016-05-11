@@ -8,7 +8,7 @@
   background-color: transparent;
   border: 0;
 }
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] [data-type="figure_tesxt"] {
+[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] [data-type="figure_text"] {
   border: 0;
   margin: 0;
   padding: 0;
@@ -70,7 +70,7 @@ div#krugmanwellsessentials4e-ch3-untab-3 {
   float: right;
   width: initial !important;
   margin-left: 2em;
-  margin-top: -11px;
+  margin-top: 11px;
 }
 div#krugmanwellsessentials4e-ch3-p350 {
   margin-left: -1em;

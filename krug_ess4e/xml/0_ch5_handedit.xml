@@ -117,9 +117,9 @@
 <p id="krugmanwellsessentials4e-ch5-p057" block_type="txt">To arrive at a more general formula for price elasticity of demand, suppose that we have data for two points on a demand curve. At point 1 the quantity demanded and price are (<em>Q</em><sub>1</sub>, <em>P</em><sub>1</sub>); at point 2 they are (<em>Q</em><sub>2</sub>, <em>P</em><sub>2</sub>). Then the formula for calculating the price elasticity of demand is:</p>
 <p id="krugmanwellsessentials4e-ch5-p058" block_type="eq"><strong>(5-5)</strong> Price elasticity of demand = <image asset-id="krugmanwellsessentials4e-ch5-img-017" alt="image" src="asset/ch5/KrugESS4e_5UN26.jpg"/></p>
 <p id="krugmanwellsessentials4e-ch5-p059" block_type="txt">As before, when finding a price elasticity of demand calculated by the midpoint method, we drop the minus sign and use the absolute value.</p>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-2" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-2" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch5-p060" block_type="bx2-t"><strong>Estimating Elasticities</strong></p>
+<p id="krugmanwellsessentials4e-ch5-p060" block_type="bx-2-t"><strong>Estimating Elasticities</strong></p>
 <p id="krugmanwellsessentials4e-ch5-p062" block_type="bx2-first"><phrase block_type="dropcap">Y</phrase>ou might think it&#8217;s easy to estimate price elasticities of demand from real-world data: just compare percent changes in prices with percent changes in quantities demanded. Unfortunately, it&#8217;s rarely that simple because changes in price aren&#8217;t the only thing affecting changes in the quantity demanded: other factors&#8212;such as changes in income, changes in tastes, and changes in the prices of other goods&#8212;shift the demand curve, thereby changing the quantity demanded at any given price.</p>
 <p id="krugmanwellsessentials4e-ch5-p063" block_type="bx2-txt">To estimate price elasticities of demand, economists must use careful statistical analysis to separate the influence of the change in price, holding other things equal.</p>
 <p id="krugmanwellsessentials4e-ch5-p064" block_type="bx2-txt">Economists have estimated price elasticities of demand for a number of goods and services. <link href="#krugmanwellsessentials4e-ch5-tab-1">Table 5-1</link> summarizes some of these and shows a wide range of price elasticities. There are some goods, like gasoline, for which demand hardly responds at all to changes in the price. There are other goods, such as airline travel for leisure, or Coke and Pepsi, for which the quantity demanded is very sensitive to the price.</p>
@@ -362,9 +362,9 @@
 <p id="krugmanwellsessentials4e_page_149" block_type="page_start">149</p>
 <p id="krugmanwellsessentials4e-ch5-p0121" block_type="txt-3"><strong>Time Elapsed Since Price Change</strong> In general, the price elasticity of demand tends to increase as consumers have more time to adjust. This means that the long-run price elasticity of demand is often higher than the short-run elasticity.</p>
 <p id="krugmanwellsessentials4e-ch5-p0122" block_type="txt">A good illustration is the changes in Americans&#8217; behavior over the past decade in response to higher gasoline prices. In 1998, a gallon of gasoline was only about &#36;1. Over the years, however, gasoline prices steadily rose, by early 2013 a gallon of gas cost from &#36;3.50 to &#36;4.00 in much of the United States. Over time, however, people changed their habits and choices in ways that enabled them to gradually reduce their gasoline consumption. In a recent survey, 53&#37; of responders said they had made major life changes in order to cope with higher gas prices&#8212;changes such as driving less, getting a more fuel-efficient car, and using other modes of transportation like buses or bicycles. Some even moved to a more convenient location to save gas. These changes are reflected in the data on American gasoline consumption: the trend line of consumption fluctuated until about 2003, then took a nosedive. So by 2013, Americans were purchasing 30 million gallons of gasoline a day on average, less than half of the 64 million they purchased in 2003. This confirms that the long-run price elasticity of demand for gasoline was indeed much larger than the short-run elasticity.</p>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-4" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-4" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch5-p0123" block_type="bx2-t"><strong>Responding to Your Tuition Bill</strong></p>
+<p id="krugmanwellsessentials4e-ch5-p0123" block_type="bx-2-t"><strong>Responding to Your Tuition Bill</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-2" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch5-p0124" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-018" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
@@ -458,9 +458,9 @@
 <asset_source><em>Data from:</em> U.S. Department of Agriculture and IMF <em>World Economic Outlook.</em></asset_source>
 </figure>
 </box>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-7" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-7" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch5-img-171a" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch5-p0172"><phrase block_type="bx2-t"><strong>Spending It</strong></phrase></p>
+<p id="krugmanwellsessentials4e-ch5-p0172"><phrase block_type="bx-2-t"><strong>Spending It</strong></phrase></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-3" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch5-p08" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-002" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
@@ -541,9 +541,9 @@
 <p id="krugmanwellsessentials4e-ch5-p0205" block_type="txt">Many industries are like pizza production and have large price elasticities of supply: they can be readily expanded because they don&#8217;t require any special or unique resources. In contrast, the price elasticity of supply is usually substantially less than perfectly elastic for goods that involve limited natural resources: minerals like gold or copper, agricultural products like coffee that flourish only on certain types of land, and renewable resources like ocean fish that can only be exploited up to a point without destroying the resource.</p>
 <p id="krugmanwellsessentials4e-ch5-p0206" block_type="txt">But given enough time, producers are often able to significantly change the amount they produce in response to a price change, even when production involves a limited natural resource or a very costly input. Agricultural markets provide a good example. When American farmers receive much higher prices for a given commodity, like wheat (because of a drought in a big wheat-producing country like Australia), in the next planting season they are likely to switch their acreage planted from other crops to wheat.</p>
 <p id="krugmanwellsessentials4e-ch5-p0207" block_type="txt">For this reason, economists often make a distinction between the short-run elasticity of supply, usually referring to a few weeks or months, and the long-run elasticity of supply, usually referring to several years. In most industries, the long-run elasticity of supply is larger than the short-run elasticity.</p>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-9" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-9" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch5-img-208a" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch5-p0208" block_type="bx2-t"><strong>European Farm Surpluses</strong></p>
+<p id="krugmanwellsessentials4e-ch5-p0208" block_type="bx-2-t"><strong>European Farm Surpluses</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-4" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch5-p0273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-026" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
@@ -769,9 +769,9 @@
 </figure>
 <p id="krugmanwellsessentials4e-ch5-p0270" block_type="txt">The implication of this result is clear: if you want to minimize the efficiency costs of taxation, you should choose to tax only those goods for which demand or supply, or both, is relatively inelastic. For such goods, a tax has little effect on behavior because behavior is relatively unresponsive to changes in the price. In the extreme case in which demand is perfectly inelastic (a vertical demand curve), the quantity demanded is unchanged by the imposition of the tax. As a result, the tax imposes no deadweight loss. Similarly, if supply is perfectly inelastic (a vertical supply curve), the quantity supplied is unchanged by the tax and there is also no deadweight loss.</p>
 <p id="krugmanwellsessentials4e-ch5-p0271" block_type="txt">So if the goal in choosing whom to tax is to minimize deadweight loss, then taxes should be imposed on goods and services that have the most inelastic response&#8212;that is, goods and services for which consumers or producers will change their behavior the least in response to the tax. (Unless they have a tendency to revolt, of course.) And this lesson carries a flip-side: using a tax to purposely decrease the amount of a harmful activity, such as underage drinking, will have the most impact when that activity is elastically demanded or supplied.</p>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-11" block_type="bx2-h">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch5-bx2-11" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
-<p id="krugmanwellsessentials4e-ch5-p0272" block_type="bx2-t"><strong>Taxing the Marlboro Man</strong></p>
+<p id="krugmanwellsessentials4e-ch5-p0272" block_type="bx-2-t"><strong>Taxing the Marlboro Man</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-5" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch5-p0273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-026" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
@@ -1290,12 +1290,14 @@
 <li><p id="krugmanwellsessentials4e-ch5-p118" block_type="cr-que-ans-mid">How does the excise tax on imported trucks benefit American automakers? Whom does it hurt? How does inefficiency arise from this government policy?</p></li>
 </list>
 </question>
-</section>
-<section id="krugmanwellsessentials4e-ch5-sec1-010" block_type="sum-h" title="" chapter="5" numbered="true" level="1" print_page="171">
-<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
 <p id="krugmanwellsessentials4e_page_171" block_type="page_start">171</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch5-wio-1" block_type="workitout">
+<p id="krugmanwellsessentials4e-ch5-p118t" block_type="wio-title">WORK IT OUT</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch5-exp2-8" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch5-p0422" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch5-img-028" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch5-p0422" block_type="fg1-t">
+<image asset-id="krugmanwellsessentials4e-ch5-img-028" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity
+</p>
+</box>
 </box>
 <question id="krugmanwellsessentials4e-ch5-question-18" block_type="q_prob" number="18">
 <p id="krugmanwellsessentials4e-ch5-p0423" block_type="cr-wio-nl-first"><phrase block_type="qnum">18.</phrase> <link href="http://Nile.com">Nile.com</link>, the online bookseller, wants to increase its total revenue. One strategy is to offer a 10&#37; discount on every book it sells. <link href="http://">Nile.com</link> knows that its customers can be divided into two distinct groups according to their likely responses to the discount. The table shows how the two groups respond to the discount.</p>
