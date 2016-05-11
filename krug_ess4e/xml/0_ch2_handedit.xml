@@ -1,4 +1,3 @@
-title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
 <chapter number="2" id="krugmanwellsessentials4e-ch2-chapter-2" title="CHAPTER 2: Economic Models: Trade-offs and Trade" start-numbering-at="2" numbered="true">
 <section id="krugmanwellsessentials4e-ch2-sec1-1" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="23">
 <p id="krugmanwellsessentials4e_page_23" block_type="page_start">23</p>
@@ -473,14 +472,14 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 </box>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch2-bx6-1" block_type="sr2-h">
 <box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">2-2</phrase></box-title></box-metadata>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-1" block_type="q_cyu" number="1">
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-5" block_type="q_cyu" number="1">
 <p id="krugmanwellsessentials4e-ch2-p188" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following statements is a positive statement? Which is a normative statement?</p>
 <list id="krugmanwellsessentials4e-ch2-list-9" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p189" block_type="sr2-nl-lvl2">Society should take measures to prevent people from engaging in dangerous personal behavior.</p></li>
 <li><p id="krugmanwellsessentials4e-ch2-p190" block_type="sr2-nl-lvl2">People who engage in dangerous personal behavior impose higher costs on society through higher medical costs.</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-2" block_type="q_cyu" number="2">
+<question id="krugmanwellsessentials4e-ch2-cyuquestion-6" block_type="q_cyu" number="2">
 <p id="krugmanwellsessentials4e-ch2-p191" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> True or false? Explain your answer.</p>
 <list id="krugmanwellsessentials4e-ch2-list-10" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p192" block_type="sr2-nl-lvl2">Policy choice A and policy choice B attempt to achieve the same social goal. Policy choice A, however, results in a much less efficient use of resources than policy choice B. Therefore, economists are more likely to agree on choosing policy choice B.</p></li>
@@ -562,7 +561,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 </section>
 <section id="krugmanwellsessentials4e-ch2-sec1-7" block_type="cr-que-t" title="" chapter="2" numbered="true" level="1" print_page="43">
 <section-metadata><section-title>PROBLEMS</section-title></section-metadata>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-1" block_type="q_cyu" number="1">
+<question id="krugmanwellsessentials4e-ch2-question-1" block_type="q_prob" number="1">
 <p id="krugmanwellsessentials4e-ch2-p233" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Two important industries on the island of Bermuda are fishing and tourism. According to data from the Food and Agriculture Organization of the United Nations and the Bermuda Department of Statistics, in 2009 the 306 registered fishermen in Bermuda caught 387 metric tons of marine fish. And the 2,719 people employed by hotels produced 554,400 hotel stays (measured by the number of visitor arrivals). Suppose that this production point is efficient in production. Assume also that the opportunity cost of 1 additional metric ton of fish is 2,000 hotel stays and that this opportunity cost is constant (the opportunity cost does not change).</p>
 <list id="krugmanwellsessentials4e-ch2-list-12" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p234" block_type="cr-que-ans-first">If all 306 registered fishermen were to be employed by hotels (in addition to the 2,719 people already working in hotels), how many hotel stays could Bermuda produce?</p></li>
@@ -570,7 +569,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p236" block_type="cr-que-ans-mid">Draw a production possibility frontier for Bermuda, with fish on the horizontal axis and hotel stays on the vertical axis, and label Bermuda&#8217;s actual production point for the year 2009.</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-2" block_type="q_cyu" number="2">
+<question id="krugmanwellsessentials4e-ch2-question-2" block_type="q_prob" number="2">
 <p id="krugmanwellsessentials4e-ch2-p237" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> According to data from the U.S. Department of Agriculture&#8217;s National Agricultural Statistics Service, 124 million acres of land in the United States were used for wheat or corn farming in a recent year. Of those 124 million acres, farmers used 50 million acres to grow 2.158 billion bushels of wheat and 74 million acres to grow 11.807 billion bushels of corn. Suppose that U.S. wheat and corn farming is efficient in production. At that production point, the opportunity cost of producing 1 additional bushel of wheat is 1.7 fewer bushels of corn. However, because farmers have increasing opportunity costs, additional bushels of wheat have an opportunity cost greater than 1.7 bushels of corn. For each of the following production points, decide whether that production point is (i) feasible and efficient in production, (ii) feasible but not efficient in production, (iii) not feasible, or (iv) unclear as to whether or not it is feasible.</p>
 <list id="krugmanwellsessentials4e-ch2-list-13" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p238" block_type="cr-que-ans-first">Farmers use 40 million acres of land to produce 1.8 billion bushels of wheat, and they use 60 million acres of land to produce 9 billion bushels of corn. The remaining 24 million acres are left unused.</p></li>
@@ -578,7 +577,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p240" block_type="cr-que-ans-mid">Farmers reduce their production of wheat to 2 billion bushels and increase their production of corn to 12.044 billion bushels. Along the production possibility frontier, the opportunity cost of going from 11.807 billion bushels of corn to 12.044 billion bushels of corn is 0.666 bushel of wheat per bushel of corn.</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-3" block_type="q_cyu" number="3">
+<question id="krugmanwellsessentials4e-ch2-question-3" block_type="q_prob" number="3">
 <p id="krugmanwellsessentials4e-ch2-p241" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> In the ancient country of Roma, only two goods, spaghetti and meatballs, are produced. There are two tribes in Roma, the Tivoli and the Frivoli. By themselves, the Tivoli each month can produce either 30 pounds of spaghetti and no meatballs, or 50 pounds of meatballs and no spaghetti, or any combination in between. The Frivoli, by themselves, each month can produce 40 pounds of spaghetti and no meatballs, or 30 pounds of meatballs and no spaghetti, or any combination in between.</p>
 <list id="krugmanwellsessentials4e-ch2-list-14" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p242" block_type="cr-que-ans-first">Assume that all production possibility frontiers are straight lines. Draw one diagram showing the monthly production possibility frontier for the Tivoli and another showing the monthly production possibility frontier for the Frivoli. Show how you calculated them.</p></li>
@@ -589,20 +588,20 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p246" block_type="cr-que-ans-mid">After the innovation, which tribe now has an absolute advantage in producing meatballs? In producing spaghetti? Which has the comparative advantage in meatball production? In spaghetti production?</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-4" block_type="q_cyu" number="4">
+<question id="krugmanwellsessentials4e-ch2-question-4" block_type="q_prob" number="4">
 <p id="krugmanwellsessentials4e-ch2-p247" block_type="cr-que-nl-first"><phrase block_type="qnum">4.</phrase> One July, the United States sold aircraft worth &#36;1 billion to China and bought aircraft worth only &#36;19,000 from China. During the same month, however, the United States bought &#36;83 million worth of men&#8217;s trousers, slacks, and jeans from China but sold only &#36;8,000 worth of trousers, slacks, and jeans to China. Using what you have learned about how trade is determined by comparative advantage, answer the following questions.</p>
 <list id="krugmanwellsessentials4e-ch2-list-15" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p248" block_type="cr-que-ans-first">Which country has the comparative advantage in aircraft production? In production of trousers, slacks, and jeans?</p></li>
 <li><p id="krugmanwellsessentials4e-ch2-p249" block_type="cr-que-ans-mid">Can you determine which country has the absolute advantage in aircraft production? In production of trousers, slacks, and jeans?</p></li>
 </list></question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-5" block_type="q_cyu" number="5">
+<question id="krugmanwellsessentials4e-ch2-question-5" block_type="q_prob" number="5">
 <p id="krugmanwellsessentials4e-ch2-p250" block_type="cr-que-nl-first"><phrase block_type="qnum">5.</phrase> Peter Pundit, an economics reporter, states that the European Union (EU) is increasing its productivity very rapidly in all industries. He claims that this productivity advance is so rapid that output from the EU in these industries will soon exceed that of the United States and, as a result, the United States will no longer benefit from trade with the EU.</p>
 <list id="krugmanwellsessentials4e-ch2-list-16" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p251" block_type="cr-que-ans-first">Do you think Peter Pundit is correct or not? If not, what do you think is the source of his mistake?</p></li>
 <li><p id="krugmanwellsessentials4e-ch2-p252" block_type="cr-que-ans-mid">If the EU and the United States continue to trade, what do you think will characterize the goods that the EU sells to the United States and the goods that the United States sells to the EU?</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-6" block_type="q_cyu" number="6">
+<question id="krugmanwellsessentials4e-ch2-question-6" block_type="q_prob" number="6">
 <p id="krugmanwellsessentials4e-ch2-p253" block_type="cr-que-nl-first"><phrase block_type="qnum">6.</phrase> You are in charge of allocating residents to your dormitory&#8217;s baseball and basketball teams. You are down to the last four people, two of whom must be allocated to baseball and two to basketball. The accompanying table gives each person&#8217;s batting average and free-throw average.</p>
 <table id="krugmanwellsessentials4e-ch2-untab-3" block_type="un_table" data-href="asset/ch2/tables/untable_2_3.html" data-target="_pop">
 <layout align="center" width="large"/>
@@ -639,7 +638,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p255" block_type="cr-que-ans-mid">Why is it likely that the other basketball players will be unhappy about this arrangement but the other baseball players will be satisfied? Nonetheless, why would an economist say that this is an efficient way to allocate players for your dormitory&#8217;s sports teams?</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-7" block_type="q_cyu" number="7">
+<question id="krugmanwellsessentials4e-ch2-question-7" block_type="q_prob" number="7">
 <p id="krugmanwellsessentials4e-ch2-p256" block_type="cr-que-nl-first"><phrase block_type="qnum">7.</phrase> The inhabitants of the fictional economy of Atlantis use money in the form of cowry shells. Draw a circular-flow diagram showing households and firms. Firms produce potatoes and fish, and households buy potatoes and fish. Households also provide the land and labor to firms. Identify where in the flows of cowry shells or physical things (goods and services, or resources) each of the following impacts would occur. Describe how this impact spreads around the circle.</p>
 <list id="krugmanwellsessentials4e-ch2-list-18" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p257" block_type="cr-que-ans-first">A devastating hurricane floods many of the potato fields.</p></li>
@@ -647,10 +646,10 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p259" block_type="cr-que-ans-mid">The inhabitants of Atlantis discover Shakira and spend several days a month at dancing festivals.</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-8" block_type="q_cyu" number="8">
+<question id="krugmanwellsessentials4e-ch2-question-8" block_type="q_prob" number="8">
 <p id="krugmanwellsessentials4e-ch2-p260" block_type="cr-que-nl-first"><phrase block_type="qnum">8.</phrase> An economist might say that colleges and universities &#8220;produce&#8221; education, using faculty members and students as inputs. According to this line of reasoning, education is then &#8220;consumed&#8221; by households. Construct a circular-flow diagram to represent the sector of the economy devoted to college education: colleges and universities represent firms, and households both consume education and provide faculty and students to universities. What are the relevant markets in this diagram? What is being bought and sold in each direction? What would happen in the diagram if the government decided to subsidize 50&#37; of all college students&#8217; tuition?</p>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-9" block_type="q_cyu" number="9">
+<question id="krugmanwellsessentials4e-ch2-question-9" block_type="q_prob" number="9">
 <p id="krugmanwellsessentials4e-ch2-p261" block_type="cr-que-nl-first"><phrase block_type="qnum">9.</phrase> Your dormitory roommate plays loud music most of the time; you, however, would prefer more peace and quiet. You suggest that she buy some earphones. She responds that although she would be happy to use earphones, she has many other things that she would prefer to spend her money on right now. You discuss this situation with a friend who is an economics major. The following exchange takes place:</p>
 <p id="krugmanwellsessentials4e-ch2-p262" block_type="sum-mcl"><em>He: How much would it cost to buy earphones?</em></p>
 <p id="krugmanwellsessentials4e-ch2-p263" block_type="sum-mcl"><em>You: &#36;15.</em></p>
@@ -664,7 +663,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 </list>
 </question>
 <p id="krugmanwellsessentials4e_page_45" block_type="page_start">45</p>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-10" block_type="q_cyu" number="10">
+<question id="krugmanwellsessentials4e-ch2-question-10" block_type="q_prob" number="10">
 <p id="krugmanwellsessentials4e-ch2-p270" block_type="cr-que-nl-first"><phrase block_type="qnum">10.</phrase> A representative of the American clothing industry recently made the following statement: &#8220;Workers in Asia often work in sweatshop conditions earning only pennies an hour. American workers are more productive and as a result earn higher wages. In order to preserve the dignity of the American workplace, the government should enact legislation banning imports of low-wage Asian clothing.&#8221;</p>
 <list id="krugmanwellsessentials4e-ch2-list-20" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p271" block_type="cr-que-ans-first">Which parts of this quote are positive statements? Which parts are normative statements?</p></li>
@@ -673,7 +672,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p274" block_type="cr-que-ans-mid">Would low-wage Asian workers benefit from or be hurt by such a policy?</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-11" block_type="q_cyu" number="11">
+<question id="krugmanwellsessentials4e-ch2-question-11" block_type="q_prob" number="11">
 <p id="krugmanwellsessentials4e-ch2-p275" block_type="cr-que-nl-first"><phrase block_type="qnum">11.</phrase> Are the following statements true or false? Explain your answers.</p>
 <list id="krugmanwellsessentials4e-ch2-list-21" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p276" block_type="cr-que-ans-first">&#8220;When people must pay higher taxes on their wage earnings, it reduces their incentive to work&#8221; is a positive statement.</p></li>
@@ -683,13 +682,13 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p280" block_type="cr-que-ans-mid">All disagreements among economists are generated by the media.</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-12" block_type="q_cyu" number="12">
+<question id="krugmanwellsessentials4e-ch2-question-12" block_type="q_prob" number="12">
 <p id="krugmanwellsessentials4e-ch2-p281" block_type="cr-que-nl-first"><phrase block_type="qnum">12.</phrase> Evaluate the following statement: &#8220;It is easier to build an economic model that accurately reflects events that have already occurred than to build an economic model to forecast future events.&#8221; Do you think this is true or not? Why? What does this imply about the difficulties of building good economic models?</p>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-13" block_type="q_cyu" number="13">
+<question id="krugmanwellsessentials4e-ch2-question-13" block_type="q_prob" number="13">
 <p id="krugmanwellsessentials4e-ch2-p282" block_type="cr-que-nl-first"><phrase block_type="qnum">13.</phrase> Economists who work for the government are often called on to make policy recommendations. Why do you think it is important for the public to be able to differentiate normative statements from positive statements in these recommendations?</p>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-14" block_type="q_cyu" number="14">
+<question id="krugmanwellsessentials4e-ch2-question-14" block_type="q_prob" number="14">
 <p id="krugmanwellsessentials4e-ch2-p283" block_type="cr-que-nl-first"><phrase block_type="qnum">14.</phrase> The mayor of Gotham City, worried about a potential epidemic of deadly influenza this winter, asks an economic adviser the following series of questions. Determine whether a question requires the economic adviser to make a positive assessment or a normative assessment.</p>
 <list id="krugmanwellsessentials4e-ch2-list-22" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch2-p284" block_type="cr-que-ans-first">How much vaccine will be in stock in the city by the end of November?</p></li>
@@ -699,7 +698,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <li><p id="krugmanwellsessentials4e-ch2-p288" block_type="cr-que-ans-mid">If the city charges &#36;25 per shot, it will make a profit of &#36;10 per shot, money that can go to pay for inoculating poor people. Should the city engage in such a scheme?</p></li>
 </list>
 </question>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-15" block_type="q_cyu" number="15">
+<question id="krugmanwellsessentials4e-ch2-question-15" block_type="q_prob" number="15">
 <p id="krugmanwellsessentials4e-ch2-p289" block_type="cr-que-nl-first"><phrase block_type="qnum">15.</phrase> Assess the following statement: &#8220;If economists just had enough data, they could solve all policy questions in a way that maximizes the social good. There would be no need for divisive political debates, such as whether the government should provide free medical care for all.&#8221;</p>
 </question>
 </section>
@@ -708,7 +707,7 @@ title="KRU_Chapter_02_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manus
 <box numbered="false" id="krugmanwellsessentials4e-ch2-exp2-5" block_type="mn2">
 <p id="krugmanwellsessentials4e-ch2-p290" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch2-img-22" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> interactive activity</p>
 </box>
-<question id="krugmanwellsessentials4e-ch2-cyuquestion-16" block_type="q_cyu" number="16">
+<question id="krugmanwellsessentials4e-ch2-question-16" block_type="q_prob" number="16">
 <p id="krugmanwellsessentials4e-ch2-p291" block_type="cr-que-nl-first"><phrase block_type="qnum">16.</phrase> Atlantis is a small, isolated island in the South Atlantic. The inhabitants grow potatoes and catch fish. The following table shows the maximum annual output combinations of potatoes and fish that can be produced. Obviously, given their limited resources and available technology, as they use more of their resources for potato production, there are fewer resources available for catching fish.</p>
 <table id="krugmanwellsessentials4e-ch2-untab-4" block_type="un_table" data-href="asset/ch2/tables/untable_2_4.html" data-target="_pop">
 <layout align="center" width="large"/>
