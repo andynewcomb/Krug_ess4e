@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<manifest id="krugmanwellsessentials4e" timestamp="1463006927" supp_win="0"><manuscript id="5731e764757a2eee68000000" title="CHAPTER 1: First Principles" question-delivery-method="ARGA" number="1">
+<manifest id="krugmanwellsessentials4e" timestamp="1463610318" supp_win="0"><manuscript id="5731e764757a2eee68000000" title="CHAPTER 1: First Principles" question-delivery-method="ARGA" number="1">
     <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch1-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch1_1.html" dlapFilename="krugmanwellsessentials4e_ch1_1_dlap.xml" numquestions="0"/>
     <section number="1.1" id="krugmanwellsessentials4e-ch1-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch1_2.html" dlapFilename="krugmanwellsessentials4e_ch1_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>The Ordinary Business of Life</title>
@@ -86,7 +86,7 @@
     </section>
     <section number="2.2" id="krugmanwellsessentials4e-ch2-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch2_3.html" dlapFilename="krugmanwellsessentials4e_ch2_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>Using Models</title>
-      <section id="idm15475152" folder="false">
+      <section id="idp7143936" folder="false">
         <title>Positive versus Normative Economics</title>
       </section>
       <section id="krugmanwellsessentials4e-ch2-sec2-5" folder="false">
@@ -99,7 +99,7 @@
     <section number="2.4" id="krugmanwellsessentials4e-ch2-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch2_5.html" dlapFilename="krugmanwellsessentials4e_ch2_5_dlap.xml" numquestions="0">
       <title>SUMMARY</title>
     </section>
-    <section number="2.5" id="krugmanwellsessentials4e-ch2-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch2_6.html" dlapFilename="krugmanwellsessentials4e_ch2_6_dlap.xml" numquestions="0">
+    <section number="2.5" id="krugmanwellsessentials4e-ch2-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch2_6.html" dlapFilename="krugmanwellsessentials4e_ch2_6_dlap.xml" numquestions="1">
       <title>KEY TERMS</title>
     </section>
     <section number="2.6" id="krugmanwellsessentials4e-ch2-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch2_7.html" dlapFilename="krugmanwellsessentials4e_ch2_7_dlap.xml" numquestions="0">
@@ -181,7 +181,7 @@
     </section>
   </manuscript><manuscript id="5731e7db757a2e3064000000" title="CHAPTER 4: Price Controls and Quotas: Meddling with Markets" question-delivery-method="ARGA" number="4">
     <section title="Consumer Surplus and the Demand Curve" id="krugmanwellsessentials4e-ch4-sec1-001" folder="false" filename="krugmanwellsessentials4e_ch4_1.html" dlapFilename="krugmanwellsessentials4e_ch4_1_dlap.xml" numquestions="0"/>
-    <section number="4.1" id="idp30742384" folder="true" filename="krugmanwellsessentials4e_ch4_2.html" dlapFilename="krugmanwellsessentials4e_ch4_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+    <section number="4.1" id="idm234547280" folder="true" filename="krugmanwellsessentials4e_ch4_2.html" dlapFilename="krugmanwellsessentials4e_ch4_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>Consumer Surplus and the Demand Curve</title>
       <section id="krugmanwellsessentials4e-ch4-sec2-001" folder="false">
         <title>Willingness to Pay and the Demand Curve</title>
@@ -238,7 +238,7 @@
     <section number="4.9" id="krugmanwellsessentials4e-ch4-sec1-008" folder="false" filename="krugmanwellsessentials4e_ch4_10.html" dlapFilename="krugmanwellsessentials4e_ch4_10_dlap.xml" numquestions="0">
       <title>SUMMARY</title>
     </section>
-    <section number="4.10" id="krugmanwellsessentials4e-ch4-sec1-009" folder="false" filename="krugmanwellsessentials4e_ch4_11.html" dlapFilename="krugmanwellsessentials4e_ch4_11_dlap.xml" numquestions="0">
+    <section number="4.10" id="krugmanwellsessentials4e-ch4-sec1-009" folder="false" filename="krugmanwellsessentials4e_ch4_11.html" dlapFilename="krugmanwellsessentials4e_ch4_11_dlap.xml" numquestions="1">
       <title>KEY TERMS</title>
     </section>
     <section number="4.11" id="krugmanwellsessentials4e-ch4-sec1-010" folder="false" filename="krugmanwellsessentials4e_ch4_12.html" dlapFilename="krugmanwellsessentials4e_ch4_12_dlap.xml" numquestions="0">
@@ -246,7 +246,7 @@
     </section>
   </manuscript><manuscript id="5731e805757a2e5f68000000" title="CHAPTER 5: Elasticity and Taxation" question-delivery-method="ARGA" number="5">
     <section title="Defining and Measuring Elasticity" id="krugmanwellsessentials4e-ch5-sec1-001" folder="false" filename="krugmanwellsessentials4e_ch5_1.html" dlapFilename="krugmanwellsessentials4e_ch5_1_dlap.xml" numquestions="0"/>
-    <section number="5.1" id="idp8242320" folder="true" filename="krugmanwellsessentials4e_ch5_2.html" dlapFilename="krugmanwellsessentials4e_ch5_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+    <section number="5.1" id="idp4233184" folder="true" filename="krugmanwellsessentials4e_ch5_2.html" dlapFilename="krugmanwellsessentials4e_ch5_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>Defining and Measuring Elasticity</title>
       <section id="krugmanwellsessentials4e-ch5-sec2-001" folder="false">
         <title>Calculating the Price Elasticity of Demand</title>
@@ -309,7 +309,7 @@
     <section number="5.8" id="krugmanwellsessentials4e-ch5-sec1-007" folder="false" filename="krugmanwellsessentials4e_ch5_9.html" dlapFilename="krugmanwellsessentials4e_ch5_9_dlap.xml" numquestions="0">
       <title>SUMMARY</title>
     </section>
-    <section number="5.9" id="krugmanwellsessentials4e-ch5-sec1-008" folder="false" filename="krugmanwellsessentials4e_ch5_10.html" dlapFilename="krugmanwellsessentials4e_ch5_10_dlap.xml" numquestions="0">
+    <section number="5.9" id="krugmanwellsessentials4e-ch5-sec1-008" folder="false" filename="krugmanwellsessentials4e_ch5_10.html" dlapFilename="krugmanwellsessentials4e_ch5_10_dlap.xml" numquestions="1">
       <title>KEY TERMS</title>
     </section>
     <section number="5.10" id="krugmanwellsessentials4e-ch5-sec1-009" folder="false" filename="krugmanwellsessentials4e_ch5_11.html" dlapFilename="krugmanwellsessentials4e_ch5_11_dlap.xml" numquestions="0">

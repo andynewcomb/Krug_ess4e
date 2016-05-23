@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="08" name="" title="KRU_Chapter_08_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="8" id="krugmanwellsessentials4e-ch8-chapter-8" title="CHAPTER 8: Monopoly" start-numbering-at="8" numbered="true">
+<section id="krugmanwellsessentials4e-ch8-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="231">
+<p id="krugmanwellsessentials4e_page_231" block_type="page_start">231</p>
+<p id="krugmanwellsessentials4e-ch8-p2" block_type="chapter_title">Monopoly</p>
+<p id="krugmanwellsessentials4e-ch8-p1" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">8</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch8-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch8-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong>EVERYBODY MUST GET STONES</strong></p>
+<figure id="krugmanwellsessentials4e-ch8-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch8-img-2" alt="image" src="images/KrugESS4e_CO08.jpg"/>
+<caption>&#8220;Got stones?&#8221;</caption>
+<asset_source>Corbis</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch8-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch8-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch8-p5" block_type="obj-bl">The significance of <strong>monopoly,</strong> where a single <strong>monopolist</strong> is the only producer of a good</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p6" block_type="obj-bl">How a monopolist determines its profit-maximizing output and price</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p7" block_type="obj-bl">The difference between monopoly and perfect competition, and the effects of that difference on society&#8217;s welfare</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p8" block_type="obj-bl">How policy makers address the problems posed by monopoly</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p9" block_type="obj-bl">What <strong>price discrimination</strong> is, and why it is so prevalent when producers have <strong>market power</strong></p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p11" block_type="co-txt-ni"><phrase block_type="dropcap">A</phrase> FEW YEARS AGO DE BEERS, the world&#8217;s main supplier of diamonds, ran an ad urging men to buy their wives diamond jewelry. &#8220;She married you for richer, for poorer,&#8221; read the ad. &#8220;Let her know how it&#8217;s going.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch8-p12" block_type="co-txt">Crass? Yes. Effective? No question. For generations diamonds have been a symbol of luxury, valued not only for their appearance but also for their rarity. Diamonds were famously idolized in song by Marilyn Monroe in the film &#8220;Gentlemen Prefer Blondes,&#8221; where we learn that diamonds are &#8220;a girl&#8217;s best friend.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch8-p13" block_type="co-txt">But geologists will tell you that diamonds aren&#8217;t all that rare. In fact, according to the <em>Dow Jones-Irwin Guide to Fine Gems and Jewelry,</em> diamonds are &#8220;more common than any other gem-quality colored stone. They only seem rarer &#8230;&#8221;</p>
+<p id="krugmanwellsessentials4e-ch8-p14" block_type="co-txt">Why do diamonds seem rarer than other gems? Part of the answer is a brilliant marketing campaign. But mainly diamonds seem rare because De Beers <em>makes</em> them rare: the company controls most of the world&#8217;s diamond mines and limits the quantity of diamonds supplied to the market.</p>
+<p id="krugmanwellsessentials4e-ch8-p15" block_type="co-txt">Up to now we have concentrated exclusively on perfectly competitive markets&#8212;markets in which the producers are perfect competitors. But De Beers isn&#8217;t like the producers we&#8217;ve studied so far: it is a <em>monopolist,</em> the sole (or almost sole) producer of a good. Monopolists behave differently from producers in perfectly competitive industries: whereas perfect competitors take the price at which they can sell their output as given, monopolists know that their actions affect market prices and take that effect into account when deciding how much to produce.</p>
+<p id="krugmanwellsessentials4e-ch8-p16" block_type="co-txt"><em>Monopoly</em> is one type of market structure in which firms have the ability to raise prices. <em>Oligopoly</em> and <em>monopolistic competition</em> are two other types of market structures&#8212;both covered in the next chapter&#8212;in which firms can also take actions that affect market prices. We begin this chapter with a brief overview of the types of market structures and a system of classifying markets and industries into two main dimensions. This will help us understand on a deeper level why producers in these markets behave quite differently.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-1" block_type="h1" title="" chapter="8" numbered="true" level="1" print_page="232">
+<section-metadata><section-title>Types of Market Structure</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_232" block_type="page_start">232</p>
+<p id="krugmanwellsessentials4e-ch8-p17" block_type="txt-ni">In the real world, there is a mind-boggling array of different markets. We observe widely different behavior patterns by producers across markets: in some markets producers are extremely competitive; in others, they seem somehow to coordinate their actions to avoid competing with one another; and, as we have just described, some markets are monopolies in which there is no competition at all.</p>
+<p id="krugmanwellsessentials4e-ch8-p18" block_type="txt">In order to develop principles and make predictions about markets and how producers will behave in them, economists have developed four principal models of market structure: <em>perfect competition, monopoly, oligopoly,</em> and <em>monopolistic competition.</em> This system of market structures is based on two dimensions:</p>
+<list id="krugmanwellsessentials4e-ch8-list-2" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch8-p19" block_type="nl-first">The number of producers in the market (one, few, or many)</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p20" block_type="nl-last">Whether the goods offered are identical or <em>differentiated</em></p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch8-p21" block_type="txt-ni">Differentiated goods are goods that are different but considered somewhat substitutable by consumers (think Coke versus Pepsi).</p>
+<p id="krugmanwellsessentials4e-ch8-p22" block_type="txt"><link href="#krugmanwellsessentials4e-ch8-fig-2">Figure 8-1</link> provides a simple visual summary of the types of market structure classified according to the two dimensions.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-2" block_type="figure" numbered="true" number="8-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-2"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-1</strong></phrase></phrase> <phrase block_type="fig_title">Types of Market Structure</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-4" alt="image" src="images/KrugESS4e_fig_08_01.jpg"/>
+<caption>The behavior of any given firm and the market it occupies are analyzed using one of four models of market structure&#8212;monopoly, oligopoly, perfect competition, or monopolistic competition. This system for categorizing market structure is based on two dimensions: (1) whether products are differentiated or identical, and (2) the number of producers in the industry&#8212;one, a few, or many.</caption>
+</figure>
+<list id="krugmanwellsessentials4e-ch8-list-3" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch8-p23" block_type="bl-first">In <em>monopoly,</em> a single producer sells a single, undifferentiated product.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p24" block_type="bl-mid">In <em>oligopoly,</em> a few producers&#8212;more than one but not a large number&#8212;sell products that may be either identical or differentiated.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p25" block_type="bl-mid">In <em>monopolistic competition,</em> many producers each sell a differentiated product (think of producers of economics textbooks).</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p26" block_type="bl-last">And in <em>perfect competition</em> many producers each sell an identical product.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch8-p27" block_type="txt">You might wonder what determines the number of firms in a market: whether there is one (monopoly), a few (oligopoly), or many (perfect competition and monopolistic competition). We won&#8217;t answer that question here because it will be covered in detail later in this chapter and in <link href="krugmanwellsessentials4e-ch09.xml">Chapter 9</link>, which analyzes oligopoly and monopolistic competition.</p>
+<p id="krugmanwellsessentials4e-ch8-p28" block_type="txt">We will just briefly note that in the long run it depends on whether there are conditions that make it difficult for new firms to enter the market, such as control of necessary resources or inputs, increasing returns to scale in production, technological superiority, a network externality, or government regulations. When these conditions are present, industries tend to be monopolies or oligopolies; when they are not present, industries tend to be perfectly competitive or monopolistically competitive.</p>
+<p id="krugmanwellsessentials4e_page_233" block_type="page_start">233</p>
+<p id="krugmanwellsessentials4e-ch8-p29" block_type="txt">You might also wonder why some markets have differentiated products but others have identical ones. The answer is that it depends on the nature of the good and consumers&#8217; preferences. Some goods&#8212;soft drinks, economics textbooks, breakfast cereals&#8212;can readily be made into different varieties in the eyes and tastes of consumers. Other goods&#8212;hammers, for example&#8212;are much less easy to differentiate.</p>
+<p id="krugmanwellsessentials4e-ch8-p30" block_type="txt">Although this chapter is devoted to monopoly, important aspects of monopoly carry over to oligopoly and monopolistic competition. In the next section, we define monopoly and review the conditions that make it possible. These same conditions, in less extreme form, also give rise to oligopoly. We then show how a monopolist can increase profit by limiting the quantity supplied to a market&#8212;behavior that also occurs in oligopoly and monopolistic competition.</p>
+<p id="krugmanwellsessentials4e-ch8-p31" block_type="txt">As we&#8217;ll see, this kind of behavior is good for the producer but bad for consumers; it also causes inefficiency. An important topic of study will be the ways in which public policy tries to limit the damage. Finally, we turn to one of the surprising effects of monopoly&#8212;one that is very often present in oligopoly and monopolistic competition as well: the fact that different consumers often pay different prices for the same good.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-2" block_type="h1" title="" chapter="8" numbered="true" level="1" print_page="233">
+<section-metadata><section-title>The Meaning of Monopoly</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p32" block_type="txt-ni">The De Beers monopoly of South Africa was created in the 1880s by Cecil Rhodes, a British businessman. By 1880 mines in South Africa already dominated the world&#8217;s supply of diamonds. There were, however, many mining companies, all competing with each other. Rhodes bought the great majority of those mines and consolidated them into a single company. By 1889 De Beers controlled almost all of the world&#8217;s diamond production.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p33" block_type="mn-gl-def">A <strong>monopolist</strong> is a firm that is the only producer of a good that has no close substitutes. An industry controlled by a monopolist is known as a <strong>monopoly.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p34" block_type="txt">De Beers, in other words, became a <strong>monopolist.</strong> A producer is a monopolist if it is the sole supplier of a good that has no close substitutes. When a firm is a monopolist, the industry is a <strong>monopoly.</strong></p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-1" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="233">
+<section-metadata><section-title>Monopoly: Our First Departure from Perfect Competition</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p35" block_type="txt-ni">As we saw in <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link>, the supply and demand model of a market is not universally valid. Instead, it&#8217;s a model of perfect competition, which is only one of several different types of market structure.</p>
+<p id="krugmanwellsessentials4e-ch8-p36" block_type="txt">A market will be perfectly competitive only if there are many producers, all of whom produce the same good. Monopoly is the most extreme departure from perfect competition.</p>
+<p id="krugmanwellsessentials4e-ch8-p37" block_type="txt">In practice, true monopolies are hard to find in the modern American economy, partly because of legal obstacles. A contemporary entrepreneur who tried to consolidate all the firms in an industry the way that Rhodes did would soon land in court, accused of breaking <em>antitrust</em> laws, which are intended to prevent monopolies from emerging. Oligopoly, a market structure in which there is a small number of large producers, is much more common. In fact, most of the goods you buy, from autos to airline tickets, are supplied by oligopolies.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-2" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="233">
+<section-metadata><section-title>What Monopolists Do</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p38" block_type="txt-ni">Why did Rhodes want to consolidate South African diamond producers into a single company? What difference did it make to the world diamond market?</p>
+<p id="krugmanwellsessentials4e_page_234" block_type="page_start">234</p>
+<p id="krugmanwellsessentials4e-ch8-p39" block_type="txt"><link href="#krugmanwellsessentials4e-ch8-fig-3">Figure 8-2</link> offers a preliminary view of the effects of monopoly. It shows an industry in which the supply curve under perfect competition intersects the demand curve at <em>C,</em> leading to the price <em>P<sub>C</sub></em> and the output <em>Q<sub>C</sub></em>.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-3" block_type="figure" numbered="true" number="8-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-3"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-2</strong></phrase></phrase> <phrase block_type="fig_title">What a Monopolist Does</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-5" alt="image" src="images/KrugESS4e_fig_08_02.jpg"/>
+<caption>Under perfect competition, the price and quantity are determined by supply and demand. Here, the competitive equilibrium is at <em>C</em>, where the price is <em>P<sub>C</sub></em> and the quantity is <em>Q<sub>C</sub></em>. A monopolist reduces the quantity supplied to <em>Q<sub>M</sub></em> and moves up the demand curve from <em>C</em> to <em>M</em>, raising the price to <em>P<sub>M</sub>.</em></caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p40" block_type="txt">Suppose that this industry is consolidated into a monopoly. The monopolist <em>moves up the demand curve</em> by reducing quantity supplied to a point like <em>M,</em> at which the quantity produced, <em>Q<sub>M</sub>,</em> is lower, and the price, <em>P<sub>M</sub>,</em> is higher than under perfect competition.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p41" block_type="mn-gl-def"><strong>Market power</strong> is the ability of a firm to raise prices.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p42" block_type="txt">The ability of a monopolist to raise its price above the competitive level by reducing output is known as <strong>market power.</strong> And market power is what monopoly is all about. A wheat farmer who is one of 100,000 wheat farmers has no market power: he or she must sell wheat at the going market price. Your local water utility company, though, does have market power: it can raise prices and still keep many (though not all) of its customers, because they have nowhere else to go. In short, it&#8217;s a monopolist.</p>
+<p id="krugmanwellsessentials4e-ch8-p43" block_type="txt">The reason a monopolist reduces output and raises price compared to the perfectly competitive industry levels is to increase profit. Cecil Rhodes consolidated the diamond producers into De Beers because he realized that the whole would be worth more than the sum of its parts&#8212;the monopoly would generate more profit than the sum of the profits of the individual competitive firms. As we&#8217;ve learned, under perfect competition economic profits normally vanish in the long run as competitors enter the market. Under monopoly the profits don&#8217;t go away&#8212;a monopolist is able to continue earning economic profits in the long run.</p>
+<p id="krugmanwellsessentials4e-ch8-p44" block_type="txt">In fact, monopolists are not the only types of firms that possess market power. <em>Oligopolists,</em> firms that can have market power, do as well. Under certain conditions, oligopolists can earn positive economic profits in the long run by restricting output like monopolists do.</p>
+<p id="krugmanwellsessentials4e-ch8-p45" block_type="txt">But why don&#8217;t profits get competed away? What allows monopolists to be monopolists?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-3" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="235">
+<section-metadata><section-title>Why Do Monopolies Exist?</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_235" block_type="page_start">235</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p46" block_type="mn-gl-def">To earn economic profits, a monopolist must be protected by a <strong>barrier to entry</strong>&#8212;something that prevents other firms from entering the industry.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p47" block_type="txt-ni">A monopolist making profits will not go unnoticed by others. (Recall that this is <em>economic profit</em>, revenue over and above the opportunity costs of the firm&#8217;s resources.) But won&#8217;t other firms crash the party, grab a piece of the action, and drive down prices and profits in the long run? For a profitable monopoly to persist, something must keep others from going into the same business; that &#8220;something&#8221; is known as a <strong>barrier to entry.</strong> There are five principal types of barriers to entry: control of a scarce resource or input, increasing returns to scale, technological superiority, a network externality, and a government-created barrier to entry.</p>
+<p id="krugmanwellsessentials4e-ch8-p48" block_type="txt-3"><phrase block_type="h3"><strong>1. Control of a Scarce Resource or Input</strong></phrase> A monopolist that controls a resource or input crucial to an industry can prevent other firms from entering its market. Cecil Rhodes created the De Beers monopoly by establishing control over the mines that produced the great bulk of the world&#8217;s diamonds.</p>
+<p id="krugmanwellsessentials4e-ch8-p49" block_type="txt-3"><phrase block_type="h3"><strong>2. Increasing Returns to Scale</strong></phrase> Many Americans have natural gas piped into their homes, for cooking and heating. Invariably, the local gas company is a monopolist. But why don&#8217;t rival companies compete to provide gas?</p>
+<p id="krugmanwellsessentials4e-ch8-p50" block_type="txt">In the early nineteenth century, when the gas industry was just starting up, companies did compete for local customers. But this competition didn&#8217;t last long; soon local gas supply became a monopoly in almost every town because of the large fixed costs involved in providing a town with gas lines. The cost of laying gas lines didn&#8217;t depend on how much gas a company sold, so a firm with a larger volume of sales had a cost advantage: because it was able to spread the fixed costs over a larger volume, it had lower average total costs than smaller firms.</p>
+<p id="krugmanwellsessentials4e-ch8-p51" block_type="txt">Local gas supply is an industry in which average total cost falls as output increases. As we learned in <link href="krugmanwellsessentials4e-ch06.xml">Chapter 6</link>, this phenomenon is called <em>increasing returns to scale.</em> When average total cost falls as output increases, firms tend to grow larger. In an industry characterized by increasing returns to scale, larger companies are more profitable and drive out smaller ones. For the same reason, established companies have a cost advantage over any potential entrant&#8212;a potent barrier to entry. So increasing returns to scale can both give rise to and sustain monopoly.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p52" block_type="mn-gl-def">A <strong>natural monopoly</strong> exists when increasing returns to scale provide a large cost advantage to a single firm that produces all of an industry&#8217;s output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p53" block_type="txt">A monopoly created and sustained by increasing returns to scale is called a <strong>natural monopoly.</strong> The defining characteristic of a natural monopoly is that it possesses increasing returns to scale over the range of output that is relevant for the industry. This is illustrated in <link href="#krugmanwellsessentials4e-ch8-fig-4">Figure 8-3</link>, showing the firm&#8217;s average total cost curve and the market demand curve, <em>D.</em> Here we can see that the natural monopolist&#8217;s <em>ATC</em> curve declines over the output levels at which price is greater than or equal to average total cost.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-4" block_type="figure" numbered="true" number="8-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-4"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-3</strong></phrase></phrase> <phrase block_type="fig_title">Increasing Returns to Scale Create Natural Monopoly</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-6" alt="image" src="images/KrugESS4e_fig_08_03.jpg"/>
+<caption>A natural monopoly can arise when fixed costs required to operate are very high. When this occurs, the firm&#8217;s <em>ATC</em> curve declines over the range of output at which price is greater than or equal to average total cost. This gives the firm increasing returns to scale over the entire range of output at which the firm would at least break even in the long run. As a result, a given quantity of output is produced more cheaply by one large firm than by two or more smaller firms.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p54" block_type="txt">So the natural monopolist has increasing returns to scale over the entire range of output for which any firm would want to remain in the industry&#8212;the range of output at which the firm would at least break even in the long run. The source of this condition is large fixed costs: when large fixed costs are required to operate, a given quantity of output is produced at lower average total cost by one large firm than by two or more smaller firms.</p>
+<p id="krugmanwellsessentials4e-ch8-p55" block_type="txt">The most visible natural monopolies in the modern economy are local utilities&#8212;water, gas, and sometimes electricity. As we&#8217;ll see, natural monopolies pose a special challenge to public policy.</p>
+<p id="krugmanwellsessentials4e-ch8-p56" block_type="txt-3"><phrase block_type="h3"><strong>3. Technological Superiority</strong></phrase> A firm that maintains a consistent technological advantage over potential competitors can establish itself as a monopolist. For example, from the 1970s through the 1990s the chip manufacturer Intel was able to maintain a consistent advantage over potential competitors in both the design and production of microprocessors, the chips that run computers. But technological superiority is typically not a barrier to entry over the longer term: over time competitors will invest in upgrading their technology to match that of the technology leader. In fact, Intel has found its technological superiority eroded by a competitor, Advanced Micro Devices (also known as AMD), which produces chips approximately as fast and as powerful as Intel chips.</p>
+<p id="krugmanwellsessentials4e_page_236" block_type="page_start">236</p>
+<p id="krugmanwellsessentials4e-ch8-p57" block_type="txt">We should note, however, that in certain high-tech industries, technological superiority is not a guarantee of success against competitors because of <em>network externalities.</em></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p58" block_type="mn-gl-def">A <strong>network externality</strong> exists when the value of a good or service to an individual is greater when many other people use the good or service as well.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p59" block_type="txt-3"><phrase block_type="h3"><strong>4. Network Externality</strong></phrase> If you were the only person in the world with an internet connection, what would that connection be worth to you? The answer, of course, is nothing. Your internet connection is valuable only because other people are also connected. And, in general, the more people who are connected, the more valuable your connection is. This phenomenon, whereby the value of a good or service to an individual is greater when many others use the same good or service, is called a <strong>network externality&#8212;</strong>its value derives from enabling its users to participate in a network of other users.</p>
+<p id="krugmanwellsessentials4e-ch8-p60" block_type="txt">The earliest form of network externalities arose in transportation, where the value of a road or airport increased as the number of people who had access to it rose. But network externalities are especially prevalent in the technology and communications sectors of the economy.</p>
+<p id="krugmanwellsessentials4e-ch8-p61" block_type="txt">The classic case is computer operating systems. Worldwide, most personal computers run on Microsoft Windows. Although many believe that Apple has a superior operating system, the wider use of Windows in the early days of personal computers attracted more software development and technical support, giving it a lasting dominance.</p>
+<p id="krugmanwellsessentials4e-ch8-p62" block_type="txt">When a network externality exists, the firm with the largest network of customers using its product has an advantage in attracting new customers, one that may allow it to become a monopolist. At a minimum, the dominant firm can charge a higher price and so earn higher profits than competitors. Moreover, a network externality gives an advantage to the firm with the &#8220;deepest pockets.&#8221; Companies with the most money on hand can sell the most goods at a loss with the expectation that doing so will give them the largest customer base.</p>
+<p id="krugmanwellsessentials4e_page_237" block_type="page_start">237</p>
+<p id="krugmanwellsessentials4e-ch8-p63" block_type="txt-3"><phrase block_type="h3"><strong>5. Government-Created Barrier</strong></phrase> The pharmaceutical company Merck introduced Propecia, a drug effective against baldness in 1998. Although Propecia was very profitable and other drug companies had the know-how to produce it, no other firms challenged Merck&#8217;s monopoly because the U.S. government had given Merck the sole legal right to produce the drug in the United States. Propecia is an example of a monopoly protected by government-created barriers.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p64" block_type="mn-gl-def">A <strong>patent</strong> gives an inventor a temporary monopoly in the use or sale of an invention.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p65" block_type="mn-gl-def">A <strong>copyright</strong> gives the creator of a literary or artistic work sole rights to profit from that work.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p66" block_type="txt">The most important legally created monopolies today arise from <em>patents</em> and <em>copyrights.</em> A <strong>patent</strong> gives an inventor the sole right to make, use, or sell that invention for a period that in most countries lasts between 16 and 20 years. Patents are given to the creators of new products, such as drugs or devices. Similarly, a <strong>copyright</strong> gives the creator of a literary or artistic work the sole rights to profit from that work, usually for a period equal to the creator&#8217;s lifetime plus 70 years.</p>
+<p id="krugmanwellsessentials4e-ch8-p67" block_type="txt">The justification for patents and copyrights is a matter of incentives. If inventors were not protected by patents, they would gain little reward from their efforts: as soon as a valuable invention was made public, others would copy it and sell products based on it. And if inventors could not expect to profit from their inventions, then there would be no incentive to incur the costs of invention in the first place. Likewise for the creators of literary or artistic works. So the law gives a temporary monopoly that encourages invention and creation by imposing temporary property rights.</p>
+<p id="krugmanwellsessentials4e-ch8-p68" block_type="txt">Patents and copyrights are temporary because the law strikes a compromise. The higher price for the good that holds while the legal protection is in effect compensates inventors for the cost of invention; conversely, the lower price that results once the legal protection lapses and competition emerges benefits consumers and increases economic efficiency.</p>
+<p id="krugmanwellsessentials4e-ch8-p69" block_type="txt">Because the duration of the temporary monopoly cannot be tailored to specific cases, this system is imperfect and leads to some missed opportunities. In some cases there can be significant welfare issues. For example, the violation of American drug patents by pharmaceutical companies in poor countries has been a major source of controversy, pitting the needs of poor patients who cannot afford retail drug prices against the interests of drug manufacturers that have incurred high research costs to discover these drugs.</p>
+<p id="krugmanwellsessentials4e-ch8-p70" block_type="txt">To solve this problem, some American drug companies and poor countries have negotiated deals in which the patents are honored but the American companies sell their drugs at deeply discounted prices. (This is an example of <em>price discrimination,</em> which we&#8217;ll learn about shortly.)</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch8-img-7" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch8-p71" block_type="bx-2-t"><strong>Newly Emerging Markets: A Diamond Monopolist&#8217;s Best Friend</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p72" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-8" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p73" block_type="bx2-first"><phrase block_type="dropcap">W</phrase>hen Cecil Rhodes created the De Beers monopoly, it was a particularly opportune moment. The new diamond mines in South Africa dwarfed all previous sources, so almost all of the world&#8217;s diamond production was concentrated in a few square miles.</p>
+<p id="krugmanwellsessentials4e-ch8-p74" block_type="bx2-txt">Until recently, De Beers was able to extend its control of resources even as new mines opened. De Beers either bought out new producers or entered into agreements with local governments that controlled some of the new mines, effectively making them part of the De Beers monopoly.</p>
+<p id="krugmanwellsessentials4e-ch8-p75" block_type="bx2-txt">The most remarkable of these was an agreement with the former Soviet Union, which ensured that Russian diamonds would be marketed through De Beers, preserving its ability to control retail prices. De Beers also went so far as to stockpile a year&#8217;s supply of diamonds in its London vaults so that when demand dropped, newly mined stones would be stored rather than sold, restricting retail supply until demand and prices recovered.</p>
+<p id="krugmanwellsessentials4e_page_238" block_type="page_start">238</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-5" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch8-img-9" alt="image" src="images/KrugESS4e_08UN01.jpg"/>
+<caption>An increase in demand for diamonds in emerging markets has led to increased depletion of the world&#8217;s diamond mines and higher prices.</caption>
+<asset_source>Abenaa/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p76" block_type="bx2-txt">De Beers&#8217;s peak market share reached almost 90&#37; in the late 1980s but has been declining ever since. In 2013, decadeslong litigation between De Beers and the U.S. government was finally settled with De Beers agreeing to stop attempting to monopolize the market for diamonds and to stop fixing the price of polished diamonds. De Beers has also lost control of supply as several independent companies have begun mining for diamonds in other African countries, as well as in Russia and Canada. In addition, high-quality, inexpensive synthetic diamonds have become an alternative to real gems, eating into De Beers&#8217;s profit. So does this mean an end to high diamond prices and De Beers&#8217;s high profits?</p>
+<p id="krugmanwellsessentials4e-ch8-p77" block_type="bx2-txt">Not really. Although De Beers&#8217; is no longer the largest producer of rough diamonds, it still earns the highest revenue of any producer. Although supply and demand determine the outcome of today&#8217;s diamond market much more than De Beers&#8217;s actions, it and other diamond producers are highly profitable. There is still severely limited supply, as old mines have become depleted and new sources of diamonds have been difficult to find. At the same time consumers from rapidly growing economies like China and India have significantly boosted diamond demand.</p>
+<p id="krugmanwellsessentials4e-ch8-p78" block_type="bx2-txt">In the end, although a diamond monopoly may not be forever, a greatly restricted supply along with rising demand from rapidly growing economies may be almost as profitable.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch8-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch8-list-4" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch8-p79" block_type="sr1-bl">In a <strong>monopoly,</strong> a single firm uses its <strong>market power</strong> to charge higher prices and produce less output than a competitive industry, generating profits in the short and long run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p80" block_type="sr1-bl">Profits will not persist in the long run unless there is a <strong>barrier to entry</strong> such as control of natural resources, increasing returns to scale, technological superiority, network externalities, or legal restrictions imposed by governments.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p81" block_type="sr1-bl">A <strong>natural monopoly</strong> arises when average total cost is declining over the output range relevant for the industry. This creates a barrier to entry because an established monopolist has lower average total cost than an entrant.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p82" block_type="sr1-bl">In certain technology and communications sectors of the economy, a <strong>network externality</strong> enables a firm with the largest number of customers to become a <strong>monopolist.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p83" block_type="sr1-bl"><strong>Patents</strong> and <strong>copyrights,</strong> government-created barriers, are a source of temporary monopoly that attempt to balance the need for higher prices as compensation to an inventor for the cost of invention against the increase in consumer surplus from lower prices and greater efficiency.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">8-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch8-p84" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Currently, Texas Tea Oil Co. is the only local supplier of home heating oil in Frigid, Alaska. This winter residents were shocked that the price of a gallon of heating oil had doubled and believed that they were the victims of market power. Explain which of the following pieces of evidence support or contradict that conclusion.</p>
+<list id="krugmanwellsessentials4e-ch8-list-5" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p85" block_type="sr2-nl-lvl2">There is a national shortage of heating oil, and Texas Tea could procure only a limited amount.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p86" block_type="sr2-nl-lvl2">Last year, Texas Tea and several other competing local oil-supply firms merged into a single firm.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p87" block_type="sr2-nl-lvl2">The cost to Texas Tea of purchasing heating oil from refineries has gone up significantly.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p88" block_type="sr2-nl-lvl2">Recently, some nonlocal firms have begun to offer heating oil to Texas Tea&#8217;s regular customers at a price much lower than Texas Tea&#8217;s.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p89" block_type="sr2-nl-lvl2">Texas Tea has acquired an exclusive government license to draw oil from the only heating oil pipeline in the state.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch8-p90" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Suppose the government is considering extending the length of a patent from 20 years to 30 years. How would this change each of the following?</p>
+<list id="krugmanwellsessentials4e-ch8-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p91" block_type="sr2-nl-lvl2">The incentive to invent new products</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p92" block_type="sr2-nl-lvl2">The length of time during which consumers have to pay higher prices</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-3" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch8-p93" block_type="sr2-nl-last"><phrase block_type="qnum">3.</phrase> Explain the nature of the network externality in each of the following cases.</p>
+<list id="krugmanwellsessentials4e-ch8-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p94" block_type="sr2-nl-lvl2">A new type of credit card, called Passport</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p95" block_type="sr2-nl-lvl2">A new type of car engine, which runs on solar cells</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p96" block_type="sr2-nl-lvl2">A website for trading locally provided goods and services</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch8-p97" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-3" block_type="h1" title="" chapter="8" numbered="true" level="1" print_page="239">
+<section-metadata><section-title>How a Monopolist Maximizes Profit</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_239" block_type="page_start">239</p>
+<p id="krugmanwellsessentials4e-ch8-p98" block_type="txt-ni">As we&#8217;ve suggested, once Cecil Rhodes consolidated the competing diamond producers of South Africa into a single company, the industry&#8217;s behavior changed: the quantity supplied fell and the market price rose. In this section, we will learn how a monopolist increases its profit by reducing output. And we will see the crucial role that market demand plays in leading a monopolist to behave differently from a perfectly competitive industry. (Remember that profit here is economic profit, not accounting profit.)</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-4" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="239">
+<section-metadata><section-title>The Monopolist&#8217;s Demand Curve and Marginal Revenue</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p99" block_type="txt-ni">In <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link> we derived the firm&#8217;s optimal output rule: a profit-maximizing firm produces the quantity of output at which the marginal cost of producing the last unit of output equals marginal revenue&#8212;the change in total revenue generated by that last unit of output. That is, <em>MR</em> = <em>MC</em> at the profit-maximizing quantity of output.</p>
+<p id="krugmanwellsessentials4e-ch8-p100" block_type="txt">Although the optimal output rule holds for all firms, we will see shortly that its application leads to different profit-maximizing output levels for a monopolist compared to a firm in a perfectly competitive industry&#8212;that is, a price-taking firm. The source of that difference lies in the comparison of the demand curve faced by a monopolist to the demand curve faced by an individual perfectly competitive firm.</p>
+<p id="krugmanwellsessentials4e-ch8-p101" block_type="txt">In addition to the optimal output rule, we also learned that even though the market demand curve always slopes downward, each of the firms that make up a perfectly competitive industry faces a <em>perfectly elastic</em> demand curve that is horizontal at the market price, like <em>D<sub>C</sub></em> in panel (a) of <link href="#krugmanwellsessentials4e-ch8-fig-6">Figure 8-4</link>. Any attempt by an individual firm in a perfectly competitive industry to charge more than the going market price will cause it to lose all its sales. It can, however, sell as much as it likes at the market price.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-6" block_type="figure" numbered="true" number="8-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-6"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-4</strong></phrase></phrase> <phrase block_type="fig_title">Comparing the Demand Curves of a Perfectly Competitive Producer and a Monopolist</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-10" alt="image" src="images/KrugESS4e_fig_08_04ab.jpg"/>
+<caption>Because an individual perfectly competitive producer cannot affect the market price of a good, it faces the horizontal demand curve <em>D<sub>C</sub></em>, as shown in panel (a), allowing it to sell as much as it wants at the market price. A monopolist, though, can affect the price. Because it is the sole supplier in the industry, it faces the market demand curve <em>D<sub>M</sub></em>, as shown in panel (b). To sell more output, it must lower the price; by reducing output, it raises the price.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_240" block_type="page_start">240</p>
+<p id="krugmanwellsessentials4e-ch8-p102" block_type="txt">As we saw in <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link>, the marginal revenue of a perfectly competitive producer is simply the market price. As a result, the price-taking firm&#8217;s optimal output rule is to produce the output level at which the marginal cost of the last unit produced is equal to the market price.</p>
+<p id="krugmanwellsessentials4e-ch8-p103" block_type="txt">A monopolist, in contrast, is the sole supplier of its good. So its demand curve is simply the market demand curve, which slopes downward, like <em>D<sub>M</sub></em> in panel (b) of <link href="#krugmanwellsessentials4e-ch8-fig-6">Figure 8-4</link>. This downward slope creates a &#8220;wedge&#8221; between the price of the good and the marginal revenue of the good&#8212;the change in revenue generated by producing one more unit.</p>
+<p id="krugmanwellsessentials4e-ch8-p104" block_type="txt"><link href="#krugmanwellsessentials4e-ch8-tab-1">Table 8-1</link> shows this wedge between price and marginal revenue for a monopolist, by calculating the monopolist&#8217;s total revenue and marginal revenue schedules from its demand schedule.</p>
+<table id="krugmanwellsessentials4e-ch8-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch8-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">8-1</phrase></strong> <phrase block_type="tbl_title">Demand, Total Revenue, and MarginalRevenue for the De Beers Monopoly</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Price of <br/>diamond <br/><em>P</em></strong></td>
+<td><strong>Quantity of <br/>diamonds <br/><em>Q</em></strong></td>
+<td><strong>Total <br/>revenue <br/><em>TR</em> = <em>P</em> &#215; <em>Q</em></strong></td>
+<td><strong>Marginal <br/>revenue <br/><em>MR</em> = &#916;<em>TR</em>/&#916;<em>Q</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>&#36;1,000</td>
+<td>0</td>
+<td>&#36;0</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#36;950</td>
+</tr>
+<tr class="tbl-td-light">
+<td>950</td>
+<td>1</td>
+<td>950</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>850</td>
+</tr>
+<tr class="tbl-td-light">
+<td>900</td>
+<td>2</td>
+<td>1,800</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>750</td>
+</tr>
+<tr class="tbl-td-light">
+<td>850</td>
+<td>3</td>
+<td>2,550</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>650</td>
+</tr>
+<tr class="tbl-td-light">
+<td>800</td>
+<td>4</td>
+<td>3,200</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>550</td>
+</tr>
+<tr class="tbl-td-light">
+<td>750</td>
+<td>5</td>
+<td>3,750</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>450</td>
+</tr>
+<tr class="tbl-td-light">
+<td>700</td>
+<td>6</td>
+<td>4,200</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>350</td>
+</tr>
+<tr class="tbl-td-light">
+<td>650</td>
+<td>7</td>
+<td>4,550</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>250</td>
+</tr>
+<tr class="tbl-td-light">
+<td>600</td>
+<td>8</td>
+<td>4,800</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>150</td>
+</tr>
+<tr class="tbl-td-light">
+<td>550</td>
+<td>9</td>
+<td>4,950</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+</tr>
+<tr class="tbl-td-light">
+<td>500</td>
+<td>10</td>
+<td>5,000</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;50</td>
+</tr>
+<tr class="tbl-td-light">
+<td>450</td>
+<td>11</td>
+<td>4,950</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;150</td>
+</tr>
+<tr class="tbl-td-light">
+<td>400</td>
+<td>12</td>
+<td>4,800</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;250</td>
+</tr>
+<tr class="tbl-td-light">
+<td>350</td>
+<td>13</td>
+<td>4,550</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;350</td>
+</tr>
+<tr class="tbl-td-light">
+<td>300</td>
+<td>14</td>
+<td>4,200</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;450</td>
+</tr>
+<tr class="tbl-td-light">
+<td>250</td>
+<td>15</td>
+<td>3,750</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;550</td>
+</tr>
+<tr class="tbl-td-light">
+<td>200</td>
+<td>16</td>
+<td>3,200</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;650</td>
+</tr>
+<tr class="tbl-td-light">
+<td>150</td>
+<td>17</td>
+<td>2,550</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;750</td>
+</tr>
+<tr class="tbl-td-light">
+<td>100</td>
+<td>18</td>
+<td>1,800</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;850</td>
+</tr>
+<tr class="tbl-td-light">
+<td>50</td>
+<td>19</td>
+<td>950</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;950</td>
+</tr>
+<tr class="tbl-td-light">
+<td>0</td>
+<td>20</td>
+<td>0</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch8-p105" block_type="txt">The first two columns of <link href="#krugmanwellsessentials4e-ch8-tab-1">Table 8-1</link> show a hypothetical demand schedule for De Beers diamonds. For the sake of simplicity, we assume that all diamonds are exactly alike. And to make the arithmetic easy, we suppose that the number of diamonds sold is far smaller than is actually the case. For instance, at a price of &#36;500 per diamond, we assume that only 10 diamonds are sold. The demand curve implied by this schedule is shown in panel (a) of <link href="#krugmanwellsessentials4e-ch8-fig-7">Figure 8-5</link>.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-7" block_type="figure" numbered="true" number="8-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-7"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-5</strong></phrase></phrase> <phrase block_type="fig_title">A Monopolist&#8217;s Demand, Total Revenue, and Marginal Revenue Curves</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-11" alt="image" src="images/KrugESS4e_fig_08_05ab.jpg"/>
+<caption>Panel (a) shows the monopolist&#8217;s demand and marginal revenue curves for diamonds from <link href="#krugmanwellsessentials4e-ch8-tab-1">Table 8-1</link>. The marginal revenue curve lies below the demand curve. To see why, consider point <em>A</em> on the demand curve, where 9 diamonds are sold at &#36;550 each, generating total revenue of &#36;4,950. To sell a 10th diamond, the price on all 10 diamonds must be cut to &#36;500, as shown by point <em>B</em>. As a result, total revenue increases by the green area (the quantity effect: &#43; &#36;500) but decreases by the yellow area (the price effect: &#8722;&#36;450). So the marginal revenue from the 10th diamond is &#36;50 (the difference between the green and yellow areas), which is much lower than its price, &#36;500. Panel (b) shows the monopolist&#8217;s total revenue curve for diamonds. As output goes from 0 to 10 diamonds, total revenue increases. It reaches its maximum at 10 diamonds&#8212;the level at which marginal revenue is equal to 0&#8212;and declines thereafter. The quantity effect dominates the price effect when total revenue is rising; the price effect dominates the quantity effect when total revenue is falling.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p106" block_type="txt">The third column of <link href="#krugmanwellsessentials4e-ch8-tab-1">Table 8-1</link> shows De Beers&#8217;s total revenue from selling each quantity of diamonds&#8212;the price per diamond multiplied by the number of diamonds sold. The last column calculates marginal revenue, the change in total revenue from producing and selling another diamond.</p>
+<p id="krugmanwellsessentials4e-ch8-p107" block_type="txt">Clearly, after the 1st diamond, the marginal revenue a monopolist receives from selling one more unit is less than the price at which that unit is sold. For example, if De Beers sells 10 diamonds, the price at which the 10th diamond is sold is &#36;500. But the marginal revenue&#8212;the change in total revenue in going from 9 to 10 diamonds&#8212;is only &#36;50.</p>
+<p id="krugmanwellsessentials4e-ch8-p108" block_type="txt">Why is the marginal revenue from that 10th diamond less than the price? It is less than the price because an increase in production by a monopolist has two opposing effects on revenue:</p>
+<list id="krugmanwellsessentials4e-ch8-list-8" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch8-p109" block_type="nl-first"><em>A quantity effect.</em> One more unit is sold, increasing total revenue by the price at which the unit is sold.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p110" block_type="nl-last"><em>A price effect.</em> In order to sell the last unit, the monopolist must cut the market price on <em>all</em> units sold. This decreases total revenue.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch8-p111" block_type="txt">The quantity effect and the price effect when the monopolist goes from selling 9 diamonds to 10 diamonds are illustrated by the two shaded areas in panel (a) of <link href="#krugmanwellsessentials4e-ch8-fig-7">Figure 8-5</link>. Increasing diamond sales from 9 to 10 means moving down the demand curve from <em>A</em> to <em>B,</em> reducing the price per diamond from &#36;550 to &#36;500. The green-shaded area represents the quantity effect: De Beers sells the 10th diamond at a price of &#36;500. This is offset, however, by the price effect, represented by the yellow-shaded area. In order to sell that 10th diamond, De Beers must reduce the price on all its diamonds from &#36;550 to &#36;500. So it loses 9 &#215; &#36;50 = &#36;450 in revenue, the yellow-shaded area. As point <em>C</em> indicates, the total effect on revenue of selling one more diamond&#8212;the marginal revenue&#8212;derived from an increase in diamond sales from 9 to 10 is only &#36;50.</p>
+<p id="krugmanwellsessentials4e_page_241" block_type="page_start">241</p>
+<p id="krugmanwellsessentials4e-ch8-p112" block_type="txt">Point <em>C</em> lies on the monopolist&#8217;s marginal revenue curve, labeled <em>MR</em> in panel (a) of <link href="#krugmanwellsessentials4e-ch8-fig-7">Figure 8-5</link> and taken from the last column of <link href="#krugmanwellsessentials4e-ch8-tab-1">Table 8-1</link>. The crucial point about the monopolist&#8217;s marginal revenue curve is that it is always <em>below</em> the demand curve. That&#8217;s because of the price effect: a monopolist&#8217;s marginal revenue from selling an additional unit is always less than the price the monopolist receives for the previous unit. It is the price effect that creates the wedge between the monopolist&#8217;s marginal revenue curve and the demand curve: in order to sell an additional diamond, De Beers must cut the market price on all units sold.</p>
+<p id="krugmanwellsessentials4e_page_242" block_type="page_start">242</p>
+<p id="krugmanwellsessentials4e-ch8-p113" block_type="txt">In fact, this wedge exists for any firm that possesses market power, such as an oligopolist as well as a monopolist. Having market power means that the firm faces a downward-sloping demand curve. As a result, there will always be a price effect from an increase in its output. So for a firm with market power, the marginal revenue curve always lies below its demand curve.</p>
+<p id="krugmanwellsessentials4e-ch8-p114" block_type="txt">Take a moment to compare the monopolist&#8217;s marginal revenue curve with the marginal revenue curve for a perfectly competitive firm, one without market power. For such a firm there is no price effect from an increase in output: its marginal revenue curve is simply its horizontal demand curve. So for a perfectly competitive firm, market price and marginal revenue are always equal.</p>
+<p id="krugmanwellsessentials4e-ch8-p115" block_type="txt">To emphasize how the quantity and price effects offset each other for a firm with market power, De Beers&#8217;s total revenue curve is shown in panel (b) of <link href="#krugmanwellsessentials4e-ch8-fig-7">Figure 8-5</link>. Notice that it is hill-shaped: as output rises from 0 to 10 diamonds, total revenue increases. This reflects the fact that at <em>low levels of output, the quantity effect is stronger than the price effect:</em> as the monopolist sells more, it has to lower the price on only very few units, so the price effect is small. As output rises beyond 10 diamonds, total revenue actually falls. This reflects the fact that <em>at high levels of output, the price effect is stronger than the quantity effect:</em> as the monopolist sells more, it now has to lower the price on many units of output, making the price effect very large.</p>
+<p id="krugmanwellsessentials4e-ch8-p116" block_type="txt">Correspondingly, the marginal revenue curve lies below zero at output levels above 10 diamonds. For example, an increase in diamond production from 11 to 12 yields only &#36;400 for the 12th diamond, simultaneously reducing the revenue from diamonds 1 through 11 by &#36;550. As a result, the marginal revenue of the 12th diamond is &#8722;&#36;150.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-5" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="242">
+<section-metadata><section-title>The Monopolist&#8217;s Profit-Maximizing Output and Price</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p117" block_type="txt-ni">To complete the story of how a monopolist maximizes profit, we now bring in the monopolist&#8217;s marginal cost. Let&#8217;s assume that there is no fixed cost of production; we&#8217;ll also assume that the marginal cost of producing an additional diamond is constant at &#36;200, no matter how many diamonds De Beers produces. Then marginal cost will always equal average total cost, and the marginal cost curve (and the average total cost curve) is a horizontal line at &#36;200, as shown in <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link>.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-8" block_type="figure" numbered="true" number="8-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-8"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-6</strong></phrase></phrase> <phrase block_type="fig_title">The Monopolist&#8217;s Profit-Maximizing Output and Price</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-12" alt="image" src="images/KrugESS4e_fig_08_06.jpg"/>
+<caption>This figure shows the demand, marginal revenue, and marginal cost curves. Marginal cost per diamond is constant at &#36;200, so the marginal cost curve is horizontal at &#36;200. According to the optimal output rule, the profit-maximizing quantity of output for the monopolist is at <em>MR</em> = <em>MC</em>, shown by point <em>A</em>, where the marginal cost and marginal revenue curves cross at an output of 8 diamonds. The price De Beers can charge per diamond is found by going to the point on the demand curve directly above point <em>A</em>, which is point <em>B</em> here&#8212;a price of &#36;600 per diamond. It makes a profit of &#36;400 &#215; 8 = &#36;3,200. A perfectly competitive industry produces the output level at which <em>P</em> = <em>MC</em>, given by point <em>C</em>, where the demand curve and marginal cost curves cross. So a competitive industry produces 16 diamonds, sells at a price of &#36;200, and makes zero profit.</caption>
+</figure>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch8-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch8-p118" block_type="bx1-t"><strong>FINDING THE MONOPOLY PRICE</strong></p>
+<p id="krugmanwellsessentials4e-ch8-p119" block_type="bx1-txt-ni">In order to find the <em>profit-maximizing quantity of output</em> for a monopolist, you look for the point where the marginal revenue curve crosses the marginal cost curve. Point <em>A</em> in <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link> is an example.</p>
+<p id="krugmanwellsessentials4e-ch8-p120" block_type="bx1-txt">However, it&#8217;s important not to fall into a common error: imagining that point <em>A</em> also shows the <em>price</em> at which the monopolist sells its output. It doesn&#8217;t: it shows the <em>marginal revenue</em> received by the monopolist, which we know is less than the price.</p>
+<p id="krugmanwellsessentials4e-ch8-p121" block_type="bx1-txt">To find the monopoly price, you have to go up vertically from <em>A</em> to the demand curve. There you find the price at which consumers demand the profit-maximizing quantity. So the profit-maximizing price&#8211;quantity combination is always a point on the demand curve, like <em>B</em> in <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link>.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p122" block_type="txt">To maximize profit, the monopolist compares marginal cost with marginal revenue. If marginal revenue exceeds marginal cost, De Beers increases profit by producing more; if marginal revenue is less than marginal cost, De Beers increases profit by producing less. So the monopolist maximizes its profit by using the optimal output rule:</p>
+<p id="krugmanwellsessentials4e-ch8-p123" block_type="eq"><strong>(8-1)</strong> <em>MR</em> = <em>MC</em> at the monopolist&#8217;s profit-maximizing quantity of output</p>
+<p id="krugmanwellsessentials4e-ch8-p124" block_type="txt">The monopolist&#8217;s optimal point is shown in <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link>. At <em>A,</em> the marginal cost curve, <em>MC,</em> crosses the marginal revenue curve, <em>MR.</em> The corresponding output level, 8 diamonds, is the monopolist&#8217;s profit-maximizing quantity of output, <em>Q<sub>M</sub>.</em> The price at which consumers demand 8 diamonds is &#36;600, so the monopolist&#8217;s price, <em>P<sub>M</sub>,</em> is &#36;600&#8212;corresponding to point <em>B.</em> The average total cost of producing each diamond is &#36;200, so the monopolist earns a profit of &#36;600 &#8722; &#36;200 = &#36;400 per diamond, and total profit is 8 &#215; &#36;400 = &#36;3,200, as indicated by the shaded area.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-6" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="242">
+<section-metadata><section-title>Monopoly versus Perfect Competition</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p125" block_type="txt-ni">When Cecil Rhodes consolidated many independent diamond producers into De Beers, he converted a perfectly competitive industry into a monopoly. We can now use our analysis to see the effects of such a consolidation.</p>
+<p id="krugmanwellsessentials4e_page_243" block_type="page_start">243</p>
+<p id="krugmanwellsessentials4e-ch8-p126" block_type="txt">Let&#8217;s look again at <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link> and ask how this same market would work if, instead of being a monopoly, the industry were perfectly competitive. We will continue to assume that there is no fixed cost and that marginal cost is constant, so average total cost and marginal cost are equal.</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch8-bx1-2" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch8-p127" block_type="bx1-t"><strong>IS THERE A MONOPOLY SUPPLY CURVE?</strong></p>
+<p id="krugmanwellsessentials4e-ch8-p128" block_type="bx1-txt-ni">Given how a monopolist applies its optimal output rule, you might be tempted to ask what this implies for the supply curve of a monopolist. But this is a meaningless question: <em>monopolists don&#8217;t have supply curves</em>.</p>
+<p id="krugmanwellsessentials4e-ch8-p129" block_type="bx1-txt">Remember that a supply curve shows the quantity that producers are willing to supply for any given market price. A monopolist, however, does not take the price as given; it chooses a profitmaximizing quantity, taking into account its own ability to influence the price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p130" block_type="txt">If the diamond industry consists of many perfectly competitive firms, each of those producers takes the market price as given. That is, each producer acts as if its marginal revenue is equal to the market price. So each firm within the industry uses the price-taking firm&#8217;s optimal output rule:</p>
+<p id="krugmanwellsessentials4e-ch8-p131" block_type="eq"><strong>(8-2)</strong> <em>P</em> = <em>MC</em> at the perfectly competitive firm&#8217;s profit-maximizing quantity of output</p>
+<p id="krugmanwellsessentials4e-ch8-p132" block_type="txt">In <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link>, this would correspond to producing at <em>C,</em> where the price per diamond, <em>P<sub>C</sub>,</em> is &#36;200, equal to the marginal cost of production. So the profit-maximizing output of an industry under perfect competition, <em>Q<sub>C</sub>,</em> is 16 diamonds.</p>
+<p id="krugmanwellsessentials4e-ch8-p133" block_type="txt">But does the perfectly competitive industry earn any profits at <em>C</em>? No: the price of &#36;200 is equal to the average total cost per diamond. So there are no economic profits for this industry when it produces at the perfectly competitive output level.</p>
+<p id="krugmanwellsessentials4e-ch8-p134" block_type="txt">We&#8217;ve already seen that once the industry is consolidated into a monopoly, the result is very different. The monopolist&#8217;s calculation of marginal revenue takes the price effect into account, so that marginal revenue is less than the price. That is,</p>
+<p id="krugmanwellsessentials4e-ch8-p135" block_type="eq"><strong>(8-3)</strong> <em>P</em> > <em>MR</em> = <em>MC</em> at the monopolist&#8217;s profit-maximizing quantity of output</p>
+<p id="krugmanwellsessentials4e-ch8-p136" block_type="txt">As we&#8217;ve already seen, the monopolist produces less than the competitive industry&#8212;8 diamonds rather than 16. The price under monopoly is &#36;600, compared with only &#36;200 under perfect competition. The monopolist earns a positive profit, but the competitive industry does not.</p>
+<p id="krugmanwellsessentials4e_page_244" block_type="page_start">244</p>
+<p id="krugmanwellsessentials4e-ch8-p137" block_type="txt">So, just as we suggested earlier, we see that compared with a competitive industry, a monopolist does the following:</p>
+<list id="krugmanwellsessentials4e-ch8-list-9" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch8-p138" block_type="bl-first">Produces a smaller quantity: <em>Q<sub>M</sub></em> &#60; <em>Q<sub>C</sub></em></p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p139" block_type="bl-mid">Charges a higher price: <em>P<sub>M</sub></em> &#62; <em>P<sub>C</sub></em></p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p140" block_type="bl-last">Earns a profit</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-7" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="244">
+<section-metadata><section-title>Monopoly: The General Picture</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p141" block_type="txt-ni"><link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link> involved specific numbers and assumed that marginal cost was constant, that there was no fixed cost, and, therefore, that the average total cost curve was a horizontal line. <link href="#krugmanwellsessentials4e-ch8-fig-9">Figure 8-7</link> shows a more general picture of monopoly in action: <em>D</em> is the market demand curve; <em>MR,</em> the marginal revenue curve; <em>MC,</em> the marginal cost curve; and <em>ATC,</em> the average total cost curve. Here we return to the usual assumption that the marginal cost curve has a &#8220;swoosh&#8221; shape and the average total cost curve is U-shaped.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-9" block_type="figure" numbered="true" number="8-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-9"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-7</strong></phrase></phrase> <phrase block_type="fig_title">The Monopolist&#8217;s Profit</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-13" alt="image" src="images/KrugESS4e_fig_08_07.jpg"/>
+<caption>In this case, the marginal cost curve has a &#8220;swoosh&#8221; shape and the average total cost curve is U-shaped. The monopolist maximizes profit by producing the level of output at which <em>MR</em> = <em>MC</em>, given by point <em>A,</em> generating quantity <em>Q<sub>M</sub></em>. It finds its monopoly price, <em>P<sub>M</sub></em>, from the point on the demand curve directly above point <em>A,</em> point <em>B</em> here. The average total cost of <em>Q<sub>M</sub></em> is shown by point <em>C</em>. Profit is given by the area of the shaded rectangle.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p142" block_type="txt">Applying the optimal output rule, we see that the profit-maximizing level of output is the output at which marginal revenue equals marginal cost, indicated by point <em>A.</em> The profit-maximizing quantity of output is <em>Q<sub>M</sub>,</em> and the price charged by the monopolist is <em>P<sub>M</sub>.</em> At the profit-maximizing level of output, the monopolist&#8217;s average total cost is <em>ATC<sub>M</sub>,</em> shown by point <em>C.</em></p>
+<p id="krugmanwellsessentials4e-ch8-p143" block_type="txt">Recalling how we calculated profit in Equation 7-5, profit is equal to the difference between total revenue and total cost. So we have:</p>
+<p id="krugmanwellsessentials4e-ch8-p144" block_type="eq"><strong>(8-4)</strong> Profit = <em>TR</em> &#8722; <em>TC</em></p>
+<p id="krugmanwellsessentials4e-ch8-p145" block_type="eq">= <em>(P<sub>M</sub></em> &#215; <em>Q<sub>M</sub></em>) &#8722; (<em>ATC<sub>M</sub></em> &#215; <em>Q<sub>M</sub></em>)</p>
+<p id="krugmanwellsessentials4e-ch8-p146" block_type="eq">= (<em>P<sub>M</sub></em> &#8722; <em>ATC<sub>M</sub></em>) &#215; <em>Q<sub>M</sub></em></p>
+<p id="krugmanwellsessentials4e-ch8-p147" block_type="txt-ni">Profit is equal to the area of the shaded rectangle in <link href="#krugmanwellsessentials4e-ch8-fig-9">Figure 8-7</link>, with a height of <em>P<sub>M</sub></em> &#8722; <em>ATC<sub>M</sub></em> and a width of <em>Q<sub>M</sub>.</em></p>
+<p id="krugmanwellsessentials4e-ch8-p148" block_type="txt">In <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link> we learned that a perfectly competitive industry can have profits in the <em>short run but not in the long run.</em> In the short run, price can exceed average total cost, allowing a perfectly competitive firm to make a profit. But we also know that this cannot persist.</p>
+<p id="krugmanwellsessentials4e-ch8-p149" block_type="txt">In the long run, any profit in a perfectly competitive industry will be competed away as new firms enter the market. In contrast, barriers to entry allow a monopolist to make profits in <em>both the short run and the long run.</em></p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch8-p151" block_type="bx-2-t"><strong>Shocked by the High Price of Electricity</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p150" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-14" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p152" block_type="bx2-first"><phrase block_type="dropcap">H</phrase>istorically, electric utilities were recognized as natural monopolies. A utility serviced a defined geographical area, owning the plants that generated electricity as well as the transmission lines that delivered it to retail customers. The rates charged customers were regulated by the government, set at a level to cover the utility&#8217;s cost of operation plus a modest return on capital to its shareholders.</p>
+<p id="krugmanwellsessentials4e_page_245" block_type="page_start">245</p>
+<p id="krugmanwellsessentials4e-ch8-p153" block_type="bx2-txt">Beginning in the late 1990s, however, there was a move toward deregulation, based on the belief that competition would result in lower retail electricity prices. Competition was introduced at two junctures in the channel from power generation to retail customers: (1) distributors would compete to sell electricity to retail customers, and (2) power generators would compete to supply power to the distributors.</p>
+<p id="krugmanwellsessentials4e-ch8-p154" block_type="bx2-txt">That was the theory, at least. By 2014, only 16 states had instituted some form of electricity deregulation, while 7 had started but then suspended deregulation, leaving 27 states to continue with a regulated monopoly electricity provider. Why did so few states actually follow through on electricity deregulation?</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch8-img-15" alt="image" src="images/KrugESS4e_08UN02.jpg"/>
+<caption>Although some electric utilities were deregulated in the 1990s, currently there&#8217;s a trend toward reregulating them.</caption>
+<asset_source>Brand X Pictures</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p155" block_type="bx2-txt">One major obstacle to lowering electricity prices through deregulation is the lack of choice in power generators, the bulk of which still entail large up-front fixed costs. As a result, in many markets there is only one power generator. Although consumers appear to have a choice in their electricity distributor, the choice is illusory, as everyone must get their electricity from the same source in the end.</p>
+<p id="krugmanwellsessentials4e-ch8-p156" block_type="bx2-txt">In fact, deregulation can make consumers worse off when there is only one power generator. That&#8217;s because deregulation allows the power generator to engage in market manipulation&#8212;intentionally reducing the amount of power supplied to distributors in order to drive up prices. The most shocking case occurred during the California energy crisis of 2000&#8211;2001 that brought blackouts and billions of dollars in electricity surcharges to homes and businesses. On audiotapes later acquired by regulators, workers could be heard discussing plans to shut down power plants during times of peak energy demand, joking about how they were &#8220;stealing&#8221; more than &#36;1 million a day from California.</p>
+<p id="krugmanwellsessentials4e-ch8-p157" block_type="bx2-txt">Another problem is that without prices set by regulators, producers aren&#8217;t guaranteed a profitable rate of return on new power plants. As a result, in states with deregulation, capacity has failed to keep up with growing demand. For example, Texas, a deregulated state, has experienced massive blackouts due to insufficient capacity, and in New Jersey and Maryland, regulators have intervened to compel producers to build more power plants.</p>
+<p id="krugmanwellsessentials4e-ch8-p158" block_type="bx2-txt">Lastly, consumers in deregulated states have been subject to big spikes in their electricity bills, often paying much more than consumers in regulated states. So, angry customers and exasperated regulators have prompted many states to shift into reverse, with Illinois, Montana, and Virginia moving to regulate their industries. California and Montana have gone so far as to mandate that their electricity distributors reacquire power plants that were sold off during deregulation. In addition, regulators have been on the prowl, fining utilities in Texas, New York, and Illinois for market manipulation.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch8-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch8-list-10" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch8-p159" block_type="sr1-bl">The crucial difference between a firm with market power, such as a monopolist, and a firm in a perfectly competitive industry is that perfectly competitive firms are price-takers that face horizontal demand curves, but a firm with market power faces a downward-sloping demand curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p160" block_type="sr1-bl">Due to the price effect of an increase in output, the marginal revenue curve of a firm with market power always lies below its demand curve. So a profitmaximizing monopolist chooses the output level at which marginal cost is equal to marginal revenue&#8212;<em>not</em> to price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p161" block_type="sr1-bl">As a result, the monopolist produces less and sells its output at a higher price than a perfectly competitive industry would. It earns profits in the short run and the long run.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">8-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-4" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch8-p162" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Use the accompanying total revenue schedule of Emerald, Inc., a monopoly producer of 10-carat emeralds, to calculate the answers to parts a&#8211;d. Then answer part e.</p>
+<list id="krugmanwellsessentials4e-ch8-list-11" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p163" block_type="sr2-nl-lvl2">The demand schedule</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p164" block_type="sr2-nl-lvl2">The marginal revenue schedule</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p165" block_type="sr2-nl-lvl2">The quantity effect component of marginal revenue per output level</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p166" block_type="sr2-nl-lvl2">The price effect component of marginal revenue per output level</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p167" block_type="sr2-nl-lvl2">What additional information is needed to determine Emerald, Inc.&#8217;s profit-maximizing output?</p></li>
+</list>
+<table id="krugmanwellsessentials4e-ch8-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-2" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of <br/>emeralds demanded</strong></td>
+<td><strong>Total <br/>revenue</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1</td>
+<td>&#36;100</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2</td>
+<td>186</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">3</td>
+<td>252</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">4</td>
+<td>280</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td>250</td>
+</tr>
+</tbody>
+</table>
+</question>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-5" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch8-p168" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Use <link href="#krugmanwellsessentials4e-ch8-fig-8">Figure 8-6</link> to show what happens to the following when the marginal cost of diamond production rises from &#36;200 to &#36;400.</p>
+<list id="krugmanwellsessentials4e-ch8-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p169" block_type="sr2-nl-lvl2">Marginal cost curve</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p170" block_type="sr2-nl-lvl2">Profit-maximizing price and quantity</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p171" block_type="sr2-nl-lvl2">Profit of the monopolist</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p172" block_type="sr2-nl-lvl2">Perfectly competitive industry profits</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch8-p173" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-4" block_type="h1" title="" chapter="8" numbered="true" level="1" print_page="246">
+<section-metadata><section-title>Monopoly and Public Policy</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_246" block_type="page_start">246</p>
+<p id="krugmanwellsessentials4e-ch8-p174" block_type="txt-ni">It&#8217;s good to be a monopolist, but it&#8217;s not so good to be a monopolist&#8217;s customer. A monopolist, by reducing output and raising prices, benefits at the expense of consumers. But buyers and sellers always have conflicting interests. Is the conflict of interest under monopoly any different than it is under perfect competition?</p>
+<p id="krugmanwellsessentials4e-ch8-p175" block_type="txt">The answer is yes, because monopoly is a source of inefficiency: the losses to consumers from monopoly behavior are larger than the gains to the monopolist. Because monopoly leads to net losses for the economy, governments often try either to prevent the emergence of monopolies or to limit their effects. In this section, we will see why monopoly leads to inefficiency and examine the policies governments adopt in an attempt to prevent this inefficiency.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-8" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="246">
+<section-metadata><section-title>Welfare Effects of Monopoly</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p176" block_type="txt-ni">By restricting output below the level at which marginal cost is equal to the market price, a monopolist increases its profit but hurts consumers. To assess whether this is a net benefit or loss to society, we must compare the monopolist&#8217;s gain in profit to the loss in consumer surplus. And what we learn is that the loss in consumer surplus is larger than the monopolist&#8217;s gain. Monopoly causes a net loss for society.</p>
+<p id="krugmanwellsessentials4e-ch8-p177" block_type="txt">To see why, let&#8217;s return to the case where the marginal cost curve is horizontal, as shown in the two panels of <link href="#krugmanwellsessentials4e-ch8-fig-11">Figure 8-8</link>. Here the marginal cost curve is <em>MC,</em> the demand curve is <em>D,</em> and, in panel (b), the marginal revenue curve is <em>MR.</em></p>
+<figure id="krugmanwellsessentials4e-ch8-fig-11" block_type="figure" numbered="true" number="8-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-8</strong></phrase></phrase> <phrase block_type="fig_title">Monopoly Causes Inefficiency</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-16" alt="image" src="images/KrugESS4e_fig_08_08ab.jpg"/>
+<caption>Panel (a) depicts a perfectly competitive industry: output is <em>Q<sub>C</sub></em>, and market price, <em>P<sub>C</sub></em>, is equal to <em>M<sub>C</sub></em>. Since price is exactly equal to each producer&#8217;s average total cost of production per unit, there is no profit and no producer surplus. So total surplus is equal to consumer surplus, the entire shaded area. Panel (b) depicts the industry under monopoly: the monopolist decreases output to <em>Q<sub>M</sub></em> and charges <em>P<sub>M</sub></em>. Consumer surplus (blue area) has shrunk: a portion of it has been captured as profit (green area), and a portion of it has been lost to deadweight loss (yellow area), the value of mutually beneficial transactions that do not occur because of monopoly behavior. As a result, total surplus falls.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_247" block_type="page_start">247</p>
+<p id="krugmanwellsessentials4e-ch8-p178" block_type="txt">Panel (a) shows what happens if this industry is perfectly competitive. Equilibrium output is <em>Q<sub>C</sub></em>; the price of the good, <em>P<sub>C</sub></em>, is equal to marginal cost, and marginal cost is also equal to average total cost because there is no fixed cost and marginal cost is constant. Each firm is earning exactly its average total cost per unit of output, so there is no profit and no producer surplus in this equilibrium.</p>
+<p id="krugmanwellsessentials4e-ch8-p179" block_type="txt">The consumer surplus generated by the market is equal to the area of the blue-shaded triangle <em>CS<sub>C</sub></em> shown in panel (a). Since there is no producer surplus when the industry is perfectly competitive, <em>CS<sub>C</sub></em> also represents the total surplus.</p>
+<p id="krugmanwellsessentials4e-ch8-p180" block_type="txt">Panel (b) shows the results for the same market, but this time assuming that the industry is a monopoly. The monopolist produces the level of output <em>Q<sub>M</sub></em>, at which marginal cost is equal to marginal revenue, and it charges the price <em>P<sub>M</sub></em>. The industry now earns profit&#8212;which is also the producer surplus&#8212;equal to the area of the green rectangle, <em>PS<sub>M</sub></em>. Note that this profit is surplus captured from consumers as consumer surplus shrinks to the area of the blue triangle, <em>CS<sub>M</sub></em>.</p>
+<p id="krugmanwellsessentials4e-ch8-p181" block_type="txt">By comparing panels (a) and (b), we see that in addition to the redistribution of surplus from consumers to the monopolist, another important change has occurred: the sum of profit and consumer surplus&#8212;total surplus&#8212;is <em>smaller</em> under monopoly than under perfect competition. That is, the sum of <em>CS<sub>M</sub></em> and <em>PS<sub>M</sub></em> in panel (b) is less than the area <em>CS<sub>C</sub></em> in panel (a). In <link href="krugmanwellsessentials4e-ch05.xml">Chapter 5</link>, we analyzed how taxes generated <em>deadweight loss</em> to society. Here we show that monopoly creates a deadweight loss to society equal to the area of the yellow triangle, <em>DL</em>. So monopoly produces a net loss for society.</p>
+<p id="krugmanwellsessentials4e-ch8-p182" block_type="txt">This net loss arises because some mutually beneficial transactions do not occur. There are people for whom an additional unit of the good is worth more than the marginal cost of producing it but who don&#8217;t consume it because they are not willing to pay <em>P<sub>M</sub></em>.</p>
+<p id="krugmanwellsessentials4e-ch8-p183" block_type="txt">If you recall our discussion of the deadweight loss from taxes you will notice that the deadweight loss from monopoly looks quite similar. Indeed, by driving a wedge between price and marginal cost, monopoly acts much like a tax on consumers and produces the same kind of inefficiency.</p>
+<p id="krugmanwellsessentials4e-ch8-p184" block_type="txt">So monopoly hurts the welfare of society as a whole and is a source of market failure. Is there anything government policy can do about it?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-9" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="247">
+<section-metadata><section-title>Preventing Monopoly</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p185" block_type="txt-ni">Policy toward monopoly depends crucially on whether or not the industry in question is a natural monopoly, one in which increasing returns to scale ensure that a bigger producer has lower average total cost. If the industry is not a natural monopoly, the best policy is to prevent monopoly from arising or break it up if it already exists. Let&#8217;s focus on that case first, then turn to the more difficult problem of dealing with natural monopoly.</p>
+<p id="krugmanwellsessentials4e-ch8-p186" block_type="txt">The De Beers monopoly on diamonds didn&#8217;t have to happen. Diamond production is not a natural monopoly: the industry&#8217;s costs would be no higher if it consisted of a number of independent, competing producers (as is the case, for example, in gold production).</p>
+<p id="krugmanwellsessentials4e-ch8-p187" block_type="txt">So if the South African government had been worried about how a monopoly would have affected consumers, it could have blocked Cecil Rhodes in his drive to dominate the industry or broken up his monopoly after the fact. Today, governments often try to prevent monopolies from forming and break up existing ones.</p>
+<p id="krugmanwellsessentials4e-ch8-p188" block_type="txt">De Beers is a rather unique case. For complicated historical reasons, it was allowed to remain a monopoly. But over the last century, most similar monopolies have been broken up. The most celebrated example in the United States is Standard Oil, founded by John D. Rockefeller in 1870. By 1878 Standard Oil controlled almost all U.S. oil refining; but in 1911 a court order broke the company into a number of smaller units, including the companies that later became Exxon and Mobil (and more recently merged to become ExxonMobil).</p>
+<p id="krugmanwellsessentials4e-ch8-p189" block_type="txt">The government policies used to prevent or eliminate monopolies are known as <em>antitrust policies,</em> which we will discuss in the next chapter.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-10" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="248">
+<section-metadata><section-title>Dealing with Natural Monopoly</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_248" block_type="page_start">248</p>
+<p id="krugmanwellsessentials4e-ch8-p190" block_type="txt-ni">Breaking up a monopoly that isn&#8217;t natural is clearly a good idea: the gains to consumers outweigh the loss to the producer. But it&#8217;s not so clear whether a natural monopoly, one in which a large producer has lower average total costs than small producers, should be broken up, because this would raise average total cost. For example, a town government that tried to prevent a single company from dominating local gas supply&#8212;which, as we&#8217;ve discussed, is almost surely a natural monopoly&#8212;would raise the cost of providing gas to its residents.</p>
+<p id="krugmanwellsessentials4e-ch8-p191" block_type="txt">Yet even in the case of a natural monopoly, a profit-maximizing monopolist acts in a way that causes inefficiency&#8212;it charges consumers a price that is higher than marginal cost and, by doing so, prevents some potentially beneficial transactions. Also, it can seem unfair that a firm that has managed to establish a monopoly position earns a large profit at the expense of consumers.</p>
+<p id="krugmanwellsessentials4e-ch8-p192" block_type="txt">What can public policy do about this? There are two common answers.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p193" block_type="mn-gl-def">In <strong>public ownership</strong> of a monopoly, the good is supplied by the government or by a firm owned by the government.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p194" block_type="txt-3"><phrase block_type="h3"><strong>1. Public Ownership</strong></phrase> In many countries, the preferred answer to the problem of natural monopoly has been <strong>public ownership.</strong> Instead of allowing a private monopolist to control an industry, the government establishes a public agency to provide the good and protect consumers&#8217; interests.</p>
+<p id="krugmanwellsessentials4e-ch8-p195" block_type="txt">Some examples of public ownership in the United States include passenger rail service, which is provided by the public company Amtrak; regular mail delivery, which is provided by the U.S. Postal Service; and in some cities, including Los Angeles, there are publicly owned electric power companies.</p>
+<p id="krugmanwellsessentials4e-ch8-p196" block_type="txt">The advantage of public ownership, in principle, is that a publicly owned natural monopoly can set prices based on the criterion of efficiency rather than profit maximization. In a perfectly competitive industry, profit-maximizing behavior is efficient, because producers produce the quantity at which price is equal to marginal cost; that is why there is no economic argument for public ownership of, say, wheat farms.</p>
+<p id="krugmanwellsessentials4e-ch8-p197" block_type="txt">Experience suggests, however, that public ownership as a solution to the problem of natural monopoly often works badly in practice. One reason is that publicly owned firms are often less eager than private companies to keep costs down or offer high-quality products. Another is that publicly owned companies all too often end up serving political interests&#8212;providing contracts or jobs to people with the right connections.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p198" block_type="mn-gl-def"><strong>Price regulation</strong> limits the price that a monopolist is allowed to charge.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p199" block_type="txt-3"><phrase block_type="h3"><strong>2. Regulation</strong></phrase> In the United States, the more common answer has been to leave the industry in private hands but subject it to regulation. In particular, most local utilities like electricity and natural gas, are covered by <strong>price regulation</strong> that limits the prices they can charge.</p>
+<p id="krugmanwellsessentials4e-ch8-p200" block_type="txt">We saw in <link href="krugmanwellsessentials4e-ch04.xml">Chapter 4</link> that imposing a <em>price ceiling</em> on a competitive industry is a recipe for shortages, black markets, and other nasty side effects. Doesn&#8217;t imposing a limit on the price that, say, a local gas company can charge have the same effects?</p>
+<p id="krugmanwellsessentials4e-ch8-p201" block_type="txt">Not necessarily: a price ceiling on a monopolist need not create a shortage&#8212;in the absence of a price ceiling, a monopolist would charge a price that is higher than its marginal cost of production. So even if forced to charge a lower price&#8212;as long as that price is above <em>MC</em> and the monopolist at least breaks even on total output&#8212;the monopolist still has an incentive to produce the quantity demanded at that price.</p>
+<p id="krugmanwellsessentials4e-ch8-p202" block_type="txt">The upcoming Economics in Action describes the case of broadband, a natural monopoly that has been alternately regulated and deregulated as politicians change their minds about the appropriate policy.</p>
+<p id="krugmanwellsessentials4e_page_249" block_type="page_start">249</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p203" block_type="mn-gl-def">A <strong>monopsony</strong> exists when there is only one buyer of a good. A <strong>monopsonist</strong> is a firm that is the sole buyer in a market.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p204" block_type="txt-3"><phrase block_type="h3"><strong>Monopsony</strong></phrase> It is possible to have a market in which there is only one buyer and many sellers, so that the buyer can use its power to capture surplus from the sellers. That market is called a <strong>monopsony.</strong></p>
+<p id="krugmanwellsessentials4e-ch8-p205" block_type="txt">Like a monopolist, a <strong>monopsonist</strong> will distort the competitive market outcome in order to capture more of the surplus, except that the monopsonist will do this through quantity purchased and price paid for goods rather than through quantity sold and price charged for goods.</p>
+<p id="krugmanwellsessentials4e-ch8-p206" block_type="txt">Monopsony, although it does exist, is rarer than monopoly. The classic example is a single employer in a small town&#8212;say, the local factory&#8212;that is purchasing labor services from workers. Recall that a monopolist reduces output in order to get a higher price and increase its profits. A monopsonist does much the same thing. But with a twist: it reduces the number of employees hired to pay a lower wage and increase its profits.</p>
+<p id="krugmanwellsessentials4e-ch8-p207" block_type="txt">Just as a monopolist creates a deadweight loss by producing too little of the output, a monopsonist creates a deadweight loss by hiring too few workers (and thereby producing too little output as well).</p>
+<p id="krugmanwellsessentials4e-ch8-p208" block_type="txt">Monopsony seems to occur most frequently in markets in which workers have a specialized skill, and there is only one employer who hires based on that skill. For example, physicians have often complained that in some parts of the country where most patients are insured by one or two insurance companies, the companies act as monopsonists in setting the reimbursement rates they pay for medical procedures.</p>
+<p id="krugmanwellsessentials4e-ch8-p209" block_type="txt-3"><phrase block_type="h3"><strong>What to Do About Monopoly?</strong></phrase> Managing monopoly (and monopsony) can be tricky because trade-offs are often present. In the case of drug monopolies, how can the prices consumers pay for existing drugs be reduced if the profits from those sales fund research and development of new drugs?</p>
+<p id="krugmanwellsessentials4e-ch8-p210" block_type="txt">In the case of a regulated natural monopoly like power generation, how can power producers invest in cost-saving technology and new production capacity if they receive regulated returns and are therefore insulated from market forces? And on the flip side, when the electricity industry is deregulated, how can regulators assure that consumers are not gouged through market manipulation?</p>
+<p id="krugmanwellsessentials4e-ch8-p211" block_type="txt">Economists and policy makers have struggled with these questions for decades because the best answer is often found through trial and error&#8212;as we&#8217;ve seen through the various attempts at electricity deregulation. Perhaps, in dealing with monopolies, the best answer is for economists and policy makers to remain vigilant and admit that sometimes midcourse policy corrections are needed.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch8-img-17" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch8-p212" block_type="bx-2-t"><strong>Why Is Your Broadband So Slow? And Why Does It Cost So Much?</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p213" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-18" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p214" block_type="bx2-first"><phrase block_type="dropcap">C</phrase>onsider this: In the United States, high-speed broadband access costs nearly three times as much as in the United Kingdom and France, and more than five times as much as in South Korea. According to a report by the Organization for Economic Cooperation and Development (OECD), the United States ranked 30th out of 33 countries, with a price of &#36;90 per month (&#36;200 per month if phone, TV, and some premium channels were included). <link href="#krugmanwellsessentials4e-ch8-fig-12">Figure 8-9</link> compares the average download speed and prices across select countries. In South Korea, the average download speed is 75 Mbps and costs less than &#36;20 per month. Whereas, in the United States, the average download speed is under 20 Mbps and costs nearly &#36;90 per month.</p>
+<p id="krugmanwellsessentials4e_page_250" block_type="page_start">250</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-12" block_type="figure" numbered="true" number="8-9" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-9</strong></phrase></phrase> <phrase block_type="fig_title">Comparing Broadband Speed and Price Across Select Countries</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-19" alt="image" src="images/KrugESS4e_fig_08_09.jpg"/>
+<asset_source><em>Data from:</em> OECD.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p215" block_type="bx2-txt">Why do we pay so much? Many observers conclude that the United States has been especially bad at regulating the cable companies that provide broadband to more than two-thirds of Americans. And cable service has the characteristics of a natural monopoly because running a cable to individual houses entails large fixed costs. So in the early days of cable, prices were regulated by local governments.</p>
+<p id="krugmanwellsessentials4e-ch8-p216" block_type="bx2-txt">However, a decade ago Congress deregulated high-speed internet access. The industry then consolidated, with two big companies, Time Warner and Comcast, purchasing smaller, local monopolies. As a result, American cable consumers face companies with significant monopoly power and little oversight.</p>
+<p id="krugmanwellsessentials4e-ch8-p217" block_type="bx2-txt">It should come as no surprise, then, that consumers also face yearly price hikes: from 1995 to 2012, the average price of a basic cable subscription increased at an annual rate of more than 6&#37;. In the few locations where there are competing cable companies, bills are typically 15&#37; lower and service is better.</p>
+<p id="krugmanwellsessentials4e-ch8-p218" block_type="bx2-txt">But how did broadband consumers in other countries escape that same fate, given that cable is a natural monopoly? Regulators imposed a <em>common carriage rule</em> on their industries, stipulating that cable companies must rent their cable capacity to internet service providers, who then compete to deliver internet access to consumers.</p>
+<p id="krugmanwellsessentials4e-ch8-p219" block_type="bx2-txt">Without such a rule, the vast majority of Americans&#8212;around 70&#37;&#8212;have only one cable provider and thus only one source of high-speed internet access. However, supporters of the American system counter that cable-provider profits fund improvements in infrastructure, such as in LTE and fiber optic networks, where Europe is lagging behind.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch8-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch8-list-13" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch8-p220" block_type="sr1-bl">By reducing output and raising price above marginal cost, a monopolist captures some of the consumer surplus as profit and causes deadweight loss. To avoid deadweight loss, government policy attempts to curtail monopoly behavior.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p221" block_type="sr1-bl">When monopolies are &#8220;created&#8221; rather than natural, governments should act to prevent them from forming and break up existing ones.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p222" block_type="sr1-bl">Natural monopoly poses a harder policy problem. One answer is <strong>public ownership,</strong> but publicly owned companies are often poorly run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p223" block_type="sr1-bl">A common response in the United States is <strong>price regulation.</strong> A price ceiling imposed on a monopolist does not create shortages as long as it is not set too low.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p224" block_type="sr1-bl">There always remains the option of doing nothing; monopoly is a bad thing, but the cure may be worse than the disease.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p225" block_type="sr1-bl">A <strong>monopsony,</strong> when there is only one buyer of a good, also results in deadweight loss. The <strong>monopsonist</strong> can affect the price of the good it buys: it captures surplus from sellers by reducing how much it purchases and thereby lowers the price.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">8-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-6" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch8-p226" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> What policy should the government adopt in the following cases? Explain.</p>
+<list id="krugmanwellsessentials4e-ch8-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p227" block_type="sr2-nl-lvl2">Internet service in Anytown, Ohio, is provided by cable. Customers feel they are being overcharged, but the cable company claims it must charge prices that let it recover the costs of laying cable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p228" block_type="sr2-nl-lvl2">The only two airlines that currently fly to Alaska need government approval to merge. Other airlines wish to fly to Alaska but need government-allocated landing slots to do so.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-7" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch8-p229" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> True or false? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch8-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p230" block_type="sr2-nl-lvl2">Society&#8217;s welfare is lower under monopoly because some consumer surplus is transformed into profit for the monopolist.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p231" block_type="sr2-nl-lvl2">A monopolist causes inefficiency because there are consumers who are willing to pay a price greater than or equal to marginal cost but less than the monopoly price.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-8" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch8-p232" block_type="sr2-nl-mid"><phrase block_type="qnum">3.</phrase> Suppose a monopolist mistakenly believes that its marginal revenue is always equal to the market price. Assuming constant marginal cost and no fixed cost, draw a diagram comparing the level of profit, consumer surplus, total surplus, and deadweight loss for this misguided monopolist compared to a smart monopolist.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch8-p233" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-5" block_type="h1" title="" chapter="8" numbered="true" level="1" print_page="251">
+<section-metadata><section-title>Price Discrimination</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_251" block_type="page_start">251</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p234" block_type="mn-gl-def">A <strong>single-price monopolist</strong> offers its product to all consumers at the same price.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p235" block_type="mn-gl-def">Sellers engage in <strong>price discrimination</strong> when they charge different prices to different consumers for the same good.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p236" block_type="txt-ni">Up to this point, we have considered only the case of a <strong>single-price monopolist,</strong> one that charges all consumers the same price. As the term suggests, not all monopolists do this. In fact, many if not most monopolists find that they can increase their profits by charging different customers different prices for the same good: they engage in <strong>price discrimination.</strong></p>
+<p id="krugmanwellsessentials4e-ch8-p237" block_type="txt">The most striking example of price discrimination most of us encounter regularly involves airline tickets. Although there are a number of airlines, most routes in the United States are serviced by only one or two carriers, which, as a result, have market power and can set prices. So any regular airline passenger quickly becomes aware that the question &#8220;How much will it cost me to fly there?&#8221; rarely has a simple answer.</p>
+<p id="krugmanwellsessentials4e-ch8-p238" block_type="txt">If you are willing to buy a nonrefundable ticket a month in advance and happen to purchase the ticket on Tuesday or Wednesday evening, the round trip may cost only &#36;150&#8212;or less if you are a senior citizen or a student. But if you have to go on a business trip tomorrow, which happens to be Tuesday, and come back on Wednesday, the same round trip might cost &#36;550. Yet the business traveler and the visiting grandparent receive the same product&#8212;that same cramped seat.</p>
+<p id="krugmanwellsessentials4e-ch8-p239" block_type="txt">You might object that airlines are not usually monopolists&#8212;that in most flight markets the airline industry is an oligopoly. In fact, price discrimination takes place under oligopoly and monopolistic competition as well as monopoly. But it doesn&#8217;t happen under perfect competition. And once we&#8217;ve seen why monopolists sometimes price-discriminate, we&#8217;ll be in a good position to understand why it happens in oligopoly and monopolistic competition, too.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-11" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="251">
+<section-metadata><section-title>The Logic of Price Discrimination</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p240" block_type="txt-ni">To get a preliminary view of why price discrimination might be more profitable than charging all consumers the same price, imagine that Air Sunshine offers the only nonstop flights between Bismarck, North Dakota, and Ft. Lauderdale, Florida. Assume that there are no capacity problems&#8212;the airline can fly as many planes as the number of passengers warrants. Also assume that there is no fixed cost. The marginal cost to the airline of providing a seat is &#36;125, however many passengers it carries.</p>
+<p id="krugmanwellsessentials4e-ch8-p241" block_type="txt">Further assume that the airline knows there are two kinds of potential passengers. First, there are business travelers, 2,000 of whom want to travel between the destinations each week. Second, there are students, 2,000 of whom also want to travel each week.</p>
+<p id="krugmanwellsessentials4e-ch8-p242" block_type="txt">Will potential passengers take the flight? It depends on the price. The business travelers, it turns out, really need to fly; they will take the plane as long as the price is no more than &#36;550. Since they are flying purely for business, we assume that cutting the price below &#36;550 will not lead to any increase in business travel. The students, however, have less money and more time; if the price goes above &#36;150, they will take the bus. The implied demand curve is shown in <link href="#krugmanwellsessentials4e-ch8-fig-13">Figure 8-10</link>.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-13" block_type="figure" numbered="true" number="8-10" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-13"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-10</strong></phrase></phrase> <phrase block_type="fig_title">Two Types of Airline Customers</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-20" alt="image" src="images/KrugESS4e_fig_08_10.jpg"/>
+<caption>Air Sunshine has two types of customers, business travelers willing to pay at most &#36;550 per ticket and students willing to pay at most &#36;150 per ticket. There are 2,000 of each kind of customer. Air Sunshine has constant marginal cost of &#36;125 per seat. If Air Sunshine could charge these two types of customers different prices, it would maximize its profit by charging business travelers &#36;550 and students &#36;150 per ticket. It would capture all of the consumer surplus as profit.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p243" block_type="txt">So what should the airline do? If it has to charge everyone the same price, its options are limited. It could charge &#36;550; that way it would get as much as possible out of the business travelers but lose the student market. Or it could charge only &#36;150; that way it would get both types of travelers but would make significantly less money from sales to business travelers.</p>
+<p id="krugmanwellsessentials4e-ch8-p244" block_type="txt">We can quickly calculate the profits from each of these alternatives. If the airline charged &#36;550, it would sell 2,000 tickets to the business travelers, earning total revenue of 2,000 &#215; &#36;550 = &#36;1.1 million and incurring costs of 2,000 &#215; &#36;125 = &#36;250,000; so its profit would be &#36;850,000, illustrated by the shaded area <em>B</em> in <link href="#krugmanwellsessentials4e-ch8-fig-13">Figure 8-10</link>.</p>
+<p id="krugmanwellsessentials4e_page_252" block_type="page_start">252</p>
+<p id="krugmanwellsessentials4e-ch8-p245" block_type="txt">If the airline charged only &#36;150, it would sell 4,000 tickets, receiving revenue of 4,000 &#215; &#36;150 = &#36;600,000 and incurring costs of 4,000 &#215; &#36;125 = &#36;500,000; so its profit would be &#36;100,000. If the airline must charge everyone the same price, charging the higher price and forgoing sales to students is clearly more profitable.</p>
+<p id="krugmanwellsessentials4e-ch8-p246" block_type="txt">What the airline would really like to do, however, is charge the business travelers the full &#36;550 but offer &#36;150 tickets to the students. That&#8217;s a lot less than the price paid by business travelers, but it&#8217;s still above marginal cost; so if the airline could sell those extra 2,000 tickets to students, it would make an additional &#36;50,000 in profit. That is, it would make a profit equal to the areas <em>B</em> plus <em>S</em> in <link href="#krugmanwellsessentials4e-ch8-fig-13">Figure 8-10</link>.</p>
+<p id="krugmanwellsessentials4e-ch8-p247" block_type="txt">It would be more realistic to suppose that there is some &#8220;give&#8221; in the demand of each group: at a price below &#36;550, there would be some increase in business travel; and at a price above &#36;150, some students would still purchase tickets. But this, it turns out, does not do away with the argument for price discrimination.</p>
+<p id="krugmanwellsessentials4e-ch8-p248" block_type="txt">The important point is that the two groups of consumers differ in their <em>sensitivity to price</em>&#8212;that a high price has a larger effect in discouraging purchases by students than by business travelers. As long as different groups of customers respond differently to the price, a monopolist will find that it can capture more consumer surplus and increase its profit by charging them different prices.</p>
+<p id="krugmanwellsessentials4e-ch8-p249" block_type="txt-3"><phrase block_type="h3"><strong>Price Discrimination and Elasticity</strong></phrase> A more realistic description of the demand that airlines face would not specify particular prices at which different types of travelers would choose to fly. Instead, it would distinguish between the groups on the basis of their sensitivity to the price&#8212;their price elasticity of demand.</p>
+<p id="krugmanwellsessentials4e-ch8-p250" block_type="txt">Suppose that a company sells its product to two easily identifiable groups of people&#8212;business travelers and students. It just so happens that business travelers are very insensitive to the price: there is a certain amount of the product they just have to have whatever the price, but they cannot be persuaded to buy much more than that no matter how cheap it is. Students, though, are more flexible: offer a good enough price and they will buy quite a lot, but raise the price too high and they will switch to something else. What should the company do?</p>
+<p id="krugmanwellsessentials4e-ch8-p251" block_type="txt">The answer is the one already suggested by our simplified example: the company should charge business travelers, with their low price elasticity of demand, a higher price than it charges students, with their high price elasticity of demand.</p>
+<p id="krugmanwellsessentials4e_page_253" block_type="page_start">253</p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec2-12" block_type="h2" title="" chapter="8" numbered="false" level="2" print_page="253">
+<section-metadata><section-title>Perfect Price Discrimination</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch8-p252" block_type="txt-ni">What would happen if the airline could distinguish between students and business travelers in order to charge each a different price?</p>
+<p id="krugmanwellsessentials4e-ch8-p253" block_type="txt">Clearly, the airline would charge each group its willingness to pay&#8212;that is, the maximum that each group is willing to pay. For business travelers, the willingness to pay is &#36;550; for students, it is &#36;150. As we have assumed, the marginal cost is &#36;125 and does not depend on output, making the marginal cost curve a horizontal line. As noted earlier, we can easily determine the airline&#8217;s profit: it is the sum of the areas of the rectangle <em>B</em> and the rectangle <em>S.</em></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch8-p254" block_type="mn-gl-def"><strong>Perfect price discrimination</strong> takes place when a monopolist charges each consumer his or her willingness to pay&#8212;the maximum that the consumer is willing to pay.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p255" block_type="txt">In this case, the consumers do not get any consumer surplus! The entire surplus is captured by the monopolist in the form of profit. When a monopolist is able to capture the entire surplus in this way, we say that it achieves <strong>perfect price discrimination.</strong></p>
+<p id="krugmanwellsessentials4e-ch8-p256" block_type="txt">In general, the greater the number of different prices a monopolist is able to charge, the closer it can get to perfect price discrimination. <link href="#krugmanwellsessentials4e-ch8-fig-14">Figure 8-11</link> shows a monopolist facing a downward-sloping demand curve, a monopolist who we assume is able to charge different prices to different groups of consumers, with the consumers who are willing to pay the most being charged the most.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-14" block_type="figure" numbered="true" number="8-11" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch8-fig-14"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>8-11</strong></phrase></phrase> <phrase block_type="fig_title">Price Discrimination</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch8-img-21" alt="image" src="images/KrugESS4e_fig_08_11abc.jpg"/>
+<caption>Panel (a) shows a monopolist that charges two different prices; its profit is shown by the shaded area. Panel (b) shows a monopolist that charges three different prices; its profit, too, is shown by the shaded area. It is able to capture more of the consumer surplus and to increase its profit. That is, by increasing the number of different prices charged, the monopolist captures more of the consumer surplus and makes a larger profit. Panel (c) shows the case of perfect price discrimination, where a monopolist charges each consumer his or her willingness to pay; the monopolist&#8217;s profit is given by the shaded triangle.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p257" block_type="txt">In panel (a) the monopolist charges two different prices; in panel (b) the monopolist charges three different prices. Two things are apparent:</p>
+<list id="krugmanwellsessentials4e-ch8-list-16" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch8-p258" block_type="nl-first">The greater the number of prices the monopolist charges, the lower the lowest price&#8212;that is, some consumers will pay prices that approach marginal cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p259" block_type="nl-last">The greater the number of prices the monopolist charges, the more money it extracts from consumers.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch8-p260" block_type="txt-ni">With a very large number of different prices, the picture would look like panel (c), a case of perfect price discrimination. Here, consumers least willing to buy the good pay marginal cost, and the entire consumer surplus is extracted as profit.</p>
+<p id="krugmanwellsessentials4e-ch8-p261" block_type="txt">Both our airline example and the example in <link href="#krugmanwellsessentials4e-ch8-fig-14">Figure 8-11</link> can be used to make another point: a monopolist that can engage in perfect price discrimination doesn&#8217;t cause any inefficiency! Because the source of inefficiency is eliminated, all potential consumers who are willing to purchase the good at a price equal to or above marginal cost are able to do so. The perfectly price-discriminating monopolist manages to &#8220;scoop up&#8221; all consumers by offering some of them lower prices than it charges others.</p>
+<p id="krugmanwellsessentials4e-ch8-p262" block_type="txt">Perfect price discrimination is almost never possible in practice. At a fundamental level, the inability to achieve perfect price discrimination is a problem of prices as economic signals.</p>
+<p id="krugmanwellsessentials4e-ch8-p263" block_type="txt">When prices work as economic signals, they convey the information needed to ensure that all mutually beneficial transactions will indeed occur: the market price signals the seller&#8217;s cost, and a consumer signals willingness to pay by purchasing the good whenever that willingness to pay is at least as high as the market price.</p>
+<p id="krugmanwellsessentials4e-ch8-p264" block_type="txt">The problem in reality, however, is that prices are often not perfect signals: a consumer&#8217;s true willingness to pay can be disguised, as by a business traveler who claims to be a student when buying a ticket in order to obtain a lower fare. When such disguises work, a monopolist cannot achieve perfect price discrimination.</p>
+<p id="krugmanwellsessentials4e-ch8-p265" block_type="txt">However, monopolists do try to move in the direction of perfect price discrimination through a variety of pricing strategies. Common techniques for price discrimination include the following:</p>
+<list id="krugmanwellsessentials4e-ch8-list-17" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch8-p266" block_type="bl-first"><em>Advance purchase restrictions.</em> Prices are lower for those who purchase well in advance (or in some cases for those who purchase at the last minute). This separates those who are likely to shop for better prices from those who won&#8217;t.</p>
+<p id="krugmanwellsessentials4e_page_254" block_type="page_start">254</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p267" block_type="bl-mid"><em>Volume discounts.</em> Often the price is lower if you buy a large quantity. For a consumer who plans to consume a lot of a good, the cost of the last unit&#8212;the marginal cost to the consumer&#8212;is considerably less than the average price. This separates those who plan to buy a lot, and so are likely to be more sensitive to price, from those who don&#8217;t.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p268" block_type="bl-last"><em>Two-part tariffs.</em> With a two-part tariff, a customer pays a flat fee upfront and then a per-unit fee on each item purchased. So in a discount club like Sam&#8217;s Club (which is not a monopolist but a monopolistic competitor), you pay an annual fee in addition to the cost of the items you purchase. So the cost of the first item you buy is in effect much higher than that of subsequent items, making the two-part tariff behave like a volume discount.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch8-p269" block_type="txt-ni">Our discussion also helps explain why government policies on monopoly typically focus on preventing deadweight losses, not preventing price discrimination&#8212;unless it causes serious issues of equity. Compared to a single-price monopolist, price discrimination&#8212;even when it is not perfect&#8212;can increase the efficiency of the market.</p>
+<p id="krugmanwellsessentials4e_page_255" block_type="page_start">255</p>
+<p id="krugmanwellsessentials4e-ch8-p270" block_type="txt">If sales to consumers formerly priced out of the market but now able to purchase the good at a lower price generate enough surplus to offset the loss in surplus to those now facing a higher price and no longer buying the good, then total surplus increases when price discrimination is introduced.</p>
+<p id="krugmanwellsessentials4e-ch8-p271" block_type="txt">An example of this might be a drug that is disproportionately prescribed to senior citizens, who are often on fixed incomes and so are very sensitive to price. A policy that allows a drug company to charge senior citizens a low price and everyone else a high price may indeed increase total surplus compared to a situation in which everyone is charged the same price. But price discrimination that creates serious concerns about equity is likely to be prohibited&#8212;for example, an ambulance service that charges patients based on the severity of their emergency.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx2-4" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch8-p273" block_type="bx-2-t"><strong>Sales, Factory Outlets, and Ghost Cities</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p272" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p274" block_type="bx2-first"><phrase block_type="dropcap">W</phrase>hy do department stores occasionally hold sales, offering merchandise for considerably less than the usual prices? Or why, driving along America&#8217;s highways, do you sometimes encounter clusters of outlet stores a few hours away from the nearest city?</p>
+<p id="krugmanwellsessentials4e-ch8-p275" block_type="bx2-txt">These familiar features of the economic landscape are actually peculiar if you think about them: why should sheets and towels be cheaper for a week each winter, or raincoats be offered for less in Freeport, Maine, than in Boston? In each case the answer is that the sellers&#8212;who are often oligopolists or monopolistic competitors&#8212;are engaged in a subtle form of price discrimination.</p>
+<p id="krugmanwellsessentials4e-ch8-p276" block_type="bx2-txt">Why hold regular sales of sheets and towels? Stores are aware that some consumers buy these goods only when they need them; they are not likely to put a lot of effort into searching for the best price and so have a relatively low price elasticity of demand. The store wants to charge high prices for these customers.</p>
+<p id="krugmanwellsessentials4e-ch8-p277" block_type="bx2-txt">But shoppers who plan ahead, looking for the lowest price, will wait for a sale. By scheduling sales only now and then, the store is in effect able to price-discriminate between high-elasticity and low-elasticity customers.</p>
+<p id="krugmanwellsessentials4e-ch8-p278" block_type="bx2-txt">An outlet store serves the same purpose: by offering merchandise for low prices, but only at a considerable distance away, a seller is able to establish a separate market for customers who are willing to make the effort to find lower prices&#8212;and who therefore have a relatively high price elasticity of demand.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch8-img-23" alt="image" src="images/KrugESS4e_08UN03.jpg"/>
+<caption>Periodic sales allow stores to price-discriminate between their high-elasticity and low-elasticity customers.</caption>
+<asset_source>Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch8-p279" block_type="bx2-txt">Finally, let&#8217;s return to airline tickets to mention one of the truly odd features of their prices. Often a flight from one major destination to another is cheaper than a much shorter flight to a smaller city. Again, the reason is a difference in the price elasticity of demand: customers have a choice of many airlines between major destinations like Chicago and Los Angeles, so the demand for any one flight is quite elastic. Customers have very little choice in flights to a small city, like Chicago to Salt Lake City, so the demand is much less elastic.</p>
+<p id="krugmanwellsessentials4e-ch8-p280" block_type="bx2-txt">But often there is a flight between two major destinations that makes a stop along the way&#8212;say, a flight from Chicago to Los Angeles with a stop in Salt Lake City. In these cases, it is sometimes cheaper to fly to the more distant city than to the city that is a stop along the way. For example, it may be cheaper to purchase a ticket to Los Angeles and get off in Salt Lake City than to purchase a ticket to Salt Lake City! It sounds ridiculous but makes perfect sense given the logic of monopoly pricing.</p>
+<p id="krugmanwellsessentials4e_page_256" block_type="page_start">256</p>
+<p id="krugmanwellsessentials4e-ch8-p281" block_type="bx2-txt">So why don&#8217;t passengers simply buy a ticket from Chicago to Los Angeles, but get off at Salt Lake City? Well, some do&#8212;but the airlines, understandably, make it difficult to find out about such &#8220;ghost cities.&#8221; Also, they will not allow you to check baggage for only part of a trip if you have a ticket for the final destination. And airlines refuse to honor tickets for return flights if all the legs of the outbound flight have not been completed. All these restrictions are meant to enforce the separation of markets necessary to allow price discrimination.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch8-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch8-list-18" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch8-p282" block_type="sr1-bl">Not every monopolist is a <strong>single-price monopolist.</strong> Many monopolists, as well as oligopolists and monopolistic competitors, engage in <strong>price discrimination.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p283" block_type="sr1-bl">Price discrimination is profitable when consumers differ in their sensitivity to the price. A monopolist charges higher prices to low-elasticity consumers and lower prices to high-elasticity ones.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p284" block_type="sr1-bl">A monopolist able to charge each consumer his or her willingness to pay for the good achieves <strong>perfect price discrimination</strong> and does not cause inefficiency because all mutually beneficial transactions are exploited.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx6-4" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">8-4</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-9" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch8-p285" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> True or false? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch8-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p286" block_type="sr2-nl-lvl2">A single-price monopolist sells to some customers that a price-discriminating monopolist refuses to sell to.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p287" block_type="sr2-nl-lvl2">A price-discriminating monopolist creates more inefficiency than a single-price monopolist because it captures more of the consumer surplus.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p288" block_type="sr2-nl-lvl2">Under price discrimination, a customer with highly elastic demand will pay a lower price than a customer with inelastic demand.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-cyuquestion-10" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch8-p289" block_type="sr2-nl-last"><phrase block_type="qnum">2.</phrase> Which of the following are cases of price discrimination and which are not? In the cases of price discrimination, identify the consumers with high and those with low price elasticity of demand.</p>
+<list id="krugmanwellsessentials4e-ch8-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p290" block_type="sr2-nl-lvl2">Damaged merchandise is marked down.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p291" block_type="sr2-nl-lvl2">Restaurants have senior citizen discounts.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p292" block_type="sr2-nl-lvl2">Food manufacturers place discount coupons for their merchandise in newspapers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p293" block_type="sr2-nl-lvl2">Airline tickets cost more during the summer peak flying season.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch8-p294" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-6" block_type="solved_problem" title="" chapter="8" numbered="true" level="1" print_page="256">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch8-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">Painkiller Pricing</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch8-p295" block_type="wio-txt-ni">When suffering from sore muscles, a headache, or a fever, many of us turn to the painkiller ibuprofen for relief. Until 1986, a British pharmaceutical company, Boots Laboratories, held the patent for ibuprofen, which it sold under the brand name Advil. Boots, then, had a monopoly on producing and selling the drug. At the time, a 100-tablet bottle of ibuprofen cost about &#36;5, which is equivalent to &#36;10, in today&#8217;s dollars. But, when the patent expired in 1986, generic drug manufacturers entered the market and the price of that 100-tablet bottle dropped below &#36;2.</p>
+<table id="krugmanwellsessentials4e-ch8-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-3" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price</strong></td>
+<td><strong>Quantity <br/>of 100-tablet bottle <br/>(millions)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;20</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">18</td>
+<td>1</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">16</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">14</td>
+<td>3</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">12</td>
+<td>4</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>5</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">8</td>
+<td>6</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">6</td>
+<td>7</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>8</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch8-p296" block_type="wio-txt">The tables at right shows a hypothetical demand schedule for ibuprofen.</p>
+<p id="krugmanwellsessentials4e-ch8-p297" block_type="wio-txt">Assuming that the marginal cost of producing a 100-tablet bottle of ibuprofen is &#36;2, calculate total revenue, marginal revenue, and the profit-maximizing price and quantity for a bottle of Advil before generic drug producers enter the market. Then, assuming a perfectly competitive industry, explain what happens to equilibrium price and quantity when generic drug producers enter the market.</p>
+<p id="krugmanwellsessentials4e-ch8-p298" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Construct a marginal revenue schedule to find Advil&#8217;s optimal price and quantity for producing bottles of ibuprofen.</strong>
+<phrase block_type="step-subtext">Review pages 239&#8211;242.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch8-p299" block_type="wio-txt-ni">Total revenue is found by multiplying price and quantity (<em>TR</em> = <em>P</em> &#215; <em>Q</em>). The marginal revenue is the change in total revenue divided by the change in quantity (<em>MR</em> = <em>&#916;TR/&#916;Q</em>). In the following table, the total revenue for producing 1 million 100-tablet bottles is &#36;18 million or simply 1 million times &#36;18. The total revenue for 2 million bottles is &#36;32 million or 2 million times &#36;16. The marginal revenue from producing an extra million bottles, 2 million bottles, is (32 &#8722; 18)/(2 &#8722; 1) or &#36;14, the change in total revenue from producing an extra 1 million bottles, &#36;14 million, divided by the change in quantity or 1 million bottles.</p>
+<p id="krugmanwellsessentials4e_page_257" block_type="page_start">257</p>
+<table id="krugmanwellsessentials4e-ch8-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-4" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Price</strong></td>
+<td><strong>Quantity of <br/>100-tablet bottle <br/>(millions)</strong></td>
+<td><strong>Total Revenue <br/>(millions of dollars) <br/><em>TR</em> = <em>P</em> &#215; <em>Q</em></strong></td>
+<td><strong>Marginal Revenue per 100- <br/>tablet bottles (dollars) <br/><em>MR</em> = &#916;<em>TR/</em>&#916;<em>Q</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>&#36;20</td>
+<td>0</td>
+<td>&#36;0</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#36;18</td>
+</tr>
+<tr class="tbl-td-light">
+<td>18</td>
+<td>1</td>
+<td>18</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+</tr>
+<tr class="tbl-td-light">
+<td>16</td>
+<td>2</td>
+<td>32</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-light">
+<td>14</td>
+<td>3</td>
+<td>42</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+</tr>
+<tr class="tbl-td-light">
+<td>12</td>
+<td>4</td>
+<td>48</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-violet-bg">10</td>
+<td class="tbl-violet-bg">5</td>
+<td>50</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;2</td>
+</tr>
+<tr class="tbl-td-light">
+<td>8</td>
+<td>6</td>
+<td>48</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;6</td>
+</tr>
+<tr class="tbl-td-light">
+<td>6</td>
+<td>7</td>
+<td>42</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;10</td>
+</tr>
+<tr class="tbl-td-light">
+<td>4</td>
+<td>8</td>
+<td>32</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8722;14</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-green-bg">2</td>
+<td class="tbl-green-bg">9</td>
+<td>18</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch8-p300" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Determine the optimal price and quantity of bottles of ibuprofen to produce.</strong>
+<phrase block_type="step-subtext">Review pages 242&#8211;244.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch8-p301" block_type="wio-txt-ni">A monopolist maximizes profit by producing the quantity where marginal revenue equals marginal cost. In this case, Advil has a marginal cost of &#36;2 per bottle. The purple shading in the table shows that marginal revenue is &#36;2 at a quantity of 5 million bottles. You can also verify that profit is highest, &#36;40 million, when price is set at &#36;10 per bottle and Advil manufactures 5 million bottles.</p>
+<p id="krugmanwellsessentials4e-ch8-p302" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Determine what happens to equilibrium price and quantity when generic drug manufacturers are allowed to enter the industry and produce ibuprofen.</strong>
+<phrase block_type="step-subtext">Review pages 246&#8211;247.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch8-p303" block_type="wio-txt-ni">When the patent for ibuprofen expired, many firms began producing the drug, making the industry almost perfectly competitive&#8212;causing price to equal marginal cost. Looking at the area shaded green in the table, you can see that marginal cost, &#36;2, is equal to price at a quantity of 9 million bottles.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-6" block_type="cr-que-t" title="" chapter="8" numbered="true" level="1" print_page="257">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch8-list-21" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch8-p304" block_type="sum-nl">There are four main types of market structure based on the number of firms in the industry and product differentiation: perfect competition, monopoly, oligopoly, and monopolistic competition.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p305" block_type="sum-nl">A <strong>monopolist</strong> is a producer who is the sole supplier of a good without close substitutes. An industry controlled by a monopolist is a <strong>monopoly.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p306" block_type="sum-nl">The key difference between a monopoly and a perfectly competitive industry is that a single perfectly competitive firm faces a horizontal demand curve but a monopolist faces a downward-sloping demand curve. This gives the monopolist <strong>market power,</strong> the ability to raise the market price by reducing output compared to a perfectly competitive firm.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p307" block_type="sum-nl">To persist, a monopoly must be protected by a <strong>barrier to entry.</strong> This can take the form of control of a natural resource or input, increasing returns to scale that give rise to <strong>natural monopoly,</strong> technological superiority, a <strong>network externality,</strong> or government rules that prevent entry by other firms, such as <strong>patents or copyrights.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p308" block_type="sum-nl">The marginal revenue of a monopolist is composed of a quantity effect (the price received from the additional unit) and a price effect (the reduction in the price at which all units are sold). Because of the price effect, a monopolist&#8217;s marginal revenue is always less than the market price, and the marginal revenue curve lies below the demand curve.</p>
+<p id="krugmanwellsessentials4e_page_258" block_type="page_start">258</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p309" block_type="sum-nl">At the monopolist&#8217;s profit-maximizing output level, marginal cost equals marginal revenue, which is less than market price. At the perfectly competitive firm&#8217;s profit-maximizing output level, marginal cost equals the market price. So in comparison to perfectly competitive industries, monopolies produce less, charge higher prices, and earn profits in both the short run and the long run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p310" block_type="sum-nl">A monopoly creates deadweight losses by charging a price above marginal cost: the loss in consumer surplus exceeds the monopolist&#8217;s profit. Thus monopolies are a source of market failure and should be prevented or broken up, except in the case of natural monopolies. <strong>Monopsony,</strong> an industry in which there is only one buyer of a good, is more rare than cases of monopoly. The <strong>monopsonist</strong> can affect the price of the good it buys: it captures surplus from sellers by reducing how much it purchases and thereby lowers the price. It creates deadweight loss by reducing the level of the good transacted to inefficiently low levels.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p311" block_type="sum-nl">Natural monopolies can still cause deadweight losses. To limit these losses, governments sometimes impose <strong>public ownership</strong> and at other times impose <strong>price regulation.</strong> A price ceiling on a monopolist, as opposed to a perfectly competitive industry, need not cause shortages and can increase total surplus.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p312" block_type="sum-nl">Not all monopolists are <strong>single-price monopolists.</strong> Monopolists, as well as oligopolists and monopolistic competitors, often engage in <strong>price discrimination</strong> to make higher profits, using various techniques to differentiate consumers based on their sensitivity to price and charging those with less elastic demand higher prices. A monopolist that achieves <strong>perfect price discrimination</strong> charges each consumer a price equal to his or her willingness to pay and captures the total surplus in the market. Although perfect price discrimination creates no inefficiency, it is practically impossible to implement.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-7" block_type="cr-kt-t" title="" chapter="8" numbered="true" level="1" print_page="258">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p313" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-24" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch8-p314" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p34">Monopolist, p. 233</link></p>
+<p id="krugmanwellsessentials4e-ch8-p315" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p34">Monopoly, p. 233</link></p>
+<p id="krugmanwellsessentials4e-ch8-p316" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p42">Market power, p. 234</link></p>
+<p id="krugmanwellsessentials4e-ch8-p317" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p47">Barrier to entry, p. 235</link></p>
+<p id="krugmanwellsessentials4e-ch8-p318" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p53">Natural monopoly, p. 235</link></p>
+<p id="krugmanwellsessentials4e-ch8-p319" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p59">Network externality, p. 236</link></p>
+<p id="krugmanwellsessentials4e-ch8-p320" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p66">Patent, p. 237</link></p>
+<p id="krugmanwellsessentials4e-ch8-p321" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p66">Copyright, p. 237</link></p>
+<p id="krugmanwellsessentials4e-ch8-p322" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p194">Public ownership, p. 248</link></p>
+<p id="krugmanwellsessentials4e-ch8-p323" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p199">Price regulation, p. 248</link></p>
+<p id="krugmanwellsessentials4e-ch8-p324" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p204">Monopsony, p. 249</link></p>
+<p id="krugmanwellsessentials4e-ch8-p325" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p204">Monopsonist, p. 249</link></p>
+<p id="krugmanwellsessentials4e-ch8-p326" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p236">Single-price monopolist, p. 251</link></p>
+<p id="krugmanwellsessentials4e-ch8-p327" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p236">Price discrimination, p. 251</link></p>
+<p id="krugmanwellsessentials4e-ch8-p328" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch8-p255">Perfect price discrimination, p. 253</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-8" block_type="cr-que-t" title="" chapter="8" numbered="true" level="1" print_page="258">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch8-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch8-p329" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Each of the following firms possesses market power. Explain its source.</p>
+<list id="krugmanwellsessentials4e-ch8-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p330" block_type="cr-que-ans-first">Merck, the producer of the patented cholesterol-lowering drug Zetia</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p331" block_type="cr-que-ans-mid">WaterWorks, a provider of piped water</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p332" block_type="cr-que-ans-mid">Chiquita, a supplier of bananas and owner of most banana plantations</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p333" block_type="cr-que-ans-mid">The Walt Disney Company, the creators of Mickey Mouse</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch8-p334" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> Skyscraper City has a subway system, for which a one-way fare is &#36;1.50. There is pressure on the mayor to reduce the fare by one-third, to &#36;1.00. The mayor is dismayed, thinking that this will mean Skyscraper City is losing one-third of its revenue from sales of subway tickets. The mayor&#8217;s economic adviser reminds her that she is focusing only on the price effect and ignoring the quantity effect. Explain why the mayor&#8217;s estimate of a one-third loss of revenue is likely to be an overestimate. Illustrate with a diagram.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch8-p335" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> Bob, Bill, Ben, and Brad Baxter have just made a documentary movie about their basketball team. They are thinking about making the movie available for download on the internet, and they can act as a single-price monopolist if they choose to. Each time the movie is downloaded, their internet service provider charges them a fee of &#36;4. The Baxter brothers are arguing about which price to charge customers per download. The accompanying table shows the demand schedule for their film.</p>
+<table id="krugmanwellsessentials4e-ch8-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-5" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of download</strong></td>
+<td><strong>Quantity of downloads demanded</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;10</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">8</td>
+<td>1</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td>3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">4</td>
+<td>6</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch8-list-23" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p336" block_type="cr-que-ans-first">Calculate the total revenue and the marginal revenue per download.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p337" block_type="cr-que-ans-mid">Bob is proud of the film and wants as many people as possible to down load it. Which price would he choose? How many downloads would be sold?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p338" block_type="cr-que-ans-mid">Bill wants as much total revenue as possible. Which price would he choose? How many downloads would be sold?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p339" block_type="cr-que-ans-mid">Ben wants to maximize profit. Which price would he choose? How many downloads would be sold?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p340" block_type="cr-que-ans-mid">Brad wants to charge the efficient price. Which price would he choose? How many downloads would be sold?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_259" block_type="page_start">259</p>
+<question id="krugmanwellsessentials4e-ch8-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch8-p341" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Jimmy&#8217;s room overlooks a major league baseball stadium. He decides to rent a telescope for &#36;50.00 a week and charge his friends to use it to peep at the games for 30 seconds. He can act as a single-price monopolist for renting out &#8220;peeps.&#8221; For each person who takes a 30-second peep, it costs Jimmy &#36;0.20 to clean the eyepiece. This table shows the information Jimmy has gathered about the weekly demand for the service.</p>
+<table id="krugmanwellsessentials4e-ch8-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-6" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of <br/>peep</strong></td>
+<td><strong>Quantity of peeps <br/>demanded</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;1.20</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1.00</td>
+<td>100</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.90</td>
+<td>150</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.80</td>
+<td>200</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.70</td>
+<td>250</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.60</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.50</td>
+<td>350</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.40</td>
+<td>400</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.30</td>
+<td>450</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.20</td>
+<td>500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.10</td>
+<td>550</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch8-list-24" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p342" block_type="cr-que-ans-first">For each price in the table, calculate the total revenue from selling peeps and the marginal revenue per peep.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p343" block_type="cr-que-ans-mid">At what quantity will Jimmy&#8217;s profit be maximized? What price will he charge? What will his total profit be?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p344" block_type="cr-que-ans-mid">Jimmy&#8217;s landlady complains about all the visitors and tells him to stop selling peeps. But, if he pays her &#36;0.20 for every peep he sells, she won&#8217;t complain. What effect does the &#36;0.20-per-peep bribe have on Jimmy&#8217;s marginal cost per peep? What is the new profit-maximizing quantity of peeps? What effect does the &#36;0.20-per-peep bribe have on Jimmy&#8217;s total profit?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch8-p345" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> Suppose that De Beers is a single-price monopolist in the diamond market. De Beers has five potential customers: Raquel, Jackie, Joan, Mia, and Sophia. Each of these customers will buy at most one diamond&#8212;and only if the price is just equal to, or lower than, her willingness to pay. Raquel&#8217;s willingness to pay is &#36;400; Jackie&#8217;s, &#36;300; Joan&#8217;s, &#36;200; Mia&#8217;s, &#36;100; and Sophia&#8217;s, &#36;0. De Beers&#8217;s marginal cost per diamond is &#36;100. The result is a demand schedule for diamonds as follows:</p>
+<table id="krugmanwellsessentials4e-ch8-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-7" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of <br/>diamond</strong></td>
+<td><strong>Quantity of diamonds <br/>demanded</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;500</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">400</td>
+<td>1</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">300</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">200</td>
+<td>3</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">100</td>
+<td>4</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch8-list-25" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p346" block_type="cr-que-ans-first">Calculate De Beers&#8217;s total revenue and its marginal revenue. From your calculation, draw the demand curve and the marginal revenue curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p347" block_type="cr-que-ans-mid">Explain why De Beers faces a downward-sloping demand curve and why the marginal revenue from an additional diamond sale is less than the price of the diamond.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p348" block_type="cr-que-ans-mid">Suppose De Beers currently charges &#36;200 for its diamonds. If it lowers the price to &#36;100, how large is the price effect? How large is the quantity effect?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p349" block_type="cr-que-ans-mid">Add the marginal cost curve to your diagram from part a and determine which quantity maximizes De Beers&#8217;s profit and which price De Beers will charge.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch8-p350" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> Use the demand schedule for diamonds given in Problem 5. The marginal cost of producing diamonds is constant at &#36;100. There is no fixed cost.</p>
+<list id="krugmanwellsessentials4e-ch8-list-26" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p351" block_type="cr-que-ans-first">If De Beers charges the monopoly price, how large is the individual consumer surplus that each buyer experiences? Calculate total consumer surplus by summing the individual consumer surpluses. How large is producer surplus?</p>
+<p id="krugmanwellsessentials4e-ch8-p352" block_type="cr-que-nl-mid">Suppose that upstart Russian and Asian producers enter the market and it becomes perfectly competitive.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p353" block_type="cr-que-ans-mid">What is the perfectly competitive price? What quantity will be sold in this perfectly competitive market?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p354" block_type="cr-que-ans-mid">At the competitive price and quantity, how large is the consumer surplus that each buyer experiences? How large is total consumer surplus? How large is producer surplus?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p355" block_type="cr-que-ans-mid">Compare your answer to part c to your answer to part a. How large is the deadweight loss associated with monopoly in this case?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch8-p356" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> Use the demand schedule for diamonds given in Problem 5. De Beers is a monopolist, but it can now price-discriminate perfectly among all five of its potential customers. De Beers&#8217;s marginal cost is constant at &#36;100. There is no fixed cost.</p>
+<list id="krugmanwellsessentials4e-ch8-list-27" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p357" block_type="cr-que-ans-first">If De Beers can price-discriminate perfectly, to which customers will it sell diamonds and at what prices?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p358" block_type="cr-que-ans-mid">How large is each individual consumer surplus? How large is total consumer surplus? Calculate producer surplus by summing the producer surplus generated by each sale.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch8-p359" block_type="cr-que-nl-first"><phrase block_type="qnum">8.</phrase> Download Records decides to release an album by the group Mary and the Little Lamb. It produces the album with no fixed cost, but the total cost of creating a digital album and paying Mary her royalty is &#36;6 per album. Download Records can act as a single-price monopolist. Its marketing division finds that the demand schedule for the album is as shown in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch8-untab-8" block_type="un_table" data-href="#krugmanwellsessentials4e-ch8-untab-8" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of <br/>album</strong></td>
+<td><strong>Quantity of albums <br/>demanded</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;22</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">20</td>
+<td>1,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">18</td>
+<td>2,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">16</td>
+<td>3,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">14</td>
+<td>4,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">12</td>
+<td>5,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">10</td>
+<td>6,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">8</td>
+<td>7,000</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch8-list-28" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p360" block_type="cr-que-ans-first">Calculate the total revenue and the marginal revenue per album.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p361" block_type="cr-que-ans-mid">The marginal cost of producing each album is constant at &#36;6. To maximize profit, what level of output should Download Records choose, and which price should it charge for each album?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p362" block_type="cr-que-ans-mid">Mary renegotiates her contract and will be paid a higher royalty per album. So the marginal cost rises to be constant at &#36;14. To maximize profit, what level of output should Download Records now choose, and which price should it charge for each album?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_260" block_type="page_start">260</p>
+<question id="krugmanwellsessentials4e-ch8-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch8-p363" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> This diagram illustrates your local electricity company&#8217;s natural monopoly. It shows the demand curve for kilowatt-hours (kWh) of electricity, the company&#8217;s marginal revenue (<em>MR</em>) curve, its marginal cost (<em>MC</em>) curve, and its average total cost (<em>ATC</em>) curve. The government wants to regulate the monopolist by imposing a price ceiling.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch8-img-25" alt="image" src="images/KrugESS4e_08UN04.jpg"/>
+</figure>
+<list id="krugmanwellsessentials4e-ch8-list-29" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p364" block_type="cr-que-ans-first">If the government does not regulate this monopolist, which price will it charge? Illustrate the inefficiency this creates by shading the deadweight loss from monopoly.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p365" block_type="cr-que-ans-mid">If the government imposes a price ceiling equal to the marginal cost, &#36;0.30, will the monopolist make profits or lose money? Shade the area of profit (or loss) for the monopolist. If the government does impose this price ceiling, do you think the firm will continue to produce in the long run?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p366" block_type="cr-que-ans-mid">If the government imposes a price ceiling of &#36;0.50, will the monopolist make a profit, lose money, or break even?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch8-p367" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> The Collegetown movie theater serves 900 students and 100 professors in town. Each student&#8217;s willingness to pay for a movie ticket is &#36;5. Each professor&#8217;s willingness to pay is &#36;10. Each will buy only one ticket. The movie theater&#8217;s marginal cost per ticket is constant at &#36;3, and there is no fixed cost.</p>
+<list id="krugmanwellsessentials4e-ch8-list-30" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p368" block_type="cr-que-ans-first">Suppose the movie theater cannot price-discriminate and charges both students and professors the same price per ticket. If the movie theater charges &#36;5, who will buy tickets and what will the movie theater&#8217;s profit be? How large is consumer surplus?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p369" block_type="cr-que-ans-mid">If the movie theater charges &#36;10, who will buy movie tickets and what will the movie theater&#8217;s profit be? How large is consumer surplus?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p370" block_type="cr-que-ans-mid">Assuming the movie theater can price-discriminate between students and professors by requiring students to show their student ID, charging students &#36;5 and professors &#36;10, how much profit will the movie theater make? How large is consumer surplus?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch8-p371" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> A monopolist knows that in order to expand the quantity of output it produces from 8 to 9 units it must lower the price of its output from &#36;2 to &#36;1. Calculate the quantity effect and the price effect. Use these results to calculate the monopolist&#8217;s marginal revenue of producing the 9th unit. The marginal cost of producing the 9th unit is positive. Is it a good idea for the monopolist to produce the 9th unit?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch8-p372" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> In the United States, the Federal Trade Commission (FTC) is charged with promoting competition and challenging mergers that would likely lead to higher prices. Several years ago, Staples and Office Depot, two of the largest office supply superstores, announced their agreement to merge.</p>
+<list id="krugmanwellsessentials4e-ch8-list-31" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p373" block_type="cr-que-ans-first">Some critics of the merger argued that, in many parts of the country, a merger between the two companies would create a monopoly in the office supply superstore market. Based on the FTC&#8217;s argument and its mission to challenge mergers that would likely lead to higher prices, do you think it allowed the merger?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p374" block_type="cr-que-ans-mid">Staples and Office Depot argued that, while in some parts of the country they might create a monopoly in the office supply superstore market, the FTC should consider the larger market for all office supplies, which includes many smaller stores that sell office supplies (such as grocery stores and other retailers). In that market, Staples and Office Depot would face competition from many other, smaller stores. If the market for all office supplies is the relevant market that the FTC should consider, would it make the FTC more or less likely to allow the merger?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_261" block_type="page_start">261</p>
+<question id="krugmanwellsessentials4e-ch8-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch8-p375" block_type="cr-que-nl-mid"><phrase block_type="qnum">13.</phrase> Prior to the late 1990s, the same company that generated your electricity also distributed it to you over high-voltage lines. Since then, 16 states and the District of Columbia have begun separating the generation from the distribution of electricity, allowing competition between electricity generators and between electricity distributors.</p>
+<list id="krugmanwellsessentials4e-ch8-list-32" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p376" block_type="cr-que-ans-first">Assume that the market for electricity distribution was and remains a natural monopoly. Use a graph to illustrate the market for electricity distribution if the government sets price equal to average total cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p377" block_type="cr-que-ans-mid">Assume that deregulation of electricity generation creates a perfectly competitive market. Also assume that electricity generation does not exhibit the characteristics of a natural monopoly. Use a graph to illustrate the cost curves in the long-run equilibrium for an individual firm in this industry.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-14" block_type="q_prob" number="14">
+<p id="krugmanwellsessentials4e-ch8-p378" block_type="cr-que-nl-mid"><phrase block_type="qnum">14.</phrase> Explain the following situations.</p>
+<list id="krugmanwellsessentials4e-ch8-list-33" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p379" block_type="cr-que-ans-first">In Europe, many cell phone service providers give away for free what would otherwise be very expensive cell phones when a service contract is purchased. Why might a company want to do that?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p380" block_type="cr-que-ans-mid">In the United Kingdom, the country&#8217;s antitrust authority prohibited the cell phone service provider Vodaphone from offering a plan that gave customers free calls to other Vodaphone customers. Why might Vodaphone have wanted to offer these calls for free? Why might a government want to step in and ban this practice? Why might it not be a good idea for a government to interfere in this way?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-15" block_type="q_prob" number="15">
+<p id="krugmanwellsessentials4e-ch8-p381" block_type="cr-que-nl-mid"><phrase block_type="qnum">15.</phrase> The 2014 announcement that Time Warner Cable and Comcast intended to merge prompted questions of monopoly because the combined company would supply cable access to an overwhelming majority of Americans. It also raised questions of monopsony since the combined company would be virtually the only purchaser of programming for broadcast shows. Assume the merger occurs: in each of the following, determine whether it is evidence of monopoly, monopsony, or neither.</p>
+<list id="krugmanwellsessentials4e-ch8-list-34" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p382" block_type="cr-que-ans-first">The monthly cable fee for consumers increases significantly more than the increase in the cost of producing and delivering programs over cable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p383" block_type="cr-que-ans-mid">Companies that advertise on cable TV find that they must pay higher rates for advertising.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p384" block_type="cr-que-ans-mid">Companies that produce broadcast shows find they must produce more shows for the same amount they were paid before.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p385" block_type="cr-que-ans-mid">Consumers find that there are more shows available for the same monthly cable fee.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch8-question-16" block_type="q_prob" number="16">
+<p id="krugmanwellsessentials4e-ch8-p386" block_type="cr-que-nl-mid"><phrase block_type="qnum">16.</phrase> Walmart is the world&#8217;s largest retailer. As a consequence, it has sufficient bargaining power to push its suppliers to lower their prices so it can honor its slogan of &#8220;Always Low Prices&#8221; for its customers.</p>
+<list id="krugmanwellsessentials4e-ch8-list-35" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p387" block_type="cr-que-ans-first">Is Walmart acting like a monopolist or monopsonist when purchasing goods from suppliers? Explain.</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p388" block_type="cr-que-ans-mid">How does Walmart affect the consumer surplus of its customers? The producer surplus of its suppliers?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p389" block_type="cr-que-ans-mid">Over time, what is likely to happen to the quality of products produced by Walmart suppliers?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch8-sec1-9" block_type="sum-h" title="" chapter="8" numbered="true" level="1" print_page="261">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch8-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch8-p390" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch8-img-26" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch8-question-17" block_type="q_prob" number="17">
+<p id="krugmanwellsessentials4e-ch8-p391" block_type="cr-wio-nl-first"><phrase block_type="qnum">17.</phrase> Consider an industry with the demand curve (<em>D</em>) and marginal cost curve (<em>MC</em>) shown in the accompanying diagram. There is no fixed cost. If the industry is a single-price monopoly, the monopolist&#8217;s marginal revenue curve would be <em>MR.</em> Answer the following questions by naming the appropriate points or areas.</p>
+<figure id="krugmanwellsessentials4e-ch8-fig-17" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch8-img-27" alt="image" src="images/KrugESS4e_08UN05.jpg"/>
+</figure>
+<list id="krugmanwellsessentials4e-ch8-list-36" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch8-p392" block_type="cr-wio-ans-first">If the industry is perfectly competitive, what will be the total quantity produced? At what price?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p393" block_type="cr-wio-ans-mid">Which area reflects consumer surplus under perfect competition?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p394" block_type="cr-wio-ans-mid">If the industry is a single-price monopoly, what quantity will the monopolist produce? Which price will it charge?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p395" block_type="cr-wio-ans-mid">Which area reflects the single-price monopolist&#8217;s profit?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p396" block_type="cr-wio-ans-mid">Which area reflects consumer surplus under single-price monopoly?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p397" block_type="cr-wio-ans-mid">Which area reflects the deadweight loss to society from single-price monopoly?</p></li>
+<li><p id="krugmanwellsessentials4e-ch8-p398" block_type="cr-wio-ans-last">If the monopolist can price-discriminate perfectly, what quantity will the perfectly price-discriminating monopolist produce?</p></li>
+</list>
+</question>
+</section>
+</chapter>
+</manuscript>

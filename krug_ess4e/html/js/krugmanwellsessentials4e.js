@@ -291,18 +291,21 @@ var Player_subtype = Player_manuscript_type.extend({
     
     /////////////////////////////////////////////////////////////
     // SUPPLEMENTAL WINDOWS
-    // adjust caption width for figures in supplemental windows
+    // remove link elements to deactivate further pop events
     /////////////////////////////////////////////////////////////
-    //$(window).load(function() {        
-       $('#supp_win > [data-type="figure"]').each(function() {
-         // $(this).removeAttr('data-caption-compass');
-         //var imgwidth = $(this).find('img').width();
-         //$(this).find('[data-type="figure_text"]').width(imgwidth);
-         // don't popup images from supplemental windows
-         $(this).find('img').unbind();
-         $(this).find('[data-type="number"]').unbind();
-       });
-    //});
+    $('#supp_win #manuscript.figure [data-type="figure"]').each(function () {
+        $(this).find('img').unbind();
+    });
+    $('#supp_win #manuscript.figure [data-block_type="figure"]').each(function () {
+        $(this).find('[data-block_type="fig-label"]').unwrap();
+    });
+    $('#supp_win #manuscript.exercise [data-block_type="qnum"]').each(function () {
+        $(this).removeAttr('data-href').removeAttr('data-target');
+    });
+    $('#supp_win #manuscript.table [data-type="table"]').each(function () {
+        $(this).removeAttr('data-href').removeAttr('data-target');
+    });
+
     
     } // end initialize2
     

@@ -691,11 +691,34 @@
     <Content Include="krug_ess4e\keyterms\kt_ch4.js" />
     <Content Include="krug_ess4e\keyterms\kt_ch5.js" />
     <Content Include="krug_ess4e\toc\krugmanwellsessentials4e.xml" />
-    <Content Include="krug_ess4e\xml\0_ch1_handedit.xml" />
-    <Content Include="krug_ess4e\xml\0_ch2_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch10_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch11_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch12_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch13_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch14_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch15_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch16_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch17_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch18_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch19_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch1_handedit.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="krug_ess4e\xml\0_ch20_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch2_handedit.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="krug_ess4e\xml\0_ch3_handedit.xml" />
-    <Content Include="krug_ess4e\xml\0_ch4_handedit.xml" />
-    <Content Include="krug_ess4e\xml\0_ch5_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch4_handedit.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="krug_ess4e\xml\0_ch5_handedit.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="krug_ess4e\xml\0_ch6_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch7_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch8_handedit.xml" />
+    <Content Include="krug_ess4e\xml\0_ch9_handedit.xml" />
     <Content Include="krug_ess4e\xml\solution\krugmanwellsessentials4e-ch03-solution.xml" />
     <Content Include="krug_ess4e\xml\source\03_21_16\krugmanwellsessentials4e-ch03-solution.xml" />
     <Content Include="krug_ess4e\xml\source\03_21_16\krugmanwellsessentials4e-ch03_3_21.xml" />
@@ -720,6 +743,22 @@
     <None Include="krug_ess4e\docs\KrugESS4e_CH02_pp_023_046.pdf" />
     <None Include="krug_ess4e\docs\KrugESS4e_CH03_pp_066_100.pdf" />
     <None Include="krug_ess4e\docs\KrugESS4e_CH04_pp_101_136.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH05_pp_137_174.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH06_pp_175_201.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH07_pp_202_230.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH08_pp_231_261.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH09_pp_262_285.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH10_pp_286_314.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH11_pp_315_342.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH12_pp_343_359.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH13_pp_360_376.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH14_pp_377_406.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH15_pp_407_438.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH16_pp_439_474.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH17_pp_475_505.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH18_pp_506_540.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH19_pp_541_568.pdf" />
+    <None Include="krug_ess4e\docs\KrugESS4e_CH20_pp_569_610.pdf" />
     <None Include="krug_ess4e\docs\Krugmanwelssessentials4e.docx" />
     <None Include="krug_ess4e\docs\Krugmanwelssessentials4e2.docx" />
     <None Include="krug_ess4e\docs\Meeting Notes Combined.docx" />

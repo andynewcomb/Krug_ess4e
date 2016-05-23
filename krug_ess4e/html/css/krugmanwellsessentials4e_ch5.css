@@ -1,125 +1,85 @@
 ﻿/* krugman Essentials 4e LESS CSS */
-/* lists */
-/* Chapter Introduction Section */
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] {
-  width: 300px !important;
-  display: table-cell;
-  padding: 1em 10px 0 10px;
-  background-color: transparent;
-  border: 0;
+div#krugmanwellsessentials4e-ch5-p030 {
+  text-align: center;
 }
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] [data-type="figure_tesxt"] {
-  border: 0;
-  margin: 0;
-  padding: 0;
+div#krugmanwellsessentials4e-ch5-p034 {
+  text-align: center;
 }
-[data-type="section"][data-block_type="intro"] [data-block_type="bx3"] > [data-type="box_inner"] > [data-type="figure"] img {
-  max-width: 300px !important;
-  display: inline;
-  padding: 0;
+div#krugmanwellsessentials4e-ch5-p047 {
+  text-align: center;
 }
-div#krugmanwellsessentials4e-ch3-fig-50 [data-block_type="fig_title"] {
-  margin-top: -8px;
+div#krugmanwellsessentials4e-ch5-p052 {
+  text-align: center;
 }
-/* margin adjustments */
-[src="asset/ch3/KrugESS4e_3UN02.jpg"] {
-  margin-top: -38px;
+div#krugmanwellsessentials4e-ch5-p0151 {
+  text-align: center;
 }
-div#krugmanwellsessentials4e-ch3-bx5-1 {
-  margin-top: -240px;
+div#krugmanwellsessentials4e-ch5-p0231 {
+  text-align: center;
 }
-div#krugmanwellsessentials4e-ch3-bx5-2 {
-  margin-top: -300px;
+div#krugmanwellsessentials4e-ch5-p0233 {
+  text-align: center;
 }
-div#krugmanwellsessentials4e-ch3-bx5-3 {
-  margin-top: -164px;
+div#krugmanwellsessentials4e-ch5-p0235 {
+  text-align: center;
 }
-div#krugmanwellsessentials4e-ch3-bx5-4 {
-  margin-top: -83px;
+div#krugmanwellsessentials4e-ch5-p0241 {
+  text-align: center;
 }
-[src="asset/ch3/KrugESS4e_3UN04.jpg"] {
-  margin-top: -145px;
+div#krugmanwellsessentials4e-ch5-p0244 {
+  text-align: center;
 }
-div#krugmanwellsessentials4e-ch3-exp2-2 {
-  position: absolute;
-  left: 660px;
-  margin-left: 1em;
-  width: 250px;
-  margin-top: 16x;
+div#krugmanwellsessentials4e-ch5-p0319 {
+  text-align: center;
+  margin-left: -100px;
 }
-div#krugmanwellsessentials4e-ch3-exp2-5 {
-  position: absolute;
-  left: 660px;
-  margin-left: 1em;
-  width: 250px;
+div#krugmanwellsessentials4e-ch5-p0321 {
+  text-align: center;
+  margin-left: -100px;
 }
-div#krugmanwellsessentials4e-ch3-p233 {
-  position: absolute;
-  left: 660px;
-  margin-left: 1em;
-  width: 250px;
-  margin-top: -27px;
+div#krugmanwellsessentials4e-ch5-p050 {
+  width: 620px;
 }
-[src="asset/ch3/world_view_icon.jpg"] {
-  position: absolute;
-  width: 60px;
-  left: 561px;
-  margin-top: -19px;
+div#krugmanwellsessentials4e-ch5-p058 img {
+  height: 4em;
 }
-div#krugmanwellsessentials4e-ch3-untab-3 {
-  float: right;
-  width: initial !important;
-  margin-left: 2em;
-  margin-top: -11px;
+div#krugmanwellsessentials4e-ch5-bx5-3 {
+  margin-top: -22em;
 }
-div#krugmanwellsessentials4e-ch3-p350 {
-  margin-left: -1em;
+div#krugmanwellsessentials4e-ch5-bx5-5 {
+  margin-top: -10em;
 }
-div#krugmanwellsessentials4e-ch3-untab-6 {
-  margin-left: -2em;
+div#krugmanwellsessentials4e_page_153 {
+  margin-top: -2em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-1 {
-  margin-top: 27px;
+div#krugmanwellsessentials4e_page_173 {
+  margin-top: -2em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-2 {
-  margin-top: -15px;
+div#krugmanwellsessentials4e_page_174 {
+  margin-top: -2em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-3 {
-  margin-top: -15px;
+div#krugmanwellsessentials4e-ch5-bx5-8 {
+  margin-top: -5em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-5 {
-  margin-top: 68px;
+div#krugmanwellsessentials4e-ch5-exp3-22 {
+  margin-top: 6em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-6 {
-  margin-top: -49px;
+div#krugmanwellsessentials4e-ch5-exp2-7 {
+  margin-top: -4em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-7 {
-  margin-top: -15px;
+div#krugmanwellsessentials4e-ch5-fig-022 {
+  margin-top: 1em;
 }
-div#krugmanwellsessentials4e-ch3-exp3-8 {
-  margin-top: -31px;
+div#krugmanwellsessentials4e-ch5-tab-2 tr {
+  border-bottom: 0;
 }
-div#krugmanwellsessentials4e-ch3-exp3-11 {
-  margin-top: -196px;
+div#krugmanwellsessentials4e-ch5-tab-3 tr {
+  border-bottom: 0;
 }
-div#krugmanwellsessentials4e-ch3-exp3-13 {
-  margin-top: -14px;
+div#krugmanwellsessentials4e-ch5-tab-4 td img {
+  height: 2em;
+  vertical-align: middle;
 }
-div#krugmanwellsessentials4e-ch3-exp3-14 {
-  margin-top: -30px;
-}
-div#krugmanwellsessentials4e-ch3-exp3-15 {
-  margin-top: -33px;
-}
-div#krugmanwellsessentials4e-ch3-exp3-17 {
-  margin-top: -14px;
-}
-div#krugmanwellsessentials4e-ch3-exp3-18 {
-  margin-top: 45px;
-}
-div#krugmanwellsessentials4e-ch3-exp3-21 {
-  margin-top: -186px;
-}
-div#krugmanwellsessentials4e-ch3-exp3-23 {
-  margin-top: -33px;
+ol#krugmanwellsessentials4e-ch5-list-21a {
+  counter-increment: alpha-list;
 }

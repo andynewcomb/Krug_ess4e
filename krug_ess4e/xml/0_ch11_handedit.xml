@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="11" name="" title="KRU_Chapter_11_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="11" id="krugmanwellsessentials4e-ch11-chapter-11" title="CHAPTER 11: Poverty, Inequality, and the Welfare State" start-numbering-at="11" numbered="true">
+<section id="krugmanwellsessentials4e-ch11-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="315">
+<p id="krugmanwellsessentials4e_page_315" block_type="page_start">315</p>
+<p id="krugmanwellsessentials4e-ch11-p2" block_type="chapter_title">Poverty, Inequality, and the Welfare State</p>
+<p id="krugmanwellsessentials4e-ch11-p1" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">11</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch11-p3" block_type="co-t"><strong>THE COMING OF OBAMACARE</strong></p>
+<figure id="krugmanwellsessentials4e-ch11-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-1" alt="image" src="images/KrugESS4e_CO11.jpg"/>
+<caption>Implementation of the Affordable Care Act, ACA, in 2014 was a major expansion of the U.S, welfare state.</caption>
+<asset_source>Jewel Samad/Getty Images</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch11-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch11-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch11-p5" block_type="obj-bl">What the <strong>welfare state</strong> is and the rationale for it</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p6" block_type="obj-bl">What defines poverty, what causes poverty, and the consequences of poverty</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p7" block_type="obj-bl">How income inequality in America has changed over time</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p8" block_type="obj-bl">How programs like Social Security affect poverty and income inequality</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p9" block_type="obj-bl">The special concerns presented by health insurance</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p10" block_type="obj-bl">Why there is debate over the size of the welfare state</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p11" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-2" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p12" block_type="co-txt-ni"><phrase block_type="dropcap">O</phrase>N JANUARY 1, 2014, LOU Vincent finally got health insurance. Vincent, a resident of Ohio, had Type II diabetes, and as a result no insurance company was willing to offer him a policy, leaving him uninsured for 10 years. &#8220;We got 30 denial letters,&#8221; his wife told a reporter. So what changed at the beginning of 2014? A major new government program, the Patient Protection and Affordable Care Act&#8212;often referred to as the Affordable Care Act, the ACA, or &#8220;Obamacare&#8221;&#8212;went into effect.</p>
+<p id="krugmanwellsessentials4e-ch11-p13" block_type="co-txt">Tens of millions of Americans receive health insurance directly from the government, mainly from Medicare (which covers those 65 and older) and Medicaid (which covers the poor and near-poor, and was expanded under the ACA). Obamacare works differently, because it operates mainly through private insurance companies that are subject to extensive government regulation. It also tries to ensure that everyone, including people like Vincent, has access to health insurance.</p>
+<p id="krugmanwellsessentials4e-ch11-p14" block_type="co-txt">In addition to regulating insurers, the ACA imposes new rules on the public: U.S. citizens and permanent residents are required to purchase insurance that meets certain minimum standards. To keep policies affordable for lower-income families, the law provides substantial subsidies. And to help pay for these subsidies, the law imposed new taxes, mainly on high incomes.</p>
+<p id="krugmanwellsessentials4e-ch11-p15" block_type="co-txt">Overall, Obamacare was a substantial expansion of the government&#8217;s role in the economy. Specifically, it marked a major expansion of the <em>welfare state</em>, the collection of government programs designed to limit economic insecurity and/or reduce economic inequality.</p>
+<p id="krugmanwellsessentials4e-ch11-p16" block_type="co-txt">There is intense political dispute about the appropriate size and role of the welfare state. Indeed, you can argue that this dispute is what politics is mainly about, with liberals seeking to expand the welfare state&#8217;s reach and conservatives seeking to scale it back.</p>
+<p id="krugmanwellsessentials4e-ch11-p17" block_type="co-txt">So opinions about Obamacare, not surprisingly, are deeply divided. It&#8217;s part of a larger debate in contemporary America, in which politicians often disagree about how much help financially troubled families should receive to pay for health care, housing, food, and other necessities. Yet there is a broad political consensus that these families should receive some help. And they do. Even conservatives generally accept a fairly extensive welfare state as a fact of life. Governments of all wealthy nations play a large role in everything from health care, to retirement, to aid to the poor and jobless.</p>
+<p id="krugmanwellsessentials4e-ch11-p18" block_type="co-txt">We start this chapter by discussing poverty, inequality, and the rationale for welfare state programs. Then we look at the two main programs in the United States: <em>income support programs,</em> of which Social Security is by far the largest, and <em>health care programs,</em> dominated by Medicare and Medicaid, but with the Affordable Care Act playing a growing role.</p>
+<p id="krugmanwellsessentials4e_page_316" block_type="page_start">316</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-1" block_type="h1" title="" chapter="11" numbered="true" level="1" print_page="316">
+<section-metadata><section-title>Poverty, Inequality, and Public Policy</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p19" block_type="mn-gl-def">The <strong>welfare state</strong> is the collection of government programs designed to alleviate economic hardship.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p20" block_type="mn-gl-def">A <strong>government transfer</strong> is a government payment to an individual or a family.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p21" block_type="txt-ni">The term <strong>welfare state</strong> has come to refer to the collection of government programs that are designed to alleviate economic hardship. A large share of the government spending of all wealthy countries consists of <strong>government transfers&#8212;</strong>payments by the government to individuals and families&#8212;that provide financial aid to the poor, assistance to unemployed workers, guaranteed income for the elderly, and assistance in paying medical bills for those with large health care expenses.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-1" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="316">
+<section-metadata><section-title>The Logic of the Welfare State</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p22" block_type="txt-ni">There are three major economic rationales for the creation of the welfare state.</p>
+<p id="krugmanwellsessentials4e-ch11-p23" block_type="txt-3"><phrase block_type="h3"><strong>1. Alleviating Income Inequality</strong></phrase> Suppose that the Taylor family, which has an income of only &#36;15,000 a year, were to receive a government check for &#36;1,500. This check might allow the Taylors to afford a better place to live, eat a more nutritious diet, or in other ways significantly improve their quality of life. Also suppose that the Fisher family, which has an income of &#36;300,000 a year, were to face an extra tax of &#36;1,500. This probably wouldn&#8217;t make much difference to their quality of life: at worst, they might have to give up a few minor luxuries.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p24" block_type="mn-gl-def">A <strong>poverty program</strong> is a government program designed to aid the poor.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p25" block_type="txt">This hypothetical exchange illustrates the first major rationale for the welfare state: <em>alleviating income inequality.</em> Because a marginal dollar is worth more to a poor person than a rich one, modest transfers from the rich to the poor will do the rich little harm but benefit the poor a lot. So, according to this argument, a government that takes from the rich to give to the poor, does more good than harm. Programs that are designed to aid the poor are known as <strong>poverty programs.</strong></p>
+<p id="krugmanwellsessentials4e-ch11-p26" block_type="txt-3"><phrase block_type="h3"><strong>2. Alleviating Economic Insecurity</strong></phrase> The second major rationale for the welfare state is <em>alleviating economic insecurity.</em> Imagine ten families, each of which can expect an income next year of &#36;50,000 if nothing goes wrong. But suppose the odds are that something <em>will</em> go wrong for one of the families, although nobody knows which one. For example, suppose each of the families has a one in ten chance of experiencing a sharp drop in income because one family member is laid off or incurs large medical bills. And assume that this event will produce severe hardship for the family&#8212;a family member will have to drop out of school or the family will lose its home.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p27" block_type="mn-gl-def">A <strong>social insurance program</strong> is a government program designed to provide protection against unpredictable financial distress.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p28" block_type="txt">Now suppose there&#8217;s a government program that provides aid to families in distress, paying for that aid by taxing families that are having a good year. Arguably, this program will make all the families better off, because even families that don&#8217;t currently receive aid from the program might need it at some point in the future. Each family will therefore feel safer knowing that the government stands ready to help when disaster strikes. Programs designed to provide protection against unpredictable financial distress are known as <strong>social insurance programs.</strong></p>
+<p id="krugmanwellsessentials4e-ch11-p29" block_type="txt">These two rationales for the welfare state, alleviating income inequality and alleviating economic insecurity, are closely related to a major principle of tax fairness, the <em>ability-to-pay principle</em>, according to which those with greater ability to pay a tax should pay more. The principle is usually interpreted to mean that people with low incomes, for whom an additional dollar makes a big difference to economic well-being, should pay a smaller fraction of their income in taxes than people with higher incomes, for whom an additional dollar makes much less difference. The same principle suggests that those with very low incomes should actually get money back from the tax system.</p>
+<p id="krugmanwellsessentials4e-ch11-p30" block_type="txt-3"><phrase block_type="h3"><strong>3. Reducing Poverty and Providing Access to Health Care</strong></phrase> The third and final major rationale for the welfare state involves the <em>social benefits of poverty reduction and access to health care,</em> especially when applied to children of poor households. Researchers have documented that such children, on average, suffer lifelong disadvantage.</p>
+<p id="krugmanwellsessentials4e_page_317" block_type="page_start">317</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx3-2" block_type="bx3-h">
+<box-metadata><box-title><phrase block_type="title">FOR INQUIRING MINDS</phrase> &#124; <strong>Justice and the Welfare State</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p31" block_type="bx3-txt-ni">In 1971 the philosopher John Rawls published <em>A Theory of Justice,</em> the most famous attempt to date to develop a theory of economic fairness. He asked readers to imagine deciding economic and social policies behind a &#8220;veil of ignorance&#8221; about their own identity. That is, suppose you knew you would be a human being but did not know whether you would be rich or poor, healthy or sick, and so on. Rawls argued that the policies that would emerge if people had to make decisions behind the veil of ignorance define what we mean by economic justice. It&#8217;s sort of a generalized version of the Golden Rule: do unto others as you would have them do unto you if you were in their place.</p>
+<p id="krugmanwellsessentials4e-ch11-p32" block_type="bx3-txt">Rawls also argued that people behind the veil of ignorance would choose policies that placed a high value on the well-being of the worst-off members of society: after all, each of us might be one of those unlucky individuals. As a result, Rawlsian theory is often used as an argument for a generous welfare state.</p>
+<p id="krugmanwellsessentials4e-ch11-p33" block_type="bx3-txt">Three years after Rawls published his book, another philosopher, Robert Nozick, published <em>Anarchy, State, and Utopia,</em> which is often considered the libertarian response. Nozick argued that justice is a matter of rights, not results, and that the government has no right to force people with high incomes to support others with lower incomes. He argued for a minimal government that enforces the law and provides security&#8212;the &#8220;night watchman state&#8221;&#8212;and against the welfare state programs that account for so much government spending.</p>
+<p id="krugmanwellsessentials4e-ch11-p34" block_type="bx3-txt">Philosophers, of course, don&#8217;t run the world. But real-world political debate often contains arguments that are clearly based upon either a Rawls-type or a Nozick-type position.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p35" block_type="txt">Even after adjusting for ability, children from economically disadvantaged backgrounds are more likely to be underemployed or unemployed, engage in crime, and to suffer chronic health problems&#8212;all of which impose significant social costs. So, according to the evidence, programs that help to alleviate poverty and provide access to health care generate external benefits to society.</p>
+<p id="krugmanwellsessentials4e-ch11-p36" block_type="txt">More broadly, as the For Inquiring Minds explains, some political philosophers argue that principles of social justice demand that society take care of the poor and unlucky. Others disagree, arguing that welfare state programs go beyond the proper role of government. To an important extent, the difference between those two philosophical positions defines what we mean in politics by &#8220;liberalism&#8221; and &#8220;conservatism.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch11-p37" block_type="txt">But before we get carried away, it&#8217;s important to realize that things aren&#8217;t quite that cut and dried. Even conservatives who believe in limited government typically support some welfare state programs. And even economists who support the goals of the welfare state are concerned about the effects of large-scale aid to the poor and unlucky on their incentives to work and save. Like taxes, welfare state programs can create substantial deadweight losses, so their true economic costs can be considerably larger than the direct monetary cost.</p>
+<p id="krugmanwellsessentials4e-ch11-p38" block_type="txt">We&#8217;ll turn to the costs and benefits of the welfare state later. First, however, let&#8217;s examine the problems the welfare state is supposed to address.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-2" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="317">
+<section-metadata><section-title>The Problem of Poverty</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p39" block_type="txt-ni">For at least the past 75 years, every U.S. president has promised to do his best to reduce poverty. In 1964 President Lyndon Johnson went so far as to declare a &#8220;war on poverty,&#8221; creating a number of new programs to aid the poor. Anti-poverty programs account for a significant part of the U.S. welfare state, although social insurance programs are an even larger part.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p40" block_type="mn-gl-def">The <strong>poverty threshold</strong> is the annual income below which a family is officially considered poor.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p41" block_type="txt">But what, exactly, do we mean by poverty? Any definition is somewhat arbitrary. Since 1965, however, the U.S. government has maintained an official definition of the <strong>poverty threshold,</strong> a minimum annual income that is considered adequate to purchase the necessities of life. Families whose incomes fall below the poverty threshold are considered poor.</p>
+<p id="krugmanwellsessentials4e-ch11-p42" block_type="txt">The official poverty threshold depends on the size and composition of a family. In 2015 the poverty threshold for an adult living alone was &#36;12,331; for a household consisting of two adults and two children, it was &#36;24,036.</p>
+<p id="krugmanwellsessentials4e_page_318" block_type="page_start">318</p>
+<p id="krugmanwellsessentials4e-ch11-p43" block_type="txt-3"><phrase block_type="h3"><strong>Trends in Poverty</strong></phrase> Contrary to popular misconceptions, although the official poverty threshold is adjusted each year to reflect changes in the cost of living, it has not been adjusted upward over time to reflect the long-term rise in the standard of living of the average American family. As a result, as the economy grows and becomes more prosperous, and as average incomes rise, you might expect the percentage of the population living below the poverty threshold to steadily decline.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p44" block_type="mn-gl-def">The <strong>poverty rate</strong> is the percentage of the population living below the poverty threshold.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p45" block_type="txt">However, this hasn&#8217;t happened. The orange line in <link href="#krugmanwellsessentials4e-ch11-fig-2">Figure 11-1</link> shows the official U.S. <strong>poverty rate&#8212;</strong>the percentage of the population living below the poverty threshold&#8212;from 1967 to 2014. As you can see, since 1967 the poverty rate&#8212;which fell steeply during the early 1960s&#8212;has fluctuated up and down, with no clear trend. In 2014, the poverty rate was higher than it had been 40 years earlier, even though America as a whole was far richer. In response to this surprising result, researchers have identified a number of limitations to the official poverty measure, of which the most important is that the definition of income doesn&#8217;t actually include many forms of government aid. For example, it excludes the monetary value of food stamps. So the U.S. Census Bureau now releases a Supplemental Poverty Measure that includes income from government aid, a measure that experts consider to be more accurate. The burgundy line in <link href="#krugmanwellsessentials4e-ch11-fig-2">Figure 11-1</link> shows how this measure has changed over time. While it shows more progress than the standard measure, the change is still surprisingly little considering that the real income of the average household has risen about 40&#37; since 1970.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-2" block_type="figure" numbered="true" number="11-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch11-fig-2"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>11-1</strong></phrase></phrase> <phrase block_type="fig_title">Trends in the U.S. Poverty Rate, 1967&#8211;2014</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch11-img-3" alt="image" src="images/KrugESS4e_fig_11_01.jpg"/>
+<caption>The official poverty rate has shown no clear trend since the late 1960s. However, an alternative measure, known as the supplemental poverty rate or SPM, which most experts consider to be more accurate, has declined modestly.</caption>
+<asset_source><em>Data from</em>: U.S. Census Bureau; Fox, Liana, et al., NBER Report No. w19789.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p46" block_type="txt-3"><phrase block_type="h3"><strong>Who Are the Poor?</strong></phrase> Many Americans probably hold a stereotyped image of poverty: an African-American or Hispanic family with no husband present and the female head of the household unemployed at least part of the time. This picture isn&#8217;t completely off base: poverty is disproportionately high among African-Americans and Hispanics as well as among female-headed households. But a majority of the poor don&#8217;t fit the stereotype.</p>
+<p id="krugmanwellsessentials4e-ch11-p47" block_type="txt">In 2014, 46.7 million Americans were in poverty&#8212;14.8&#37; of the population, or slightly more than one in seven persons. And 23&#37; of the poor were African-American, substantially exceeding their share of the overall population (only about 13&#37; of the population is African-American). Hispanics were also more likely than the average American to be poor, with a poverty rate of 23.6&#37;. But there was also widespread poverty among non-Hispanic Whites, who made up 42&#37; of the poor.</p>
+<p id="krugmanwellsessentials4e_page_319" block_type="page_start">319</p>
+<p id="krugmanwellsessentials4e-ch11-p48" block_type="txt">There is also a correlation between family makeup and poverty. Female-headed families with no husband present had a very high poverty rate: 30.6&#37;. Married couples were much less likely to be poor, with a poverty rate of only 6.2&#37;; still, about 39&#37; of the poor were in married families with both spouses present.</p>
+<p id="krugmanwellsessentials4e-ch11-p49" block_type="txt">What really stands out in the data, however, is the association between poverty and inadequate employment. Adults who work full time are very unlikely to be poor: only 3&#37; of full-time workers were poor in 2014. Many industries, particularly in the retail and service sectors, now rely primarily on part-time workers. Part-time work typically lacks benefits such as health plans, paid vacation days, and retirement benefits, and it also usually pays a lower hourly wage than comparable full-time work. As a result, many of the poor are members of what analysts call the <em>working poor:</em> workers whose incomes fall at or below the poverty threshold.</p>
+<p id="krugmanwellsessentials4e-ch11-p50" block_type="txt-3"><phrase block_type="h3"><strong>What Causes Poverty?</strong></phrase> Poverty is often blamed on lack of education, and educational attainment clearly has a strong positive effect on income level&#8212;those with more education earn, on average, higher incomes than those with less education. For example, in 1979 the average hourly wage of men with a college degree was 38&#37; higher than that of men with only a high school diploma; by 2014, the &#8220;college premium&#8221; had increased to 85&#37;.</p>
+<p id="krugmanwellsessentials4e-ch11-p51" block_type="txt">Lack of proficiency in English is also a barrier to higher income. For example, Mexican-born male workers in the United States&#8212;two-thirds of whom have not graduated from high school and many of whom have poor English skills&#8212;earn less than half of what native-born men earn.</p>
+<p id="krugmanwellsessentials4e-ch11-p52" block_type="txt">And it&#8217;s important not to overlook the role of racial and gender discrimination; although less pervasive today than 50 years ago, discrimination still erects formidable barriers to advancement for many Americans. Non-Whites earn less and are less likely to be employed than Whites with comparable levels of education. Studies find that African-American males suffer persistent discrimination by employers in favor of Whites, African-American women, and Hispanic immigrants. Women earn lower incomes than men with similar qualifications.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-4" alt="image" src="images/KrugESS4e_11UN01.jpg"/>
+<caption>The United States has a high poverty rate compared to other rich countries.</caption>
+<asset_source>Spencer Platt/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p53" block_type="txt">Another important source of poverty that should not be overlooked is bad luck. Many families find themselves impoverished when a wage-earner loses a job or a family member falls seriously ill.</p>
+<p id="krugmanwellsessentials4e-ch11-p54" block_type="txt-3"><phrase block_type="h3"><strong>Consequences of Poverty</strong></phrase> The consequences of poverty are often severe, particularly for children. In 2014, 21&#37; of children in the United States lived in poverty. Poverty is often associated with lack of access to health care, which can lead to further health problems that erode the ability to attend school and work later in life. Affordable housing is also frequently a problem, leading poor families to move often, disrupting school and work schedules. Recent medical studies have shown that children raised in severe poverty tend to suffer from lifelong learning disabilities. As a result, American children growing up in or near poverty don&#8217;t have an equal chance at the starting line: they tend to be at a disadvantage throughout their lives. Even talented children who come from poor families are unlikely to finish college.</p>
+<p id="krugmanwellsessentials4e_page_320" block_type="page_start">320</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-3" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="320">
+<section-metadata><section-title>Economic Inequality</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p55" block_type="txt-ni">The United States is a rich country. In 2007, before the recession hit, the average U.S. household had an income (in 2014 prices) of &#36;77,198, far exceeding the poverty threshold. Even after a devastating recession followed by a sluggish recovery, average household income in 2014 was &#36;75,738. How is it possible, then, that so many Americans still live in poverty? The answer is that income is unequally distributed, with many households earning much less than the average and others earning much more.</p>
+<p id="krugmanwellsessentials4e-ch11-p56" block_type="txt"><link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link> shows the distribution of pre-tax income&#8212;income before federal income taxes are paid&#8212;among U.S. households in 2014, as estimated by the Census Bureau. Households are grouped into <em>quintiles,</em> each containing 20&#37;, or one-fifth, of the population. The first, or bottom, quintile contains households whose income put them below the 20th percentile in income, the second quintile contains households whose income put them between the 20th and 40th percentiles, and so on.</p>
+<table id="krugmanwellsessentials4e-ch11-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-1</phrase></strong> <phrase block_type="tbl_title">U.S. Income Distribution in 2014</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder tbl-ljust"><strong>Income group</strong></td>
+<td class="tbl-rborder"><strong>Income range</strong></td>
+<td class="tbl-rborder"><strong>Average income</strong></td>
+<td><strong>Percent of total income</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Bottom quintile</td>
+<td class="tbl-rborder tbl-ljust">Less than &#36;21,432</td>
+<td class="tbl-rborder">&#36;11,676</td>
+<td>3.1&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Second quintile</td>
+<td class="tbl-rborder tbl-ljust">&#36;21,432 to &#36;41,186</td>
+<td class="tbl-rborder">31,087</td>
+<td>8.2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Third quintile</td>
+<td class="tbl-rborder tbl-ljust">&#36;41,186 to &#36;68,212</td>
+<td class="tbl-rborder">54,041</td>
+<td>14.3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Fourth quintile</td>
+<td class="tbl-rborder tbl-ljust">&#36;68,212 to &#36;112,262</td>
+<td class="tbl-rborder">87,834</td>
+<td>23.2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Top quintile</td>
+<td class="tbl-rborder tbl-ljust">More than &#36;112,262</td>
+<td class="tbl-rborder">194,053</td>
+<td>51.2</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Top 5&#37;</td>
+<td class="tbl-rborder tbl-ljust">More than &#36;206,568</td>
+<td class="tbl-rborder">332,347</td>
+<td>21.9</td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td colspan="2" class="tbl-rborder"><strong>Mean income = &#36;75,738</strong></td>
+<td colspan="2"><strong>Median income = &#36;53,657</strong></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p57a" block_type="tbn-sc"><em>Data from:</em> U.S. Census Bureau.</p>
+<p id="krugmanwellsessentials4e-ch11-p57" block_type="txt">For each group, <link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link> shows three numbers. The second column shows the income ranges that define the group. For example, in 2014, the bottom quintile consisted of households with annual incomes of less than &#36;21,432, the next quintile of households had incomes between &#36;21,432 and &#36;41,186, and so on. The third column shows the average income in each group, ranging from &#36;11,676 for the bottom fifth to &#36;332,347 for the top 5&#37;. The fourth column shows the percentage of total U.S. income received by each group.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p58" block_type="mn-gl-def"><strong>Mean household income</strong> is the average income across all households.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p59" block_type="mn-gl-def"><strong>Median household income</strong> is the income of the household lying at the exact middle of the income distribution.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p60" block_type="txt-3"><phrase block_type="h3"><strong>Mean versus Median Household Income</strong></phrase> At the bottom of <link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link> are two useful numbers for thinking about the incomes of American households. <strong>Mean household income,</strong> also called average household income, is the total income of all U.S. households divided by the number of households. <strong>Median household income</strong> is the income of a household in the exact middle of the income distribution&#8212;the level of income at which half of all households have lower income and half have higher income. It&#8217;s very important to realize that these two numbers measure different things.</p>
+<p id="krugmanwellsessentials4e-ch11-p61" block_type="txt">Economists often illustrate the difference by asking people first to imagine a room containing several dozen more or less ordinary wage-earners, then to think about what happens to the mean and median incomes of the people in the room if a Wall Street billionaire walks in. The mean income soars, because the billionaire&#8217;s income pulls up the average, but median income hardly rises at all.</p>
+<p id="krugmanwellsessentials4e-ch11-p62" block_type="txt">This example helps explain why economists generally regard median income as a better guide to the economic status of typical American families than mean income: mean income is strongly affected by the incomes of a relatively small number of very-high-income Americans, who are not representative of the population as a whole; median income is not.</p>
+<p id="krugmanwellsessentials4e-ch11-p63" block_type="txt">What we learn from <link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link> is that income in the United States is quite unequally distributed. The average income of the poorest fifth of families is less than a quarter of the average income of families in the middle, and the richest fifth have an average income more than three times that of families in the middle. The incomes of the richest fifth of the population are, on average, about 15 times as high as those of the poorest fifth. In fact, the distribution of income in America has become more unequal since 1980, rising to a level that has made it a significant political issue. The upcoming Economics in Action discusses long-term trends in U.S. income inequality, which declined in the 1930s and 1940s, was stable for more than 30 years after World War II, but began rising again in the late 1970s.</p>
+<p id="krugmanwellsessentials4e_page_321" block_type="page_start">321</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p64" block_type="mn-gl-def">The <strong>Gini coefficient</strong> is a number that summarizes a country&#8217;s level of income inequality based on how unequally income is distributed across quintiles.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p65" block_type="txt-3"><phrase block_type="h3"><strong>The Gini Coefficient</strong></phrase> It&#8217;s often convenient to have a single number that summarizes a country&#8217;s level of income inequality. The <strong>Gini coefficient,</strong> the most widely used measure of inequality, is based on how disparately income is distributed across the quintiles (as we see in the Global Comparison). A country with a perfectly equal distribution of income&#8212;that is, one in which the bottom 20&#37; of the population received 20&#37; of the income, the bottom 40&#37; of the population received 40&#37; of the income, and so on&#8212;would have a Gini coefficient of 0. At the other extreme, the highest possible value for the Gini coefficient is 1&#8212;the level it would attain if all a country&#8217;s income went to just one person.</p>
+<p id="krugmanwellsessentials4e-ch11-p66" block_type="txt">One way to get a sense of what Gini coefficients mean in practice is to look at international comparisons. Aside from a few countries in Africa, the highest levels of income inequality are found in Latin America, especially Colombia; countries with a high degree of inequality have Gini coefficients close to 0.6. The most equal distributions of income are in Europe, especially in Scandinavia; countries with very equal income distributions, such as Sweden, have Gini coefficients around 0.33. Compared to other wealthy countries, as of 2012 the United States, with a Gini coefficient of 0.57, has unusually high inequality, though it isn&#8217;t as unequal as in Latin America.</p>
+<p id="krugmanwellsessentials4e_page_322" block_type="page_start">322</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx4-1" block_type="bx4-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch11-img-5" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase> <phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p67" block_type="bx4-t"><strong>Income, Redistribution, and Inequality in Rich Countries</strong></p>
+<p id="krugmanwellsessentials4e-ch11-p68" block_type="bx4-txt-ni"><phrase block_type="dropcap">S</phrase>pend some time traveling around the United States, then spend some more time traveling around Sweden and Denmark. You&#8217;ll almost surely come away with the impression that Scandinavia has substantially less income inequality than America, that the rich aren&#8217;t as rich and the poor aren&#8217;t as poor. And the numbers confirm this impression: Gini coefficients, a number that summarizes a country&#8217;s level of income inequality, for Sweden and Denmark, and indeed for most of Western Europe, are substantially lower than in the United States. But why?</p>
+<p id="krugmanwellsessentials4e-ch11-p69" block_type="bx4-txt">The answer, to a large extent, is the role of government, which, in the United States, plays a significant role in redistributing income away from those with the highest incomes to those who earn the least. But European nations have substantially bigger welfare states than we do, and do a lot more income redistribution.</p>
+<p id="krugmanwellsessentials4e-ch11-p70" block_type="bx4-txt">The figure shows two measures of the Gini coefficient for a number of rich countries. A country with a perfectly equal income distribution&#8212;one in which every household had the same income&#8212;would have a Gini coefficient of zero. At the other extreme, in which all of a country&#8217;s income goes to one household, a country would have a Gini coefficient of 1. For each country, the purple bar shows the actual Gini, a measure of the observed inequality in income before taxes and transfers are made. The orange bars show what each country&#8217;s Gini would be after taxes and transfers are made. It turns out that the inequality of market incomes in Denmark and Sweden is comparable to that in the United States&#8212;their much lower observed inequality is the result of their bigger welfare states.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-4" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-6" alt="image" src="images/KrugESS4e_11UN02.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p71" block_type="bx4-txt">There are caveats to this conclusion.</p>
+<list id="krugmanwellsessentials4e-ch11-list-2" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch11-p72" block_type="bx4-nl-first">The data probably don&#8217;t do a very good job of tracking very high incomes, which are probably a bigger factor in the United States than elsewhere.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p73" block_type="bx4-nl-last">European welfare states may indirectly increase measured income inequality through their effects on incentives.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch11-p74" block_type="bx4-txt">Still, the data strongly suggest that differences in inequality among rich countries largely reflect different policies rather than differences in the underlying economic situation.</p>
+<p id="krugmanwellsessentials4e-ch11-p75" block_type="bx4-sc"><em>Data from:</em> Luxembourg Income Study.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p76" block_type="txt">How serious an issue is income inequality? In a direct sense, high income inequality means that some people don&#8217;t share in a nation&#8217;s overall prosperity. As we&#8217;ve seen, rising inequality explains how it&#8217;s possible that the U.S. poverty rate has failed to fall for the past 45 years even though the country as a whole has become considerably richer. Also, extreme inequality, as found in Latin America, is often associated with political instability because of tension between a wealthy minority and the rest of the population.</p>
+<p id="krugmanwellsessentials4e-ch11-p77" block_type="txt">It&#8217;s important to realize, however, that the data shown in <link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link> overstate the true degree of inequality in America, for several reasons. One is that the data represent a snapshot for a single year, whereas the incomes of many individual families fluctuate over time. That is, many of those near the bottom in any given year are having an unusually bad year and many of those at the top are having an unusually good one. Over time, their incomes will revert to a more normal level. So a table showing average incomes within quintiles over a longer period, such as a decade, would not show as much inequality.</p>
+<p id="krugmanwellsessentials4e-ch11-p78" block_type="txt">Furthermore, a family&#8217;s income tends to vary over its life cycle: most people earn considerably less in their early working years than they will later in life, then experience a considerable drop in income when they retire. Consequently, the numbers in <link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link>, which combine young workers, mature workers, and retirees, show more inequality than would a table that compares families of similar ages.</p>
+<p id="krugmanwellsessentials4e-ch11-p79" block_type="txt">Despite these qualifications, there is a considerable amount of genuine inequality in the United States. In fact, inequality not only persists for long periods of time for individuals, it extends across generations. The children of poor parents are much more likely to be poor than the children of affluent parents, and vice versa&#8212;a correlation that is even stronger in the United States than in other rich countries. Moreover, the fact that families&#8217; incomes fluctuate from year to year isn&#8217;t entirely good news. Measures of inequality in a given year <em>do</em> overstate true inequality. But those year-to-year fluctuations are part of a problem that worries even affluent families&#8212;economic insecurity.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-4" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="322">
+<section-metadata><section-title>Economic Insecurity</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p80" block_type="txt-ni">As we stated earlier, although the rationale for the welfare state rests in part on the social benefits of reducing poverty and inequality, it also rests in part on the benefits of reducing economic insecurity, which afflicts even relatively well-off families.</p>
+<p id="krugmanwellsessentials4e-ch11-p81" block_type="txt">One form economic insecurity takes is the risk of a sudden loss of income, which usually happens when a family member loses a job and either spends an extended period without work or is forced to take a new job that pays considerably less. In a given year, according to recent estimates, about one in six American families will see their income cut in half from the previous year. Related estimates show that the percentage of people who find themselves below the poverty threshold for at least one year over the course of a decade is several times higher than the percentage of people below the poverty threshold in any given year.</p>
+<p id="krugmanwellsessentials4e-ch11-p82" block_type="txt">Even if a family doesn&#8217;t face a loss in income, it can face a surge in expenses. Until implementation of the Affordable Care Act in 2014, the most common reason for such surges was a medical problem that required expensive treatment, such as heart disease or cancer. In fact, in 2013 it was estimated that 60 percent of the personal bankruptcies of Americans were due to medical expenses. The rise in medical-bill bankruptcies&#8212;up nearly 50 percent from 46 percent in 2001, and on up to 62 percent in 2007&#8212;was a major source of support for the passage of the ACA.</p>
+<p id="krugmanwellsessentials4e_page_323" block_type="page_start">323</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p83" block_type="bx-2-t"><strong>Long-term Trends in Income Inequality in the United States</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p84" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-7" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p85" block_type="bx2-first"><phrase block_type="dropcap">D</phrase>oes inequality tend to rise, fall, or stay the same over time? The answer is yes&#8212;all three. Over the course of the past century, the United States has gone through periods characterized by all three trends: an era of falling inequality during the 1930s and 1940s, an era of stable inequality for about 35 years after World War II, and an era of rising inequality over the past 30 years.</p>
+<p id="krugmanwellsessentials4e-ch11-p86" block_type="bx2-txt">Detailed U.S. data on income by quintiles, as shown in <link href="#krugmanwellsessentials4e-ch11-tab-1">Table 11-1</link>, are only available starting in 1947. Panel (a) of <link href="#krugmanwellsessentials4e-ch11-fig-5">Figure 11-2</link> shows the annual rate of growth of income, adjusted for inflation, for each quintile over two periods: from 1947 to 1980, and from 1980 to 2014. There&#8217;s a clear difference between the two periods. In the first period, income within each group grew at about the same rate&#8212;that is, there wasn&#8217;t much change in the inequality of income, just growing incomes across the board.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-5" block_type="figure" numbered="true" number="11-2" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch11-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>11-2</strong></phrase></phrase> <phrase block_type="fig_title">Trends in U.S. Income Inequality</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch11-img-8" alt="image" src="images/KrugESS4e_fig_11_02ab.jpg"/>
+<caption><em>Data from:</em> U.S. Census Bureau (panel (a)); Emmanuel Saez, &#8220;Striking It Richer: The Evolution of Top Incomes in the United States,&#8221; University of California, Berkeley, discussion paper, 2008 (updated 2015) (panel (b)).</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p87" block_type="bx2-txt">After 1980, however, incomes grew much more quickly at the top than in the middle, and more quickly in the middle than at the bottom. So inequality has increased substantially since 1980. Overall, inflation-adjusted income for families in the top quintile rose 55&#37; between 1980 and 2014, while actually falling slightly for families in the bottom quintile.</p>
+<p id="krugmanwellsessentials4e-ch11-p88" block_type="bx2-txt">Although detailed data on income distribution aren&#8217;t available before 1947, economists have instead used other information like income tax data to estimate the share of income going to the top 10&#37; of the population all the way back to 1917. Panel (b) of <link href="#krugmanwellsessentials4e-ch11-fig-5">Figure 11-2</link> shows this measure from 1917 to 2014. These data, like the more detailed data available since 1947, show that American inequality was more or less stable between 1947 and the late 1970s but has risen substantially since.</p>
+<p id="krugmanwellsessentials4e-ch11-p89" block_type="bx2-txt">The longer-term data also show that the relatively equal distribution of 1947 was something new. In the late nineteenth century, often referred to as the Gilded Age, American income was very unequally distributed. This high level of inequality persisted into the 1930s. But inequality declined sharply between the late 1930s and the end of World War II. In a famous paper, Claudia Goldin and Robert Margo, two economic historians, dubbed this narrowing of income inequality the <em>Great Compression</em>.</p>
+<p id="krugmanwellsessentials4e-ch11-p90" block_type="bx2-txt">The Great Compression roughly coincided with World War II, a period during which the U.S. government imposed special controls on wages and prices. Evidence indicates that these controls were applied in ways that reduced inequality&#8212;for example, it was much easier for employers to get approval to increase the wages of their lowest-paid employees than to increase executive salaries. What remains puzzling is that the equality imposed by wartime controls lasted for decades after those controls were lifted in 1946.</p>
+<p id="krugmanwellsessentials4e_page_324" block_type="page_start">324</p>
+<p id="krugmanwellsessentials4e-ch11-p91" block_type="bx2-txt">Since the 1970s, as we&#8217;ve already seen, inequality has increased substantially. In fact, pre-tax income appears to be as unequally distributed in America today as it was in the 1920s, prompting many commentators to describe the current state of the nation as a new Gilded Age&#8212;albeit one in which the effects of inequality are moderated by taxes and the existence of the welfare state.</p>
+<p id="krugmanwellsessentials4e-ch11-p92" block_type="bx2-txt">There is intense debate among economists about the causes of this widening inequality.</p>
+<list id="krugmanwellsessentials4e-ch11-list-3" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch11-p93" block_type="bx-2-bl-f">The most popular explanation is rapid technological change, which has increased the demand for highly skilled or talented workers more rapidly than the demand for other workers, leading to a rise in the wage gap between the highly skilled and other workers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p94" block_type="bx-2-bl-mid">Growing international trade may also have contributed by allowing the United States to import labor-intensive products from low-wage countries rather than making them domestically, reducing the demand for less skilled American workers and depressing their wages.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p95" block_type="bx-2-bl-l">Rising immigration may be yet another source. On average, immigrants have lower education levels than native-born workers and increase the supply of low-skilled labor while depressing low-skilled wages.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch11-p96" block_type="bx2-txt">However, these explanations, fail to account for one key feature: much of the rise in inequality doesn&#8217;t reflect a rising gap between highly educated workers and those with less education but rather growing differences among highly educated workers themselves. For example, schoolteachers and top business executives have similarly high levels of education, but executive paychecks have risen dramatically and teachers&#8217; salaries have not. For some reason, a few &#8220;superstars&#8221;&#8212;a group that includes literal superstars in the entertainment and sports worlds but also such groups as Wall Street traders and top corporate executives&#8212;now earn much higher incomes than was the case a generation ago. It&#8217;s still unclear what caused the change.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch11-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch11-list-4" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch11-p97" block_type="sr1-bl"><strong>Welfare state</strong> programs, which include <strong>government transfers,</strong> absorb a large share of government spending in wealthy countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p98" block_type="sr1-bl">The ability-to-pay principle explains one rationale for the welfare state: alleviating income inequality. <strong>Poverty programs</strong> do this by aiding the poor. <strong>Social insurance programs</strong> address the second rationale: alleviating economic insecurity. The external benefits to society of poverty reduction and access to health care, especially for children, is a third rationale for the welfare state.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p99" block_type="sr1-bl">The official U.S. <strong>poverty threshold</strong> is adjusted yearly to reflect changes in the cost of living but not in the average standard of living. But even though average income has risen significantly, the U.S. <strong>poverty rate</strong> is no lower than it was 45 years ago.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p100" block_type="sr1-bl">The causes of poverty can include lack of education, the legacy of racial and gender discrimination, and bad luck. The consequences of poverty are dire for children.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p101" block_type="sr1-bl"><strong>Median household income</strong> is a better indicator of typical household income than <strong>mean household income.</strong> Comparisons of <strong>Gini coefficients</strong> across countries show that the United States has less income inequality than poor countries but more than all other rich countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p102" block_type="sr1-bl">The United States has seen fluctuating income inequality. Since 1980, income inequality has increased substantially, largely due to increased inequality among highly educated workers.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">11-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p103" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Indicate whether each of the following programs is a poverty program or a social insurance program.</p>
+<list id="krugmanwellsessentials4e-ch11-list-5" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p104" block_type="sr2-nl-lvl2">A pension guarantee program, which provides pensions for retirees if they have lost their employment-based pension due to their employer&#8217;s bankruptcy</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p105" block_type="sr2-nl-lvl2">The federal program known as SCHIP, which provides health care for children in families that are above the poverty threshold but still have relatively low income</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p106" block_type="sr2-nl-lvl2">The Section 8 housing program, which provides housing subsidies for low-income households</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p107" block_type="sr2-nl-lvl2">The federal flood program, which provides financial help to communities hit by major floods</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-2" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p108" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> Recall that the poverty threshold is not adjusted to reflect changes in the standard of living. As a result, is the poverty threshold a relative or an absolute measure of poverty? That is, does it define poverty according to how poor someone is relative to others or according to some fixed measure that doesn&#8217;t change over time? Explain.</p>
+<table id="krugmanwellsessentials4e-ch11-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch11-untab-2" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder"><strong>Income</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Sephora</td>
+<td class="tbl-lborder">&#36;39,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Kelly</td>
+<td class="tbl-lborder">17,500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Raul</td>
+<td class="tbl-lborder">900,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Vijay</td>
+<td class="tbl-lborder">15,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Oskar</td>
+<td class="tbl-lborder">28,000</td>
+</tr>
+</tbody>
+</table>
+</question>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p109" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> The accompanying table gives the distribution of income for a very small economy.</p>
+<list id="krugmanwellsessentials4e-ch11-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p110" block_type="sr2-nl-lvl2">What is the mean income? What is the median income? Which measure is more representative of the income of the average person in the economy? Why?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p111" block_type="sr2-nl-lvl2">What income range defines the first quintile? The third quintile?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_325" block_type="page_start">325</p>
+<question id="krugmanwellsessentials4e-ch11-question-4" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch11-p112" block_type="cr-que-nl-first"><phrase block_type="qnum">4.</phrase> Which of the following statements more accurately reflects the principal source of rising inequality in the United States today?</p>
+<list id="krugmanwellsessentials4e-ch11-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p113" block_type="sr2-nl-lvl2">The salary of the manager of the local branch of Sunrise Bank has risen relative to the salary of the neighborhood gas station attendant.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p114" block_type="sr2-nl-lvl2">The salary of the CEO of Sunrise Bank has risen relative to the salary of the local branch bank manager, although the two have similar education levels.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch11-p115" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</question>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-2" block_type="h1" title="" chapter="11" numbered="true" level="1" print_page="325">
+<section-metadata><section-title>The U.S. Welfare State</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p116" block_type="txt-ni">In 2015, the U.S. welfare state consisted of three huge programs: Social Security, Medicare, and Medicaid; several other fairly big programs, including the Affordable Care Act, Temporary Assistance for Needy Families, food stamps, and the Earned Income Tax Credit; and a number of smaller programs. <link href="#krugmanwellsessentials4e-ch11-tab-3">Table 11-2</link> shows one useful way to categorize these programs along with the amount spent on each.</p>
+<table id="krugmanwellsessentials4e-ch11-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-3" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-2</phrase></strong> <phrase block_type="tbl_title">Major U.S. Welfare State Programs, 2015</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder tbl-ljust"><strong>Monetary transfers</strong></td>
+<td class="tbl-lborder tbl-ljust"><strong>In-kind</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-hdr-bg tbl-ljust"><strong>Means-tested</strong></td>
+<td class="tbl-lborder tbl-ljust">Temporary Assistance for Needy Families (TANF): &#36;21 billion</td>
+<td class="tbl-lborder tbl-ljust">Food stamps (SNAP): &#36;76 billion</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-hdr-bg"></td>
+<td class="tbl-lborder tbl-ljust">Supplemental Security Income: &#36;59 billion</td>
+<td class="tbl-lborder tbl-ljust">Medicaid: &#36;350 billion</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-hdr-bg"></td>
+<td class="tbl-lborder tbl-ljust">Earned Income Tax Credit (EITC): &#36;60 billion</td>
+<td class="tbl-lborder tbl-ljust">Affordable Care Act (ACA): &#36;131 billion (projected)</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-hdr-bg tbl-ljust"><strong>Not means-tested</strong></td>
+<td class="tbl-lborder tbl-ljust">Social Security: &#36;888 billion</td>
+<td class="tbl-lborder tbl-ljust">Medicare: &#36;640 billion</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-hdr-bg"></td>
+<td class="tbl-lborder tbl-ljust">Unemployment insurance: &#36;37 billion</td>
+<td class="tbl-lborder tbl-ljust"></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p57b" block_type="tbn-sc"><em>Data from:</em> U.S. Treasury</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p117" block_type="mn-gl-def">A <strong>means-tested</strong> program is a program available only to individuals or families whose incomes fall below a certain level.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p118" block_type="txt">First, the table distinguishes between programs that are <strong>means-tested</strong> and those that are not. In means-tested programs, benefits are available only to families or individuals whose income and/or wealth falls below some minimum. Basically, means-tested programs are poverty programs designed to help only those with low incomes. By contrast, non-means-tested programs provide their benefits to everyone, although, as we&#8217;ll see, they tend in practice to reduce income inequality.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p119" block_type="mn-gl-def">An <strong>in-kind benefit</strong> is a benefit given in the form of goods or services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p120" block_type="txt">Second, the table distinguishes between programs that provide monetary transfers that beneficiaries can spend as they choose and those that provide <strong>in-kind benefits,</strong> which are given in the form of goods or services rather than money. As the numbers suggest, in-kind benefits are dominated by Medicare and Medicaid, which pay for health care. We&#8217;ll discuss health care in the next section of this chapter. For now, let&#8217;s examine the other major programs.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-5" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="325">
+<section-metadata><section-title>Means-Tested Programs</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p121" block_type="txt-ni">When people use the term <em>welfare,</em> they&#8217;re often referring to monetary aid to poor families. The main source of such monetary aid in the United States is Temporary Assistance for Needy Families, or TANF. This program does not aid everyone who is poor; it is available only to poor families with children and only for a limited period of time.</p>
+<p id="krugmanwellsessentials4e-ch11-p122" block_type="txt">TANF was introduced in the 1990s to replace a highly controversial program known as Aid to Families with Dependent Children, or AFDC. That program was widely accused of creating perverse incentives for the poor, including encouraging family breakup. Partly as a result of the change in programs, the benefits of modern welfare are considerably less generous than those available a generation ago, once the data are adjusted for inflation. Because of TANF&#8217;s time limits, welfare recipients&#8212;even single parents&#8212;must eventually seek work. As you can see from <link href="#krugmanwellsessentials4e-ch11-tab-3">Table 11-2</link>, TANF is a relatively small part of the modern U.S. welfare state.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-9" alt="image" src="images/KrugESS4e_11UN03.jpg"/>
+<caption>One of every seven Americans receives food stamps, officially known as SNAP.</caption>
+<asset_source>Spencer Platt/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_326" block_type="page_start">326</p>
+<p id="krugmanwellsessentials4e-ch11-p123" block_type="txt">Other means-tested programs, though more expensive, are less controversial. The Supplemental Security Income program aids disabled Americans who are unable to work and have no other source of income. The food stamp program or SNAP&#8212;officially the Supplemental Nutrition Assistance Program, since it now provides debit cards rather than stamps&#8212;helps low-income families and individuals, who can use those debit cards to buy food staples but not other items.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p124" block_type="mn-gl-def">A <strong>negative income tax</strong> is a program that supplements the income of low-income working families.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p125" block_type="txt">Finally, economists use the term <strong>negative income tax</strong> for a program that supplements the earnings of low-income working families. The United States has a program known as the Earned Income Tax Credit (EITC), which provides additional income to millions of workers. It has become more generous as traditional welfare has become less generous. Only workers who earn income are eligible; over a certain range of incomes, the more a worker earns, the higher the amount of EITC received. That is, the EITC acts as a negative income tax for low-wage workers. In 2015, married couples with two children earning less than &#36;13,870 per year received EITC payments equal to 40&#37; of their earnings. (Payments were slightly lower for single-parent families or workers without children.) The EITC is phased out at higher incomes. As of 2015, the payment ceased at an income of &#36;49,974 for married couples with two children.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-6" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="326">
+<section-metadata><section-title>Social Security and Unemployment Insurance</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p126" block_type="txt-ni">Social Security, the largest program in the U.S. welfare state, is a non-means-tested program that guarantees retirement income to qualifying older Americans. It also provides benefits to workers who become disabled and <em>survivor benefits</em> to family members of workers who die.</p>
+<p id="krugmanwellsessentials4e-ch11-p127" block_type="txt">Social Security is supported by a dedicated tax on wages. Employers are responsible for paying payroll taxes on employee wages, a portion of which helps pay for Social Security benefits. The benefits workers receive on retirement depend on their taxable earnings during their working years: the more you earn up to the maximum amount subject to Social Security taxes (&#36;118,500 in 2015), the more you receive in retirement. Benefits are not, however, strictly proportional to earnings. Instead, they&#8217;re determined by a formula that gives high earners more than low earners, but with a sliding scale that makes the program relatively more generous for low earners.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-7" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-10" alt="image" src="images/KrugESS4e_11UN04.jpg"/>
+<caption>President Franklin D. Roosevelt signed the Social Security Act in 1935, creating the modern welfare state.</caption>
+<asset_source>Universal History Archive/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p128" block_type="txt">Because most seniors don&#8217;t receive pensions from their former employers and most don&#8217;t own enough assets to provide them with a living, Social Security benefits are an enormously important source of income for them. Fully 60&#37; of Americans 65 and older rely on Social Security for more than half their income, and 20&#37; have no income at all except for Social Security.</p>
+<p id="krugmanwellsessentials4e-ch11-p129" block_type="txt">Unemployment insurance, although normally a much smaller amount of government transfers than Social Security, is another key social insurance program. It provides workers who lose their jobs with about 35&#37; of their previous salary until they find a new job or until 26 weeks have passed. (Benefits were temporarily extended in response to the 2008 recession, with some unemployed workers supported as long as 99 weeks.) Unemployment insurance is financed by a tax on employers. Like Social Security, unemployment insurance is not means-tested.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-7" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="326">
+<section-metadata><section-title>The Effects of the Welfare State on Poverty and Inequality</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p130" block_type="txt-ni">Because the people who receive government transfers tend to be different from those who are taxed to pay for those transfers, the U.S. welfare state has the effect of redistributing income from some people to others. Government statisticians have put considerable effort into calculating the effects of this redistribution, which makes a big difference to poverty rates and a somewhat smaller difference to overall inequality.</p>
+<p id="krugmanwellsessentials4e_page_327" block_type="page_start">327</p>
+<p id="krugmanwellsessentials4e-ch11-p131" block_type="txt">A caveat: such reports calculate only the <em>direct</em> effect of taxes and transfers, without taking into account changes in behavior that the taxes and transfers might cause. For example, they don&#8217;t try to estimate how many older Americans who are now retired would still be working if they weren&#8217;t receiving Social Security checks. As a result, the estimates are only a partial indicator of the true effects of the welfare state. Nonetheless, the results are striking.</p>
+<p id="krugmanwellsessentials4e-ch11-p132" block_type="txt"><link href="#krugmanwellsessentials4e-ch11-tab-4">Table 11-3</link> shows how a number of government programs affected the poverty rate, as measured by the Supplemental Poverty Measure, for the population as a whole and for different age groups in 2012 (the latest available data). For each program it shows the amount, in percentage points, by which that group&#8217;s poverty rate was reduced by the program. For example, it says that without Social Security, the poverty rate among older Americans would have been almost 40 percentage points higher than it was.</p>
+<table id="krugmanwellsessentials4e-ch11-tab-4" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-4" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-3</phrase></strong> <phrase block_type="tbl_title">Effects of Government Programs on Reducing the Rate of Poverty, 2012</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder"><strong>All People</strong></td>
+<td class="tbl-lborder"><strong>Children</strong></td>
+<td class="tbl-lborder"><strong>Nonelderly Adults</strong></td>
+<td class="tbl-lborder"><strong>65 Years and Older</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Social Security</td>
+<td class="tbl-lborder">8.56&#37;</td>
+<td class="tbl-lborder">1.97&#37;</td>
+<td class="tbl-lborder">4.08&#37;</td>
+<td class="tbl-lborder">39.86&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Refundable Tax Credits</td>
+<td class="tbl-lborder">3.02</td>
+<td class="tbl-lborder">6.66</td>
+<td class="tbl-lborder">2.25</td>
+<td class="tbl-lborder">0.20</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">SNAP (Food Stamps)</td>
+<td class="tbl-lborder">1.62</td>
+<td class="tbl-lborder">3.01</td>
+<td class="tbl-lborder">1.27</td>
+<td class="tbl-lborder">0.76</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Unemployment insurance</td>
+<td class="tbl-lborder">0.79</td>
+<td class="tbl-lborder">0.82</td>
+<td class="tbl-lborder">0.88</td>
+<td class="tbl-lborder">0.31</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Supplemental Security Income</td>
+<td class="tbl-lborder">1.07</td>
+<td class="tbl-lborder">0.84</td>
+<td class="tbl-lborder">1.12</td>
+<td class="tbl-lborder">1.21</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Housing Subsidies</td>
+<td class="tbl-lborder">0.91</td>
+<td class="tbl-lborder">1.39</td>
+<td class="tbl-lborder">0.66</td>
+<td class="tbl-lborder">1.12</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">School lunch</td>
+<td class="tbl-lborder">0.38</td>
+<td class="tbl-lborder">0.91</td>
+<td class="tbl-lborder">0.25</td>
+<td class="tbl-lborder">0.03</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Temporary Assistance for Needy Families</td>
+<td class="tbl-lborder">0.21</td>
+<td class="tbl-lborder">0.46</td>
+<td class="tbl-lborder">0.14</td>
+<td class="tbl-lborder">0.05</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">WIC</td>
+<td class="tbl-lborder">0.13</td>
+<td class="tbl-lborder">0.29</td>
+<td class="tbl-lborder">0.09</td>
+<td class="tbl-lborder">0.00</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p57c" block_type="tbn-sc"><em>Data from:</em> Council of Economic Advisers.</p>
+<p id="krugmanwellsessentials4e-ch11-p133" block_type="txt"><link href="#krugmanwellsessentials4e-ch11-tab-5">Table 11-4</link> shows a Congressional Budget Office estimate of the effect of taxes and transfers on the share of aggregate income going to each quintile of the income distribution in 2007 (the latest available date). The effect of government programs was to increase the share of income going to the poorest 80&#37; of the population, especially the share going to the poorest 20&#37;, while reducing the share of income going to the richest 20&#37;.</p>
+<table id="krugmanwellsessentials4e-ch11-tab-5" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-5" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-4</phrase></strong> <phrase block_type="tbl_title">Effects of Taxes and Transfers on Income Distribution, 2007</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Quintiles</strong></td>
+<td class="tbl-lborder"><strong>Share of aggregate income<br/>without taxes and transfers</strong></td>
+<td class="tbl-lborder"><strong>Share of aggregate income<br/>with taxes and transfers</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Bottom quintile</td>
+<td class="tbl-lborder">2.5&#37;</td>
+<td class="tbl-lborder">5.1&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Second quintile</td>
+<td class="tbl-lborder">7.3</td>
+<td class="tbl-lborder">9.2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Third quintile</td>
+<td class="tbl-lborder">12.2</td>
+<td class="tbl-lborder">14.0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Fourth quintile</td>
+<td class="tbl-lborder">19.0</td>
+<td class="tbl-lborder">19.9</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">81st&#8211;99th percentiles</td>
+<td class="tbl-lborder">38.6</td>
+<td class="tbl-lborder">35.6</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Top 1 percent</td>
+<td class="tbl-lborder">21.3</td>
+<td class="tbl-lborder">17.1</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p134a" block_type="tbn-sc"><em>Data from:</em> Congressional Budget Office.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p134" block_type="bx-2-t"><strong>Welfare State Programs and Poverty Rates in the Great Recession, 2007&#8211;2010</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p135" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-11" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p136" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n 2007 the U.S. economy entered a deep downturn, the worst since the 1930s. The economy started a slow, sluggish recovery in 2009. Four years later, in 2013 both average and median family income, adjusted for inflation, were still well below their 2007 levels. It wasn&#8217;t until 2015 that the unemployment rate and the number of jobs returned to 2007 levels.</p>
+<p id="krugmanwellsessentials4e_page_328" block_type="page_start">328</p>
+<p id="krugmanwellsessentials4e-ch11-p137" block_type="bx2-txt">Given this poor economic performance, you might have expected to see a sharp rise in poverty, and the official poverty rate did in fact move up, as you can see in <link href="#krugmanwellsessentials4e-ch11-fig-2">Figure 11-1</link>. But while the Great Recession and its aftermath certainly hurt many American families, the country never seemed as desperate as it did during the Great Depression, or even during the last big slump, in 1981&#8211;1982. And sure enough, the Supplemental Poverty Measure, which most experts consider a better measure of economic hardship, rose only slightly. Why?</p>
+<p id="krugmanwellsessentials4e-ch11-p138" block_type="bx2-txt">The main answer, it turns out, was antipoverty programs, which automatically expanded during the slump and were further reinforced by legislation that temporarily expanded food stamps and other forms of aid. <link href="#krugmanwellsessentials4e-ch11-fig-8">Figure 11-3</link> shows an estimate of how much the poverty rate would have risen between 2007 and 2010 in the absence of welfare state programs, compared with how much it actually rose. Without transfers and benefits the poverty rate would have risen by 4.50&#37;; but with transfers and benefits it rose only 0.50&#37;. The U.S. welfare state didn&#8217;t prevent the slump, or stop many people from losing their jobs and some from losing their houses. But it did strikingly limit the rise in poverty.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-8" block_type="figure" numbered="true" number="11-3" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch11-fig-8"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">11-3</phrase></strong></phrase> <phrase block_type="fig_title">Poverty Rates in the Great Depression</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch11-img-12" alt="image" src="images/KrugESS4e_fig_11_03.jpg"/>
+<asset_source><em>Data from:</em> Council of Economic Advisers.</asset_source>
+</figure>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch11-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch11-list-8" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch11-p139" block_type="sr1-bl"><strong>Means-tested</strong> programs are designed to reduce poverty, but non-means-tested programs do so as well. Programs are classified according to whether they provide monetary or <strong>in-kind benefits.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p140" block_type="sr1-bl">&#8220;Welfare,&#8221; now known as TANF, is far less generous today than a generation ago due to concerns about its effect on incentives to work and family breakup. The <strong>negative income tax</strong> addresses these concerns: it supplements the incomes of only low-income working families.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p141" block_type="sr1-bl">Social Security, the largest program in the U.S. welfare state, is a non-means-tested program that provides retirement income for the elderly. It provides a significant share of the income of most elderly Americans. Unemployment insurance is also a key social insurance program that is not means-tested.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p142" block_type="sr1-bl">Overall, the American welfare state is redistributive. It increases the share of income going to the poorest 80&#37; while reducing the share going to the richest 20&#37;.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">11-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-4" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p143" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Explain how the negative income tax avoids the disincentive to work that characterizes poverty programs that simply give benefits based on low income.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-5" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p144" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> According to <link href="#krugmanwellsessentials4e-ch11-tab-4">Table 11-3</link>, what effect does the U.S. welfare state have on the overall poverty rate? On the poverty rate for those aged 65 and over?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch11-p145" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-3" block_type="h1" title="" chapter="11" numbered="true" level="1" print_page="328">
+<section-metadata><section-title>The Economics of Health Care</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p146" block_type="txt-ni">A large part of the welfare state, in both the United States and other wealthy countries, is devoted to paying for health care. In most wealthy countries, the government pays between 70&#37; and 90&#37; of all medical costs. The private sector plays a larger role in the U.S. health care system. Yet even in America, as of 2014 the government pays almost half of all health care costs; furthermore, it indirectly subsidizes private health insurance through the federal tax code.</p>
+<p id="krugmanwellsessentials4e-ch11-p147" block_type="txt"><link href="#krugmanwellsessentials4e-ch11-fig-9">Figure 11-4</link> shows who paid for U.S. health care in 2014. Only 12&#37; of health care consumption spending (that is, all spending on health care except investment in health care buildings and facilities) was expenses &#8220;out of pocket&#8221;&#8212;that is, paid directly by individuals. Most health care spending, 77&#37;, was paid for by some kind of insurance. Of this 77&#37;, considerably less than half was private insurance; the rest was some kind of government insurance, mainly Medicare and Medicaid. To understand why, we need to examine the special economics of health care.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-9" block_type="figure" numbered="true" number="11-4" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch11-fig-9"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>11-4</strong></phrase></phrase> <phrase block_type="fig_title">Who Paid for U.S. Health Care in 2014?</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch11-img-13" alt="image" src="images/KrugESS4e_fig_11_04.jpg"/>
+<caption>In the United States in 2014, insurance paid for 77&#37; of health care consumption costs: the sum of 34&#37; (private insurance), 22&#37; (Medicare), 17&#37; (Medicaid), and 4&#37; (other public). The percentage paid for by private insurance, 34&#37;, was a uniquely high number among advanced countries. Even so, substantially more U.S. health care was paid for by Medicare, Medicaid, and other government programs than by other means.</caption>
+<asset_source><em>Data from:</em> Department of Health and Human Services Centers for Medicare and Medicaid Services.</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-8" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="328">
+<section-metadata><section-title>The Need for Health Insurance</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p148" block_type="txt-ni">In 2014, U.S. personal health care expenses were &#36;9,523 per person&#8212;17.5&#37; of gross domestic product. However, this did not mean that the typical American spent nearly &#36;9,000 on medical treatment. In fact, in any given year half the population incurs only minor medical expenses. But a small percentage of the population faces huge medical bills, with 10&#37; of the population typically accounting for almost two-thirds of medical costs.</p>
+<p id="krugmanwellsessentials4e-ch11-p149" block_type="txt">Is it possible to predict who will have high medical costs? To a limited extent, yes: there are broad patterns to illness. For example, the elderly are more likely to need expensive surgery and/or drugs than the young. But the fact is that anyone can suddenly find himself or herself needing very expensive medical treatment, costing many thousands of dollars in a very short time&#8212;far beyond what most families can easily afford. Yet nobody wants to be unable to afford such treatment if it becomes necessary.</p>
+<p id="krugmanwellsessentials4e_page_329" block_type="page_start">329</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch11-p150" block_type="mn-gl-def">Under <strong>private health insurance,</strong> each member of a large pool of individuals pays a fixed amount annually to a private company that agrees to pay most of the medical expenses of the pool&#8217;s members.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p151" block_type="txt-3"><phrase block_type="h3"><strong>Private Health Insurance</strong></phrase> Market economies have an answer to this problem: health insurance. Under <strong>private health insurance,</strong> each member of a large pool of individuals agrees to pay a fixed amount annually (called a <em>premium</em>) into a common fund that is managed by a private company, which then pays most of the medical expenses of the pool&#8217;s members. Although members must pay fees even in years in which they don&#8217;t have large medical expenses, they benefit from the reduction in risk: if they do turn out to have high medical costs, the pool will take care of those expenses.</p>
+<p id="krugmanwellsessentials4e-ch11-p152" block_type="txt">There are, however, inherent problems with the market for private health insurance that arise from the fact that medical expenses, although basically unpredictable, aren&#8217;t <em>completely</em> unpredictable. People often have some idea whether or not they are likely to face large medical bills over the next few years. This creates a serious problem for private health insurance companies.</p>
+<p id="krugmanwellsessentials4e-ch11-p153" block_type="txt">Suppose that an insurance company offers a &#8220;one-size-fits-all&#8221; health care policy, under which customers pay an annual premium equal to the average American&#8217;s annual medical expenses, plus a bit more to cover the company&#8217;s operating expenses and a normal rate of profit. In return, the insurance company pays the policyholder&#8217;s medical bills, whatever they are.</p>
+<p id="krugmanwellsessentials4e-ch11-p154" block_type="txt">If all potential customers had an equal risk of incurring high medical expenses for the year, this might be a workable business proposition. In reality, however, people often have different risks of facing high medical expenses&#8212;and, crucially, they often know this ahead of time. This reality would quickly undermine any attempt by an insurance company to offer one-size-fits-all health insurance. The policy would be a bad deal for healthy people, who don&#8217;t face a significant risk of high medical bills: on average, they would pay much more in insurance premiums than the cost of their medical bills. But it would be a very good deal for people with chronic, costly conditions, who would on average pay less in premiums than the cost of their care.</p>
+<p id="krugmanwellsessentials4e-ch11-p155" block_type="txt">As a result, some healthy people are likely to take their chances and go without insurance. This would make the insurance company&#8217;s average customer less healthy than the average American, raising both the medical bills the company will have to pay and its costs per customer.</p>
+<p id="krugmanwellsessentials4e-ch11-p156" block_type="txt">The insurance company could respond by charging more&#8212;raising its premium to reflect the higher-than-average medical bills of its customers. But this would drive off even more healthy people, leaving the company with an even sicker, higher-cost clientele, forcing it to raise the premium even more, driving off even more healthy people, and so on.</p>
+<p id="krugmanwellsessentials4e-ch11-p157" block_type="txt">This description of the problems with health insurance might lead you to believe that private health insurance can&#8217;t work. In fact, however, most Americans are covered by private health insurance. Insurance companies are able, to some extent, to overcome the problems we just outlined in two ways: by carefully <em>screening</em> applicants and through employment-based health insurance.</p>
+<p id="krugmanwellsessentials4e-ch11-p158" block_type="txt">With screening, people who are likely to have high medical expenses are charged higher-than-average premiums&#8212;or in many cases, insurance companies refuse to cover them at all. The problem that screening creates is that those people who need health insurance the most are more likely to be denied coverage or charged an unaffordable price. This is yet another reason behind the support for ACA, which expanded coverage to everyone regardless of their health history. Next we explain how employment-based health insurance, a unique feature of the American workplace, also allows private health insurance to work.</p>
+<p id="krugmanwellsessentials4e_page_330" block_type="page_start">330</p>
+<p id="krugmanwellsessentials4e-ch11-p159" block_type="txt-3"><phrase block_type="h3"><strong>Employment-Based Health Insurance</strong></phrase> One way insurers have overcome problems is by selling insurance indirectly, to employers rather than to individuals. The advantage of <em>employment-based health insurance</em>&#8212;insurance that a company provides to its employees&#8212;is that these employees are likely to contain a representative mix of healthy and less healthy people, rather than a group of people who want insurance because they expect to pay high medical bills. This is especially true if the employer is a large company. Employers require thousands of their employees to participate in the company health insurance plan because allowing employees to opt out (which healthier ones will be tempted to do) raises the cost of providing insurance for everyone else.</p>
+<p id="krugmanwellsessentials4e-ch11-p160" block_type="txt">There&#8217;s another reason employment-based insurance is widespread in the United States: it gets special, favorable tax treatment. Workers pay taxes on their paychecks, but workers who receive health insurance from their employers don&#8217;t pay taxes on the value of the benefit. So employment-based health insurance is, in effect, subsidized by the U.S. tax system. Economists estimate the value of this subsidy at about &#36;150 billion each year.</p>
+<p id="krugmanwellsessentials4e-ch11-p161" block_type="txt">However, many working Americans don&#8217;t receive employment-based health insurance. Those without coverage include most older Americans (relatively few employers offer insurance that continues in retirement); the many workers whose employers don&#8217;t offer coverage (especially part-time workers); and the unemployed.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-9" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="330">
+<section-metadata><section-title>Government Health Insurance</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p162" block_type="txt-ni"><link href="#krugmanwellsessentials4e-ch11-tab-6">Table 11-5</link> shows the breakdown of health insurance coverage across the U.S. population in 2014. A majority of Americans, nearly 175 million people, received health insurance through their employers. The majority of those who didn&#8217;t have private insurance were covered by two government programs, Medicare and Medicaid. (The numbers don&#8217;t add up because some people have more than one form of coverage. For example, many recipients of Medicare also have supplemental coverage through Medicaid or private policies.)</p>
+<table id="krugmanwellsessentials4e-ch11-tab-6" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-6" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-5</phrase></strong> <phrase block_type="tbl_title">Number of Americans Covered byHealth Insurance, 2014 (millions)</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Covered by private health insurance</strong></td>
+<td class="tbl-lborder"><strong>208.6</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Employment-based</td>
+<td class="tbl-lborder">175.0</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Direct purchase</td>
+<td class="tbl-lborder">46.2</td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Covered by government</strong></td>
+<td class="tbl-lborder"><strong>115.5</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Medicaid</td>
+<td class="tbl-lborder">50.5</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Medicare</td>
+<td class="tbl-lborder">61.7</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Military health care</td>
+<td class="tbl-lborder">14.1</td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Not covered</strong></td>
+<td class="tbl-lborder"><strong>33.0</strong></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p163a" block_type="tbn-sc"><em>Data from:</em> U.S. Census Bureau.</p>
+<p id="krugmanwellsessentials4e-ch11-p163" block_type="txt">Medicare, like Social Security, is financed by payroll taxes, and is available to all Americans 65 and older, regardless of their income and wealth. It began in 1966 as a program to cover the cost of hospitalization but has since been expanded to cover a number of other medical expenses. You can get an idea of how much difference Medicare makes to the finances of elderly Americans by comparing the median income per person of Americans 65 and older&#8212;&#36;23,569&#8212;with average annual Medicare payments per recipient, which were more than &#36;10,000 in 2014. As with health care spending in general, however, the average can be misleading: in a given year, about 7&#37; of Medicare recipients account for 50&#37; of the costs.</p>
+<p id="krugmanwellsessentials4e-ch11-p164" block_type="txt">Unlike Medicare, Medicaid is a means-tested program, paid for with federal and state government revenues. There&#8217;s no simple way to summarize the criteria for eligibility because it is partly paid for by state governments and each state sets its own rules. Of the nearly 51 million Americans covered by Medicaid in 2014, 29 million were children under 18 and many of the rest were parents of children under 18. Most of the cost of Medicaid, however, is accounted for by a small number of older Americans, especially those needing long-term care.</p>
+<p id="krugmanwellsessentials4e_page_331" block_type="page_start">331</p>
+<p id="krugmanwellsessentials4e-ch11-p165" block_type="txt">Nearly 14 million Americans receive health insurance as a consequence of military service. Unlike Medicare and Medicaid, which pay medical bills but don&#8217;t deliver health care directly, the Veterans Health Administration, which has more than 8 million clients, runs hospitals and clinics around the country.</p>
+<p id="krugmanwellsessentials4e-ch11-p166" block_type="txt">The U.S. health care system, then, offers a mix of private insurance, mainly from employers, and public insurance of various forms. Most Americans have health insurance from either private insurance companies or through various forms of government insurance.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-14" alt="image" src="images/KrugESS4e_11UN05.jpg"/>
+<caption>Medicare provides health insurance to more than 61 million Americans&#8212;42.5 million are 65 or older and 9.7 million are younger people with disabilities.</caption>
+<asset_source>Blend Images/Superstock</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-10" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="331">
+<section-metadata><section-title>Health Care in Other Countries</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p167" block_type="txt-ni">Health care is one area in which the United States is very different from other wealthy countries, including European nations and Canada. In fact, we&#8217;re distinctive in three ways.</p>
+<list id="krugmanwellsessentials4e-ch11-list-9" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch11-p168" block_type="nl-first">We rely much more on private health insurance.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p169" block_type="nl-mid">We spend much more on health care per person.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p170" block_type="nl-last">We were the only wealthy nation in which large numbers of people lacked health insurance until the ACA started to change that.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch11-p171" block_type="txt"><link href="#krugmanwellsessentials4e-ch11-tab-7">Table 11-6</link> compares the United States with three other wealthy countries: Canada, France, and Britain. The United States is the only one of the four countries that relies on private health insurance to cover most people; as a result, it&#8217;s the only one in which private spending on health care is (slightly) larger than public spending on health care.</p>
+<table id="krugmanwellsessentials4e-ch11-tab-7" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-7" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-6</phrase></strong> <phrase block_type="tbl_title">Health Care Systems in Advanced Countries, 2013</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder"><strong>Government<br/>share of<br/>health care<br/>spending</strong></td>
+<td class="tbl-lborder"><strong>Health care<br/>spending per<br/>capita (US&#36;,<br/>purchasing<br/>power parity)</strong></td>
+<td class="tbl-lborder"><strong>Life<br/>expectancy<br/>(total<br/>population at<br/>birth, years)</strong></td>
+<td class="tbl-lborder"><strong>Infant<br/>mortality<br/>(deaths per<br/>1,000 live<br/>births)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">United States</td>
+<td class="tbl-lborder">48.2&#37;</td>
+<td class="tbl-lborder">&#36;8,713</td>
+<td class="tbl-lborder">78.8</td>
+<td class="tbl-lborder">5.9</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Canada</td>
+<td class="tbl-lborder">70.6</td>
+<td class="tbl-lborder">4,351</td>
+<td class="tbl-lborder">81.4</td>
+<td class="tbl-lborder">4.6</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">France</td>
+<td class="tbl-lborder">78.7</td>
+<td class="tbl-lborder">4,223</td>
+<td class="tbl-lborder">82.0</td>
+<td class="tbl-lborder">3.6</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Britain</td>
+<td class="tbl-lborder">86.6</td>
+<td class="tbl-lborder">3,234</td>
+<td class="tbl-lborder">81.0</td>
+<td class="tbl-lborder">3.9</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p172a" block_type="tbn-sc"><em>Data from:</em> OECD; World Bank.</p>
+<p id="krugmanwellsessentials4e-ch11-p172" block_type="txt">Canada has a <em>single-payer system:</em> a health care system in which the government acts as the principal payer of medical bills funded through taxes. For comparison, Medicare is essentially a single-payer system for older Americans. The British system is extended to everyone: a government agency, the British National Health Service, employs health care workers and runs hospitals and clinics that are available free of charge to the public. France is somewhere in between the Canadian and British systems. In France, the government acts as a single-payer, providing health insurance to everyone, from a sizable government-run health care system. French citizens can also receive treatment from private doctors and hospitals.</p>
+<p id="krugmanwellsessentials4e-ch11-p173" block_type="txt">Canada, Britain, and France provide health insurance to all their citizens; the United States does not. Yet all three spend much less on health care per person than we do. Many Americans assume this must mean that foreign health care is inferior in quality. But many health care experts disagree, pointing out that Britain, Canada, and France generally match or exceed the United States in terms of many measures of health care provision, such as the number of doctors, nurses, and hospital beds per 100,000 people. Although it&#8217;s true that U.S. medical care includes more advanced technology in some areas, many more expensive surgical procedures, and shorter waiting times for elective surgery, surveys of patients seem to suggest that there are no significant differences in the quality of care in Canada, Europe, and the United States.</p>
+<p id="krugmanwellsessentials4e_page_332" block_type="page_start">332</p>
+<p id="krugmanwellsessentials4e-ch11-p174" block_type="txt">So why does the United States spend so much more on health care than other wealthy countries? Some of the disparity is the result of higher doctors&#8217; salaries, but most studies suggest that this is a secondary factor. One possibility is that Americans are getting better care than their counterparts abroad, but in ways that don&#8217;t show up in either patient surveys or statistics on health performance.</p>
+<p id="krugmanwellsessentials4e-ch11-p175" block_type="txt">The most likely explanation is that the U.S. system suffers from serious inefficiencies that other countries manage to avoid. Critics of the U.S. system emphasize the fact that our system&#8217;s reliance on private insurance companies makes it highly fragmented and very expensive to operate. Each insurance company expends resources on overhead and on such activities as marketing and trying to identify and weed out high-risk patients. On average, the operating costs of private health insurers consume 14&#37; of the premiums clients pay, leaving only 86&#37; to spend on providing health care.</p>
+<p id="krugmanwellsessentials4e-ch11-p176" block_type="txt">Americans also pay higher prices for prescription drugs because, in other countries, government agencies bargain with pharmaceutical companies to get lower drug prices.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-11" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="332">
+<section-metadata><section-title>The Affordable Care Act</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p177" block_type="txt-ni">However one rates the past performance of the U.S. health care system, by 2009 it was clearly in trouble, on two fronts.</p>
+<list id="krugmanwellsessentials4e-ch11-list-10" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch11-p178" block_type="nl-first">The percentage of uninsured working-age Americans (considered to be those between the ages of 18 and 64) was on a clear upward trend, as shown in <link href="#krugmanwellsessentials4e-ch11-fig-11">Figure 11-5</link>. A study by the Kaiser Family Foundation found that: &#8220;The uninsured are largely low-income adult workers for whom coverage is unaffordable or unavailable.&#8221; They found that low-income workers tended to be uninsured because they were less likely than workers with higher incomes to have jobs that provide health insurance benefits, and were less likely to be able to afford to directly purchase health insurance themselves.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-11" block_type="figure" numbered="true" number="11-5" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch11-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>11-5</strong></phrase></phrase> <phrase block_type="fig_title">Uninsured Working-Age Americans, 1999&#8211;2015</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch11-img-15" alt="image" src="images/KrugESS4e_fig_11_05.jpg"/>
+<caption>Older Americans are covered by Medicare, and many children also receive government-provided insurance. The fraction of working-age adults without health insurance was, however, rising steadily before the Affordable Care Act went into effect.</caption>
+<asset_source><em>Data from:</em> U.S. Census Bureau.</asset_source>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch11-p179" block_type="nl-last">Before the ACA, insurance companies often refused to cover people, regardless of their income, if they had a preexisting medical condition or if their medical history suggested they were likely to need expensive medical treatment in the future. As a result, a significant number of Americans with incomes that most would consider middle class could not get insurance. Like poverty, the lack of health insurance has severe medical and financial consequences: the uninsured frequently have limited access to health care and they often face serious financial problems when illness strikes.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch11-p180" block_type="txt">Lying behind the growing number of uninsured, in turn, were sharply rising premiums for health insurance, reflecting rapid growth in overall health care costs. <link href="#krugmanwellsessentials4e-ch11-fig-12">Figure 11-6</link> shows overall U.S. spending on health care as a percentage of GDP, a measure of the nation&#8217;s total income, since the 1960s. As you can see, health spending has tripled as a share of income since 1965; this increase in spending explains why health insurance has become more expensive. Similar trends can be observed in other countries.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-12" block_type="figure" numbered="true" number="11-6" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch11-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>11-6</strong></phrase></phrase> <phrase block_type="fig_title">Rising Health Care Costs, 1960&#8211;2014</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch11-img-16" alt="image" src="images/KrugESS4e_fig_11_06.jpg"/>
+<caption>U.S. health care spending as a percentage of GDP, a measure of total income, has tripled since 1965. Most analysts believe that the main force behind this trend is medical progress: we spend more on health care because more medical problems are treatable.</caption>
+<asset_source><em>Data from:</em> Department of Health and Human Services Centers for Medicare and Medicaid Services.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p181" block_type="txt">The consensus of health experts is that the rise in health care spending is a result of medical progress. As medical science advances, once untreatable conditions become treatable&#8212;but often only at great expense. These higher costs have to be passed on in the form of higher insurance premiums or require larger commitments of taxpayer funds.</p>
+<p id="krugmanwellsessentials4e_page_333" block_type="page_start">333</p>
+<p id="krugmanwellsessentials4e-ch11-p182" block_type="txt">The combination of a rising number of uninsured and rising costs led to many calls for health care reform in the United States. And in 2010, Congress passed the Affordable Care Act (ACA) which took full effect in 2014. It was the largest expansion of the American welfare state since the creation of Medicare and Medicaid in 1965. It had two major objectives: covering the uninsured and cost control.</p>
+<p id="krugmanwellsessentials4e-ch11-p183" block_type="txt-3"><phrase block_type="h3"><strong>Covering the Uninsured</strong></phrase> To understand the logic of the ACA, consider the problem facing one major category of uninsured Americans: the many people who seek coverage in the individual insurance market but are turned down because they have preexisting medical conditions, which insurance companies fear could lead to large future expenses. Lou Vincent, from this chapter&#8217;s opening story, was one of those people. He was denied coverage for years because he had Type II diabetes. How could insurance be made available to such people?</p>
+<p id="krugmanwellsessentials4e-ch11-p184" block_type="txt">One answer would be regulations requiring that insurance companies offer the same policies to everyone, regardless of medical history&#8212;a rule known as <em>community rating</em>. It can lead to problems as healthy individuals don&#8217;t buy insurance until they get sick, and because only people with health problems are getting coverage, insurance becomes very expensive.</p>
+<p id="krugmanwellsessentials4e-ch11-p185" block_type="txt">To make community rating work, sick and healthy alike need to buy health insurance&#8212;a requirement known as the <em>individual mandate</em>. In addition, government subsidies need to be available to make the required insurance affordable for lower- and lower-middle income families.</p>
+<p id="krugmanwellsessentials4e-ch11-p186" block_type="txt">It&#8217;s important to realize that this system is like a three-legged stool: all three components must be present in order for it to work. Take away community rating, and those with preexisting conditions won&#8217;t get coverage. Take away the individual mandate and many healthy people won&#8217;t buy insurance. As a result, only those who are sick buy insurance, which in turn drives up costs and premiums. And you can&#8217;t require that people buy insurance without providing subsidies to those with lower incomes.</p>
+<p id="krugmanwellsessentials4e-ch11-p187" block_type="txt-3"><phrase block_type="h3"><strong>Cost Control</strong></phrase> But will the ACA control costs? In itself, the expansion of coverage will raise health care spending, although not by as much as you might think. The uninsured are by and large relatively young, and the young have relatively low health care costs. (The elderly are already covered by Medicare.) The question is whether the reform can succeed in reducing the rate of growth of health costs over time.</p>
+<p id="krugmanwellsessentials4e-ch11-p188" block_type="txt">The ACA&#8217;s promise to control costs starts from the premise that the U.S. medical system, as currently constituted, has skewed incentives that waste resources. Because most care is paid for by insurance, doctors and patients have little incentive to worry about costs. In fact, because health care providers are generally paid for each procedure they perform, there&#8217;s a financial incentive to provide additional care&#8212;do more tests and, in some cases, perform more operations&#8212;even when there are little or no medical benefits.</p>
+<p id="krugmanwellsessentials4e-ch11-p189" block_type="txt">The ACA attempts to correct these skewed incentives in a variety of ways, from stricter oversight of reimbursements, to linking payments to a procedure&#8217;s medical value, to paying health care providers for improved health outcomes rather than the number of procedures, and by limiting the tax deductibility of employment-based plans.</p>
+<p id="krugmanwellsessentials4e_page_334" block_type="page_start">334</p>
+<p id="krugmanwellsessentials4e-ch11-p190" block_type="txt-3"><phrase block_type="h3"><strong>Results So Far</strong></phrase> Important provisions of the Affordable Care Act took effect at the beginning of 2014 and by 2015 it was possible to get an initial view of its results.</p>
+<p id="krugmanwellsessentials4e-ch11-p191" block_type="txt">These include a drop in the unemployed percentage of the working-age population that began after 2010. The drop can be explained partly by the recovering economy, but also because some provisions of the ACA went into effect, notably a rule allowing Americans under 26 to remain on their parents&#8217; policies. And after 2014, with the law in full effect, the number of uninsured fell sharply, as we can see in <link href="#krugmanwellsessentials4e-ch11-fig-11">Figure 11-5</link>.</p>
+<p id="krugmanwellsessentials4e-ch11-p192" block_type="txt">In terms of costs, several measures of health cost growth slowed substantially after 2010. Most notably, Medicare spending per beneficiary, which grew 7&#37; a year from 2000 to 2010, grew only 1&#37; per year from 2010 to 2014. Growth in premiums for employer-based coverage also slowed down, from 8&#37; to 5&#37; annually. Nobody knows how much of this slowdown was the result of the Affordable Care Act, but the results seemed encouraging.</p>
+<p id="krugmanwellsessentials4e-ch11-p193" block_type="txt">Overall, as of 2015 health reform seemed to be working more or less as intended. It remains to be seen how it will perform over the longer term.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p194" block_type="bx-2-t"><strong>What Medicaid Does</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p195" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-17" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p196" block_type="bx2-first"><phrase block_type="dropcap">D</phrase>o social insurance programs actually help their beneficiaries? The answer isn&#8217;t always as obvious as you might think. Take the example of Medicaid, which provides health insurance to low-income Americans. Some skeptics about the program&#8217;s effectiveness have argued that in the absence of Medicaid, the poor would still find ways to get essential health care, and that there is no clear evidence that receiving Medicaid actually leads to better health.</p>
+<p id="krugmanwellsessentials4e-ch11-p197" block_type="bx2-txt">Testing such assertions is tricky. You can&#8217;t just compare people who are on Medicaid with people who aren&#8217;t, since the program&#8217;s beneficiaries differ in many ways from those who aren&#8217;t on the program. And we don&#8217;t normally get to do controlled experiments in which otherwise comparable groups receive different government benefits.</p>
+<p id="krugmanwellsessentials4e-ch11-p198" block_type="bx2-txt">Once in a while, however, events provide the equivalent of a controlled experiment&#8212;and that&#8217;s what happened with Medicaid. In 2008, the state of Oregon&#8212;which had sharply curtailed its Medicaid program because it lacked sufficient funds&#8212;found itself with enough money to put some but not all deserving recipients back on the program. To allocate the limited number of slots, the state used a lottery. And there you had it: in effect, a controlled experiment, in which researchers could compare a random sample of people receiving Medicaid with similar people who didn&#8217;t win the lottery.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-13" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-18" alt="image" src="images/KrugESS4e_11UN06.jpg"/>
+<caption>Medicaid has been shown to make a big difference in the well-being of recipients.</caption>
+<asset_source>Darren Brode/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p199" block_type="bx2-txt">So what were the results? It turned out that Medicaid made a big difference. Those on Medicaid received</p>
+<list id="krugmanwellsessentials4e-ch11-list-11" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch11-p200" block_type="bx-2-bl-f">60&#37; more mammograms</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p201" block_type="bx-2-bl-mid">35&#37; more outpatient care</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p202" block_type="bx-2-bl-mid">30&#37; more hospital care</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p203" block_type="bx-2-bl-l">20&#37; more cholesterol checks</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_335" block_type="page_start">335</p>
+<p id="krugmanwellsessentials4e-ch11-p204" block_type="bx2-txt">Medicaid recipients were also</p>
+<list id="krugmanwellsessentials4e-ch11-list-12" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch11-p205" block_type="bx-2-bl-f">70&#37; more likely to have a consistent source of care</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p206" block_type="bx-2-bl-mid">45&#37; more likely to have had a Pap test within the last year (for women)</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p207" block_type="bx-2-bl-mid">40&#37; less likely to need to borrow money or skip payment on other bills because of medical expenses</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p208" block_type="bx-2-bl-mid">25&#37; percent more likely to report themselves in &#8220;good&#8221; or &#8220;excellent&#8221; health</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p209" block_type="bx-2-bl-mid">15&#37; more likely to use prescription drugs</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p210" block_type="bx-2-bl-mid">15&#37; more likely to have had a blood test for high blood sugar or diabetes</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p211" block_type="bx-2-bl-mid">10&#37; percent less likely to screen positive for depression</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch11-p212" block_type="bx2-txt">In short, Medicaid led to major improvements in access to medical care and the well-being of those receiving it. So although there is a valid debate over the size of a state&#8217;s Medicaid program because it costs taxpayers a significant amount of money, the Oregon results show that one criticism of Medicaid&#8212;the claim that it doesn&#8217;t work at all&#8212;isn&#8217;t valid.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch11-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch11-list-13" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch11-p213" block_type="sr1-bl">Health insurance satisfies an important need because expensive medical treatment is unaffordable for most families. <strong>Private health insurance</strong> has an inherent problem: those who buy insurance are disproportionately sicker than the average person, which drives up costs and premiums, leading more healthy people to forgo insurance, further driving up costs and premiums and ultimately leading private insurance companies to fail. Screening by insurance companies reduces the problem, and employment-based health insurance, the way most Americans are covered, avoids it altogether.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p214" block_type="sr1-bl">The majority of Americans not covered by private insurance are covered by Medicare, which is a non-means-tested single-payer system for those over 65, and Medicaid, which is means-tested.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p215" block_type="sr1-bl">Compared to other wealthy countries, the United States depends more heavily on private health insurance, has higher health care spending per person, higher administrative costs, and higher drug prices, but without clear evidence of better health outcomes.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p216" block_type="sr1-bl">Health care costs everywhere are increasing rapidly due to medical progress. The 2010 ACA legislation was designed to address the large and growing share of American uninsured and to reduce the rate of growth of health care spending.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">11-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-6" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p217" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> If you are enrolled in a four-year degree program, it is likely that you are required to enroll in a health insurance program run by your school unless you can show proof of existing insurance coverage. Explain how you and your parents benefit from this health insurance program even though, given your age, it is unlikely that you will need expensive medical treatment.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-7" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p218" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> According to its critics, what accounts for the higher costs of the U.S. health care system compared to those of other wealthy countries?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch11-p219" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-4" block_type="h1" title="" chapter="11" numbered="true" level="1" print_page="335">
+<section-metadata><section-title>The Debate over the Welfare State</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p220" block_type="txt-ni">The goals of the welfare state seem laudable: to help the poor, to protect against severe economic hardship and to ensure access to essential health care. But good intentions don&#8217;t always make for good policy. There is an intense debate about how large the welfare state should be, a debate that partly reflects differences in philosophy but also reflects concern about the possibly counterproductive effects on incentives of welfare state programs. Disputes about the size of the welfare state are also one of the defining issues of modern American politics.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-12" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="335">
+<section-metadata><section-title>Problems with the Welfare State</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p221" block_type="txt-ni">There are two different arguments against the welfare state. One, described earlier, is based on philosophical concerns about the proper role of government. As we learned, some political theorists believe that redistributing income is not a legitimate role of government. Rather, they believe that government&#8217;s role should be limited to maintaining the rule of law, providing public goods, and managing externalities.</p>
+<p id="krugmanwellsessentials4e-ch11-p222" block_type="txt">The more conventional argument against the welfare state involves the trade-off between efficiency and equity. As we explained earlier, the ability to pay principle&#8212;the argument that an extra dollar of income matters more to a less well-off individual than to a more well-off individual&#8212;implies that the government can help the poor at relatively little cost to the well-off. But this redistribution of income from well-off to poor requires that the well-off are taxed more heavily.</p>
+<p id="krugmanwellsessentials4e_page_336" block_type="page_start">336</p>
+<p id="krugmanwellsessentials4e-ch11-p223" block_type="txt">As a result the desirable goals of the welfare state must be balanced against the efficiency costs of high tax rates on the well-off that reduce their incentives to work hard or make risky investments. Such reductions make society as a whole poorer, and at extreme levels hurt even those they were intended to help. So in choosing the size of the welfare state, the government must make a trade-off between efficiency and equity: a richer society versus a fairer society.</p>
+<p id="krugmanwellsessentials4e-ch11-p224" block_type="txt">One way that governments seek to reduce the cost of the welfare state is by means-testing benefits. But even this is not a perfect solution: unless means testing is carefully designed, poor families can face a large fall in their effective income when their income rises to the level at which they are no longer eligible for benefits. This reduces their incentive to work. This feature of means-tested benefits, which makes a family worse off if it earns more, is known as a <em>notch</em>. For example, one 2005 study found that if a family of four, with two adults and two children, raised its income from &#36;20,000 a year&#8212;just above the poverty threshold in 2005&#8212;to &#36;35,000, it would find almost all its increase in after-tax income offset by loss of benefits such as food stamps, the Earned Income Tax Credit, and Medicaid.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec2-13" block_type="h2" title="" chapter="11" numbered="false" level="2" print_page="336">
+<section-metadata><section-title>The Politics of the Welfare State</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p225" block_type="txt-ni">What do modern politicians on the left (more liberal) and right (more conservative) disagree about? In the modern United States, they mainly disagree about the appropriate size of the welfare state. The debate over the Affordable Care Act was a case in point, with the vote on the bill breaking down entirely according to party lines&#8212;Democrats (on the left) in favor of the ACA and Republicans (on the right) opposed.</p>
+<p id="krugmanwellsessentials4e-ch11-p226" block_type="txt">You might think that saying that political debate is really about just one thing&#8212;how big to make the welfare state&#8212;is a huge oversimplification. But political scientists have found that once you carefully rank members of Congress from right to left on past legislation, a congressperson&#8217;s position in that ranking does a very good job of predicting his or her votes on future legislation.</p>
+<p id="krugmanwellsessentials4e-ch11-p227" block_type="txt">The same studies that show a strong left&#8211;right spectrum in U.S. politics also show strong polarization between the major parties on this spectrum. Forty years ago, there was a substantial overlap between the parties: some Democrats were to the right of some Republicans, or, if you prefer, some Republicans were to the left of some Democrats. Today, however, the rightmost Democrats appear to be to the left of the leftmost Republicans. There&#8217;s nothing necessarily wrong with this. Although it&#8217;s common to decry &#8220;partisanship,&#8221; it&#8217;s hard to see why members of different political parties shouldn&#8217;t have different views about policy.</p>
+<p id="krugmanwellsessentials4e-ch11-p228" block_type="txt">Can economic analysis help resolve this political conflict? Only up to a point.</p>
+<p id="krugmanwellsessentials4e-ch11-p229" block_type="txt">Some of the political controversy over the welfare state involves differences in opinion about the trade-offs we have just discussed: if you believe that the disincentive effects of generous benefits and high taxes are very large, you&#8217;re likely to look less favorably on welfare state programs than if you believe they&#8217;re fairly small. Economic analysis, by improving our knowledge of the facts, can help resolve some of these differences.</p>
+<p id="krugmanwellsessentials4e-ch11-p230" block_type="txt">To an important extent, however, differences of opinion on the welfare state reflect differences in values and philosophy. And those are differences economics can&#8217;t resolve.</p>
+<p id="krugmanwellsessentials4e_page_337" block_type="page_start">337</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx2-4" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch11-img-19" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p231" block_type="bx-2-t"><strong>French Family Values</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p232" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-20" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch11-p233" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he United States has the smallest welfare state of any major advanced economy. France has one of the largest. As a result, France has much higher social spending than America as a percentage of total national income, and French citizens face much higher tax rates than Americans. One argument against a large welfare state is that it has negative effects on efficiency. Does French experience support this argument?</p>
+<p id="krugmanwellsessentials4e-ch11-p234" block_type="bx2-txt">On the face of it, the answer would seem to be a clear yes. French GDP per capita&#8212;the total value of the economy&#8217;s output, divided by the total population&#8212;is only about 75&#37; of the U.S. level. This reflects the fact that the French work less: French workers and U.S. workers have almost exactly the same productivity per hour, but a smaller fraction of the French population is employed, and the average French employee works substantially fewer hours over the course of a year than his or her American counterpart. Some economists have argued that high tax rates in France explain this difference: the incentives to work are weaker in France than in the United States because the government takes away so much of what you earn from an additional hour of work.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-21" alt="image" src="images/KrugESS4e_11UN07.jpg"/>
+<caption>France guarantees health care for all its citizens&#8212;a benefit of having one of the largest welfare states in the world.</caption>
+<asset_source>Tarek El Sombati/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p235" block_type="bx2-txt">A closer examination, however, reveals that the story is more complicated. The low level of employment in France is entirely the result of low rates of employment among the young and the old; about 80&#37; of French residents of prime working age, 25&#8211;54, are employed, exactly the same percentage as in the United States. So high tax rates don&#8217;t seem to discourage the French from working in the prime of their lives. But only about 30&#37; of 15- to 24-year-olds are employed in France, compared with more than half of 15- to 24-year-olds in the United States. And young people in France don&#8217;t work in part because they don&#8217;t have to: college education is generally free, and students receive financial support, so French students, unlike their American counterparts, rarely work while attending school. The French will tell you that that&#8217;s a virtue of their system, not a problem.</p>
+<p id="krugmanwellsessentials4e-ch11-p236" block_type="bx2-txt">Shorter working hours also reflect factors besides tax rates. French law requires employers to offer at least a month of vacation, but most U.S. workers get less than two weeks off. Here, too, the French will tell you that their policy is better than ours because it helps families spend time together.</p>
+<p id="krugmanwellsessentials4e-ch11-p237" block_type="bx2-txt">The aspect of French policy even the French agree is a big problem is that their retirement system allows workers to collect generous pensions even if they retire very early. As a result, only 45&#37; of French residents between the ages of 55 and 64 are employed, compared with more than 60&#37; of Americans. The cost of supporting all those early retirees is a major burden on the French welfare state&#8212;and is getting worse as the French population ages.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch11-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch11-list-14" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch11-p238" block_type="sr1-bl">Intense debate on the size of the welfare state centers on philosophy and on equity-versus-efficiency concerns. The high marginal tax rates needed to finance an extensive welfare state can reduce the incentive to work. Holding down the cost of the welfare state by means-testing can also cause inefficiency.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p239" block_type="sr1-bl">Politics is often depicted as an opposition between left and right; in the modern United States, that division mainly involves disagreement over the appropriate size of the welfare state.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx6-4" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">11-4</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-8" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p240" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Explain how each of the following policies creates a disincentive to work or undertake a risky investment.</p>
+<list id="krugmanwellsessentials4e-ch11-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p241" block_type="sr2-nl-lvl2">A high sales tax on consumer items</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p242" block_type="sr2-nl-lvl2">The complete loss of a housing subsidy when yearly income rises above &#36;25,000</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-cyuquestion-9" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch11-p243" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> Over the past 40 years, has the polarization in Congress increased, decreased, or stayed the same?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch11-p244" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_338" block_type="page_start">338</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-5" block_type="cr-que-t" title="" chapter="11" numbered="true" level="1" print_page="338">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch11-list-16" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch11-p245" block_type="sum-nl">The <strong>welfare state</strong> absorbs a large share of government spending in all wealthy countries. <strong>Government transfers</strong> are the payments made by the government to individuals and families. <strong>Poverty programs</strong> alleviate income inequality by helping the poor; <strong>social insurance programs</strong> alleviate economic insecurity. Welfare state programs also deliver external benefits to society through poverty reduction and improved access to health care, particularly for children.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p246" block_type="sum-nl">Despite the fact that the <strong>poverty threshold</strong> is adjusted according to the cost of living but not according to the standard of living, and that the average American income has risen substantially over the last 30 years, the <strong>poverty rate,</strong> the percentage of the population with an income below the poverty threshold, is no lower than it was 45 years ago. There are various causes of poverty: lack of education, the legacy of discrimination, and bad luck. The consequences of poverty are particularly harmful for children, resulting in more chronic disease, lower lifetime earnings, and higher rates of criminality.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p247" block_type="sum-nl"><strong>Median household income,</strong> the income of a family at the center of the income distribution, is a better indicator of the income of the typical household than <strong>mean household income</strong> because it is not distorted by the inclusion of a small number of very wealthy households. The <strong>Gini coefficient,</strong> a number that summarizes a country&#8217;s level of income inequality based on how unequally income is distributed across quintiles, is used to compare income inequality across countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p248" block_type="sum-nl">Both <strong>means-tested</strong> and non-means-tested programs reduce poverty. The major <strong>in-kind benefits</strong> programs are Medicare and Medicaid, which pay for medical care. Due to concerns about the effects on incentives to work and on family cohesion, aid to poor families has become significantly less generous even as the <strong>negative income tax</strong> has become more generous. Social Security, the largest U.S. welfare state program, has significantly reduced poverty among the elderly. Unemployment insurance is also a key social insurance program.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p249" block_type="sum-nl">Health insurance satisfies an important need because most families cannot afford expensive medical treatment. Most Americans are covered by employment-based <strong>private health insurance;</strong> the majority of the remaining are covered by Medicare (a single-payer system for those 65 and over in which the government pays for most medical bills from tax revenue) or Medicaid (for those with low incomes).</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p250" block_type="sum-nl">Compared to other countries, the United States relies more heavily on private health insurance and has substantially higher health care costs per person without clearly providing better care. Health care costs are rising, largely due to advances in technology. The rising number of uninsured and the financial distress caused by lack of insurance prompted the passage in 2010 of the Affordable Care Act, or ACA. Its objective is to reduce the number of uninsured and reduce the rate of growth of health care costs.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p251" block_type="sum-nl">Debates over the size of the welfare state are based on philosophical and equity-versus-efficiency considerations. The equity-versus-efficiency debate arises from the fact that an extensive welfare state requires high taxes on the well-off, which can diminish society&#8217;s poorer overall by reducing the incentive to work and to make risky investments.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p252" block_type="sum-nl">Politicians on the left tend to favor a bigger welfare state and those on the right to oppose it. This left&#8211;right distinction is central to today&#8217;s politics. America&#8217;s two major political parties have become more polarized in recent decades, with a much clearer distinction than in the past about where their members stand on the left&#8211;right spectrum.</p></li>
+</list>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p253" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-6" block_type="cr-kt-t" title="" chapter="11" numbered="true" level="1" print_page="338">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch11-p254" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p21">Welfare state, p. 316</link></p>
+<p id="krugmanwellsessentials4e-ch11-p255" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p21">Government transfer, p. 316</link></p>
+<p id="krugmanwellsessentials4e-ch11-p256" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p25">Poverty program, p. 316</link></p>
+<p id="krugmanwellsessentials4e-ch11-p257" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p28">Social insurance program, p. 316</link></p>
+<p id="krugmanwellsessentials4e-ch11-p258" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p41">Poverty threshold, p. 317</link></p>
+<p id="krugmanwellsessentials4e-ch11-p259" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p45">Poverty rate, p. 318</link></p>
+<p id="krugmanwellsessentials4e-ch11-p260" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p60">Mean household income, p. 320</link></p>
+<p id="krugmanwellsessentials4e-ch11-p261" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p60">Median household income, p. 320</link></p>
+<p id="krugmanwellsessentials4e-ch11-p262" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p65">Gini coefficient, p. 321</link></p>
+<p id="krugmanwellsessentials4e-ch11-p263" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p118">Means-tested, p. 325</link></p>
+<p id="krugmanwellsessentials4e-ch11-p264" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p120">In-kind benefit, p. 325</link></p>
+<p id="krugmanwellsessentials4e-ch11-p265" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p125">Negative income tax, p. 326</link></p>
+<p id="krugmanwellsessentials4e-ch11-p266" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch11-p151">Private health insurance, p. 329</link></p>
+<p id="krugmanwellsessentials4e_page_339" block_type="page_start">339</p>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-7" block_type="cr-que-t" title="" chapter="11" numbered="true" level="1" print_page="339">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch11-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch11-p267" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> The accompanying table contains data on the U.S. economy for the years 1983 and 2013. The second column shows the poverty threshold. The third column shows the consumer price index (CPI), a measure of the overall level of prices. And the fourth column shows U.S. gross domestic product (GDP) per capita, a measure of the standard of living.</p>
+<table id="krugmanwellsessentials4e-ch11-untab-8" block_type="un_table" data-href="#krugmanwellsessentials4e-ch11-untab-8" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Year</strong></td>
+<td class="tbl-rborder"><strong>Poverty<br/>threshold</strong></td>
+<td class="tbl-rborder"><strong>CPI (1982&#8211;1984 = 100)</strong></td>
+<td><strong>GDP per<br/>capita</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1983</td>
+<td class="tbl-rborder">&#36;5,180</td>
+<td class="tbl-rborder">99.6</td>
+<td>&#36;15,525</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2013</td>
+<td class="tbl-rborder">11,490</td>
+<td class="tbl-rborder">233.0</td>
+<td>53,086</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p57d" block_type="tbn-sc"><em>Data from:</em> U.S. Census Bureau; Bureau of Labor Statistics; Bureau of Economic Analysis.</p>
+<list id="krugmanwellsessentials4e-ch11-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p268" block_type="cr-que-ans-first">By what factor has the poverty threshold increased from 1983 to 2013? That is, has it doubled, tripled, and so on?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p269" block_type="cr-que-ans-first">By what factor has the CPI (a measure of the overall price level) increased from 1983 to 2013? That is, has it doubled, tripled, and so on?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p270" block_type="cr-que-ans-first">By what factor has GDP per capita (a measure of the standard of living) increased from 1983 to 2013? That is, has it doubled, tripled, and so on?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p271" block_type="cr-que-ans-first">What do your results tell you about how people officially classified as &#8220;poor&#8221; have done economically relative to other U.S. citizens?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch11-p272" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> In the city of Metropolis, there are 100 residents, each of whom lives until age 75. Residents of Metropolis have the following incomes over their lifetime: Through age 14, they earn nothing. From age 15 until age 29, they earn 200 metros (the currency of Metropolis) per year. From age 30 to age 49, they earn 400 metros. From age 50 to age 64, they earn 300 metros. Finally, at age 65 they retire and are paid a pension of 100 metros per year until they die at age 75. Each year, everyone consumes whatever their income is that year (that is, there is no saving and no borrowing). Currently, 20 residents are 10 years old, 20 residents are 20 years old, 20 residents are 40 years old, 20 residents are 60 years old, and 20 residents are 70 years old.</p>
+<list id="krugmanwellsessentials4e-ch11-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p273" block_type="cr-que-ans-first">Study the income distribution among all residents of Metropolis. Split the population into quintiles according to their income. How much income does a resident in the lowest quintile have? In the second, third, fourth, and top quintiles? What share of total income of all residents goes to the residents in each quintile? Construct a table showing the share of total income that goes to each quintile. Does this income distribution show inequality?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p274" block_type="cr-que-ans-mid">Now look only at the 20 residents of Metropolis who are currently 40 years old, and study the income distribution among only those residents. Split those 20 residents into quintiles according to their income. How much income does a resident in the lowest quintile have? In the second, third, fourth, and top quintiles? What share of total income of all 40-year-olds goes to the residents in each quintile? Does this income distribution show inequality?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p275" block_type="cr-que-ans-mid">What is the relevance of these examples for assessing data on the distribution of income in any country?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch11-p276" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> The accompanying table presents data from the U.S. Census Bureau on median and mean income of male workers for the years 1972 and 2012. The income figures are adjusted to eliminate the effect of inflation.</p>
+<table id="krugmanwellsessentials4e-ch11-untab-9" block_type="un_table" data-href="#krugmanwellsessentials4e-ch11-untab-9" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-bborder"><strong>Median income</strong></td>
+<td class="tbl-bborder"><strong>Mean income</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Year</strong></td>
+<td colspan="2"><strong>(in 2012 dollars)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1972</td>
+<td class="tbl-rborder">&#36;36,547</td>
+<td>&#36;42,383</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2012</td>
+<td class="tbl-rborder">33,904</td>
+<td>49,915</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p277a" block_type="tbn-sc"><em>Data from:</em> U.S. Census Bureau.</p>
+<list id="krugmanwellsessentials4e-ch11-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p277" block_type="cr-que-ans-first">By what percentage has median income changed over this period? By what percentage has mean income changed over this period?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p278" block_type="cr-que-ans-first">Between 1972 and 2012, has the income distribution become less or more unequal? Explain.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch11-p279" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> There are 100 households in the economy of Equalor. Initially, 99 of them have an income of &#36;10,000 each, and one household has an income of &#36;1,010,000.</p>
+<list id="krugmanwellsessentials4e-ch11-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p280" block_type="cr-que-ans-mid">What is the median income in this economy? What is the mean income?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p281" block_type="cr-que-nl-mid">Through its poverty programs, the government of Equalor now redistributes income: it takes &#36;990,000 away from the richest household and distributes it equally among the remaining 99 households.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p282" block_type="cr-que-ans-mid">What is the median income in this economy now? What is the mean income? Has the median income changed? Has the mean income changed? Which indicator (mean or median household income) is a better indicator of the typical Equalorian household&#8217;s income? Explain.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch11-p283" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> The country of Marxland has the following income tax and social insurance system. Each citizen&#8217;s income is taxed at an average tax rate of 100&#37;. A social insurance system then provides transfers to each citizen such that each citizen&#8217;s after-tax income is exactly equal. That is, each citizen gets (through a government transfer payment) an equal share of the income tax revenue. What is the incentive for one individual citizen to work and earn income? What will the total tax revenue in Marxland be? What will be the after-tax income (including the transfer payment) for each citizen? Do you think such a tax system that creates perfect equality will work?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch11-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch11-p284" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> The tax system in Taxilvania includes a negative income tax. For all incomes below &#36;10,000, individuals pay an income tax of &#8211;40&#37; (that is, they receive a payment of 40&#37; of their income). For any income above the &#36;10,000 threshold, the tax rate on that additional income is 10&#37;. For the first three scenarios below, calculate the amount of income tax to be paid and after-tax income.</p>
+<list id="krugmanwellsessentials4e-ch11-list-21" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p285" block_type="cr-que-ans-first">Lowani earns income of &#36;8,000.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p286" block_type="cr-que-ans-mid">Midram earns income of &#36;40,000.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p287" block_type="cr-que-ans-mid">Hi-Wan earns income of &#36;100,000.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p288" block_type="cr-que-ans-mid">Can you find a notch in this tax system? That is, can you find a situation where earning more pre-tax income actually results in less after-tax income?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_340" block_type="page_start">340</p>
+<question id="krugmanwellsessentials4e-ch11-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch11-p289" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> In the city of Notchingham, each worker is paid a wage rate of &#36;10 per hour. Notchingham administers its own unemployment benefit, which is structured as follows: If you are unemployed (that is, if you do not work at all), you get unemployment benefits (a transfer from the government) of &#36;50 per day. As soon as you work for only one hour, the unemployment benefit is completely withdrawn. That is, there is a notch in the benefit system.</p>
+<list id="krugmanwellsessentials4e-ch11-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch11-p290" block_type="cr-que-ans-first">How much income does an unemployed person have per day? How much daily income does an individual who works four hours per day have? How many hours do you need to work to earn just the same as if you were unemployed?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p291" block_type="cr-que-ans-mid">Will anyone ever accept a part-time job that requires working four hours per day, rather than being unemployed?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p292" block_type="cr-que-ans-mid">Suppose that Notchingham now changes the way in which the unemployment benefit is withdrawn. For each additional dollar an individual earns, &#36;0.50 of the unemployment benefit is withdrawn. How much daily income does an individual who works four hours per day now have? Is there an incentive now to work four hours per day rather than being unemployed?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch11-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch11-p293" block_type="cr-wio-nl-first"><phrase block_type="qnum">8.</phrase> The American National Election Studies conducts periodic research on the opinions of U.S. voters. The accompanying table shows the percentage of people, in selected years from 1952 to 2008, who agreed with the statement &#8220;There are important differences in what the Republicans and Democrats stand for.&#8221;</p>
+<table id="krugmanwellsessentials4e-ch11-untab-10" block_type="un_table" data-href="#krugmanwellsessentials4e-ch11-untab-10" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Year</strong></td>
+<td><strong>Agree with statement</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1952</td>
+<td>50&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1972</td>
+<td>46</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1992</td>
+<td>60</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2004</td>
+<td>76</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2008</td>
+<td>78</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p295a" block_type="tbn-sc"><em>Data from:</em> American National Election Studies.</p>
+<p id="krugmanwellsessentials4e-ch11-p294" block_type="cr-que-nl-mid">What do these data say about the degree of partisanship in U.S. politics over time?</p>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-8" block_type="sum-h" title="" chapter="11" numbered="true" level="1" print_page="340">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch11-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch11-p295" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch11-img-23" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch11-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch11-p296" block_type="cr-wio-nl-first"><phrase block_type="qnum">9.</phrase> The accompanying table shows data on the total number of people in the United States and the number of all people who were uninsured, for selected years from 1999 to 2011. It also shows data on the total number of poor children in the United States&#8212;those under 18 and below the poverty threshold&#8212;and the number of poor children who were uninsured.</p>
+<p id="krugmanwellsessentials4e-ch11-p297" block_type="cr-wio-nl-first">For each year, calculate the percentage of all people who were uninsured and the percentage of poor children who were uninsured. How have these percentages changed over time? What is a possible explanation for the change in the percentage of uninsured poor children?</p>
+<table id="krugmanwellsessentials4e-ch11-untab-11" block_type="un_table" data-href="#krugmanwellsessentials4e-ch11-untab-11" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td rowspan="2" class="tbl-bborder"><strong>Year</strong></td>
+<td class="tbl-bborder"><strong>Total people</strong></td>
+<td class="tbl-bborder"><strong>Uninsured people</strong></td>
+<td class="tbl-bborder"><strong>Total poor children</strong></td>
+<td class="tbl-bborder"><strong>Uninsured poor children</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td colspan="4"><strong>(millions)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1999</td>
+<td class="tbl-rborder">276.8</td>
+<td class="tbl-rborder">38.8</td>
+<td class="tbl-rborder">12.3</td>
+<td>3.8</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2001</td>
+<td class="tbl-rborder">282.1</td>
+<td class="tbl-rborder">39.8</td>
+<td class="tbl-rborder">11.7</td>
+<td>3.3</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2003</td>
+<td class="tbl-rborder">288.3</td>
+<td class="tbl-rborder">43.4</td>
+<td class="tbl-rborder">12.9</td>
+<td>3.3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2005</td>
+<td class="tbl-rborder">293.8</td>
+<td class="tbl-rborder">44.8</td>
+<td class="tbl-rborder">12.9</td>
+<td>3.1</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2007</td>
+<td class="tbl-rborder">299.1</td>
+<td class="tbl-rborder">45.7</td>
+<td class="tbl-rborder">13.3</td>
+<td>3.1</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2009</td>
+<td class="tbl-rborder">304.3</td>
+<td class="tbl-rborder">50.7</td>
+<td class="tbl-rborder">15.5</td>
+<td>3.1</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2011</td>
+<td class="tbl-rborder">308.8</td>
+<td class="tbl-rborder">48.6</td>
+<td class="tbl-rborder">16.1</td>
+<td>3.0</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p298a" block_type="tbn-sc"><em>Data from:</em> U.S. Census Bureau.</p>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch11-sec1-7a" block_type="business_case" title="" chapter="11" numbered="true" level="1" print_page="229">
+<section-metadata><section-title>Business Case</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_341" block_type="page_start">341</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx5-5" block_type="bcbx5-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch11-img-24" alt="image" src="images/world_view_icon.jpg"/> <phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase><strong>Hunting Endangered Animals to Save Them</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p298" block_type="bx5-txt-ni"><phrase block_type="dropcap">J</phrase>ohn Hume&#8217;s Mauricedale ranch occupies 16,000 square miles in the hot, scrubby grasslands of South Africa. There Hume raises endangered species, such as rhinos, and nonendangered species, such as Cape buffalo, antelopes, hippos, giraffes, zebras, and ostriches. From revenues of around &#36;2.5 million per year, the ranch earns a small profit, with 20&#37; of the revenues coming from trophy hunting and 80&#37; from selling live animals.</p>
+<p id="krugmanwellsessentials4e-ch11-p299" block_type="bx5-txt">Although he entered this business to earn a profit, Hume sees himself as a conservator of these animals and this land. And he is convinced that to protect rhinos, some legalized hunting of them is necessary. The story of one of Hume&#8217;s male rhinos, named &#8220;65,&#8221; illustrates his point. Hume and his staff knew that 65 was a problem: too old to breed, he was belligerent enough to kill younger male rhinos. He was part of what wildlife conservationists call the &#8220;surplus male problem,&#8221; a male whose presence inhibits the growth of the herd.</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-25" alt="image" src="images/KrugESS4e_11UN08.jpg"/>
+<asset_source>Artur Tiutenko/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p300" block_type="bx5-txt">Eventually, Hume obtained permission for the hunting of 65 from CITES (Convention on International Trade in Endangered Species) that regulates the trade and legalized hunting of endangered species. A wealthy hunter paid Hume &#36;150,000, and the troublesome 65 was quickly dispatched.</p>
+<p id="krugmanwellsessentials4e-ch11-p301" block_type="bx5-txt">Conservationist ranchers like Hume, who advocate regulated hunting of wildlife, point to the experience of Kenya to buttress their case. In 1977, Kenya banned the trophy hunting or ranching of wildlife. Since then, Kenya has lost 60&#37; to 70&#37; of its large wildlife through poaching or conversion of habitat to agriculture. Its herd of black rhinos, once numbered at 20,000, now stands at about 540, surviving only in protected areas. In contrast, since regulated hunting of the less endangered white buffalo began in South Africa in 1968, its numbers have risen from 1,800 to 19,400.</p>
+<p id="krugmanwellsessentials4e-ch11-p302" block_type="bx5-txt">Many conservationists now agree that the key to recovery for a number of endangered species is legalized hunting on well-regulated game ranches that are actively engaged in breeding and maintaining the animals. As Dr. Rosie Cooney, head of the International Union for the Conservation of Nature, the world&#8217;s oldest and largest conservation group, said, &#8220;I&#8217;m afraid it would be nice to be able to recommend alternative approaches for conservation that don&#8217;t involve killing animals &#8230; [but] we view trophy hunting as playing an important and generally effective role in conservation.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch11-p303" block_type="bx5-txt">However, legalized hunting is a very controversial policy, strongly opposed by some wildlife advocates. Because establishing a ranch like Mauricedale requires a huge capital investment, many are concerned that smaller, fly-by-night ranches will engage in &#8220;canned hunts&#8221; with drugged or sick animals obtained elsewhere. And there is a fear that the high prices paid for trophy hunts will make ranchers too eager to cull their herds.</p>
+<p id="krugmanwellsessentials4e-ch11-p304" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch11-list-23" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch11-p305" block_type="bx5-nl">Using the concepts you learned about in the discussion of public goods in <link href="Chapter10.xml">Chapter 10</link>, explain the economic incentives behind the huge losses in Kenyan wildlife.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p306" block_type="bx5-nl">Compare the economic incentives facing John Hume with those facing a Kenyan rancher.</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p307" block_type="bx5-nl">What regulations should be imposed on a rancher who sells opportunities to trophy hunt? Relate these to the concepts you learned about in the discussion of public goods in <link href="Chapter10.xml">Chapter 10</link>.</p></li>
+</list>
+</box>
+<p id="krugmanwellsessentials4e_page_342" block_type="page_start">342</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch11-bx5-6" block_type="bcbx5-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch11-img-26" alt="image" src="images/world_view_icon.jpg"/> <phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase><strong>Welfare State Entrepreneurs</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch11-p308" block_type="bx5-txt-ni"><phrase block_type="dropcap">&#8220;W</phrase>iggo Dalmo is a classic entrepreneurial type: the Working Class Kid Made Good.&#8221; So began a profile in <em>Inc.</em> magazine. Dalmo began as an industrial mechanic who repaired mining equipment for a large company. Eventually, he decided to start his own business. Momek, the company he founded, eventually grew into a &#36;44 million, 150-employee operation that does contract work on oil rigs and in mines.</p>
+<p id="krugmanwellsessentials4e-ch11-p309" block_type="bx5-txt">You can read stories like this all the time in U.S. business publications. What is unusual about this case is that Dalmo and his company aren&#8217;t American, they&#8217;re Norwegian&#8212;and Norway, like other Scandinavian countries, has a very generous welfare state, supported by high levels of taxation. So what does Dalmo think of that system? He approves, saying that Norway&#8217;s tax system is &#8220;good and fair&#8221; and good for business. In fact, the <em>Inc.</em> article was titled, &#8220;In Norway, Start-Ups Say Ja to Socialism.&#8221;</p>
+<figure id="krugmanwellsessentials4e-ch11-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch11-img-27" alt="image" src="images/KrugESS4e_11UN09.jpg"/>
+<asset_source>Erika Larsen/Redux</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch11-p310" block_type="bx5-txt">Why? After all, the financial rewards for being a successful entrepreneur are more limited in a country like Norway, with its high taxes, than they are in the United States, with its lower taxes. But there are other considerations. For example, until the Affordable Care Act kicked in in 2014, Americans thinking of leaving a large company to start a business needed to worry about whether they would be able to get health insurance, whereas Norwegians in the same position were assured of health care regardless of employment. And the downside of failure is larger in the U.S. system, which offers minimal aid to the unemployed.</p>
+<p id="krugmanwellsessentials4e-ch11-p311" block_type="bx5-txt">Still, is Wiggo Dalmo an exceptional case? <link href="#krugmanwellsessentials4e-ch11-tab-12">Table 11-7</link> shows the nations with the highest level of entrepreneurial activity, according to a study financed by the U.S. Small Business Administration, which tried to quantify the level of entrepreneurial activity in different nations. The United States is at the top of the list, but so are several Scandinavian countries which have very high levels of taxation and extensive social insurance. (Norway, for example, is number 14.)</p>
+<table id="krugmanwellsessentials4e-ch11-tab-12" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch11-tab-12" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">11-7</phrase></strong> <phrase block_type="tbl_title">The Top 10 Entrepreneurial Countries, 2014</phrase></table_caption>
+<tbody>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder"><strong>Rank</strong></td>
+<td><strong>Country</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1</td>
+<td>United States</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2</td>
+<td>Australia</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">3</td>
+<td>Sweden</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">4</td>
+<td>Denmark</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td>Switzerland</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">6</td>
+<td>Taiwan</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">7</td>
+<td>Finland</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">8</td>
+<td>Netherlands</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">9</td>
+<td>United Kingdom</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>Singapore</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch11-p312a" block_type="tbn-sc"><em>Data from:</em> The Global Entrepreneurship and Development Index 2014, by Zoltan Acs, Laszlo Szerb, and Erkko Autio.</p>
+<p id="krugmanwellsessentials4e-ch11-p312" block_type="bx5-txt">The moral is that when comparing how business friendly welfare state systems really are, you have to think a bit past the obvious question of the level of taxes.</p>
+<p id="krugmanwellsessentials4e-ch11-p313" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch11-list-24" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch11-p314" block_type="bx5-nl">Why does Norway have to have higher taxes overall than the United States?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p315" block_type="bx5-nl">This case suggests that government-paid health care helps entrepreneurs. How does this relate to the arguments for social insurance in the text?</p></li>
+<li><p id="krugmanwellsessentials4e-ch11-p316" block_type="bx5-nl">How would the incentives of people like Wiggo Dalmo be affected if Norwegian health care was means-tested instead of available to all?</p></li>
+</list>
+</box>
+</section>
+</chapter>
+</manuscript>

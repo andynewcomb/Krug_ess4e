@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="19" name="" title="KRU_Chapter_19_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="19" id="krugmanwellsessentials4e-ch19-chapter-19" title="CHAPTER 19: Monetary policy" start-numbering-at="19" numbered="true">
+<section id="krugmanwellsessentials4e-ch19-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="true" level="1" print_page="541">
+<p id="krugmanwellsessentials4e_page_541" block_type="page_start">541</p>
+<p id="krugmanwellsessentials4e-ch19-p1" block_type="chapter_title">Monetary Policy</p>
+<p id="krugmanwellsessentials4e-ch19-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">19</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch19-p3a" block_type="co-t"><strong>THE MOST POWERFUL PERSON IN GOVERNMENT</strong></p>
+<figure id="krugmanwellsessentials4e-ch19-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-1" alt="image" src="images/KrugESS4e_CO19a.jpg"/>
+<asset_source>REUTERS/Jim Bourge/Newscom</asset_source>
+</figure>
+<figure id="krugmanwellsessentials4e-ch19-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-2" alt="image" src="images/KrugESS4e_CO19b.jpg"/>
+<caption>The chairmanship of the Federal Reserve, currently held by Janet Yellen, is arguably the most powerful position in the U.S. government.</caption>
+<asset_source>Uschools University Images/Getty Images</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch19-p3" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch19-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch19-p4" block_type="obj-bl"><strong>What the money demand curve is</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p5" block_type="obj-bl"><strong>Why the liquidity preference model determines the interest rate in the short run</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p6" block_type="obj-bl"><strong>How the Federal Reserve implements monetary policy, moving the interest rate to affect aggregate output</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p7" block_type="obj-bl"><strong>Why monetary policy is the main tool for stabilizing the economy</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p8" block_type="obj-bl"><strong>How the behavior of the Federal Reserve compares to that of other central banks</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p9" block_type="obj-bl"><strong>Why economists believe in monetary neutrality&#8212;that monetary policy affects only the price level, not aggregate output, in the long run</strong></p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p11" block_type="co-txt-ni"><phrase block_type="dropcap">I</phrase>N 2014 NICHOLAS LEMANN, A reporter for the New Yorker, visited the trading floor of the Federal Reserve Bank of New York. He found it oddly unimpressive&#8212;writing that the people at the desks &#8220;look like graduate students&#8221; and &#8220;dress business casual.&#8221; Off the main floor were two small rooms. In one room five &#8220;serious-looking people&#8221; were buying &#8220;long-term U.S. government bonds amounting to thirty billion dollars every month.&#8221; In the other, seven people were buying a slightly smaller amount of mortgage-backed securities&#8212;bonds backed by government-sponsored home loans. Lemann was bewildered by the lack of drama, asking &#8220;Can a spectacle so lacking in the indicia of importance&#8212;no pageantry, no emotions, not even any speaking&#8212;really be the beating heart of capitalism?&#8221;</p>
+<p id="krugmanwellsessentials4e-ch19-p12" block_type="co-txt">The answer, basically, is yes. Lemann visited the New York Fed as he worked on a profile of Janet Yellen, chairwoman of the Fed&#8217;s Board of Governors. And that&#8217;s a very important position indeed. As Lemann wrote, &#8220;There is an old saw that the Fed chair is the most powerful person in government. In the aftermath of the financial crisis, that may actually be an understatement.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch19-p13" block_type="co-txt">People sometimes say that the head of the Fed decides how much money to print. That&#8217;s not quite true: for one thing, the Fed doesn&#8217;t literally print money, and beyond that, monetary decisions are made by a committee rather than by one person. But as we learned in <link href="krugmanwellsessentials4e-ch18.xml">Chapter 18</link>, the Federal Reserve can use open-market operations and other actions, such as changes in reserve requirements, to alter the money supply&#8212;and Janet Yellen has more influence over these actions than anyone else in America.</p>
+<p id="krugmanwellsessentials4e-ch19-p14" block_type="co-txt">And these actions matter a lot. Roughly half of the recessions the United States has experienced since World War II can be attributed, at least in part, to the decisions of the Federal Reserve to tighten money to fight inflation. In a number of other cases, the Fed played a key role in fighting slumps and promoting recovery. The financial crisis of 2008 put the Fed at center stage. Its aggressive response to the crisis inspired both praise and condemnation.</p>
+<p id="krugmanwellsessentials4e-ch19-p15" block_type="co-txt">The power of the Fed chair comes from the ability of the Board of Governors to direct the actions of people like those working in those two small rooms in New York. For what the Fed does, mainly, is set <em>monetary policy</em>. Monetary policy in action isn&#8217;t much to look at, but it&#8217;s crucially important&#8212;for job creation, for price stability, and more&#8212;that it be done right.</p>
+<p id="krugmanwellsessentials4e-ch19-p16" block_type="co-txt">In this chapter we&#8217;ll learn how monetary policy works&#8212;how actions by the Federal Reserve can have a powerful effect on the economy. We&#8217;ll start by looking at the <em>demand for money</em> from households and firms. Then we&#8217;ll see how the Fed&#8217;s ability to change the <em>supply of money</em> allows it to move interest rates in the short run and thereby affect real GDP. We&#8217;ll look at U.S. monetary policy in practice and compare it to the monetary policy of other central banks. We&#8217;ll conclude by examining monetary policy&#8217;s long-run effects.</p>
+<p id="krugmanwellsessentials4e_page_542" block_type="page_start">542</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-1" block_type="h1" title="" chapter="19" numbered="true" level="1" print_page="542">
+<section-metadata><section-title>The Demand for Money</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p17" block_type="txt-ni">In the previous chapter we learned about the various types of monetary aggregates:</p>
+<list id="krugmanwellsessentials4e-ch19-list-2" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch19-p18" block_type="bl-first">M1, the most commonly used definition of the money supply, consists of currency in circulation (cash), plus checkable bank deposits, plus traveler&#8217;s checks.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p19" block_type="bl-mid">M2, a broader definition of the money supply, consists of M1 plus deposits that can easily be transferred into checkable deposits.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch19-p20" block_type="bl-last">We also learned why people hold money&#8212;to make it easier to purchase goods and services. Now we&#8217;ll go deeper, examining what determines how much money individuals and firms want to hold at any given time.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-1" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="542">
+<section-metadata><section-title>The Opportunity Cost of Holding Money</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p21" block_type="txt-ni">Most economic decisions involve trade-offs at the margin. That is, individuals decide how much of a good to consume by determining whether the benefit they&#8217;d gain from consuming a bit more of any given good is worth the cost. The same decision process is used when deciding how much money to hold.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-4" alt="image" src="images/KrugESS4e_19UN01.jpg"/>
+<caption>There is a price to be paid for the convenience of holding money.</caption>
+<asset_source>Big Cheese Photo/SuperStock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p22" block_type="txt">Individuals and firms find it useful to hold some of their assets in the form of money because of the convenience money provides: money can be used to make purchases directly, but other assets can&#8217;t. But there is a price to be paid for that convenience: money normally yields a lower rate of return than nonmonetary assets.</p>
+<p id="krugmanwellsessentials4e-ch19-p23" block_type="txt">As an example of how convenience makes it worth incurring some opportunity costs, consider the fact that even today&#8212;with the prevalence of credit cards, debit cards, and ATMs&#8212;people continue to keep cash in their wallets rather than leave the funds in an interest-bearing account. They do this to avoid going to an ATM to withdraw money every time they want to buy lunch from a place that doesn&#8217;t accept credit cards or won&#8217;t accept them for small amounts because of the processing fee. In other words, the convenience of keeping some cash in your wallet is more valuable than the interest you would earn by keeping that money in the bank.</p>
+<p id="krugmanwellsessentials4e-ch19-p24" block_type="txt">Even holding money in a checking account involves a trade-off between convenience and earning interest. That&#8217;s because you can earn a higher interest rate by putting your money in assets other than a checking account. For example, many banks offer certificates of deposit, or CDs, which pay a higher interest rate than ordinary bank accounts. But CDs also carry a penalty if you withdraw the funds before a certain amount of time&#8212;say, six months&#8212;has elapsed. An individual who keeps funds in a checking account is forgoing the higher interest rate those funds would have earned if placed in a CD in return for the convenience of having cash readily available when needed.</p>
+<p id="krugmanwellsessentials4e-ch19-p25" block_type="txt">So making sense of the demand for money is about understanding how individuals and firms trade off the benefit of holding cash&#8212;that provides convenience but no interest&#8212;versus the benefit of holding interest-bearing nonmonetary assets&#8212;that provide interest but not convenience. And that trade-off is affected by the interest rate. (As before, when we say <em>the interest rate</em> it is with the understanding that we mean a nominal interest rate&#8212;that is, it&#8217;s unadjusted for inflation.) Next, we&#8217;ll examine how that trade-off changed dramatically from June 2007 to June 2008, when there was a big fall in interest rates.</p>
+<p id="krugmanwellsessentials4e-ch19-p27" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-tab-1">Table 19-1</link> illustrates the opportunity cost of holding money in a specific month, June 2007. The first row shows the interest rate on one-month certificates of deposit&#8212;that is, the interest rate individuals could get if they were willing to tie their funds up for one month. In June 2007, one-month CDs yielded 5.30&#37;. The second row shows the interest rate on interest-bearing demand deposits (specifically, those included in M2, minus small time deposits). Funds in these accounts were more accessible than those in CDs, but the price of that convenience was a much lower interest rate, only 2.30&#37;. Finally, the last row shows the interest rate on currency&#8212;cash in your wallet&#8212;which was, of course, zero.</p>
+<table id="krugmanwellsessentials4e-ch19-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch19-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">19-1</phrase></strong> <phrase block_type="tbl_title">Selected Interest Rates, June 2007</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td>One-month certificates of deposit (CDs)</td>
+<td>5.30&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Interest-bearing demand deposits</td>
+<td>2.30&#37;</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Currency</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch19-p26" block_type="tbn-sc"><em>Data from:</em> Federal Reserve Bank of St. Louis.</p>
+<p id="krugmanwellsessentials4e_page_543" block_type="page_start">543</p>
+<p id="krugmanwellsessentials4e-ch19-p28" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-tab-1">Table 19-1</link> shows the opportunity cost of holding money at one point in time, but the opportunity cost of holding money changes when the overall level of interest rates changes. Specifically, when the overall level of interest rates falls, the opportunity cost of holding money falls, too.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p30" block_type="mn-gl-def"><strong>Short-term interest rates</strong> are the interest rates on financial assets that mature within less than a year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p31" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-tab-2">Table 19-2</link> illustrates this point by showing how selected interest rates changed between June 2007 and June 2008, a period when the Federal Reserve was slashing rates in an (unsuccessful) effort to fight off a rapidly worsening recession. A comparison between interest rates in June 2007 and June 2008 illustrates what happens when the opportunity cost of holding money falls sharply. Between June 2007 and June 2008, the federal funds rate, which is the rate the Fed controls most directly, fell by 3.25 percentage points. The interest rate on one-month CDs fell almost as much, 2.8 percentage points. These interest rates are <strong>short-term interest rates</strong>&#8212;rates on financial assets that come due, or mature, within less than a year.</p>
+<table id="krugmanwellsessentials4e-ch19-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch19-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">19-2</phrase></strong> <phrase block_type="tbl_title">Interest Rates and the Opportunity Cost of Holding Money</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>June 2007</strong></td>
+<td><strong>June 2008</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Federal funds rate</td>
+<td class="tabl-rborder">5.25&#37;</td>
+<td>2.00&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">One-month certificates of deposit (CDs)</td>
+<td class="tabl-rborder">5.30&#37;</td>
+<td>2.50&#37;</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Interest-bearing demand deposits</td>
+<td class="tabl-rborder">2.30&#37;</td>
+<td>1.24&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Currency</td>
+<td class="tabl-rborder">0</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder"><strong>CDs minus interest-bearing demand deposits (percentage points)</strong></td>
+<td class="tabl-rborder"><strong>3.00</strong></td>
+<td><strong>1.26</strong></td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder"><strong>CDs minus currency (percentage points)</strong></td>
+<td class="tabl-rborder"><strong>5.30</strong></td>
+<td><strong>2.50</strong></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch19-p29" block_type="tbn-sc"><em>Data from:</em> Federal Reserve Bank of St. Louis.</p>
+<p id="krugmanwellsessentials4e-ch19-p32" block_type="txt">As short-term interest rates fell between June 2007 and June 2008, the interest rates on money didn&#8217;t fall by the same amount. The interest rate on currency, of course, remained at zero. The interest rate paid on demand deposits did fall, but by much less than short-term interest rates. As a comparison of the two columns of <link href="#krugmanwellsessentials4e-ch19-tab-2">Table 19-2</link> shows, the opportunity cost of holding money fell. The last two rows of <link href="#krugmanwellsessentials4e-ch19-tab-2">Table 19-2</link> summarize this comparison: they give the differences between the interest rates on demand deposits and on currency and the interest rate on CDs.</p>
+<p id="krugmanwellsessentials4e-ch19-p33" block_type="txt">These differences&#8212;the opportunity cost of holding money rather than interest-bearing assets&#8212;declined sharply between June 2007 and June 2008. This reflects a general result: <em>the higher the short-term interest rate, the higher the opportunity cost of holding money; the lower the short-term interest rate, the lower the opportunity cost of holding money.</em></p>
+<p id="krugmanwellsessentials4e-ch19-p34" block_type="txt">The fact that the federal funds rate in <link href="#krugmanwellsessentials4e-ch19-tab-2">Table 19-2</link> and the interest rate on one-month CDs fell by almost the same percentage is not an accident: all short-term interest rates tend to move together, with rare exceptions because CDs and other short-term assets (like one-month and three-month U.S. Treasury bills) are in effect competing for the same business. Any short-term asset that offers a lower-than-average interest rate will be sold by investors, who will move their wealth into a higher-yielding short-term asset. The selling of the asset, in turn, forces its interest rate up, because investors must be rewarded with a higher rate in order to induce them to buy it.</p>
+<p id="krugmanwellsessentials4e-ch19-p35" block_type="txt">Conversely, investors will move their wealth into any short-term financial asset that offers an above-average interest rate. The purchase of the asset drives its interest rate down when sellers find they can lower the rate of return on the asset and still find willing buyers. So interest rates on short-term financial assets tend to be roughly the same because no asset will consistently offer a higher-than-average or a lower-than-average interest rate.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p36" block_type="mn-gl-def"><strong>Long-term interest rates</strong> are interest rates on financial assets that mature a number of years in the future.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p37" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-tab-2">Table 19-2</link> contains only short-term interest rates. At any given moment, <strong>long-term interest rates</strong>&#8212;rates of interest on financial assets that mature, or come due, a number of years into the future&#8212;may be different from short-term interest rates. The difference between short-term and long-term interest rates is sometimes important as a practical matter.</p>
+<p id="krugmanwellsessentials4e-ch19-p38" block_type="txt">Moreover, it&#8217;s short-term rates rather than long-term rates that affect money demand, because the decision to hold money involves trading off the convenience of holding cash versus the payoff from holding assets that mature in the short term&#8212;a year or less. For the moment, however, let&#8217;s ignore the distinction between short-term and long-term rates and assume that there is only one interest rate.</p>
+<p id="krugmanwellsessentials4e_page_544" block_type="page_start">544</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-2" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="544">
+<section-metadata><section-title>The Money Demand Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p39" block_type="txt-ni">Because the overall level of interest rates affects the opportunity cost of holding money, the quantity of money individuals and firms want to hold is, other things equal, negatively related to the interest rate. In <link href="#krugmanwellsessentials4e-ch19-fig-4">Figure 19-1</link>, the horizontal axis shows the quantity of money demanded and the vertical axis shows the interest rate, <em>r,</em> which you can think of as a representative short-term interest rate such as the rate on one-month CDs.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-4" block_type="figure" numbered="true" number="19-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-4"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-1</phrase></strong></phrase> <phrase block_type="fig_title">The Money Demand Curve</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-5" alt="image" src="images/KrugESS4e_fig_19_01.jpg"/>
+<caption>The money demand curve illustrates the relationship between the interest rate and the quantity of money demanded. It slopes downward: a higher interest rate leads to a higher opportunity cost of holding money and reduces the quantity of money demanded. Correspondingly, a lower interest rate reduces the opportunity cost of holding money and increases the quantity of money demanded.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p40" block_type="mn-gl-def">The <strong>money demand curve</strong> shows the relationship between the interest rate and the quantity of money demanded.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p41" block_type="txt">The relationship between the interest rate and the quantity of money demanded by the public is illustrated by the <strong>money demand curve,</strong> <em>MD</em>, in <link href="#krugmanwellsessentials4e-ch19-fig-4">Figure 19-1</link>. The money demand curve slopes downward because, other things equal, a higher interest rate increases the opportunity cost of holding money, leading the public to reduce the quantity of money it demands. For example, if the interest rate is very low&#8212;say, 1&#37;&#8212;the interest forgone by holding money is relatively small. As a result, individuals and firms will tend to hold relatively large amounts of money to avoid the cost and nuisance of converting other assets into money when making purchases.</p>
+<p id="krugmanwellsessentials4e-ch19-p42" block_type="txt">By contrast, if the interest rate is relatively high&#8212;say, 15&#37;, a level it reached in the United States in the early 1980s&#8212;the opportunity cost of holding money is high. People will respond by keeping only small amounts in cash and deposits, converting assets into money only when needed.</p>
+<p id="krugmanwellsessentials4e-ch19-p43" block_type="txt">You might ask why we draw the money demand curve with the interest rate&#8212;as opposed to rates of return on other assets, such as stocks or real estate&#8212;on the vertical axis. The answer is that for most people the relevant question in deciding how much money to hold is whether to put the funds in the form of other assets that can be turned fairly quickly and easily into money. Stocks don&#8217;t fit that definition because there are significant transaction fees when you sell stock (which is why stock market investors are advised not to buy and sell too often). Real estate doesn&#8217;t fit the definition either because selling real estate involves even larger fees and can take a long time as well. So the relevant comparison is with assets that are &#8220;close to&#8221; money&#8212;fairly liquid assets like CDs. And as we&#8217;ve already seen, the interest rates on all these assets normally move closely together.</p>
+<p id="krugmanwellsessentials4e_page_545" block_type="page_start">545</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-3" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="545">
+<section-metadata><section-title>Shifts of the Money Demand Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p44" block_type="txt-ni">A number of factors other than the interest rate affect the demand for money. When one of these factors changes, the money demand curve shifts. <link href="#krugmanwellsessentials4e-ch19-fig-5">Figure 19-2</link> shows shifts of the money demand curve: an increase in the demand for money corresponds to a rightward shift of the <em>MD</em> curve, raising the quantity of money demanded at any given interest rate; a decrease in the demand for money corresponds to a leftward shift of the <em>MD</em> curve, reducing the quantity of money demanded at any given interest rate.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-5" block_type="figure" numbered="true" number="19-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-5"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-2</phrase></strong></phrase> <phrase block_type="fig_title">Increases and Decreases in the Demand for Money</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-6" alt="image" src="images/KrugESS4e_fig_19_02.jpg"/>
+<caption>The demand curve for money shifts when non-interest rate factors that affect the demand for money change. An increase in money demand shifts the money demand curve to the right, from <em>MD</em><sub>1</sub> to <em>MD</em><sub>2</sub>, and the quantity of money demanded rises at any given interest rate. A decrease in money demand shifts the money demand curve to the left, from <em>MD</em><sub>1</sub> to <em>MD</em><sub>3</sub>, and the quantity of money demanded falls at any given interest rate.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p45" block_type="txt">The most important factors causing the money demand curve to shift are changes in the aggregate price level, changes in real GDP, changes in credit markets and banking technology, and changes in institutions.</p>
+<p id="krugmanwellsessentials4e-ch19-p46" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in the Aggregate Price Level</strong></phrase> Americans keep a lot more cash in their wallets and funds in their checking accounts today than they did in the 1950s. One reason is that they have to if they want to be able to buy anything: almost everything costs more now than it did when you could get a burger, fries, and a drink at McDonald&#8217;s for 45 cents and a gallon of gasoline for 29 cents. So, other things equal, higher prices increase the demand for money (a rightward shift of the <em>MD</em> curve), and lower prices decrease the demand for money (a leftward shift of the <em>MD</em> curve).</p>
+<p id="krugmanwellsessentials4e-ch19-p47" block_type="txt">We can actually be more specific than this: other things equal, the demand for money is <em>proportional</em> to the price level. That is, if the aggregate price level rises by 20&#37;, the quantity of money demanded at any given interest rate, such as <em>r</em><sub>1</sub> in <link href="#krugmanwellsessentials4e-ch19-fig-5">Figure 19-2</link>, also rises by 20&#37;&#8212;the movement from <em>M</em><sub>1</sub> to <em>M</em><sub>2</sub>. Why? Because if the price of everything rises by 20&#37;, it takes 20&#37; more money to buy the same basket of goods and services. And if the aggregate price level falls by 20&#37;, at any given interest rate the quantity of money demanded falls by 20&#37;&#8212;shown by the movement from <em>M</em><sub>1</sub> to <em>M</em><sub>3</sub> at the interest rate <em>r</em><sub>1</sub>. As we&#8217;ll see, the fact that money demand is proportional to the price level has important implications for the long-run effects of monetary policy.</p>
+<p id="krugmanwellsessentials4e_page_546" block_type="page_start">546</p>
+<p id="krugmanwellsessentials4e-ch19-p48" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Real GDP</strong></phrase> Households and firms hold money as a way to facilitate purchases of goods and services. The larger the quantity of goods and services they buy, the larger the quantity of money they will want to hold at any given interest rate. So an increase in real GDP&#8212;the total quantity of goods and services produced and sold in the economy&#8212;shifts the money demand curve rightward. A fall in real GDP shifts the money demand curve leftward.</p>
+<p id="krugmanwellsessentials4e-ch19-p49" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Credit Markets and Banking Technology</strong></phrase> Credit cards are used everywhere in America today, but it wasn&#8217;t always so. The first credit card that allowed customers to carry a balance from month to month (called a <em>revolving balance</em>) was issued in 1959. Before then, people had to either pay for purchases in cash or pay off their balance every month. The invention of revolving-balance credit cards allowed people to hold less money in order to fund their purchases and decreased the demand for money. In addition, changes in banking technology that made credit cards widely available and widely accepted magnified the effect, making it easier for people to make purchases without having to convert funds from their interest-bearing assets, further reducing the demand for money.</p>
+<p id="krugmanwellsessentials4e-ch19-p50" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Institutions</strong></phrase> Changes in institutions can increase or decrease the demand for money. For example, until Regulation Q was eliminated in 1980, U.S. banks weren&#8217;t allowed to offer interest on checking accounts. So the interest you would forgo by holding funds in a checking account instead of an interest-bearing asset made the opportunity cost of holding funds in checking accounts very high. When banking regulations changed, allowing banks to pay interest on checking account funds, the demand for money rose and shifted the money demand curve to the right.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch19-img-7" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p51" block_type="bx-2-t"><strong>A Yen for Cash</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p52" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-8" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p53" block_type="bx2-first"><phrase block_type="dropcap"><strong>J</strong></phrase>apan, say financial experts, is still a &#8220;cash society.&#8221; Visitors from the United States or Europe are surprised at how little use the Japanese make of credit cards and how much cash they carry around in their wallets. Yet Japan is one of the most economically and technologically advanced countries, and superior to the United States in some areas such as transportation. So why do the citizens of this economic powerhouse still do business the way Americans and Europeans did a generation ago? The answer highlights the factors affecting the demand for money.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-9" alt="image" src="images/KrugESS4e_19UN02.jpg"/>
+<caption>No matter what they are shopping for, Japanese consumers tend to pay with cash rather than plastic.</caption>
+<asset_source>Akio Kon/Bloomberg via Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p54" block_type="txt">One reason the Japanese use cash so much is that their institutions never made the switch to heavy reliance on plastic. For complex reasons, Japan&#8217;s retail sector is still dominated by small mom-and-pop stores, which are reluctant to invest in credit card technology. Japan&#8217;s banks have also been slow about pushing transaction technology; visitors are often surprised to find that ATMs outside of major metropolitan areas close early in the evening rather than staying open all night.</p>
+<p id="krugmanwellsessentials4e-ch19-p55" block_type="txt">But there&#8217;s another reason the Japanese hold so much cash: there&#8217;s little opportunity cost to doing so. Short-term interest rates in Japan have been below 1&#37; since the mid-1990s. It also helps that the Japanese crime rate is quite low, so you are unlikely to have your wallet stolen. So why not hold cash?</p>
+</box>
+<p id="krugmanwellsessentials4e_page_547" block_type="page_start">547</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch19-list-3" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch19-p56" block_type="sr1-bl">Money offers a lower rate of return than other financial assets. We usually compare the rate of return on money with <strong>short-term,</strong> not <strong>long-term, interest rates.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p57" block_type="sr1-bl">Holding money provides liquidity but incurs an opportunity cost that rises with the interest rate, leading to the downward slope of the <strong>money demand curve.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p58" block_type="sr1-bl">Changes in the aggregate price level, real GDP, credit markets and banking technology, and institutions shift the money demand curve. An increase in the demand for money shifts the money demand curve rightward; a decrease in the demand for money shifts the money demand curve leftward.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">19-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch19-p59" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Explain how each of the following would affect the quantity of money demanded. Does the change cause a movement along the money demand curve or a shift of the money demand curve?</p>
+<list id="krugmanwellsessentials4e-ch19-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p60" block_type="sr2-nl-lvl2">Short-term interest rates rise from 5&#37; to 30&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p61" block_type="sr2-nl-lvl2">All prices fall by 10&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p62" block_type="sr2-nl-lvl2">New wireless technology automatically charges supermarket purchases to credit cards, eliminating the need to stop at the cash register.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p63" block_type="sr2-nl-lvl2">In order to avoid paying a sharp increase in taxes, residents of Laguria shift their assets into overseas bank accounts. These accounts are harder for tax authorities to trace but also harder for their owners to tap and convert funds into cash.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch19-p64" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Which of the following will increase the opportunity cost of holding cash? Reduce it? Have no effect? Explain.</p>
+<list id="krugmanwellsessentials4e-ch19-list-5" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p65" block_type="sr2-nl-lvl2">Merchants charge a 1&#37; fee on debit/credit card transactions for purchases of less than &#36;50.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p66" block_type="sr2-nl-lvl2">To attract more deposits, banks raise the interest paid on six-month CDs.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p67" block_type="sr2-nl-lvl2">It&#8217;s the holiday shopping season and retailers have temporarily slashed prices to unexpectedly low levels.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p68" block_type="sr2-nl-lvl2">The cost of food rises significantly.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch19-p69" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-2" block_type="h1" title="" chapter="19" numbered="true" level="1" print_page="547">
+<section-metadata><section-title>Money and Interest Rates</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p70" block_type="ext-first"><em>The Federal Open Market Committee decided today to lower its target for the federal funds rate 75 basis points to 2&#188; percent.</em></p>
+<p id="krugmanwellsessentials4e-ch19-p71" block_type="ext-last"><em>Recent information indicates that the outlook for economic activity has weakened further. Growth in consumer spending has slowed and labor markets have softened. Financial markets remain under considerable stress, and the tightening of credit conditions and the deepening of the housing contraction are likely to weigh on economic growth over the next few quarters.</em></p>
+<p id="krugmanwellsessentials4e-ch19-p72" block_type="txt">So read the beginning of a press release from the Federal Reserve issued on March 18, 2008. (A basis point is equal to 0.01 percentage point. So the statement implies that the Fed lowered the target from 3&#37; to 2.25&#37;.) We learned about the federal funds rate in the previous chapter: it&#8217;s the rate at which banks lend reserves to each other to meet the required reserve ratio. As the statement implies, at each of its eight-times-a-year meetings, a group called the Federal Open Market Committee sets a target value for the federal funds rate. It&#8217;s then up to Fed officials to achieve that target. This is done by the Open Market Desk at the Federal Reserve Bank of New York, which buys and sells short-term U.S. government debt, known as Treasury bills, to achieve that target.</p>
+<p id="krugmanwellsessentials4e-ch19-p73" block_type="txt">As we&#8217;ve already seen, other short-term interest rates, such as the rates on CDs, move with the federal funds rate. So when the Fed reduced its target for the federal funds rate from 3&#37; to 2.25&#37; in March 2008, many other short-term interest rates also fell by about three-quarters of a percentage point.</p>
+<p id="krugmanwellsessentials4e-ch19-p74" block_type="txt">How does the Fed go about achieving a <em>target federal funds rate?</em> And more to the point, how is the Fed able to affect interest rates at all?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-4" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="547">
+<section-metadata><section-title>The Equilibrium Interest Rate</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p75" block_type="mn-gl-def">According to the <strong>liquidity preference model of the interest rate,</strong> the interest rate is determined by the supply and demand for money.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p76" block_type="mn-gl-def">The <strong>money supply curve</strong> shows how the quantity of money supplied varies with the interest rate.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p77" block_type="txt-ni">Recall that, for simplicity, we&#8217;re assuming there is only one interest rate paid on nonmonetary financial assets, both in the short run and in the long run. To understand how the interest rate is determined, consider <link href="#krugmanwellsessentials4e-ch19-fig-7">Figure 19-3</link>, which illustrates the <strong>liquidity preference model of the interest rate;</strong> this model says that the interest rate is determined by the supply and demand for money in the market for money. <link href="#krugmanwellsessentials4e-ch19-fig-7">Figure 19-3</link> combines the money demand curve, <em>MD,</em> with the <strong>money supply curve,</strong> <em>MS,</em> which shows how the quantity of money supplied by the Federal Reserve varies with the interest rate.&#395;M</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-7" block_type="figure" numbered="true" number="19-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-7"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-3</phrase></strong></phrase> <phrase block_type="fig_title">Equilibrium in the Money Market</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-10" alt="image" src="images/KrugESS4e_fig_19_03.jpg"/>
+<caption>The money supply curve, <em>MS,</em> is vertical at the money supply chosen by the Federal Reserve, <image asset-id="krugmanwellsessentials4e-ch19-img-11" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>. The money market is in equilibrium at the interest rate <em>r<sub>E</sub></em>: the quantity of money demanded by the public is equal to <image asset-id="krugmanwellsessentials4e-ch19-img-12" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>, the quantity of money supplied. At a point such as <em>L,</em> the interest rate, <em>r<sub>L</sub>,</em> is below <em>r<sub>E</sub></em> and the corresponding quantity of money demanded, <em>M<sub>L</sub>,</em> exceeds the money supply, <image asset-id="krugmanwellsessentials4e-ch19-img-13" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>. In an attempt to shift their wealth out of nonmoney interest-bearing financial assets and raise their money holdings, investors drive the interest rate up to <em>r<sub>E</sub>.</em> At a point such as <em>H,</em> the interest rate <em>r<sub>H</sub></em> exceeds <em>r<sub>E</sub></em> and the corresponding quantity of money demanded, <em>M<sub>H</sub>,</em> is less than the money supply, <image asset-id="krugmanwellsessentials4e-ch19-img-14" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>. In an attempt to shift out of money holdings into nonmoney interest-bearing financial assets, investors drive the interest rate down to <em>r<sub>E</sub>.</em></caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_548" block_type="page_start">548</p>
+<p id="krugmanwellsessentials4e-ch19-p78" block_type="txt">As we&#8217;ve learned, the Federal Reserve can increase or decrease the money supply: it usually does this through <em>open-market operations,</em> buying or selling Treasury bills, but it can also lend via the <em>discount window</em> or change <em>reserve requirements.</em> Let&#8217;s assume for simplicity that the Fed, using one or more of these methods, simply chooses the level of the money supply that it believes will achieve its interest rate target. Then the money supply curve is a vertical line, <em>MS</em> in <link href="#krugmanwellsessentials4e-ch19-fig-7">Figure 19-3</link>, with a horizontal intercept corresponding to the money supply chosen by the Fed, <image asset-id="krugmanwellsessentials4e-ch19-img-15" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>. The money market equilibrium is at <em>E</em>, where <em>MS</em> and <em>MD</em> cross. At this point the quantity of money demanded equals the money supply, <image asset-id="krugmanwellsessentials4e-ch19-img-16" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>, leading to an equilibrium interest rate of <em>r<sub>E.</sub></em></p>
+<p id="krugmanwellsessentials4e-ch19-p79" block_type="txt">To understand why <em>r<sub>E</sub></em> is the equilibrium interest rate, consider what happens if the money market is at a point like <em>L</em>, where the interest rate, <em>r<sub>L</sub>,</em> is below <em>r<sub>E</sub>.</em> At <em>r<sub>L</sub></em> the public wants to hold the quantity of money <em>M<sub>L</sub>,</em> an amount larger than the actual money supply, <image asset-id="krugmanwellsessentials4e-ch19-img-17" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><em>.</em> This means that at point <em>L</em>, the public wants to shift some of its wealth out of interest-bearing assets such as CDs into money.</p>
+<p id="krugmanwellsessentials4e-ch19-p80" block_type="txt">This result has two implications. One is that the quantity of money demanded is <em>more</em> than the quantity of money supplied. The other is that the quantity of interest-bearing money assets demanded is less than the quantity supplied. So those trying to sell nonmoney assets will find that they have to offer a higher interest rate to attract buyers. As a result, the interest rate will be driven up from <em>r<sub>L</sub></em>until the public wants to hold the quantity of money that is actually available, <image asset-id="krugmanwellsessentials4e-ch19-img-18" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/>. That is, the interest rate will rise until it is equal to <em>r<sub>E</sub>.</em></p>
+<p id="krugmanwellsessentials4e-ch19-p81" block_type="txt">Now consider what happens if the money market is at a point such as <em>H</em> in <link href="#krugmanwellsessentials4e-ch19-fig-7">Figure 19-3</link>, where the interest rate <em>r<sub>H</sub></em>is above <em>r<sub>E</sub>.</em> In that case the quantity of money demanded, <em>M<sub>H</sub>,</em> is less than the quantity of money supplied, <image asset-id="krugmanwellsessentials4e-ch19-img-19" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><em>.</em> Correspondingly, the quantity of interest-bearing nonmoney assets demanded is greater than the quantity supplied. Those trying to sell interest-bearing nonmoney assets will find that they can offer a lower interest rate and still find willing buyers. This leads to a fall in the interest rate from <em>r<sub>H</sub>.</em> It falls until the public wants to hold the quantity of money that is actually available, <image asset-id="krugmanwellsessentials4e-ch19-img-20" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><em>.</em> Again, the interest rate will end up at <em>r<sub>E</sub>.</em></p>
+<p id="krugmanwellsessentials4e_page_549" block_type="page_start">549</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch19-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch19-p82" block_type="bx1-t"><strong>THE TARGET VERSUS THE MARKET?</strong></p>
+<p id="krugmanwellsessentials4e-ch19-p83" block_type="bx1-txt-ni">Over the years, the Federal Reserve has changed the way in which monetary policy is implemented. In the late 1970s and early 1980s, it set a target level for the money supply and altered the monetary base to achieve that target. Under this operating procedure, the federal funds rate fluctuated freely. Today the Fed uses the reverse procedure, setting a target for the federal funds rate and allowing the money supply to fluctuate as it pursues that target.</p>
+<p id="krugmanwellsessentials4e-ch19-p84" block_type="bx1-txt">A common mistake is to imagine that these changes in the way the Fed operates alter the way the money market works. That is, people sometimes say that the interest rate no longer reflects the supply and demand for money because the Fed sets the interest rate.</p>
+<p id="krugmanwellsessentials4e-ch19-p85" block_type="bx1-txt">In fact, the money market works the same way as always: the interest rate is determined by the supply and demand for money. The only difference is that now the Fed adjusts the supply of money to achieve its target interest rate. It&#8217;s important not to confuse a change in the Fed&#8217;s operating procedure with a change in the way the economy works.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-5" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="549">
+<section-metadata><section-title>Monetary Policy and the Interest Rate</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p86" block_type="txt-ni">Let&#8217;s examine how the Federal Reserve can use changes in the money supply to change the interest rate. <link href="#krugmanwellsessentials4e-ch19-fig-8">Figure 19-4</link> shows what happens when the Fed increases the money supply from <image asset-id="krugmanwellsessentials4e-ch19-img-21" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub> to <image asset-id="krugmanwellsessentials4e-ch19-img-22" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub><em>.</em> The economy is originally in equilibrium at <em>E</em><sub>1</sub>, with an equilibrium interest rate of <em>r</em><sub>1</sub> and money supply, <image asset-id="krugmanwellsessentials4e-ch19-img-23" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub>. An increase in the money supply by the Fed to <image asset-id="krugmanwellsessentials4e-ch19-img-24" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub> shifts the money supply curve to the right, from <em>MS</em><sub>1</sub> to <em>MS</em><sub>2</sub>, and leads to a fall in the equilibrium interest rate to <em>r</em><sub>2</sub><em>.</em> Why? Because <em>r</em><sub>2</sub> is the only interest rate at which the public is willing to hold the quantity of money actually supplied, <image asset-id="krugmanwellsessentials4e-ch19-img-25" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-8" block_type="figure" numbered="true" number="19-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-8"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-4</phrase></strong></phrase> <phrase block_type="fig_title">The Effect of an Increase in the Money Supply on the Interest Rate</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-26" alt="image" src="images/KrugESS4e_fig_19_04.jpg"/>
+<caption>The Federal Reserve can lower the interest rate by increasing the money supply. Here, the equilibrium interest rate falls from <em>r</em><sub>1</sub> to <em>r</em><sub>2</sub> in response to an increase in the money supply from <image asset-id="krugmanwellsessentials4e-ch19-img-27" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub> to <image asset-id="krugmanwellsessentials4e-ch19-img-28" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub>. In order to induce people to hold the larger quantity of money, the interest rate must fall from <em>r</em><sub>1</sub> to <em>r</em><sub>2</sub>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p87" block_type="txt">So an increase in the money supply drives the interest rate down. Similarly, a reduction in the money supply drives the interest rate up. By adjusting the money supply up or down, the Fed can set the interest rate.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p88" block_type="mn-gl-def">The <strong>target federal funds rate</strong> is the Federal Reserve&#8217;s desired federal funds rate.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p89" block_type="txt">In practice, at each meeting the Federal Open Market Committee decides on the interest rate to prevail for the next six weeks, until its next meeting. The Fed sets a <strong>target federal funds rate,</strong> a desired level for the federal funds rate. This target is then enforced by the Open Market Desk of the Federal Reserve Bank of New York&#8212;in those two small rooms we mentioned in the opening story&#8212;which adjusts the money supply through the purchase and sale of Treasury bills until the actual federal funds rate equals the target rate. The other tools of monetary policy, lending through the discount window and changes in reserve requirements, aren&#8217;t used on a regular basis (although the Fed used discount window lending in its efforts to address the 2008 financial crisis).</p>
+<p id="krugmanwellsessentials4e-ch19-p90" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-fig-9">Figure 19-5</link> shows how this works. In both panels, <em>r<sub>T</sub></em> is the target federal funds rate. In panel (a), the initial money supply curve is <em>MS</em><sub>1</sub> with money supply <image asset-id="krugmanwellsessentials4e-ch19-img-29" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub>, and the equilibrium interest rate, <em>r</em><sub>1</sub>, is above the target rate. To lower the interest rate to <em>r<sub>T</sub></em>, the Fed makes an open-market purchase of Treasury bills that leads to an increase in the money supply via the money multiplier. This is illustrated in panel (a) by the rightward shift of the money supply curve from <em>MS</em><sub>1</sub> to <em>MS</em><sub>2</sub> and an increase in the money supply to <image asset-id="krugmanwellsessentials4e-ch19-img-30" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub>. This drives the equilibrium interest rate down to the target rate, <em>r<sub>T</sub>.</em></p>
+<figure id="krugmanwellsessentials4e-ch19-fig-9" block_type="figure" numbered="true" number="19-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-9"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-5</phrase></strong></phrase> <phrase block_type="fig_title">Setting the Federal Funds Rate</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-31" alt="image" src="images/KrugESS4e_fig_19_05ab.jpg"/>
+<caption>The Federal Reserve sets a target for the federal funds rate and uses open-market operations to achieve that target. In both panels the target rate is <em>r<sub>T</sub>.</em> In panel (a) the initial equilibrium interest rate, <em>r</em><sub>1</sub>, is above the target rate. The Fed increases the money supply by making an open-market purchase of Treasury bills, pushing the money supply curve rightward, from <em>MS</em><sub>1</sub> to <em>MS</em><sub>2</sub>, and driving the interest rate down to <em>r<sub>T</sub>.</em> In panel (b) the initial equilibrium interest rate, <em>r</em><sub>1</sub>, is below the target rate. The Fed reduces the money supply by making an open-market sale of Treasury bills, pushing the money supply curve leftward, from <em>MS</em><sub>1</sub> to <em>MS</em><sub>2</sub>, and driving the interest rate up to <em>r<sub>T</sub>.</em></caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_550" block_type="page_start">550</p>
+<p id="krugmanwellsessentials4e-ch19-p91" block_type="txt">Panel (b) shows the opposite case. Again, the initial money supply curve is <em>MS</em><sub>1</sub> with money supply <image asset-id="krugmanwellsessentials4e-ch19-img-32" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub><em>.</em> But this time the equilibrium interest rate, <em>r</em><sub>1</sub>, is below the target federal funds rate, <em>r<sub>T</sub>.</em> In this case, the Fed will make an open-market sale of Treasury bills, leading to a fall in the money supply to <image asset-id="krugmanwellsessentials4e-ch19-img-33" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub> via the money multiplier. The money supply curve shifts leftward from <em>MS</em><sub>1</sub> to <em>MS</em><sub>2</sub>, driving the equilibrium interest rate up to the target federal funds rate, <em>r<sub>T</sub>.</em></p>
+<figure id="krugmanwellsessentials4e-ch19-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-34" alt="image" src="images/KrugESS4e_19UN03.jpg"/>
+<caption>Advertising during the two world wars increased the demand for government long-term bonds from savers who might have been otherwise reluctant to tie up their funds for several years.</caption>
+<asset_source>Flagg, James Montgomery. &#8220;I Want You for U.S. Army nearest recruiting station,&#8221; 1917. Prints and Photographs Division</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-6" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="550">
+<section-metadata><section-title>Long-Term Interest Rates</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p92" block_type="txt-ni">Earlier we mentioned that <em>long-term interest rates&#8212;</em>rates on bonds or loans that mature in several years&#8212;don&#8217;t necessarily move with short-term interest rates. How is that possible, and what does it say about monetary policy?</p>
+<p id="krugmanwellsessentials4e-ch19-p93" block_type="txt">Consider the case of Millie, who has already decided to place &#36;10,000 in U.S. government bonds for the next two years. However, she hasn&#8217;t decided whether to put the money in one-year bonds, at a 4&#37; rate of interest, or two-year bonds, at a 5&#37; rate of interest. If she buys the one-year bond, then in one year, Millie will receive the &#36;10,000 she paid for the bond (the <em>principal</em>) plus interest earned. If she buys the two-year bond instead, Millie will have to wait until the end of the second year to receive her principal and her interest.</p>
+<p id="krugmanwellsessentials4e-ch19-p94" block_type="txt">You might think that the two-year bonds are a clearly better deal&#8212;but they may not be. Suppose that Millie expects the rate of interest on one-year bonds to rise sharply next year. If she puts her funds in one-year bonds this year, she will be able to reinvest the money at a much higher rate next year. And this could give her a two-year rate of return that is higher than if she put her funds into the two-year bonds today. For example, if the rate of interest on one-year bonds rises from 4&#37; this year to 8&#37; next year, putting her funds in a one-year bond today and in another one-year bond a year from now will give her an annual rate of return over the next two years of about 6&#37;, better than the 5&#37; rate on two-year bonds.</p>
+<p id="krugmanwellsessentials4e_page_551" block_type="page_start">551</p>
+<p id="krugmanwellsessentials4e-ch19-p95" block_type="txt">The same considerations apply to all investors deciding between short-term and long-term bonds. If they expect short-term interest rates to rise, investors may buy short-term bonds even if long-term bonds bought today offer a higher interest rate today. If they expect short-term interest rates to fall, investors may buy long-term bonds even if short-term bonds bought today offer a higher interest rate today.</p>
+<p id="krugmanwellsessentials4e-ch19-p96" block_type="txt">As the example suggests, long-term interest rates largely reflect the average expectation in the market about what&#8217;s going to happen to short-term rates in the future. When long-term rates are higher than short-term rates, as they were in 2014, the market is signaling that it expects short-term rates to rise in the future.</p>
+<p id="krugmanwellsessentials4e-ch19-p97" block_type="txt">This is not, however, the whole story: risk is also a factor. Return to the example of Millie, deciding whether to buy one-year or two-year bonds. Suppose that there is some chance she will need to cash in her investment after just one year&#8212;say, to meet an emergency medical bill. If she buys two-year bonds, she would have to sell those bonds to meet the unexpected expense. But what price will she get for those bonds? It depends on what has happened to interest rates in the rest of the economy. Bond prices and interest rates move in opposite directions: if interest rates rise, bond prices fall, and vice versa.</p>
+<p id="krugmanwellsessentials4e-ch19-p98" block_type="txt">This means that Millie will face extra risk if she buys two-year rather than one-year bonds, because if a year from now bond prices fall and she must sell her bonds in order to raise cash, she will lose money on the bonds. Owing to this risk factor, long-term interest rates are, on average, higher than short-term rates in order to compensate long-term bond purchasers for the higher risk they face (although this relationship is reversed when short-term rates are unusually high).</p>
+<p id="krugmanwellsessentials4e-ch19-p99" block_type="txt">As we will see later in this chapter, the fact that long-term rates don&#8217;t necessarily move with short-term rates is sometimes an important consideration for monetary policy.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p100" block_type="bx-2-t"><strong>The Fed Reverses Course</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p101" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-35" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p102" block_type="bx2-first"><phrase block_type="dropcap"><strong>W</strong></phrase>e began this section with the Fed&#8217;s announcement of March 18, 2008, that it was cutting its target interest rate. This particular action was part of a larger story: a dramatic reversal of Fed policy that began in September 2007.</p>
+<p id="krugmanwellsessentials4e-ch19-p103" block_type="bx2-txt"><link href="#krugmanwellsessentials4e-ch19-fig-11">Figure 19-6</link> shows two interest rates from the beginning of 2004 through March 2016: the target federal funds rate, decided by the Federal Open Market Committee, and the effective, or actual, rate in the market. As you can see, the Fed raised its target rate in a series of steps from late 2004 until the middle of 2006. It did this to head off the possibility of an overheating economy and rising inflation. But the Fed dramatically reversed course beginning in September 2007, as falling housing prices triggered a growing financial crisis and ultimately a severe recession. And in December 2008, the Fed decided to allow the federal funds rate to move inside a target band between 0&#37; and 0.25&#37;.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-11" block_type="figure" numbered="true" number="19-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-11"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-6</phrase></strong></phrase> <phrase block_type="fig_title">The Fed Reverses Course</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-36" alt="image" src="images/KrugESS4e_fig_19_06.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p104" block_type="bx2-txt">It wasn&#8217;t until December 2015 that the Fed decided the economy had recovered sufficiently to let the federal funds rate increase to a new target between 0.25&#37; and 0.50&#37;.</p>
+<p id="krugmanwellsessentials4e-ch19-p105" block_type="bx2-txt"><link href="#krugmanwellsessentials4e-ch19-fig-11">Figure 19-6</link> also shows that the Fed doesn&#8217;t always hit its target. There were a number of days, especially in 2008, when the effective federal funds rate was significantly above or below the target rate. But these episodes didn&#8217;t last long, and overall the Fed got what it wanted, at least as far as short-term interest rates were concerned.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_552" block_type="page_start">552</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch19-list-6" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch19-p106" block_type="sr1-bl">According to the <strong>liquidity preference model of the interest rate,</strong> the equilibrium interest rate is determined by the money demand curve and the <strong>money supply curve.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p107" block_type="sr1-bl">The Federal Reserve can move the interest rate through open-market operations that shift the money supply curve. In practice, the Fed sets a <strong>target federal funds rate</strong> and uses open-market operations to achieve that target.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p108" block_type="sr1-bl">Long-term interest rates reflect expectations about what&#8217;s going to happen to short-term rates in the future. Because of risk, long-term interest rates tend to be higher than short-term rates.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">19-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch19-p109" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Assume that there is an increase in the demand for money at every interest rate. Using a diagram, show what effect this will have on the equilibrium interest rate for a given money supply.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-4" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch19-p110" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> Now assume that the Fed is following a policy of targeting the federal funds rate. What will the Fed do in the situation described in Question 1 to keep the federal funds rate unchanged? Illustrate with a diagram.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-5" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch19-p111" block_type="sr2-nl-first"><phrase block_type="qnum">3.</phrase> Frannie must decide whether to buy a one-year bond today and another one a year from now, or buy a two-year bond today. In which of the following scenarios is she better off taking the first action? The second action?</p>
+<list id="krugmanwellsessentials4e-ch19-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p112" block_type="sr2-nl-lvl2">This year, the interest on a one-year bond is 4&#37;; next year, it will be 10&#37;. The interest rate on a two-year bond is 5&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p113" block_type="sr2-nl-lvl2">This year, the interest rate on a one-year bond is 4&#37;; next year, it will be 1&#37;. The interest rate on a two-year bond is 3&#37;.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch19-p114" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-3" block_type="h1" title="" chapter="19" numbered="true" level="1" print_page="552">
+<section-metadata><section-title>Monetary Policy and Aggregate Demand</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p115" block_type="txt-ni">In <link href="krugmanwellsessentials4e-ch17.xml">Chapter 17</link> we saw how fiscal policy can be used to stabilize the economy. Now we will see how monetary policy&#8212;changes in the money supply, and the interest rate&#8212;can play the same role.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-7" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="552">
+<section-metadata><section-title>Expansionary and Contractionary Monetary Policy</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p116" block_type="txt-ni">In <link href="krugmanwellsessentials4e-ch16.xml">Chapter 16</link> we learned that monetary policy shifts the aggregate demand curve. We can now explain how that works: through the effect of monetary policy on the interest rate.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-37" alt="image" src="images/KrugESS4e_19UN04.jpg"/>
+<asset_source>&#169; The New Yorker Collection 1997 Robert Mankoff from cartoonbank. com. All Rights Reserved.</asset_source>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p117" block_type="mn-gl-def"><strong>Expansionary monetary policy</strong> is monetary policy that increases aggregate demand.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p118" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-fig-13">Figure 19-7</link> illustrates the process. Suppose, first, that the Federal Reserve wants to reduce interest rates, so it expands the money supply. As you can see in the top portion of the figure, a lower interest rate, in turn, will lead, other things equal, to more investment spending. This will in turn lead to higher consumer spending, through the multiplier process, and to an increase in aggregate output demanded. In the end, the total quantity of goods and services demanded at any given aggregate price level rises when the quantity of money increases, and the <em>AD</em> curve shifts to the right. Monetary policy that increases the demand for goods and services is known as <strong>expansionary monetary policy.</strong></p>
+<figure id="krugmanwellsessentials4e-ch19-fig-13" block_type="figure" numbered="true" number="19-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-13"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-7</phrase></strong></phrase> <phrase block_type="fig_title">Expansionary and Contractionary Monetary Policy</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-38" alt="image" src="images/KrugESS4e_fig_19_07.jpg"/>
+<caption>The top portion shows what happens when the Fed adopts an expansionary monetary policy and increases the money supply. Interest rates fall, leading to higher investment spending, which raises income, which, in turn, raises consumer spending and shifts the <em>AD</em> curve to the right. The bottom portion shows what happens when the Fed adopts a contractionary monetary policy and reduces the money supply. Interest rates rise, leading to lower investment spending and a reduction in income. This lowers consumer spending and shifts the <em>AD</em> curve to the left.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p119" block_type="mn-gl-def"><strong>Contractionary monetary policy</strong> is monetary policy that decreases aggregate demand.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p120" block_type="txt">Suppose, alternatively, that the Federal Reserve wants to increase interest rates, so it contracts the money supply. You can see this process illustrated in the bottom portion of the diagram. Contraction of the money supply leads to a higher interest rate. The higher interest rate leads to lower investment spending, then to lower consumer spending, and then to a decrease in aggregate output demanded. So the total quantity of goods and services demanded falls when the money supply is reduced, and the <em>AD</em> curve shifts to the left. Monetary policy that decreases the demand for goods and services is called <strong>contractionary monetary policy.</strong></p>
+<p id="krugmanwellsessentials4e_page_553" block_type="page_start">553</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-8" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="553">
+<section-metadata><section-title>Monetary Policy in Practice</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p121" block_type="txt-ni">How does the Fed decide whether to use expansionary or contractionary monetary policy? And how does it decide how much is enough? Recall that policy makers try to fight recessions, as well as try to ensure <em>price stability:</em> low (though usually not zero) inflation. Actual monetary policy reflects a combination of these goals.</p>
+<p id="krugmanwellsessentials4e-ch19-p122" block_type="txt">In general, the Federal Reserve and other central banks tend to engage in expansionary monetary policy when actual real GDP is below potential output. Panel (a) of <link href="#krugmanwellsessentials4e-ch19-fig-14">Figure 19-8</link> shows the U.S. output gap, which we defined in <link href="krugmanwellsessentials4e-ch16.xml">Chapter 16</link> as the percentage difference between actual real GDP and potential output, versus the federal funds rate since 1985. (Recall that the output gap is positive when actual real GDP exceeds potential output.) As you can see, the Fed has tended to raise interest rates when the output gap is rising&#8212;that is, when the economy is developing an inflationary gap&#8212;and cut rates when the output gap is falling.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-14" block_type="figure" numbered="true" number="19-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-14"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-8</phrase></strong></phrase> <phrase block_type="fig_title">Tracking Monetary Policy Using the Output Gap and Inflation</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-39" alt="image" src="images/KrugESS4e_fig_19_08ab.jpg"/>
+<caption>Panel (a) shows that the federal funds rate usually rises when the output gap is positive&#8212;that is, when actual real GDP is above potential output&#8212;and falls when the output gap is negative. Panel (b) illustrates that the federal funds rate tends to be high when inflation is high and low when inflation is low.</caption>
+<asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p123" block_type="txt">The big exception was the late 1990s, when the Fed left rates steady for several years even as the economy developed a positive output gap (which went along with a low unemployment rate). One reason the Fed was willing to keep interest rates low in the late 1990s was that inflation was low.</p>
+<p id="krugmanwellsessentials4e-ch19-p124" block_type="txt">Panel (b) of <link href="#krugmanwellsessentials4e-ch19-fig-14">Figure 19-8</link> compares the inflation rate, measured as the rate of change in consumer prices excluding food and energy, with the federal funds rate. You can see how low inflation during the mid-1990s, the early 2000s, and the late 2000s helped encourage loose monetary policy in the late 1990s, in 2002&#8211;2003, and again beginning in 2008.</p>
+<p id="krugmanwellsessentials4e_page_554" block_type="page_start">554</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-9" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="554">
+<section-metadata><section-title>The Taylor Rule Method of Setting Monetary Policy</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p125" block_type="mn-gl-def">A <strong>Taylor rule for monetary policy</strong> is a rule that sets the federal funds rate according to the level of the inflation rate and either the output gap or the unemployment rate.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p126" block_type="txt-ni">In 1993 Stanford economist John Taylor suggested that monetary policy should follow a simple rule that takes into account concerns about both the business cycle and inflation. He also suggested that actual monetary policy often looks as if the Federal Reserve was, in fact, more or less following the proposed rule. A <strong>Taylor rule for monetary policy</strong> is a rule for setting interest rates that takes into account the inflation rate and the output gap or, in some cases, the unemployment rate.</p>
+<p id="krugmanwellsessentials4e-ch19-p127" block_type="txt">A widely cited example of a Taylor rule is a relationship among Fed policy, inflation, and unemployment estimated by economists at the Federal Reserve Bank of San Francisco. These economists found that between 1988 and 2008 the Fed&#8217;s behavior was well summarized by the following Taylor rule:</p>
+<p id="krugmanwellsessentials4e-ch19-p128" block_type="eq-mid">Federal funds rate = 2.07 &#43; 1.28 &#215; inflation rate &#8722; 1.95 &#215; unemployment gap</p>
+<p id="krugmanwellsessentials4e-ch19-p129" block_type="txt-ni">where the inflation rate was measured by the change over the previous year in consumer prices excluding food and energy, and the unemployment gap was the difference between the actual unemployment rate and Congressional Budget Office estimates of the natural rate of unemployment.</p>
+<p id="krugmanwellsessentials4e-ch19-p130" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-fig-15">Figure 19-9</link> compares the federal funds rate predicted by this rule with the actual federal funds rate from 1985 to mid-2014. As you can see, the Fed&#8217;s decisions were quite close to those predicted by this particular Taylor rule from 1988 through the end of 2008.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-15" block_type="figure" numbered="true" number="19-9" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-15"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-9</phrase></strong></phrase> <phrase block_type="fig_title">The Taylor Rule and the Federal Funds Rate</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-40" alt="image" src="images/KrugESS4e_fig_19_09.jpg"/>
+<caption>The purple line shows the federal funds rate predicted by the San Francisco Fed&#8217;s version of the Taylor rule, which relates the interest rate to the inflation rate and the unemployment rate. The green line shows the actual federal funds rate. The actual rate tracked the predicted rate quite closely through the end of 2008. After that, however, the Taylor rule called for negative interest rates, which aren&#8217;t possible.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics; Congressional Budget Office; Federal Reserve Bank of St. Louis; Glenn D. Rudebusch, &#8220;The Fed&#8217;s Monetary Policy Response to the Current Crisis,&#8221; <em>FRBSF Economic Letter</em> #2009-17 (May 22, 2009).</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-10" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="554">
+<section-metadata><section-title>Inflation Targeting</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p131" block_type="mn-gl-def"><strong>Inflation targeting</strong> occurs when the central bank sets an explicit target for the inflation rate and sets monetary policy in order to hit that target.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p132" block_type="txt-ni">Until January 2012, the Fed did not explicitly commit itself to achieving a particular inflation rate. However, in January 2012, the Fed announced that it would set its policy to maintain an approximately 2&#37; inflation rate per year. With that statement, the Fed joined a number of other central banks that have explicit inflation targets. So rather than using a Taylor rule to set monetary policy, they instead announce the inflation rate that they want to achieve&#8212;the <em>inflation target&#8212;</em>and set policy in an attempt to hit that target. This method of setting monetary policy, called <strong>inflation targeting,</strong> involves having the central bank announce the inflation rate it is trying to achieve and set policy in an attempt to hit that target. The central bank of New Zealand, which was the first country to adopt inflation targeting, specified a range for that target of 1&#37; to 3&#37;.</p>
+<p id="krugmanwellsessentials4e_page_555" block_type="page_start">555</p>
+<p id="krugmanwellsessentials4e-ch19-p133" block_type="txt">Other central banks commit themselves to achieving a specific number. For example, the Bank of England has committed to keeping inflation at 2&#37;. In practice, there doesn&#8217;t seem to be much difference between these versions: central banks with a target range for inflation seem to aim for the middle of that range, and central banks with a fixed target tend to give themselves considerable wiggle room.</p>
+<p id="krugmanwellsessentials4e-ch19-p134" block_type="txt">One major difference between inflation targeting and the Taylor rule method is that inflation targeting is forward-looking rather than backward-looking. That is, the Taylor rule method adjusts monetary policy in response to <em>past</em> inflation, but inflation targeting is based on a forecast of future inflation.</p>
+<p id="krugmanwellsessentials4e-ch19-p135" block_type="txt">Advocates of inflation targeting argue that it has two key advantages over a Taylor rule: <em>transparency</em> and <em>accountability.</em> First, economic uncertainty is reduced because the central bank&#8217;s plan is transparent: the public knows the objective of an inflation-targeting central bank. Second, the central bank&#8217;s success can be judged by seeing how closely actual inflation rates have matched the inflation target, making central bankers accountable.</p>
+<p id="krugmanwellsessentials4e_page_556" block_type="page_start">556</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx4-1" block_type="bx4-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch19-img-41" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISION</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p136" block_type="bx4-t"><strong>Inflation Targets</strong></p>
+<p id="krugmanwellsessentials4e-ch19-p137" block_type="bx4-txt-ni"><phrase block_type="dropcap">T</phrase>his figure shows the target inflation rates of six central banks that have adopted inflation targeting. The central bank of New Zealand introduced inflation targeting in 1990. Today it has an inflation target range of from 1&#37; to 3&#37;. The central banks of Canada and Sweden have the same target range but also specify 2&#37; as the precise target. The central banks of Britain and Norway have specific targets for inflation, 2&#37; and 2.5&#37;, respectively. Neither states by how much they&#8217;re prepared to miss those targets. Since 2012, the U.S. Federal Reserve also targets inflation at 2&#37;.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-42" alt="image" src="images/KrugESS4e_19UN05.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p138" block_type="bx4-txt">In practice, these differences in detail don&#8217;t seem to lead to any significant difference in results. New Zealand aims for the middle of its range, at 2&#37; inflation; Britain, Norway, and the United States allow themselves considerable wiggle room around their target inflation rates.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p139" block_type="txt">Critics of inflation targeting argue that it&#8217;s too restrictive because there are times when other concerns&#8212;like the stability of the financial system&#8212;should take priority over achieving any particular inflation rate. Indeed, in late 2007 and early 2008 the Fed cut interest rates much more than either a Taylor rule or inflation targeting would have dictated, fearing that turmoil in the financial markets would lead to a major recession. (In fact, it did.)</p>
+<p id="krugmanwellsessentials4e-ch19-p140" block_type="txt">Many American macroeconomists have had positive things to say about inflation targeting&#8212;including Ben Bernanke (the previous chairman of the Fed). And in January 2012 the Fed declared that what it means by the &#8220;price stability&#8221; it seeks is 2&#37; inflation, although there was no explicit commitment about when this inflation rate would be achieved.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-11" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="556">
+<section-metadata><section-title>The Zero Lower Bound Problem</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p141" block_type="txt-ni">As <link href="#krugmanwellsessentials4e-ch19-fig-15">Figure 19-9</link> shows, a Taylor rule based on inflation and the unemployment rate does a good job of predicting Federal Reserve policy from 1988 through 2008. After that, however, things go awry, and for a simple reason: with very high unemployment and low inflation, the same Taylor rule called for an interest rate less than zero, which isn&#8217;t possible.</p>
+<p id="krugmanwellsessentials4e-ch19-p142" block_type="txt">Why aren&#8217;t negative interest rates possible? Because people always have the alternative of holding cash, which offers a zero interest rate. Nobody would ever buy a bond yielding an interest rate less than zero because holding cash would be a better alternative.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p143" block_type="mn-gl-def">The <strong>zero lower bound for interest rates</strong> means that interest rates cannot fall below zero.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p144" block_type="txt">The fact that interest rates can&#8217;t go below zero&#8212;called the <strong>zero lower bound for interest rates&#8212;</strong>sets limits to the power of monetary policy. In 2009 and 2010, inflation was low and the economy was operating far below potential, so the Federal Reserve wanted to increase aggregate demand. Yet the normal way it does this&#8212;open-market purchases of short-term government debt to expand the money supply&#8212;had run out of room to operate because short-term interest rates were already at or near zero.</p>
+<p id="krugmanwellsessentials4e-ch19-p145" block_type="txt">In November 2010 the Fed began an attempt to circumvent this problem, through <em>quantitative easing</em>. Instead of purchasing only short-term government debt, it began buying longer-term government debt&#8212;five-year or six-year bonds, rather than three-month Treasury bills. As we have already pointed out, long-term interest rates don&#8217;t exactly follow short-term rates. At the time the Fed began this program, short-term rates were near zero, but rates on longer-term bonds were between 2&#37; and 3&#37;. The Fed hoped that direct purchases of these longer-term bonds would drive down interest rates on long-term debt, exerting an expansionary effect on the economy.</p>
+<p id="krugmanwellsessentials4e-ch19-p146" block_type="txt">Later the Fed expanded the program to include purchasing mortgage-backed securities, which normally offer somewhat higher rates than U.S. government debt. Here too the hope was that these rates could be driven down, with an expansionary effect on the economy. As with ordinary open-market operations, quantitative easing was undertaken by the Federal Reserve Bank of New York.</p>
+<p id="krugmanwellsessentials4e-ch19-p147" block_type="txt">Was this policy effective? The Federal Reserve believes that it helped the economy. However, the pace of recovery remained disappointingly slow.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p148" block_type="bx-2-t"><strong>What the Fed Wants, the Fed Gets</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p149" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-43" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p150" block_type="bx2-first"><phrase block_type="dropcap"><strong>W</strong></phrase>hat&#8217;s the evidence that the Fed can actually cause an economic contraction or expansion? You might think that finding such evidence is just a matter of looking at what happens to the economy when interest rates go up or down. But it turns out that there&#8217;s a big problem with that approach: the Fed usually changes interest rates in an attempt to tame the business cycle, raising rates if the economy is expanding and reducing rates if the economy is slumping. So in the actual data, it often looks as if low interest rates go along with a weak economy and high rates go along with a strong economy.</p>
+<p id="krugmanwellsessentials4e-ch19-p151" block_type="bx2-txt">In a famous 1994 paper titled &#8220;Monetary Policy Matters,&#8221; the macroeconomists Christina Romer and David Romer solved this problem by focusing on episodes in which monetary policy wasn&#8217;t a reaction to the business cycle. Specifically, they used minutes from the Federal Open Market Committee and other sources to identify episodes &#8220;in which the Federal Reserve in effect decided to attempt to create a recession to reduce inflation.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch19-p152" block_type="bx2-txt"><link href="#krugmanwellsessentials4e-ch19-fig-17">Figure 19-10</link> shows the unemployment rate between 1952 and 1984 and also identifies five dates on which, according to Romer and Romer, the Fed decided that it wanted a recession (the vertical lines). In four out of the five cases, the decision to contract the economy was followed, after a modest lag, by a rise in the unemployment rate. On average, Romer and Romer found, the unemployment rate rises by 2 percentage points after the Fed decides that unemployment needs to go up.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-17" block_type="figure" numbered="true" number="19-10" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-17"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-10</phrase></strong></phrase> <phrase block_type="fig_title">When the Fed Wants a Recession</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-44" alt="image" src="images/KrugESS4e_fig_19_10.jpg"/>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics; Christina D. Romer and David H. Romer, &#8220;Monetary Policy Matters,&#8221; <em>Journal of Monetary Economics</em> 34 (August 1994): 75&#8211;88.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p153" block_type="bx2-txt">So yes, the Fed gets what it wants.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_557" block_type="page_start">557</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch19-list-8" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch19-p154" block_type="sr1-bl">The Federal Reserve can use <strong>expansionary monetary policy</strong> to increase aggregate demand and <strong>contractionary monetary policy</strong> to reduce aggregate demand. The Federal Reserve and other central banks generally try to tame the business cycle while keeping the inflation rate low but positive.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p155" block_type="sr1-bl">Under a <strong>Taylor rule for monetary policy,</strong> the target federal funds rate rises when there is high inflation and either a positive output gap or very low unemployment; it falls when there is low or negative inflation and either a negative output gap or high unemployment.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p156" block_type="sr1-bl">In contrast, some central banks set monetary policy by <strong>inflation targeting,</strong> a forward-looking policy rule, rather than by using the Taylor rule, a backward-looking policy rule. Although inflation targeting has the benefits of transparency and accountability, some think it is too restrictive. Until 2008, the Fed followed a loosely defined Taylor rule. Starting in early 2012, it began inflation targeting with a target of 2&#37; per year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p157" block_type="sr1-bl">There is a <strong>zero lower bound for interest rates&#8212;</strong>they cannot fall below zero&#8212;that limits the power of monetary policy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p158" block_type="sr1-bl">Because it is subject to fewer lags than fiscal policy, monetary policy is the main tool for macroeconomic stabilization.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">19-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-6" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch19-p159" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Suppose the economy is currently suffering from an output gap and the Federal Reserve uses an expansionary monetary policy to close that gap. Describe the short-run effect of this policy on the following.</p>
+<list id="krugmanwellsessentials4e-ch19-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p160" block_type="sr2-nl-lvl2">The money supply curve</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p161" block_type="sr2-nl-lvl2">The equilibrium interest rate</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p162" block_type="sr2-nl-lvl2">Investment spending</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p163" block_type="sr2-nl-lvl2">Consumer spending</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p164" block_type="sr2-nl-lvl2">Aggregate output</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-7" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch19-p165" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> In setting monetary policy, which central bank&#8212;one that operates according to a Taylor rule or one that operates by inflation targeting&#8212;is likely to respond more directly to a financial crisis? Explain.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch19-p166" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-4" block_type="h1" title="" chapter="19" numbered="true" level="1" print_page="557">
+<section-metadata><section-title>Money, Output, and Prices in the Long Run</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p167" block_type="txt-ni">Through its expansionary and contractionary effects, monetary policy is generally the policy tool of choice to help stabilize the economy. However, not all actions by central banks are productive. In particular, central banks sometimes print money not to fight a recessionary gap but to help the government pay its bills, an action that typically destabilizes the economy.</p>
+<p id="krugmanwellsessentials4e-ch19-p168" block_type="txt">What happens when a change in the money supply pushes the economy away from, rather than toward, long-run equilibrium? In <link href="krugmanwellsessentials4e-ch16.xml">Chapter 16</link> we learned that the economy is self-correcting in the long run: a demand shock has only a temporary effect on aggregate output. If the demand shock is the result of a change in the money supply, we can make a stronger statement: in the long run, changes in the quantity of money affect the aggregate price level, but they do not change real aggregate output or the interest rate. To see why, let&#8217;s look at what happens if the central bank permanently increases the money supply.</p>
+<p id="krugmanwellsessentials4e_page_558" block_type="page_start">558</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-12" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="558">
+<section-metadata><section-title>Short-Run and Long-Run Effects of an Increase in the Money Supply</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p169" block_type="txt-ni">To analyze the long-run effects of monetary policy, it&#8217;s helpful to think of the central bank as choosing a target for the money supply rather than the interest rate. In assessing the effects of an increase in the money supply, we return to the analysis of the long-run effects of an increase in aggregate demand.</p>
+<p id="krugmanwellsessentials4e-ch19-p170" block_type="txt"><link href="#krugmanwellsessfalseals4e-ch19-18">Figure 19-11</link> shows the short-run and long-run effects of an increase in the money supply when the economy begins at potential output, <em>Y</em><sub>1</sub>. The initial short-run aggregate supply curve is <em>SRAS</em><sub>1</sub>, the long-run aggregate supply curve is <em>LRAS</em>, and the initial aggregate demand curve is <em>AD</em><sub>1</sub>. The economy&#8217;s initial equilibrium is at <em>E</em><sub>1</sub>, a point of both short-run and long-run macroeconomic equilibrium because it is on both the short-run and the long-run aggregate supply curves. Real GDP is at potential output, <em>Y</em><sub>1</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-18" block_type="figure" numbered="true" number="19-11" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-18"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-11</phrase></strong></phrase> <phrase block_type="fig_title">The Short-Run and Long-Run Effects of an Increase in the Money Supply</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-45" alt="image" src="images/KrugESS4e_fig_19_11.jpg"/>
+<caption>When the economy is already at potential output, an increase in the money supply generates a positive short-run effect, but no long-run effect, on real GDP. Here, the economy begins at <em>E</em><sub>1</sub>, a point of short-run and long-run macroeconomic equilibrium. An increase in the money supply shifts the <em>AD</em> curve rightward, and the economy moves to a new short-run macroeconomic equilibrium at <em>E</em><sub>2</sub> and a new real GDP of <em>Y</em><sub>2</sub>. But <em>E</em><sub>2</sub> is not a long-run equilibrium: <em>Y</em><sub>2</sub> exceeds potential output, <em>Y</em><sub>1</sub>, leading over time to an increase in nominal wages. In the long run, the increase in nominal wages shifts the short-run aggregate supply curve leftward, to a new position at <em>SRAS</em><sub>2</sub>. The economy reaches a new short-run and long-run macroeconomic equilibrium at <em>E</em><sub>3</sub> on the <em>LRAS</em> curve, and output falls back to potential output, <em>Y</em><sub>1</sub>. When the economy is already at potential output, the only long-run effect of an increase in the money supply is an increase in the aggregate price level from <em>P</em><sub>1</sub> to <em>P</em><sub>3</sub>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p171" block_type="txt">Now suppose there is an increase in the money supply. Other things equal, an increase in the money supply reduces the interest rate, which increases investment spending, which leads to a further rise in consumer spending, and so on. So an increase in the money supply increases the quantity of goods and services demanded, shifting the <em>AD</em> curve rightward, to <em>AD</em><sub>2</sub>. In the short run, the economy moves to a new short-run macroeconomic equilibrium at <em>E</em><sub>2</sub>. The price level rises from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>, and real GDP rises from <em>Y</em><sub>1</sub> to 
+<em>Y</em><sub>2</sub>. That is, both the aggregate price level and aggregate output increase in the short run.</p>
+<p id="krugmanwellsessentials4e-ch19-p172" block_type="txt">But the aggregate output level, <em>Y</em><sub>2</sub>, is above potential output. As a result, nominal wages will rise over time, causing the short-run aggregate supply curve to shift leftward. This process stops only when the <em>SRAS</em> curve ends up at <em>SRAS</em><sub>2</sub> and the economy ends up at point <em>E</em><sub>3</sub>, a point of both short-run and long-run macroeconomic equilibrium. The long-run effect of an increase in the money supply, then, is that the aggregate price level has increased from <em>P</em><sub>1</sub> to <em>P</em><sub>3</sub>, but aggregate output is back at potential output, <em>Y</em><sub>1</sub>. In the long run, a monetary expansion raises the aggregate price level but has no effect on real GDP.</p>
+<p id="krugmanwellsessentials4e_page_559" block_type="page_start">559</p>
+<p id="krugmanwellsessentials4e-ch19-p173" block_type="txt">We won&#8217;t describe the effects of a monetary contraction in detail, but the same logic applies. In the short run, a fall in the money supply leads to a fall in aggregate output as the economy moves down the short-run aggregate supply curve. In the long run, however, the monetary contraction reduces only the aggregate price level, and real GDP returns to potential output.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-13" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="559">
+<section-metadata><section-title>Monetary Neutrality</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch19-p174" block_type="txt-ni">How much does a change in the money supply change the aggregate price level in the long run? The answer is that a change in the money supply leads to an equal proportional change in the aggregate price level in the long run. If the money supply falls 25&#37;, the aggregate price level falls 25&#37; in the long run; if the money supply rises 50&#37;, the aggregate price level rises 50&#37; in the long run.</p>
+<p id="krugmanwellsessentials4e-ch19-p175" block_type="txt">How do we know this? Consider the following thought experiment: suppose all prices in the economy&#8212;prices of final goods and services and also factor prices, such as nominal wage rates&#8212;double. And suppose the money supply doubles at the same time. What difference does this make to the economy in real terms? The answer is none. All real variables in the economy&#8212;such as real GDP and the real value of the money supply (the amount of goods and services it can buy)&#8212;are unchanged. So there is no reason for anyone to behave any differently.</p>
+<p id="krugmanwellsessentials4e-ch19-p176" block_type="txt">We can state this argument in reverse: if the economy starts out in long-run macroeconomic equilibrium and the money supply changes, restoring long-run macroeconomic equilibrium requires restoring all real values to their original values. This includes restoring the real value of the money supply to its original level. So if the money supply falls 25&#37;, the aggregate price level must fall 25&#37;; if the money supply rises 50&#37;, the price level must rise 50&#37;; and so on.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch19-p177" block_type="mn-gl-def">According to the concept of <strong>monetary neutrality,</strong> changes in the money supply have no real effects on the economy.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p178" block_type="txt">This analysis demonstrates the concept known as <strong>monetary neutrality,</strong> in which changes in the money supply have no real effects on the economy. In the long run, the only effect of an increase in the money supply is to raise the aggregate price level by an equal percentage. Economists argue that <em>money is neutral in the long run.</em></p>
+<p id="krugmanwellsessentials4e-ch19-p179" block_type="txt">This is, however, a good time to recall the dictum of John Maynard Keynes: &#8220;In the long run we are all dead.&#8221; In the long run, changes in the money supply don&#8217;t have any effect on real GDP, interest rates, or anything else except the price level. But it would be foolish to 
+conclude from this that the Fed is irrelevant. Monetary policy has powerful real effects on the economy in the short run, often making the difference between recession and expansion. And that matters a lot for society&#8217;s welfare.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec2-14" block_type="h2" title="" chapter="19" numbered="false" level="2" print_page="559">
+<section-metadata><section-title>Changes in the Money Supply and the Interest Rate in the Long Run</section-title></section-metadata> <p id="krugmanwellsessentials4e-ch19-p180" block_type="txt-ni">In the short run, an increase in the money supply leads to a fall in the interest rate, and a decrease in the money supply leads to a rise in the interest rate. In the long run, however, changes in the money supply don&#8217;t affect the interest rate.</p>
+<p id="krugmanwellsessentials4e-ch19-p181" block_type="txt"><link href="#krugmanwellsessentials4e-ch19-fig-18">Figure 19-12</link> shows why. It shows the money supply curve and the money demand curve before and after the Fed increases the money supply. We assume that the economy is initially at <em>E</em><sub>1</sub>, in long-run macroeconomic equilibrium at potential output, and with money supply <image asset-id="krugmanwellsessentials4e-ch19-img-46" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub><em>.</em> The initial equilibrium interest rate, determined by the intersection of the money demand curve <em>MD</em><sub>1</sub> and the money supply curve <em>MS</em><sub>1</sub>, is <em>r</em><sub>1</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-18" block_type="figure" numbered="true" number="19-12" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-18"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-12</phrase></strong></phrase> <phrase block_type="fig_title">The Long-Run Determination of the Interest Rate</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-49" alt="image" src="images/KrugESS4e_fig_19_12.jpg"/>
+<caption>In the short run, an increase in the money supply from <image asset-id="krugmanwellsessentials4e-ch19-img-50" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub> to <image asset-id="krugmanwellsessentials4e-ch19-img-51" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub> pushes the interest rate down from <em>r</em><sub>1</sub> to <em>r</em><sub>2</sub> and the economy moves to <em>E</em><sub>2</sub>, a short-run equilibrium. In the long run, however, the aggregate price level rises in proportion to the increase in the money supply, leading to an increase in money demand at any given interest rate in proportion to the increase in the aggregate price level, as shown by the shift from <em>MD</em><sub>1</sub> to <em>MD</em><sub>2</sub>. The result is that the quantity of money demanded at any given interest rate rises by the same amount as the quantity of money supplied. The economy moves to long-run equilibrium at <em>E</em><sub>3</sub> and the interest rate returns to <em>r</em><sub>1</sub>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p182" block_type="txt">Now suppose the money supply increases from <image asset-id="krugmanwellsessentials4e-ch19-img-47" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub> to <image asset-id="krugmanwellsessentials4e-ch19-img-48" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>2</sub>. In the short run, the economy moves from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub> and the interest rate falls from <em>r</em><sub>1</sub> to <em>r</em><sub>2</sub>. Over time, however, the aggregate price level rises, and this raises money demand, shifting the money demand curve rightward from <em>MD</em><sub>1</sub> to <em>MD</em><sub>2</sub>. The economy moves to a new long-run equilibrium at 
+<em>E</em><sub>3</sub>, and the interest rate rises to its original level at <em>r</em><sub>1</sub>.</p>
+<p id="krugmanwellsessentials4e_page_560" block_type="page_start">560</p>
+<p id="krugmanwellsessentials4e-ch19-p183" block_type="txt">And it turns out that the long-run equilibrium interest rate is the original interest rate, <em>r</em><sub>1</sub>. We know this for two reasons. First, due to monetary neutrality, in the long run the aggregate price level rises by the same proportion as the money supply; so if the money supply rises by, say, 50&#37;, the price level will also rise by 50&#37;. Second, the demand for money is, other things equal, proportional to the aggregate price level.</p>
+<p id="krugmanwellsessentials4e-ch19-p184" block_type="txt">So a 50&#37; increase in the money supply raises the aggregate price level by 50&#37;, which increases the quantity of money demanded at any given interest rate by 50&#37;. As a result, the quantity of money demanded at the initial interest rate, <em>r</em><sub>1</sub>, rises exactly as much as the money supply&#8212;so that <em>r</em><sub>1</sub> is still the equilibrium interest rate. In the long run, then, changes in the money supply do not affect the interest rate.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx2-4" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch19-img-52" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p185" block_type="bx-2-t"><strong>International Evidence of Monetary Neutrality</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p186" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-53" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p187" block_type="bx2-first"><phrase block_type="dropcap"><strong>T</strong></phrase>hese days monetary policy is quite similar among wealthy countries. Each major nation (or, in the case of the euro, the euro area) has a central bank that is insulated from political pressure. All of these central banks try to keep the aggregate price level roughly stable, which usually means inflation of at most 2&#37; to 3&#37; per year.</p>
+<p id="krugmanwellsessentials4e-ch19-p188" block_type="bx2-txt">But if we look at a longer period and a wider group of countries, we see large differences in the growth of the money supply. Between 1970 and the present, the money supply rose only a few percent per year in some countries, such as Switzerland and the United States, but rose much more rapidly in some poorer countries, such as South Africa. These differences allow us to see whether it is true that increases in the money supply lead, in the long run, to equal percent rises in the aggregate price level.</p>
+<p id="krugmanwellsessentials4e-ch19-p189" block_type="bx2-txt"><link href="#krugmanwellsessentials4e-ch19-fig-19">Figure 19-13</link> shows the annual percentage increases in the money supply and average annual increases in the aggregate price level&#8212;that is, the average rate of inflation&#8212;for a sample of countries during the period 1981&#8211;2013, with each point representing a country. If the relationship between increases in the money supply and changes in the aggregate price level were exact, the points would lie precisely on a 45-degree line (a line going through the origin with a slope of 1 that shows all the possible points at which planned aggregate spending is equal to real GDP).</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-19" block_type="figure" numbered="true" number="19-13" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch19-fig-19"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">19-13</phrase></strong></phrase> <phrase block_type="fig_title">The Long-Run Relationship Between Money and Inflation</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch19-img-54" alt="image" src="images/KrugESS4e_fig_19_13.jpg"/>
+<asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p190" block_type="bx2-txt">In fact, the relationship isn&#8217;t exact, because other factors besides money affect the aggregate price level. But the scatter of points clearly lies close to a 45-degree line, showing a more or less proportional relationship between money and the aggregate price level. That is, the data support the concept of monetary neutrality in the long run.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_561" block_type="page_start">561</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch19-list-10" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch19-p191" block_type="sr1-bl">According to the concept of <strong>monetary neutrality,</strong> changes in the money supply do not affect real GDP, they only affect the aggregate price level. Economists believe that money is neutral in the long run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p192" block_type="sr1-bl">In the long run, the equilibrium interest rate in the economy is unaffected by changes in the money supply.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx6-4" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">19-4</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-8" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch19-p193" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Assume the central bank increases the quantity of money by 25&#37;, even though the economy is initially in both short-run and long-run macroeconomic equilibrium. Describe the effects, in the short run and in the long run (giving numbers where possible), on the following.</p>
+<list id="krugmanwellsessentials4e-ch19-list-11" type="unordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p194" block_type="sr2-nl-lvl2">Aggregate output</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p195" block_type="sr2-nl-lvl2">Aggregate price level</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p196" block_type="sr2-nl-lvl2">Interest rate</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-cyuquestion-9" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch19-p197" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> Why does monetary policy affect the economy in the short run but not in the long run?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch19-p198" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-5" block_type="solved_problem" title="" chapter="19" numbered="true" level="1" print_page="535">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase><phrase block_type="gc2">The Great Mistake of 1937</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p199" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-55" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p200" block_type="wio-txt-ni">In 1937, policy makers at the Fed and in the Roosevelt administration decided that the Great Depression that began in 1929 was over. They believed that the economy no longer needed special support and began phasing out the policies they instituted in the early years of the decade. Spending was cut back, and monetary policy was tightened. The result was a serious relapse in 1938, referred to at the time as the &#8220;second Great Depression.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch19-p201" block_type="wio-txt">Many economists think that this setback was caused by the policy makers who pulled back too soon, tightening both fiscal and monetary policy, before the economy was on the path to full recovery. Everything else being equal, a tightening of monetary policy causes a drop in GDP. If the economy is starting to heat up and a boom is on its way, this tightening can be important to preventing inflation. But, if the economy is in a fragile state, a tightening of monetary policy can make things worse by decreasing GDP even further.</p>
+<p id="krugmanwellsessentials4e-ch19-p202" block_type="wio-txt">Using the liquidity preference model and the <em>AD-AS</em> model, show how in 1937 monetary policy made things worse for the economy by decreasing GDP in the short run and putting further downward pressure on prices in the short and long run.</p>
+<p id="krugmanwellsessentials4e-ch19-p203" block_type="sp-stp-txt"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase> <phrase block_type="step-title"><strong>Draw the money demand curve,</strong> <em>MD</em><strong>, and the money supply curve,</strong> <em>MS,</em> <strong>in order to show how the liquidity preference model predicts that a decrease in the money supply raises interest rates.</strong>
+<phrase block_type="step-subtext">Review pages 547&#8211;549.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch19-p204" block_type="wio-txt-ni">A decrease in the money supply shifts the <em>MS</em> curve to the left, from <em>M</em>]]<sub>1</sub> to <em>M</em>]]<sub>2</sub>, as in the diagram at right. The interest rate increases from <em>r</em><sub>1</sub> to <em>r</em><sub>2</sub> because of the downward sloping money demand curve.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-20" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-56" alt="image" src="images/KrugESS4e_19UN06.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p205" block_type="sp-stp-txt"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase> <phrase block_type="step-title"><strong>Draw the short-run and long-run effects of a decrease in the money supply on GDP and prices by drawing the LRAS curve, the AD curves, and the SRAS curves before and after a decrease in the money supply.</strong>
+<phrase block_type="step-subtext">Review pages 558&#8211;559 and <link href="#krugmanwellsessfalseals4e-ch19-18">Figure 19-11</link>.</phrase></phrase></p>
+<figure id="krugmanwellsessentials4e-ch19-fig-21" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-57" alt="image" src="images/KrugESS4e_19UN07.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p206" block_type="wio-txt-ni">Other things being equal, a decrease in the money supply increases the interest rate, which reduces investment spending and leads to a further fall in consumer spending. So, as shown in the diagram at right, a decrease in the money supply decreases the quantity of goods and services demanded, shifting the <em>AD</em> curve leftward to <em>AD</em><sub>2</sub>. The price level falls from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>, and real GDP falls from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>.</p>
+<p id="krugmanwellsessentials4e-ch19-p207" block_type="wio-txt">However, the aggregate output level <em>Y</em><sub>2</sub> is below potential output. As a result, nominal wages will fall over time, causing the <em>SRAS</em> curve to shift rightward. Prices fall further, to <em>P</em><sub>3</sub>, but GDP returns to potential output at <em>Y</em><sub>1</sub>. The economy ends up at point <em>E</em><sub>3</sub>, a point of both short-run and long-run equilibrium.</p>
+<p id="krugmanwellsessentials4e-ch19-p208" block_type="wio-txt">So, in 1937, monetary policy simply made things worse for the economy by decreasing GDP in the short run, and putting further downward pressure on prices in the short and long run.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_562" block_type="page_start">562</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-6" block_type="cr-que-t" title="" chapter="19" numbered="true" level="1" print_page="562">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch19-list-12" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch19-p209" block_type="sum-nl">The <strong>money demand curve</strong> arises from a trade-off between the opportunity cost of holding money and the liquidity that money provides. The opportunity cost of holding money depends on <strong>short-term interest rates,</strong> not <strong>long-term interest rates.</strong> Changes in the aggregate price level, real GDP, technology, and institutions shift the money demand curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p210" block_type="sum-nl">According to the <strong>liquidity preference model of the interest rate,</strong> the interest rate is determined in the money market by the money demand curve and the <strong>money supply curve.</strong> The Federal Reserve can change the interest rate in the short run by shifting the money supply curve. In practice, the Fed uses open-market operations to achieve a <strong>target federal funds rate,</strong> which other short-term interest rates generally track. Although long-term interest rates don&#8217;t necessarily move with short-term interest rates, they reflect expectations about what&#8217;s going to happen to short-term rates in the future.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p211" block_type="sum-nl"><strong>Expansionary monetary policy</strong> reduces the interest rate by increasing the money supply. This increases investment spending and consumer spending, which in turn increases aggregate demand and real GDP in the short run. <strong>Contractionary monetary policy</strong> raises the interest rate by reducing the money supply. This reduces investment spending and consumer spending, which in turn reduces aggregate demand and real GDP in the short run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p212" block_type="sum-nl">The Federal Reserve and other central banks try to stabilize the economy, limiting fluctuations of actual output around potential output, while also keeping inflation low but positive. Under a <strong>Taylor rule for monetary policy,</strong> the target federal funds rate rises when there is high inflation and either a positive output gap or very low unemployment; it falls when there is low or negative inflation and either a negative output gap or high unemployment. Some central banks (including the Fed as of January 2012) engage in <strong>inflation targeting,</strong> which is a forward-looking policy rule, whereas the Taylor rule method is a backward-looking policy rule. Because monetary policy is subject to fewer implementation lags than fiscal policy, it is the preferred policy tool for stabilizing the economy. Because interest rates cannot fall below zero&#8212;the <strong>zero lower bound for interest rates&#8212;</strong>the power of monetary policy is limited.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p213" block_type="sum-nl">In the long run, changes in the money supply affect the aggregate price level but not real GDP or the interest rate. Data show that the concept of <strong>monetary neutrality</strong> holds: changes in the money supply have no real effect on the economy in the long run.</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_563" block_type="page_start">563</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-7" block_type="cr-kt-t" title="" chapter="19" numbered="true" level="1" print_page="563">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p214" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-58" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch19-p215" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p31">Short-term interest rates, p. 543</link></p>
+<p id="krugmanwellsessentials4e-ch19-p216" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p37">Long-term interest rates, p. 543</link></p>
+<p id="krugmanwellsessentials4e-ch19-p217" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p41">Money demand curve, p. 544</link></p>
+<p id="krugmanwellsessentials4e-ch19-p218" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p77">Liquidity preference model of the interest rate, p. 548</link></p>
+<p id="krugmanwellsessentials4e-ch19-p219" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p77">Money supply curve, p. 548</link></p>
+<p id="krugmanwellsessentials4e-ch19-p220" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p89">Target federal funds rate, p. 548</link></p>
+<p id="krugmanwellsessentials4e-ch19-p221" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p118">Expansionary monetary policy, p. 552</link></p>
+<p id="krugmanwellsessentials4e-ch19-p222" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p120">Contractionary monetary policy, p. 553</link></p>
+<p id="krugmanwellsessentials4e-ch19-p223" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p126">Taylor rule for monetary policy, p. 554</link></p>
+<p id="krugmanwellsessentials4e-ch19-p224" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p132">Inflation targeting, p. 554</link></p>
+<p id="krugmanwellsessentials4e-ch19-p225" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p144">Zero lower bound for interest rates, p. 556</link></p>
+<p id="krugmanwellsessentials4e-ch19-p226" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch19-p178">Monetary neutrality, p. 559</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-8" block_type="cr-que-t" title="" chapter="19" numbered="true" level="1" print_page="563">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch19-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch19-p227" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Go to the FOMC page of the Federal Reserve Board&#8217;s website (<link href="http://www.federalreserve.gov/FOMC/">www.federalreserve.gov/FOMC/</link>) to find the statement issued after the most recent FOMC meeting. (Click on &#8220;Meeting calendars and information&#8221; and then click on the most recent statement listed in the calendar.)</p>
+<list id="krugmanwellsessentials4e-ch19-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p228" block_type="cr-que-ans-first">What is the target federal funds rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p229" block_type="cr-que-ans-mid">Is the target federal funds rate different from the target federal funds rate in the previous FOMC statement? If yes, by how much does it differ?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p230" block_type="cr-que-ans-mid">Does the statement comment on current macroeconomic conditions in the United States? How does it describe the U.S. economy?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch19-p231" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> How will the following events affect the demand for money? In each case, specify whether there is a shift of the demand curve or a movement along the demand curve and its direction.</p>
+<list id="krugmanwellsessentials4e-ch19-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p232" block_type="cr-que-ans-first">There is a fall in the interest rate from 12&#37; to 10&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p233" block_type="cr-que-ans-mid">Thanksgiving arrives and, with it, the beginning of the holiday shopping season.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p234" block_type="cr-que-ans-mid">McDonald&#8217;s and other fast-food restaurants begin to accept credit cards.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p235" block_type="cr-que-ans-mid">The Fed engages in an open-market purchase of U.S. Treasury bills.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-3" block_type="q_prob" number="3">
+<list id="krugmanwellsessentials4e-ch19-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p236" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> Go to <link href="http://www.treasurydirect.gov">www.treasurydirect.gov</link>. Under the &#8220;Individuals&#8221; tab, go to &#8220;Treasury Securities &#38; Programs.&#8221; Click on &#8220;Treasury bills.&#8221; Under &#8220;at a glance,&#8221; click on &#8220;rates in recent auctions.&#8221; What is the investment rate for the most recently issued 26-week T-bills?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p237" block_type="cr-que-ans-mid">Go to the website of your favorite bank. What is the interest rate for six-month CDs?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p238" block_type="cr-que-ans-mid">Why are the rates for six-month CDs higher than for 26-week Treasury bills?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch19-p239" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Go to <link href="http://www.treasurydirect.gov">www.treasurydirect.gov</link>. Under the &#8220;Individuals&#8221; tab, go to &#8220;Treasury Securities &#38; Programs.&#8221; Click on &#8220;Treasury notes.&#8221; Under &#8220;at a glance,&#8221; click on &#8220;rates in recent auctions.&#8221; Use the list of Recent Note, Bond, and TIPS Auction Results to answer the following questions.</p>
+<list id="krugmanwellsessentials4e-ch19-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p240" block_type="cr-que-ans-first">What are the interest rates on 2-year and 10-year notes?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p241" block_type="cr-que-ans-mid">How do the interest rates on the 2-year and 10-year notes relate to each other? Why is the interest rate on the 10-year note higher (or lower) than the interest rate on the 2-year note?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch19-p242" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> An economy is facing the recessionary gap shown in the accompanying diagram. To eliminate the gap, should the central bank use expansionary or contractionary monetary policy? How will the interest rate, investment spending, consumer spending, real GDP, and the aggregate price level change as monetary policy closes the recessionary gap?</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-22" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-59" alt="image" src="images/KrugESS4e_19UN08.jpg"/>
+</figure>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch19-p243" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> An economy is facing the inflationary gap shown in the accompanying diagram. To eliminate the gap, should the central bank use expansionary or contractionary monetary policy? How will the interest rate, investment spending, consumer spending, real GDP, and the aggregate price level change as monetary policy closes the inflationary gap?</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-60" alt="image" src="images/KrugESS4e_19UN09.jpg"/>
+</figure>
+</question>
+<p id="krugmanwellsessentials4e_page_564" block_type="page_start">564</p>
+<question id="krugmanwellsessentials4e-ch19-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch19-p244" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> In the economy of Eastlandia, the money market is initially in equilibrium when the economy begins to slide into a recession.</p>
+<list id="krugmanwellsessentials4e-ch19-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p245" block_type="cr-que-ans-first">Using the accompanying diagram, explain what will happen to the interest rate if the central bank of Eastlandia keeps the money supply constant at <image asset-id="krugmanwellsessentials4e-ch19-img-61" alt="image" src="images/KrugESS4e_ineqn_548_01.jpg"/><sub>1</sub>.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-24" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-62" alt="image" src="images/KrugESS4e_19UN10.jpg"/>
+</figure></li>
+<li><p id="krugmanwellsessentials4e-ch19-p246" block_type="cr-que-ans-mid">If the central bank is instead committed to maintaining an interest rate target of <em>r</em><sub>1</sub>, then as the economy slides into recession, how should the central bank react? Using your diagram from part a, demonstrate the central bank&#8217;s reaction.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch19-p247" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> Suppose that the money market in Westlandia is initially in equilibrium and the central bank decides to decrease the money supply.</p>
+<list id="krugmanwellsessentials4e-ch19-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p248" block_type="cr-que-ans-first">Using a diagram like the one in Problem 7, explain what will happen to the interest rate in the short run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p249" block_type="cr-que-ans-mid">What will happen to the interest rate in the long run?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch19-p250" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> An economy is in long-run macroeconomic equilibrium with an unemployment rate of 5&#37; when the government passes a law requiring the central bank to use monetary policy to lower the unemployment rate to 3&#37; and keep it there. How could the central bank achieve this goal in the short run? What would happen in the long run? Illustrate with a diagram.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch19-p251" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> According to the European Central Bank website, the treaty establishing the European Community &#8220;makes clear that ensuring price stability is the most important contribution that monetary policy can make to achieve a favourable economic environment and a high level of employment.&#8221; If price stability is the only goal of monetary policy, explain how monetary policy would be conducted during recessions. Analyze both the case of a recession that is the result of a demand shock and the case of a recession that is the result of a supply shock.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch19-p252" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> The effectiveness of monetary policy depends on how easy it is for changes in the money supply to change interest rates. By changing interest rates, monetary policy affects investment spending and the aggregate demand curve. The economies of Albernia and Brittania have very different money demand curves, as shown in the accompanying diagram. In which economy will changes in the money supply be a more effective policy tool? Why?</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-25" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-63" alt="image" src="images/KrugESS4e_19UN11ab.jpg"/>
+</figure>
+</question>
+<question id="krugmanwellsessentials4e-ch19-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch19-p253" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> During the Great Depression, businesspeople in the United States were very pessimistic about the future of economic growth and reluctant to increase investment spending even when interest rates fell. How did this limit the potential for monetary policy to help alleviate the Depression?</p>
+</question>
+<p id="krugmanwellsessentials4e_page_565" block_type="page_start">565</p>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-9" block_type="sum-h" title="" chapter="19" numbered="true" level="1" print_page="565">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch19-exp2-8" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch19-p254" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch19-img-64" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch19-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch19-p255" block_type="cr-wio-nl-first"><phrase block_type="qnum">13.</phrase> Because of the economic slowdown associated with the 2007&#8211;2009 recession, the Federal Open Market Committee of the Federal Reserve, between September 18, 2007, and December 16, 2008, lowered the federal funds rate in a series of steps from a high of 5.25&#37; to a rate between zero and 0.25&#37;. The idea was to provide a boost to the economy by increasing aggregate demand.</p>
+<list id="krugmanwellsessentials4e-ch19-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch19-p256" block_type="cr-wio-ans-first">Use the liquidity preference model to explain how the Federal Open Market Committee lowers the interest rate in the short run. Draw a typical graph that illustrates the mechanism. Label the vertical axis &#8220;Interest rate&#8221; and the horizontal axis &#8220;Quantity of money.&#8221; Your graph should show two interest rates, <em>r</em><sub>1</sub> and <em>r</em><sub>2</sub>.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p257" block_type="cr-wio-ans-mid">Explain why the reduction in the interest rate causes aggregate demand to increase in the short run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p258" block_type="cr-wio-ans-mid">Suppose that in 2015 the economy is at potential output but that this is somehow overlooked by the Fed, which continues its monetary expansion. Demonstrate the effect of the policy measure on the <em>AD</em> curve. Use the <em>LRAS</em> curve to show that the effect of this policy measure on the <em>AD</em> curve, other things equal, causes the aggregate price level to rise in the long run. Label the vertical axis &#8220;Aggregate price level&#8221; and the horizontal axis &#8220;Real GDP.&#8221;</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch19-sec1-8" block_type="business_case" title="" chapter="19" numbered="true" level="1" print_page="566">
+<section-metadata><section-title>Business Case</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_566" block_type="page_start">566</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-5" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>Here Comes the Sun</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p260" block_type="bx5-txt-ni"><phrase block_type="dropcap"><strong>T</strong></phrase>he Solana power plant, which opened in 2013, covers 3 square miles of the Arizona desert in Gila Bend, about 70 miles from Phoenix. Whereas most solar installations rely on photovoltaic panels that convert light directly into electricity, Solana uses a system of mirrors to concentrate the sun&#8217;s heat on black pipes, which convey that heat to tanks of molten salt. The heat in the salt is, in turn, used to generate electricity. The advantage of this arrangement is that the plant can keep generating power long after the sun has gone down, greatly enhancing its efficiency.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-26" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-65" alt="image" src="images/KrugESS4e_19UN12.jpg"/>
+<caption>Ralph Lauer/ZUMA Press/Corbis</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p261" block_type="bx5-txt">Solana is one of only a small number of concentrated thermal solar plants operating or under construction. Solar power has been rapidly rising in importance, with the amount of electricity generated by solar increasing over 400&#37; between 2008 and 2015. There are a number of reasons for this sudden rise, but the Obama stimulus&#8212;which put substantial sums into the promotion of green energy&#8212;was a major factor. Solana, in particular, was built by the Spanish company Abengoa with the aid of a &#36;1.45 billion federal loan guarantee; Abengoa also received &#36;1.2 billion for a similar plant in the Mojave Desert.</p>
+<p id="krugmanwellsessentials4e-ch19-p262" block_type="bx5-txt">While Solana is a good example of stimulus spending at work, it is also a good example of why such spending tends to be politically difficult. There were many protests over federal loans to a non-American firm, although Abengoa had the necessary technology, and the construction jobs created by the project were, of course, in the United States. Also, the long-term financial viability of solar power projects depends in part on whether government subsidies and other policies favoring renewable energy will continue, which isn&#8217;t certain.</p>
+<p id="krugmanwellsessentials4e-ch19-p263" block_type="bx5-txt">In terms of the goals of the stimulus, however, Solana seems to have done what it was supposed to: it generated jobs at a time when borrowing was cheap and many construction workers were unemployed.</p>
+<p id="krugmanwellsessentials4e-ch19-p264" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch19-list-20" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch19-p265" block_type="bx5-nl">How did the political reaction to government funding for the Solana project differ from the reaction to more conventional government spending projects such as roads and schools? What does the case tell us about how to assess the value of a fiscal stimulus project?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p266" block_type="bx5-nl">In the chapter we talked about the problem of lags in discretionary fiscal policy. What does the Solana case tell us about this issue?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p267" block_type="bx5-nl">Is the depth of a recession a good or a bad time to undertake an energy project? Why or why not?</p></li>
+</list>
+</box>
+<p id="krugmanwellsessentials4e_page_567" block_type="page_start">567</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-6" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>The Perfect Gift: Cash or a Gift Card?</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p269" block_type="bx5-txt-ni"><phrase block_type="dropcap"><strong>I</strong></phrase>t&#8217;s always nice when someone shows his or her appreciation by giving you a gift. Over the past few years, more and more people have been showing their appreciation by giving gift cards, prepaid plastic cards issued by a retailer that can be redeemed for merchandise. The best-selling single item for more than 80&#37; of the top 100 American retailers, says <link href="http://GiftCardUSA.com">GiftCardUSA.com</link>, is their gift cards.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-27" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-66" alt="image" src="images/KrugESS4e_19UN13.jpg"/>
+<caption>The Photo Works</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p270" block_type="bx5-txt">What could be more simple and useful than allowing the recipient to choose what he or she wants? And isn&#8217;t a gift card more personal than cash or a check?</p>
+<p id="krugmanwellsessentials4e-ch19-p271" block_type="bx5-txt">Yet several websites are now making a profit from the fact that gift card recipients are often willing to sell their cards at a discount&#8212;sometimes at a fairly sizable discount&#8212;to turn them into cold, impersonal dollars and cents.</p>
+<p id="krugmanwellsessentials4e-ch19-p272" block_type="bx5-txt"><link href="http://www.Cardpool.com">Cardpool.com</link> is one such site. At the time of writing, it offers to pay cash to a seller of a Whole Foods gift card equivalent to 88&#37; of the card&#8217;s face value. For example, the seller of a card with a value of &#36;100 would receive &#36;88 in cash. But it offers cash equal to only 70&#37; of a Gap card&#8217;s face value. <link href="http://www.Cardpool.com">Cardpool.com</link> profits by reselling the card at a premium over what it paid; for example, it buys a Whole Foods card for 88&#37; of its face value and then resells it for 97&#37; of its face value.</p>
+<p id="krugmanwellsessentials4e-ch19-p273" block_type="bx5-txt">Many consumers will sell at a sizable discount to turn gift cards into cash. But retailers promote the use of gift cards over cash because much of the value of gift cards issued never gets used, a phenomenon known as <em>breakage.</em></p>
+<p id="krugmanwellsessentials4e-ch19-p274" block_type="bx5-txt">How does breakage occur? People lose cards. Or they spend only &#36;47 of a &#36;50 gift card, and never return to the store to spend that last &#36;3. Also, retailers impose fees on the use of cards or make them subject to expiration dates, which customers forget about. And if a retailer goes out of business, the value of outstanding gift cards disappears with it.</p>
+<p id="krugmanwellsessentials4e-ch19-p275" block_type="bx5-txt">In addition to breakage, retailers benefit when customers intent on using up the value of their gift card find that it is too difficult to spend exactly the amount of the card. Instead, they end up spending more than the card&#8217;s face value, sometimes even more than they would have without the gift card.</p>
+<p id="krugmanwellsessentials4e-ch19-p276" block_type="bx5-txt">Gift cards are so beneficial to retailers that instead of rewarding customer loyalty with rebate checks (once a common practice), they have switched to dispensing gift cards. As one commentator noted in explaining why retailers prefer gift cards to rebate checks, &#8220;Nobody neglects to spend cash.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch19-p277" block_type="bx5-txt">However, the future may not be quite so profitable for gift card issuers. Hard economic times have made consumers more careful about spending down their cards. And legislation enacted in 2009 requires that cards remain valid for at least five years. As a result, breakage has fallen sharply, although it still amounts to more than &#36;1 billion a year.</p>
+<p id="krugmanwellsessentials4e-ch19-p278" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch19-list-21" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch19-p279" block_type="bx5-nl">Why are gift card owners willing to sell their cards for a cash amount less than their face value?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p280" block_type="bx5-nl">Why do gift cards for retailers like Walmart, Home Depot, and Whole Foods sell for a smaller discount than those for retailers like the Gap and Aeropostale?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p281" block_type="bx5-nl">Use your answer from Question 2 to explain why cash never &#8220;sells&#8221; at a discount.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p282" block_type="bx5-nl">Explain why retailers prefer to reward loyal customers with gift cards instead of rebate checks.</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p283" block_type="bx5-nl">Recent legislation restricted retailers&#8217; ability to impose fees and expiration dates on their gift cards and mandated greater disclosure of their terms. Why do you think Congress enacted this legislation?</p></li>
+</list>
+</box>
+<p id="krugmanwellsessentials4e_page_568" block_type="page_start">568</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch19-bx5-7" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase><strong>PIMCO Bets on Cheap Money</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch19-p285" block_type="bx5-txt-ni"><phrase block_type="dropcap"><strong>P</strong></phrase>acific Investment Management Company, generally known as PIMCO, is one of the world&#8217;s largest investment companies. Among other things, it runs PIMCO Total Return, the world&#8217;s largest mutual fund. Bill Gross, who headed PIMCO from 1971 until 2014, was legendary for his ability to predict trends in financial markets, especially bond markets, where PIMCO does much of its investing.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-28" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-67" alt="image" src="images/KrugESS4e_19UN14.jpg"/>
+<caption>The Photo Works</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p286" block_type="bx5-txt">In the fall of 2009, Gross decided to put more of PIMCO&#8217;s assets into long-term U.S. government bonds. This amounted to a bet that long-term interest rates would fall. This bet was especially interesting because it was the opposite of the bet many other investors were making. For example, in November 2009 the investment bank Morgan Stanley told its clients to expect a sharp rise in long-term interest rates.</p>
+<p id="krugmanwellsessentials4e-ch19-p287" block_type="bx5-txt">What lay behind PIMCO&#8217;s bet? Gross explained the firm&#8217;s thinking in his September 2009 commentary. He suggested that unemployment was likely to stay high and inflation low. &#8220;Global policy rates,&#8221; he asserted&#8212;meaning the federal funds rate and its equivalents in Europe and elsewhere&#8212;&#8220;will remain low for extended periods of time.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch19-p288" block_type="bx5-txt">PIMCO&#8217;s view was in sharp contrast to those of other investors: Morgan Stanley expected long-term rates to rise in part because it expected the Fed to raise the federal funds rate in 2010.</p>
+<figure id="krugmanwellsessentials4e-ch19-fig-29" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch19-img-68" alt="image" src="images/KrugESS4e_19UN15.jpg"/>
+<caption><strong>The Federal Funds Rate and Long-Term Interest Rates, 2009&#8211;2011</strong></caption>
+<asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch19-p289" block_type="bx5-txt">Who was right? PIMCO, mostly. As the figure shows, the federal funds rate stayed near zero, and long-term interest rates fell through much of 2010, although they rose somewhat very late in the year as investors became somewhat more optimistic about economic recovery. Morgan Stanley, which had bet on rising rates, actually apologized to investors for getting it so wrong.</p>
+<p id="krugmanwellsessentials4e-ch19-p290" block_type="bx5-txt">Bill Gross&#8217;s foresight, however, was a lot less accurate in 2011. Anticipating a significantly stronger U.S. economy by mid-2011 that would result in inflation, Gross bet heavily against U.S. government bonds early that year. But this time he was wrong, as weak growth continued. By late summer 2011, Gross realized his mistake as U.S. bonds rose in value and the value of his funds sank. He admitted to the <em>Wall Street Journal</em> that he had &#8220;lost sleep&#8221; over his bet, and called it a &#8220;mistake.&#8221; It was a mistake from which he never fully recovered. Most observers agreed that the losses PIMCO suffered from Gross&#8217;s bad bet in 2011 played a major rule in his departure in 2014.</p>
+<p id="krugmanwellsessentials4e-ch19-p291" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch19-list-22" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch19-p292" block_type="bx5-nl">Why did PIMCO&#8217;s view that unemployment would stay high and inflation low lead to a forecast that policy interest rates would remain low for an extended period?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p293" block_type="bx5-nl">Why would low policy rates suggest low long-term interest rates?</p></li>
+<li><p id="krugmanwellsessentials4e-ch19-p294" block_type="bx5-nl">hat might have caused long-term interest rates to rise in late 2010, even though the federal funds rate was still zero?</p></li>
+</list>
+</box>
+</section>
+</chapter>
+</manuscript>

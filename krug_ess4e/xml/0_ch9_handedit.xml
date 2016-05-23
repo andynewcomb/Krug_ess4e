@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="09" name="" title="KRU_Chapter_09_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="9" id="krugmanwellsessentials4e-ch9-chapter-9" title="CHAPTER 9: Oligopoly and Monopolistic Competition" start-numbering-at="9" numbered="true">
+<section id="krugmanwellsessentials4e-ch9-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="262">
+<p id="krugmanwellsessentials4e_page_262" block_type="page_start">262</p>
+<p id="krugmanwellsessentials4e-ch9-p1" block_type="chapter_title">Oligopoly and Monopolistic Competition</p>
+<p id="krugmanwellsessentials4e-ch9-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">9</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch9-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch9-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong>CAUGHT IN THE ACT</strong></p>
+<figure id="krugmanwellsessentials4e-ch9-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-2" alt="image" src="images/KrugESS4e_CO09.jpg"/>
+<caption>The law catches up with a colluding oligopolist.</caption>
+<asset_source>Bryan Smith/Zuma Press</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch9-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch9-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch9-p5" block_type="obj-bl">The meaning of <strong>oligopoly</strong> and why <strong>oligopolists</strong> have an incentive to act in ways that reduce their combined profits.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p6" block_type="obj-bl">How oligopoly works in practice, under the legal constraints of <strong>antitrust policy</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p7" block_type="obj-bl">How our understanding of oligopoly can be enhanced by using <strong>game theory</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p8" block_type="obj-bl">The meaning of <strong>monopolistic competition</strong> and why monopolistically competitive firms differentiate their products</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p9" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p10" block_type="co-txt-ni"><phrase block_type="dropcap">T</phrase>HE AGRICULTURAL PRODUCTS company Archer Daniels Midland (also known as ADM) has often described itself as &#8220;supermarket to the world.&#8221; Its name is familiar to many Americans not only because of its important role in the economy but also because of its advertising and sponsorship of public television programs. But on October 25, 1993, ADM itself was on camera.</p>
+<p id="krugmanwellsessentials4e-ch9-p11" block_type="co-txt">On that day executives from ADM and its Japanese competitor Ajinomoto met at the Marriott Hotel in Irvine, California, to discuss the market for lysine, an additive used in animal feed. (How is lysine produced? It&#8217;s excreted by genetically engineered bacteria.) In this and subsequent meetings, the two companies joined with several other competitors to set targets for the market price of lysine, behavior called <em>price-fixing</em>. Each company agreed to limit its production in order to achieve those targets. Agreeing on specific limits would be their biggest challenge&#8212;or so they thought.</p>
+<p id="krugmanwellsessentials4e-ch9-p12" block_type="co-txt">What the participants in the meeting didn&#8217;t know was that they had a bigger problem: the FBI had bugged the room and was filming them with a hidden camera.</p>
+<p id="krugmanwellsessentials4e-ch9-p13" block_type="co-txt">What the companies were doing was illegal. To understand why it was illegal and why the companies were doing it anyway, we need to examine the issues posed by industries that are neither perfectly competitive nor purely monopolistic.</p>
+<p id="krugmanwellsessentials4e-ch9-p14" block_type="co-txt">In this chapter we focus on <em>oligopoly</em> and <em>monopolistic competition,</em> two types of market structures in which firms can take actions that affect market prices.</p>
+<p id="krugmanwellsessentials4e-ch9-p15" block_type="co-txt">As we&#8217;ll see, oligopoly is a very important reality&#8212;much more important, in fact, than monopoly and arguably more typical of modern economies than perfect competition.</p>
+<p id="krugmanwellsessentials4e-ch9-p16" block_type="co-txt">Although much that we have learned about both perfect competition and monopoly is relevant to oligopoly, oligopoly also raises some entirely new issues.</p>
+<p id="krugmanwellsessentials4e-ch9-p17" block_type="co-txt">Among other things, firms in an oligopoly are often tempted to engage in the kind of behavior that got ADM, Ajinomoto, and other lysine producers into trouble with the law. Over the past few years, there have been numerous investigations and some convictions for price-fixing in a variety of industries, from insurance to elevators to computer chips.</p>
+<p id="krugmanwellsessentials4e-ch9-p18" block_type="co-txt">We begin this chapter by examining what oligopoly is and why it is so important. Then we&#8217;ll turn to the behavior of oligopolistic industries. Finally, we will look at the meaning of monopolistic competition and how monopolistically competitive firms compete through product differentiation.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-1" block_type="h1" title="" chapter="9" numbered="true" level="1" print_page="263">
+<section-metadata><section-title>The Meaning of Oligopoly</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_263" block_type="page_start">263</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p19" block_type="mn-gl-def">An <strong>oligopoly</strong> is an industry with only a small number of producers. A producer in such an industry is known as an <strong>oligopolist.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p20" block_type="txt-ni">At the time of that elaborately bugged meeting, no one company controlled the world lysine industry, but there were only a few major producers. An industry with only a few sellers is known as an <strong>oligopoly;</strong> a firm in such an industry is known as an <strong>oligopolist.</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p21" block_type="txt">Oligopolists obviously compete with one another for sales. But neither ADM nor Ajinomoto were like a firm in a perfectly competitive industry, which takes the price at which it can sell its product as given. In the case of ADM and Ajinomoto, each firm knew that its decision about how much to produce would affect the market price. That is, like monopolists, each of the firms had some <em>market power.</em> So the competition in this industry wasn&#8217;t &#8220;perfect.&#8221;</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p22" block_type="mn-gl-def">When no one firm has a monopoly, but producers nonetheless realize that they can affect market prices, an industry is characterized by <strong>imperfect competition.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p23" block_type="txt">Economists refer to a situation in which firms compete but also possess market power&#8212;which enables them to affect market prices&#8212;as <strong>imperfect competition.</strong> As we saw in <link href="krugmanwellsessentials4e-ch08.xml">Chapter 8</link>, there are actually two important forms of imperfect competition: oligopoly and <em>monopolistic competition.</em> Of these, oligopoly is probably the more important in practice.</p>
+<p id="krugmanwellsessentials4e-ch9-p24" block_type="txt">Although lysine is a multibillion-dollar business, it is not exactly a product familiar to most consumers. However, many familiar goods and services are supplied by only a few competing sellers, which means the industries in question are oligopolies. For example, most air routes are served by only two or three airlines: regularly scheduled shuttle service between New York and either Boston or Washington, D.C., has been provided only by Delta and US Airways. Four firms&#8212;Kellogg, General Mills, Post, and Quaker&#8212;control 85&#37; of the breakfast cereal market. Two firms&#8212;Apple and Samsung&#8212;control about 70&#37; of the smartphone market. Most cola beverages are sold by Coke and Pepsi. This list could go on for many pages.</p>
+<p id="krugmanwellsessentials4e-ch9-p25" block_type="txt">It&#8217;s important to realize that an oligopoly isn&#8217;t necessarily made up of large firms. What matters isn&#8217;t size per se; the question is how many competitors there are. When a small town has only two grocery stores, grocery service there is just as much an oligopoly as air shuttle service between New York and Washington.</p>
+<p id="krugmanwellsessentials4e-ch9-p26" block_type="txt">Why are oligopolies so prevalent? Essentially, oligopoly is the result of the same factors that sometimes produce monopoly, but in somewhat weaker form. Probably the most important source of oligopoly is the existence of <em>increasing returns to scale,</em> which give bigger producers a cost advantage over smaller ones. When these effects are very strong, they lead to monopoly; when they are not that strong, they lead to an industry with a small number of firms.</p>
+<p id="krugmanwellsessentials4e-ch9-p27" block_type="txt">For example, larger grocery stores typically have lower costs than smaller ones. But the advantages of large scale taper off once grocery stores are reasonably large, which is why two or three stores often survive in small towns.</p>
+<p id="krugmanwellsessentials4e-ch9-p28" block_type="txt">If oligopoly is so common, why has most of this book focused on competition in industries where the number of sellers is very large? And why did we study monopoly, which is relatively uncommon, first, in <link href="krugmanwellsessentials4e-ch08.xml">Chapter 8</link>? The answer has two parts.</p>
+<p id="krugmanwellsessentials4e-ch9-p29" block_type="txt">First, much of what we learn from the study of perfectly competitive markets&#8212;about costs, entry and exit, and efficiency&#8212;remains valid despite the fact that many industries are not perfectly competitive. Second, the analysis of oligopoly turns out to present some puzzles for which there are no easy solutions. It is almost always a good idea first to deal with the questions you can answer, then to puzzle over the harder ones. We have simply followed that strategy, developing the relatively clear-cut theories of perfect competition and monopoly first, and only then turning to the puzzles presented by oligopoly.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-1" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="263">
+<section-metadata><section-title>Understanding Oligopoly</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch9-p30" block_type="txt-ni">How much will a firm produce? Up to this point, we have always answered: the quantity that maximizes its profit. Together with its cost curves, the assumption that a firm maximizes profit is enough to determine its output when it is a perfect competitor or a monopolist.</p>
+<p id="krugmanwellsessentials4e_page_264" block_type="page_start">264</p>
+<p id="krugmanwellsessentials4e-ch9-p31" block_type="txt">When it comes to oligopoly, however, we run into some difficulties. Indeed, economists often describe the behavior of oligopolistic firms as a &#8220;puzzle.&#8221;</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p32" block_type="mn-gl-def">An oligopoly consisting of only two firms is a <strong>duopoly.</strong> Each firm is known as a <strong>duopolist.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p33" block_type="txt-3"><phrase block_type="h3"><strong>A Duopoly Example</strong></phrase> Let&#8217;s begin looking at the puzzle of oligopoly with the simplest version, an industry in which there are only two producing firms&#8212;a <strong>duopoly&#8212;</strong>and each is known as a <strong>duopolist.</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p34" block_type="txt">Going back to our opening story, imagine that ADM and Ajinomoto are the only two producers of lysine. To make things even simpler, suppose that once a company has incurred the fixed cost needed to produce lysine, the marginal cost of producing another pound is zero. So the companies are concerned only with the revenue they receive from sales.</p>
+<p id="krugmanwellsessentials4e-ch9-p35" block_type="txt"><link href="#krugmanwellsessentials4e-ch9-tab-1">Table 9-1</link> shows a hypothetical demand schedule for lysine and the total revenue of the industry at each price&#8211;quantity combination.</p>
+<table id="krugmanwellsessentials4e-ch9-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch9-tab-1" data-target="_pop">
+<tbody>
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">9-1</phrase></strong> <phrase block_type="tbl_title">Demand Schedule for Lysine</phrase></table_caption>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of lysine<br/>(per pound)</strong></td>
+<td class="tbl-rborder"><strong>Quantity of lysine demanded<br/>(millions of pounds)</strong></td>
+<td><strong>Total revenue (millions)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;12</td>
+<td class="tbl-rborder">0</td>
+<td>&#36;0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">11</td>
+<td class="tbl-rborder">10</td>
+<td>110</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">10</td>
+<td class="tbl-rborder">20</td>
+<td>200</td>
+</tr>
+<tr class="tbl-td-drak">
+<td class="tbl-rborder">9</td>
+<td class="tbl-rborder">30</td>
+<td>270</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">8</td>
+<td class="tbl-rborder">40</td>
+<td>320</td>
+</tr>
+<tr class="tbl-td-drak">
+<td class="tbl-rborder">7</td>
+<td class="tbl-rborder">50</td>
+<td>350</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td class="tbl-rborder">60</td>
+<td>360</td>
+</tr>
+<tr class="tbl-td-drak">
+<td class="tbl-rborder">5</td>
+<td class="tbl-rborder">70</td>
+<td>350</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>80</td>
+<td>320</td>
+</tr>
+<tr class="tbl-td-drak">
+<td class="tbl-rborder">3</td>
+<td class="tbl-rborder">90</td>
+<td>270</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td class="tbl-rborder">100</td>
+<td>200</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td class="tbl-rborder">110</td>
+<td>110</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td class="tbl-rborder">120</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch9-p36" block_type="txt">If this were a perfectly competitive industry, each firm would have an incentive to produce more as long as the market price was above marginal cost. Since the marginal cost is assumed to be zero, this would mean that at equilibrium lysine would be provided free. Firms would produce until price equals zero, yielding a total output of 120 million pounds and zero revenue for both firms.</p>
+<p id="krugmanwellsessentials4e-ch9-p37" block_type="txt">However, surely the firms would not be that stupid. With only two firms in the industry, each would realize that by producing more, it drives down the market price. So each firm would, like a monopolist, realize that profits would be higher if it and its rival limited their production.</p>
+<p id="krugmanwellsessentials4e-ch9-p38" block_type="txt">So how much will the two firms produce?</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p39" block_type="mn-gl-def">Sellers engage in <strong>collusion</strong> when they cooperate to raise their joint profits. A <strong>cartel</strong> is an agreement among several producers to obey output restrictions in order to increase their joint profits.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p40" block_type="txt">One possibility is that the two companies will engage in <strong>collusion&#8212;</strong>they will cooperate to raise their joint profits. The strongest form of collusion is a <strong>cartel,</strong> an arrangement between producers that determines how much each is allowed to produce. The world&#8217;s most famous cartel is the Organization of Petroleum Exporting Countries (OPEC).</p>
+<p id="krugmanwellsessentials4e-ch9-p41" block_type="txt">As its name indicates, OPEC is actually an agreement among governments rather than firms. There&#8217;s a reason this most famous of cartels is an agreement among governments: cartels among firms are illegal in the United States and many other jurisdictions. But let&#8217;s ignore the law for a moment (which is, of course, what ADM and Ajinomoto did in real life&#8212;to their own detriment).</p>
+<p id="krugmanwellsessentials4e-ch9-p42" block_type="txt">So suppose that ADM and Ajinomoto were to form a cartel and that this cartel decided to act as if it were a monopolist, maximizing total industry profits. It&#8217;s obvious from <link href="#krugmanwellsessentials4e-ch9-p35">Table 9-1</link> that in order to maximize the combined profits of the firms, this cartel should set total industry output at 60 million pounds of lysine, which would sell at a price of &#36;6 per pound, leading to revenue of &#36;360 million, the maximum possible.</p>
+<p id="krugmanwellsessentials4e-ch9-p43" block_type="txt">Then the only question would be how much of that 60 million pounds each firm gets to produce. A &#8220;fair&#8221; solution might be for each firm to produce 30 million pounds with revenues for each firm of &#36;180 million.</p>
+<p id="krugmanwellsessentials4e-ch9-p44" block_type="txt">But even if the two firms agreed on such a deal, they might have a problem: each of the firms would have an incentive to break its word and produce more than the agreed-upon quantity.</p>
+<p id="krugmanwellsessentials4e-ch9-p45" block_type="txt-3"><phrase block_type="h3"><strong>Collusion and Competition</strong></phrase> Suppose that the presidents of ADM and Ajinomoto were to agree that each would produce 30 million pounds of lysine over the next year. Both would understand that this plan maximizes their combined profits. And both would have an incentive to cheat.</p>
+<p id="krugmanwellsessentials4e_page_265" block_type="page_start">265</p>
+<p id="krugmanwellsessentials4e-ch9-p46" block_type="txt">To see why, consider what would happen if Ajinomoto honored its agreement, producing only 30 million pounds, but ADM ignored its promise and produced 40 million pounds. This increase in total output would drive the price down from &#36;6 to &#36;5 per pound, the price at which 70 million pounds are demanded. The industry&#8217;s total revenue would fall from &#36;360 million (&#36;6 &#215; 60 million pounds) to &#36;350 million (&#36;5 &#215; 70 million pounds). However, ADM&#8217;s revenue would <em>rise,</em> from &#36;180 million to &#36;200 million. Since we are assuming a marginal cost of zero, this would mean a &#36;20 million increase in ADM&#8217;s profits.</p>
+<p id="krugmanwellsessentials4e-ch9-p47" block_type="txt">But Ajinomoto&#8217;s president might make exactly the same calculation. And if both firms were to produce 40 million pounds of lysine, the price would drop to &#36;4 per pound. So each firm&#8217;s profits would fall, from &#36;180 million to &#36;160 million.</p>
+<p id="krugmanwellsessentials4e-ch9-p48" block_type="txt">Why do individual firms have an incentive to produce more than the quantity that maximizes their joint profits? Because neither firm has as strong an incentive to limit its output as a true monopolist would.</p>
+<p id="krugmanwellsessentials4e-ch9-p49" block_type="txt">Let&#8217;s go back for a minute to the theory of monopoly. We know that a profitmaximizing monopolist sets marginal cost (which in this case is zero) equal to marginal revenue. But what is marginal revenue? Recall that producing an additional unit of a good has two effects:</p>
+<list id="krugmanwellsessentials4e-ch9-list-2" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch9-p50" block_type="nl-first">A positive <em>quantity</em> effect: one more unit is sold, increasing total revenue by the price at which that unit is sold.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p51" block_type="nl-last">A negative <em>price</em> effect: in order to sell one more unit, the monopolist must cut the market price on <em>all</em> units sold.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch9-p52" block_type="txt">The negative price effect is the reason marginal revenue for a monopolist is less than the market price. In the case of oligopoly, when considering the effect of increasing production, a firm is concerned only with the price effect on its <em>own</em> units of output, not those of its fellow oligopolists. Both ADM and Ajinomoto suffer a negative price effect if ADM decides to produce extra lysine and so drives down the price. But ADM cares only about the negative price effect on the units it produces, not about the loss to Ajinomoto.</p>
+<p id="krugmanwellsessentials4e-ch9-p53" block_type="txt">This tells us that an individual firm in an oligopolistic industry faces a smaller price effect from an additional unit of output than does a monopolist; therefore, the marginal revenue that such a firm calculates is higher. So it will seem to be profitable for any one company in an oligopoly to increase production, even if that increase reduces the profits of the industry as a whole. But if everyone thinks that way, the result is that everyone earns a lower profit!</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p54" block_type="mn-gl-def">When firms ignore the effects of their actions on each others&#8217; profits, they engage in <strong>noncooperative behavior.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p55" block_type="txt">Until now, we have been able to analyze producer behavior by asking what a producer should do to maximize profits. But even if ADM and Ajinomoto are both trying to maximize profits, what does this predict about their behavior? Will they engage in collusion, reaching and holding to an agreement that maximizes their combined profits? Or will they engage in <strong>noncooperative behavior,</strong> with each firm acting in its own self-interest, even though this has the effect of driving down everyone&#8217;s profits? Both strategies sound like profit maximization. Which will actually describe their behavior?</p>
+<p id="krugmanwellsessentials4e-ch9-p56" block_type="txt">Now you see why oligopoly presents a puzzle: there are only a small number of players, making collusion a real possibility. If there were dozens or hundreds of firms, it would be safe to assume they would behave noncooperatively. Yet when there are only a handful of firms in an industry, it&#8217;s hard to determine whether collusion will actually materialize.</p>
+<p id="krugmanwellsessentials4e-ch9-p57" block_type="txt">Since collusion is ultimately more profitable than noncooperative behavior, firms have an incentive to collude if they can. One way to do so is to formalize it&#8212;sign an agreement (maybe even make a legal contract) or establish some financial incentives for the companies to set their prices high. But in the United States and many other nations, you can&#8217;t do that&#8212;at least not legally. Companies cannot make a legal contract to keep prices high: not only is the contract unenforceable, but writing it is a one-way ticket to jail. Neither can they sign an informal &#8220;gentlemen&#8217;s agreement,&#8221; which lacks the force of law but perhaps rests on threats of retaliation&#8212;that&#8217;s illegal, too.</p>
+<p id="krugmanwellsessentials4e_page_266" block_type="page_start">266</p>
+<p id="krugmanwellsessentials4e-ch9-p58" block_type="txt">In fact, executives from rival companies rarely meet without lawyers present, who make sure that the conversation does not stray into inappropriate territory. Even hinting at how nice it would be if prices were higher can bring you an unwelcome interview with the Justice Department or the Federal Trade Commission.</p>
+<p id="krugmanwellsessentials4e-ch9-p59" block_type="txt">For example, in 2003 the Justice Department launched a price-fixing case against Monsanto and other large producers of genetically modified seed. The Justice Department was alerted by a series of meetings held between Monsanto and Pioneer Hi-Bred International, two companies that account for 60&#37; of the U.S. market in maize and soybean seed. The two companies, parties to a licensing agreement involving genetically modified seed, claimed that no illegal discussions of price-fixing occurred in those meetings. But the fact that the two firms discussed prices as part of the licensing agreement was enough to trigger action by the Justice Department.</p>
+<p id="krugmanwellsessentials4e-ch9-p60" block_type="txt">Sometimes, as we&#8217;ve seen, oligopolistic firms just ignore the rules. But more often they find ways to achieve collusion without a formal agreement, as we&#8217;ll soon see.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-2" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="266">
+<section-metadata><section-title>Oligopoly in Practice</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch9-p61" block_type="txt-ni">How oligopolies usually work in practice depends on the legal framework that limits what firms can do and on the underlying ability of firms in a given industry to cooperate without formal agreements.</p>
+<p id="krugmanwellsessentials4e-ch9-p62" block_type="txt-3"><phrase block_type="h3"><strong>The Legal Framework</strong></phrase> To understand oligopoly pricing in practice, we need to understand the legal constraints under which oligopolistic firms operate. In the United States, oligopoly first became an issue during the second half of the nineteenth century, when the growth of railroads&#8212;themselves an oligopolistic industry&#8212;created a national market for many goods.</p>
+<p id="krugmanwellsessentials4e-ch9-p63" block_type="txt">Large firms producing oil, steel, and many other products soon emerged. The industrialists quickly realized that profits would be higher if they could limit price competition. So, many industries formed cartels&#8212;that is, they signed formal agreements to limit production and raise prices. Until 1890, when the first federal legislation against such cartels was passed, this was perfectly legal.</p>
+<p id="krugmanwellsessentials4e-ch9-p64" block_type="txt">However, although these cartels were legal, they weren&#8217;t legally <em>enforceable</em>&#8212;members of a cartel couldn&#8217;t ask the courts to force a firm that was violating its agreement to reduce its production. And firms often did violate their agreements, for the reason already suggested by our duopoly example: there is always a temptation for each firm in a cartel to produce more than it is supposed to.</p>
+<p id="krugmanwellsessentials4e-ch9-p65" block_type="txt">In 1881 clever lawyers at John D. Rockefeller&#8217;s Standard Oil Company came up with a solution&#8212;the so-called trust. In a trust, shareholders of all the major companies in an industry placed their shares in the hands of a board of trustees who controlled the companies. This, in effect, merged the companies into a single firm that could then engage in monopoly pricing. In this way, the Standard Oil Trust established what was essentially a monopoly of the oil industry, and it was soon followed by trusts in sugar, whiskey, lead, cottonseed oil, and linseed oil.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p66" block_type="mn-gl-def"><strong>Antitrust policy</strong> consists of efforts undertaken by the government to prevent oligopolistic industries from becoming or behaving like monopolies.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p67" block_type="txt">Eventually there was a public backlash, driven partly by concern about the economic effects of the trust movement, partly by fear that the owners of the trusts were simply becoming too powerful. The result was the Sherman Antitrust Act of 1890, which was intended both to prevent the creation of more monopolies and to break up existing ones. At first this law went largely unenforced. But over the decades that followed, the federal government became increasingly committed to making it difficult for oligopolistic industries either to become monopolies or to behave like them. Such efforts are known to this day as <strong>antitrust policy.</strong></p>
+<p id="krugmanwellsessentials4e_page_267" block_type="page_start">267</p>
+<p id="krugmanwellsessentials4e-ch9-p68" block_type="txt">Among advanced countries, the United States is unique in its long tradition of antitrust policy. Until recently, other advanced countries did not have policies against price-fixing, and some had even supported the creation of cartels, believing that it would help their own firms against foreign rivals. But the situation has changed radically as the European Union (EU)&#8212;a supranational body tasked with enforcing antitrust policy for its member countries&#8212;has moved toward U.S. practices. Today, EU and U.S. regulators often target the same firms because price-fixing has &#8220;gone global&#8221; as international trade has expanded.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-4" alt="image" src="images/KrugESS4e_9UN01.jpg"/>
+<caption><em>&#8220;Frankly, I&#8217;m dubious about amalgamated smelting and refining pleading innocent to their anti-trust violation due to insanity.&#8221;</em></caption>
+<asset_source><link href="http://www.Sidney Harris/Cartoonstock.com">Sidney Harris/Cartoonstock.com</link></asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p69" block_type="txt">During the early 1990s, the United States instituted an amnesty program in which a price-fixer receives a much-reduced penalty if it informs on its co-conspirators. In addition, Congress increased the maximum fines levied upon conviction. These two new policies clearly made informing on your cartel partners a dominant strategy, and it has paid off as executives from Belgium, Britain, Canada, France, Germany, Italy, Mexico, the Netherlands, South Korea, and Switzerland, as well as from the United States, have been convicted in U.S. courts of cartel crimes.</p>
+<p id="krugmanwellsessentials4e-ch9-p70" block_type="txt">Life has gotten much tougher for those who want to operate a cartel.</p>
+<p id="krugmanwellsessentials4e-ch9-p71" block_type="txt-3"><phrase block_type="h3"><strong>Tacit Collusion and Price Wars</strong></phrase> If a real industry were as simple as our lysine example, it probably wouldn&#8217;t be necessary for the company presidents to meet or do anything that could land them in jail. Both firms would realize that it was in their mutual interest to restrict output to 30 million pounds each and that any short-term gains to either firm from producing more would be much less than the later losses as the other firm retaliated. So even without any explicit agreement, the firms would probably achieve the <em>tacit collusion</em> needed to maximize their combined profits.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p72" block_type="mn-gl-def">When firms limit production and raise prices in a way that raises one anothers&#8217; profits, even though they have not made any formal agreement, they are engaged in <strong>tacit collusion.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p73" block_type="txt">Firms are said to be engaged in <strong>tacit collusion</strong> when, as in our example, they restrict output in a way that raises the profits of another firm, and expect the favor to be returned even without an enforceable agreement&#8212;although they act &#8220;as if&#8221; they had such an agreement and are in legal jeopardy if they even discuss prices.</p>
+<p id="krugmanwellsessentials4e-ch9-p74" block_type="txt">Real industries are nowhere near this simple. Nonetheless, in most oligopolistic industries, most of the time, the sellers do appear to succeed in keeping prices above their noncooperative level. Tacit collusion, in other words, is the normal state of oligopoly.</p>
+<p id="krugmanwellsessentials4e-ch9-p75" block_type="txt">Although tacit collusion is common, it rarely allows an industry to push prices all the way up to their monopoly level; collusion is usually far from perfect. As we discuss next, there are four factors that make it hard for an industry to coordinate on high prices.</p>
+<p id="krugmanwellsessentials4e-ch9-p76" block_type="txt-4"><phrase block_type="h4"><strong>Less Concentration</strong></phrase> In a less concentrated industry, the typical firm will have a smaller market share than in a more concentrated industry. This tilts firms toward noncooperative behavior because when a smaller firm cheats and increases its output, it gains for itself all of the profit from the higher output. And if its rivals retaliate by increasing their output, the firm&#8217;s losses are limited because of its relatively modest market share. A less concentrated industry is often an indication that there are low barriers to entry.</p>
+<p id="krugmanwellsessentials4e-ch9-p77" block_type="txt-4"><phrase block_type="h4"><strong>Complex Products and Pricing Schemes</strong></phrase> In our lysine example the two firms produce only one product. In reality, however, oligopolists often sell thousands or even tens of thousands of different products. Under these circumstances, keeping track of what other firms are producing and the prices they are charging is difficult. This makes it hard to determine whether a firm is cheating on the tacit agreement.</p>
+<p id="krugmanwellsessentials4e-ch9-p78" block_type="txt-4"><phrase block_type="h4"><strong>Differences in Interests</strong></phrase> In the lysine example, a tacit agreement for the firms to split the market equally is a natural outcome, probably acceptable to both firms. In real industries, however, firms often differ both in their perceptions about what is fair and in their real interests.</p>
+<p id="krugmanwellsessentials4e_page_268" block_type="page_start">268</p>
+<p id="krugmanwellsessentials4e-ch9-p79" block_type="txt">For example, suppose that Ajinomoto was a long-established lysine producer and ADM a more recent entrant to the industry. Ajinomoto might feel that it deserved to continue producing more than ADM, but ADM might feel that it was entitled to 50&#37; of the business. (A disagreement along these lines was one of the contentious issues in those meetings the FBI was filming.)</p>
+<p id="krugmanwellsessentials4e-ch9-p80" block_type="txt">Alternatively, suppose that ADM&#8217;s marginal costs were lower than Ajinomoto&#8217;s. Even if they could agree on market shares, they would then disagree about the profit-maximizing level of output.</p>
+<p id="krugmanwellsessentials4e-ch9-p81" block_type="txt-4"><phrase block_type="h4"><strong>Bargaining Power of Buyers</strong></phrase> Often oligopolists sell not to individual consumers but to large buyers&#8212;other industrial enterprises, nationwide chains of stores, and so on. These large buyers are in a position to bargain for lower prices from the oligopolists: they can ask for a discount from an oligopolist and warn that they will go to a competitor if they don&#8217;t get it. An important reason large retailers like Walmart are able to offer lower prices to customers than small retailers is precisely their ability to use their size to extract lower prices from their suppliers.</p>
+<p id="krugmanwellsessentials4e-ch9-p82" block_type="txt">These difficulties in enforcing tacit collusion have sometimes led companies to defy the law and create illegal cartels. We&#8217;ve already examined the case of the lysine industry and in the upcoming Economics in Action, we&#8217;ll look at the chocolate industry.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p83" block_type="mn-gl-def">A <strong>price war</strong> occurs when tacit collusion breaks down and prices collapse.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p84" block_type="txt">Because tacit collusion is often hard to achieve, most oligopolies charge prices that are well below what the same industry would charge if it were controlled by a monopolist&#8212;or what they would charge if they were able to collude explicitly. In addition, sometimes collusion breaks down and there is a <strong>price war,</strong> which sometimes involves a collapse of prices to their noncooperative level. Sometimes they even go <em>below</em> that level, as sellers try to put each other out of business or at least punish what they regard as cheating.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch9-img-5" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch9-p85" block_type="bx-2-t"><strong>Bitter Chocolate?</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p86" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-6" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p87" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he lysine price-fixing cartel prosecution is an especially memorable case because investigators had indisputable evidence of collusion in the form of recorded conversations. However, without solid evidence, the prosecution of price-fixing can be a tricky business, made clear by the different outcomes of Canadian and American investigations into price-fixing in the chocolate industry in 2013 and 2014.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-7" alt="image" src="images/KrugESS4e_9UN02.jpg"/>
+<caption>Are chocolate makers engaging in price-fixing?</caption>
+<asset_source>iStockphoto/Thinkstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p88" block_type="bx2-txt">Prompted by disclosures by Cadbury Canada of its collusion with the other three major Canadian chocolate makers&#8212;Hershey Canada, Nestl&#233; Canada, and Mars Canada, regulators began an investigation into price-fixing in the Canadian chocolate market in 2007. In the case, Cadbury Canada received immunity from prosecution. While Hershey Canada eventually pleaded guilty and paid a nearly &#36;4 million fine, Nestl&#233; Canada and Mars Canada refused to settle.</p>
+<p id="krugmanwellsessentials4e-ch9-p89" block_type="bx2-txt">In the ensuing court proceedings, 13 Cadbury Canada executives voluntarily provided information about contacts with the other companies, including an episode in which a Nestl&#233; Canada executive handed over an envelope containing details about a forthcoming price hike to a Cadbury Canada employee. And, according to affidavits filed in court, top executives of Hershey Canada, Nestl&#233; Canada, and Mars Canada met secretly to set prices. In 2013, after protracted litigation, all four producers agreed to settle, paying a fine of more than &#36;23 million to be distributed among consumers.</p>
+<p id="krugmanwellsessentials4e_page_269" block_type="page_start">269</p>
+<p id="krugmanwellsessentials4e-ch9-p90" block_type="bx2-txt">However, U.S. prosecutions were less successful. Many large U.S. grocery stores and snack retailers were convinced that they, too, had been the victims of collusion. So in 2010, one of those stores, SUPERVALU, filed a lawsuit against the American divisions of the big four chocolate makers.</p>
+<p id="krugmanwellsessentials4e-ch9-p91" block_type="bx2-txt">In contrast to Canada, where the big four controlled a little less than 50&#37; of the market, in the United States they controlled over 75&#37;. SUPERVALU claimed that the American divisions of the big four had been fixing prices since 2002, regularly increasing prices by mid-single to double-digit amounts within a few days of one another.</p>
+<p id="krugmanwellsessentials4e-ch9-p92" block_type="bx2-txt">Indeed, the price of chocolate candy had been soaring in the United States, far in excess of the rate of inflation. Chocolate makers defended their actions, contending that they were simply passing on the higher costs of cocoa beans, dairy products, and sugar. And, as antitrust experts have pointed out, price collusion is often very difficult to prove because it is not illegal for producers to raise their prices at the same time. To prove collusion, there must be proof in the form of conversations or written agreements.</p>
+<p id="krugmanwellsessentials4e-ch9-p93" block_type="bx2-txt">In March 2014 an American judge threw out the charges of collusion, stating that there was no evidence that executives at the big four chocolate producers were aware of the anti-competitive behavior of their colleagues in Canada, and that closely timed price increases were not sufficient proof of collusion. Federal Judge Christopher Conner concluded that the defendants engaged in &#8220;rational, competitive behavior&#8221; when they increased prices to counter anticipated cost increases. The case was a bitter reversal for American chocolate consumers who hoped that they could soon enjoy their candy fix at lower prices.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch9-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch9-list-3" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch9-p94" block_type="sr1-bl"><strong>Oligopoly</strong> is a common market structure, one in which there are only a few firms, called <strong>oligopolists,</strong> in the industry.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p95" block_type="sr1-bl">Oligopoly is a form of <strong>imperfect competition</strong> and arises from the same forces that lead to monopoly, except in weaker form.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p96" block_type="sr1-bl">Some of the key issues in oligopoly can be understood by looking at the simplest case, a <strong>duopoly&#8212;</strong>an industry containing only two firms, called <strong>duopolists.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p97" block_type="sr1-bl">By acting as if they were a single monopolist, oligopolists can maximize their combined profits. So there is an incentive to form a <strong>cartel.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p98" block_type="sr1-bl">However, each firm has an incentive to cheat&#8212;to produce more than it is supposed to under the cartel agreement. So there are two principal outcomes: successful <strong>collusion</strong> or behaving <strong>noncooperatively</strong> by cheating.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p99" block_type="sr1-bl">Oligopolies operate under legal restrictions in the form of <strong>antitrust policy.</strong> But many succeed in achieving <strong>tacit collusion,</strong> which occurs when firms, without any formal agreement, limit production and raise prices in a way that raises one anothers&#8217; profits.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p100" block_type="sr1-bl">Tacit collusion is limited by a number of factors, including a large number of firms, complex products and pricing, differences in interests among firms, and bargaining power of buyers. When collusion breaks down, there is a <strong>price war.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">9-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch9-p101" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Explain why each of the following industries is an oligopoly, not a perfectly competitive industry.</p>
+<list id="krugmanwellsessentials4e-ch9-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p102" block_type="sr2-nl-lvl2">The world oil industry, where a few countries near the Persian Gulf control much of the world&#8217;s oil reserves</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p103" block_type="sr2-nl-lvl2">The microprocessor industry, where two firms, Intel and its bitter rival AMD, dominate the technology</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p104" block_type="sr2-nl-lvl2">The wide-body passenger jet industry, composed of the American firm Boeing and the European firm Airbus, where production is characterized by extremely large fixed cost</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch9-p105" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> Which of the following factors increase the likelihood that an oligopolist will collude with other firms in the industry? Which of these factors increase the likelihood that an oligopolist will act noncooperatively and raise output? Explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch9-list-5" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p106" block_type="sr2-nl-lvl2">The firm&#8217;s initial market share is small. (<em>Hint:</em> Think about the price effect.)</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p107" block_type="sr2-nl-lvl2">The firm has a cost advantage over its rivals.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-3" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch9-p108" block_type="sr2-nl-last"><phrase block_type="qnum">3.</phrase> Which of the following factors are likely to support the conclusion that there is tacit collusion in this industry? Which of these factors are not likely to support that conclusion? Explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch9-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p109" block_type="sr2-nl-lvl2">There has been considerable variation in the market shares of the firms in the industry over time.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p110" block_type="sr2-nl-lvl2">Firms in the industry build into their products unnecessary features that make it hard for consumers to switch from one company&#8217;s products to another company&#8217;s products.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p111" block_type="sr2-nl-lvl2">Firms meet yearly to discuss their annual sales forecasts.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p112" block_type="sr2-nl-lvl2">Firms tend to adjust their prices upward at the same times.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch9-p113" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-2" block_type="h1" title="" chapter="9" numbered="true" level="1" print_page="270">
+<section-metadata><section-title>Games Oligopolists Play</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_270" block_type="page_start">270</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p114" block_type="mn-gl-def">When a firm&#8217;s decision significantly affects the profits of other firms in the industry, the firms are in a situation of <strong>interdependence.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p115" block_type="txt-ni">Each oligopolistic firm realizes both that its profit depends on what its competitor does and that its competitor&#8217;s profit depends on what it does. That is, the two firms are in a situation of <strong>interdependence,</strong> where each firm&#8217;s decision significantly affects the profit of the other firm (or firms, in the case of more than two).</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p116" block_type="mn-gl-def">The study of behavior in situations of interdependence is known as <strong>game theory.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p117" block_type="txt">In effect, the two firms are playing a &#8220;game&#8221; in which the profit of each player depends not only on its own actions but on those of the other player (or players). In order to understand more fully how oligopolists behave, economists, along with mathematicians, developed the area of study of such games, known as <strong>game theory.</strong> It has many applications, not just to economics but also to military strategy, politics, and other social sciences.</p>
+<p id="krugmanwellsessentials4e-ch9-p118" block_type="txt">Let&#8217;s see how game theory helps us understand oligopoly.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-3" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="270">
+<section-metadata><section-title>The Prisoners&#8217; Dilemma</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p119" block_type="mn-gl-def">The reward received by a player in a game, such as the profit earned by an oligopolist, is that player&#8217;s <strong>payoff.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p120" block_type="txt-ni">Game theory deals with any situation in which the reward to any one player&#8212;the <strong>payoff&#8212;</strong>depends not only on his or her own actions but also on those of other players in the game. In the case of oligopolistic firms, the payoff is simply the firm&#8217;s profit.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p121" block_type="mn-gl-def">A <strong>payoff matrix</strong> shows how the payoff to each of the participants in a two-player game depends on the actions of both. Such a matrix helps us analyze situations of interdependence.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p122" block_type="txt">When there are only two players, as in a duopoly, the interdependence between the players can be represented with a <strong>payoff matrix</strong> like that shown in <link href="#krugmanwellsessentials4e-ch9-fig-4">Figure 9-1</link>. Each row corresponds to an action by one player (in this case, ADM); each column corresponds to an action by the other (in this case, Ajinomoto). For simplicity, let&#8217;s assume that ADM can pick only one of two alternatives: produce 30 million pounds of lysine or produce 40 million pounds. Ajinomoto has the same pair of choices.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-4" block_type="figure" numbered="true" number="9-1" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch9-fig-4"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-1</strong></phrase></phrase> <phrase block_type="fig_title">A Payoff Matrix</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch9-img-8" alt="image" src="images/KrugESS4e_fig_9_01.jpg"/>
+<caption>Two firms, ADM and Ajinomoto, must decide how much lysine to produce. The profits of the two firms are <em>interdependent:</em> each firm&#8217;s profit depends not only on its own decision but also on the other&#8217;s decision. Each row represents an action by ADM, each column, one by Ajinomoto. Both firms will be better off if they both choose the lower output, but it is in each firm&#8217;s individual interest to choose the higher output.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p123" block_type="txt">The matrix contains four boxes, each divided by a diagonal line. Each box shows the payoff to the two firms that results from a pair of choices; the number below the diagonal shows ADM&#8217;s profits, the number above the diagonal shows Ajinomoto&#8217;s profits.</p>
+<p id="krugmanwellsessentials4e-ch9-p124" block_type="txt">These payoffs show what we concluded from our earlier analysis: the combined profit of the two firms is maximized if they each produce 30 million pounds. Either firm can, however, increase its own profits by producing 40 million pounds while the other produces only 30 million pounds. But if both produce the larger quantity, both will have lower profits than if they had both held their output down.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p125" block_type="mn-gl-def"><strong>Prisoners&#8217; dilemma</strong> is a game based on two premises: (1) Each player has an incentive to choose an action that benefits itself at the other player&#8217;s expense, and (2) When both players act in this way, both are worse off than if they had acted cooperatively.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p126" block_type="txt">The particular situation shown here is a version of a famous&#8212;and seemingly paradoxical&#8212;case of interdependence that appears in many contexts. Known as the <strong>prisoners&#8217; dilemma,</strong> it is a type of game in which the payoff matrix implies the following:</p>
+<list id="krugmanwellsessentials4e-ch9-list-7" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch9-p127" block_type="bl-first">Each player has an incentive, regardless of what the other player does, to cheat&#8212;to take an action that benefits it at the other&#8217;s expense.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p128" block_type="bl-last">When both players cheat, both are worse off than they would have been if neither had cheated.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch9-p129" block_type="txt">The original illustration of the prisoners&#8217; dilemma occurred in a fictional story about two accomplices in crime&#8212;let&#8217;s call them Thelma and Louise&#8212;who have been caught by the police. The police have enough evidence to put them behind bars for 5 years. They also know that the pair have committed a more serious crime, one that carries a 20-year sentence; unfortunately, they don&#8217;t have enough evidence to convict the women on that charge. To do so, they would need each of the prisoners to implicate the other in the second crime.</p>
+<p id="krugmanwellsessentials4e_page_271" block_type="page_start">271</p>
+<p id="krugmanwellsessentials4e-ch9-p130" block_type="txt">So the police put the miscreants in separate cells and say the following to each: &#8220;Here&#8217;s the deal: if neither of you confesses, you know that we&#8217;ll send you to jail for 5 years. If you confess and implicate your partner, and she doesn&#8217;t do the same, we&#8217;ll reduce your sentence from 5 years to 2. But if your partner confesses and you don&#8217;t, you&#8217;ll get the maximum 20 years. And if both of you confess, we&#8217;ll give you both 15 years.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch9-p131" block_type="txt"><link href="#krugmanwellsessentials4e-ch9-fig-5">Figure 9-2</link> shows the payoffs that face the prisoners, depending on the decision of each to remain silent or to confess. (Usually the payoff matrix reflects the players&#8217; payoffs, and higher payoffs are better than lower payoffs. This case is an exception: a higher number of years in prison is bad, not good!) Let&#8217;s assume that the prisoners have no way to communicate and that they have not sworn an oath not to harm each other or anything of that sort. So each acts in her own self-interest. What will they do?</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-5" block_type="figure" numbered="true" number="9-2" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch9-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-2</strong></phrase></phrase> <phrase block_type="fig_title">The Prisoners&#8217; Dilemma</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch9-img-9" alt="image" src="images/KrugESS4e_fig_9_02.jpg"/>
+<caption>Each of two prisoners, held in separate cells, is offered a deal by the police&#8212;a light sentence if she confesses and implicates her accomplice but her accomplice does not do the same, a heavy sentence if she does not confess but her accomplice does, and so on. It is in the joint interest of both prisoners not to confess; it is in each one&#8217;s individual interest to confess.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p132" block_type="mn-gl-def">An action is a <strong>dominant strategy</strong> when it is a player&#8217;s best action regardless of the action taken by the other player.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p133" block_type="txt">The answer is clear: both will confess. Look at it first from Thelma&#8217;s point of view: she is better off confessing, regardless of what Louise does. If Louise doesn&#8217;t confess, Thelma&#8217;s confession reduces her own sentence from 5 years to 2. If Louise <em>does</em> confess, Thelma&#8217;s confession reduces her sentence from 20 to 15 years. Either way, it&#8217;s clearly in Thelma&#8217;s interest to confess. And because she faces the same incentives, it&#8217;s clearly in Louise&#8217;s interest to confess, too. To confess in this situation is a type of action that economists call a <em>dominant strategy.</em> An action is a <strong>dominant strategy</strong> when it is the player&#8217;s best action regardless of the action taken by the other player.</p>
+<p id="krugmanwellsessentials4e-ch9-p134" block_type="txt">It&#8217;s important to note that not all games have a dominant strategy&#8212;it depends on the structure of payoffs in the game. But in the case of Thelma and Louise, it is clearly in the interest of the police to structure the payoffs so that confessing is a dominant strategy for each person. So as long as the two prisoners have no way to make an enforceable agreement that neither will confess (something they can&#8217;t do if they can&#8217;t communicate, and the police certainly won&#8217;t allow them to do so because the police want to compel each one to confess), Thelma and Louise will each act in a way that hurts the other.</p>
+<p id="krugmanwellsessentials4e-ch9-p135" block_type="txt">So if each prisoner acts rationally in her own interest, both will confess. Yet if neither of them had confessed, both would have received a much lighter sentence! In a prisoners&#8217; dilemma, each player has a clear incentive to act in a way that hurts the other player&#8212;but when both make that choice, it leaves both of them worse off.</p>
+<p id="krugmanwellsessentials4e-ch9-p136" block_type="txt">When Thelma and Louise both confess, they reach an <em>equilibrium</em> of the game. We have used the concept of equilibrium many times; it is an outcome in which no individual or firm has any incentive to change his or her action.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p137" block_type="mn-gl-def">A <strong>Nash equilibrium,</strong> also known as a <strong>noncooperative equilibrium,</strong> results when each player in a game chooses the action that maximizes his or her payoff given the actions of other players, ignoring the effects of his or her action on the payoffs received by those other players.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p138" block_type="txt">In game theory, this kind of equilibrium, in which each player takes the action that is best for her given the actions taken by other players, and vice versa, is known as a <strong>Nash equilibrium,</strong> after the mathematician and Nobel laureate John Nash. (Nash&#8217;s life was chronicled in the best-selling biography <em>A Beautiful Mind,</em> which was made into a movie.) Because the players in a Nash equilibrium do not take into account the effect of their actions on others, this is also known as a <strong>noncooperative equilibrium.</strong></p>
+<p id="krugmanwellsessentials4e_page_272" block_type="page_start">272</p>
+<p id="krugmanwellsessentials4e-ch9-p139" block_type="txt">Now look back at <link href="#krugmanwellsessentials4e-ch9-fig-4">Figure 9-1</link>: ADM and Ajinomoto are in the same situation as Thelma and Louise. Each firm is better off producing the higher output, regardless of what the other firm does. Yet if both produce 40 million pounds, both are worse off than if they had followed their agreement and produced only 30 million pounds. In both cases, then, the pursuit of individual self-interest&#8212;the effort to maximize profits or to minimize jail time&#8212;has the perverse effect of hurting both players.</p>
+<p id="krugmanwellsessentials4e-ch9-p140" block_type="txt">Prisoners&#8217; dilemmas appear in many situations. Clearly, the players in any prisoners&#8217; dilemma would be better off if they had some way of enforcing cooperative behavior&#8212;if Thelma and Louise had both sworn to a code of silence or if ADM and Ajinomoto had signed an enforceable agreement not to produce more than 30 million pounds of lysine.</p>
+<p id="krugmanwellsessentials4e-ch9-p141" block_type="txt">But in the United States, as we&#8217;ve seen, an agreement setting the output levels of two oligopolists isn&#8217;t just unenforceable, it&#8217;s illegal. So it seems that a noncooperative equilibrium is the only possible outcome. Or is it?</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch9-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch9-p142" block_type="bx1-t"><strong>PLAYING FAIR IN THE PRISONERS&#8217; DILEMMA</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p143" block_type="bx1-txt-ni">One common reaction to the prisoners&#8217; dilemma is to assert that it isn&#8217;t really rational for either prisoner to confess. Thelma wouldn&#8217;t confess because she&#8217;d be afraid Louise would beat her up, or Thelma would feel guilty because Louise wouldn&#8217;t do that to her.</p>
+<p id="krugmanwellsessentials4e-ch9-p144" block_type="bx1-txt">But this kind of answer is, well, cheating&#8212;it amounts to changing the payoffs in the payoff matrix. To understand the dilemma, you have to play fair and imagine prisoners who care <em>only</em> about the length of their sentences.</p>
+<p id="krugmanwellsessentials4e-ch9-p145" block_type="bx1-txt">Luckily, when it comes to oligopoly, it&#8217;s a lot easier to believe that the firms care only about their profits. There is no indication that anyone at ADM felt either fear of or affection for Ajinomoto, or vice versa; it was strictly about business.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-4" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="272">
+<section-metadata><section-title>Repeated Interaction and Tacit Collusion</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p146" block_type="mn-gl-def">A firm engages in <strong>strategic behavior</strong> when it attempts to influence the future behavior of other firms.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p147" block_type="txt-ni">Thelma and Louise in their cells are playing what is known as a <em>one-shot</em> game&#8212;that is, they play the game with each other only once. They get to choose once and for all whether to confess or hang tough, and that&#8217;s it. However, most of the games that oligopolists play aren&#8217;t one-shot; instead, they expect to play the game repeatedly with the same rivals. An oligopolist usually expects to be in business for many years, and it knows that its decision today about whether to cheat is likely to affect the way other firms treat it in the future. So a smart oligopolist doesn&#8217;t just decide what to do based on the effect on profit in the short run. Instead, it engages in <strong>strategic behavior,</strong> taking account of the effects of the action it chooses today on the future actions of other players in the game. And under some conditions oligopolists that behave strategically can manage to behave as if they had a formal agreement to collude.</p>
+<p id="krugmanwellsessentials4e-ch9-p148" block_type="txt">Suppose that ADM and Ajinomoto expect to be in the lysine business for many years and therefore expect to play the game of cheat versus collude shown in <link href="#krugmanwellsessentials4e-ch9-fig-4">Figure 9-1</link> many times. Would they really betray each other time and again?</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p149" block_type="mn-gl-def">A strategy of <strong>tit for tat</strong> involves playing cooperatively at first, then doing whatever the other player did in the previous period.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p150" block_type="txt">Probably not. Suppose that ADM considers two strategies. In one strategy it always cheats, producing 40 million pounds of lysine each year, regardless of what Ajinomoto does. In the other strategy, it starts with good behavior, producing only 30 million pounds in the first year, and watches to see what its rival does. If Ajinomoto also keeps its production down, ADM will stay cooperative, producing 30 million pounds again for the next year. But if Ajinomoto produces 40 million pounds, ADM will take the gloves off and also produce 40 million pounds the next year. This latter strategy&#8212;start by behaving cooperatively, but thereafter do whatever the other player did in the previous period&#8212;is generally known as <strong>tit for tat.</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p151" block_type="txt">Tit for tat is a form of strategic behavior, which we have just defined as behavior intended to influence the future actions of other players. Tit for tat offers a reward to the other player for cooperative behavior&#8212;if you behave cooperatively, so will I. It also provides a punishment for cheating&#8212;if you cheat, don&#8217;t expect me to be nice in the future.</p>
+<p id="krugmanwellsessentials4e-ch9-p152" block_type="txt">The payoff to ADM of each of these strategies would depend on which strategy Ajinomoto chooses. Consider the four possibilities, shown in <link href="#krugmanwellsessentials4e-ch9-fig-6">Figure 9-3</link>:</p>
+<list id="krugmanwellsessentials4e-ch9-list-8" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch9-p153" block_type="nl-first">If ADM plays tit for tat and so does Ajinomoto, both firms will make a profit of &#36;180 million each year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p154" block_type="nl-mid">If ADM plays always cheat but Ajinomoto plays tit for tat, ADM makes a profit of &#36;200 million the first year but only &#36;160 million per year thereafter.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p155" block_type="nl-mid">If ADM plays tit for tat but Ajinomoto plays always cheat, ADM makes a profit of only &#36;150 million in the first year but &#36;160 million per year thereafter.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p156" block_type="nl-last">If ADM plays always cheat and Ajinomoto does the same, both firms will make a profit of &#36;160 million each year.</p></li>
+</list>
+<figure id="krugmanwellsessentials4e-ch9-fig-6" block_type="figure" numbered="true" number="9-3" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch9-fig-6"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-3</strong></phrase></phrase> <phrase block_type="fig_title">How Repeated Interaction Can Support Collusion</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch9-img-10" alt="image" src="images/KrugESS4e_fig_9_03.jpg"/>
+<caption>A strategy of tit for tat involves playing cooperatively at first, then following the other player&#8217;s move. This rewards good behavior and punishes bad behavior. If the other player cheats, playing tit for tat will lead to only a short-term loss in comparison to playing always cheat. But if the other player plays tit for tat, also playing tit for tat leads to a long-term gain. So a firm that expects other firms to play tit for tat may well choose to do the same, leading to successful tacit collusion.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_273" block_type="page_start">273</p>
+<p id="krugmanwellsessentials4e-ch9-p157" block_type="txt">Which strategy is better? In the first year, ADM does better playing always cheat, whatever its rival&#8217;s strategy: it assures itself that it will get either &#36;200 million or &#36;160 million (which of the two payoffs it actually receives depends on whether Ajinomoto plays tit for tat or always cheat). This is better than what it would get in the first year if it played tit for tat: either &#36;180 million or &#36;150 million. But by the second year, a strategy of always cheat gains ADM only &#36;160 million per year for the second and all subsequent years, regardless of Ajinomoto&#8217;s actions.</p>
+<p id="krugmanwellsessentials4e-ch9-p158" block_type="txt">Over time, the total amount gained by ADM by playing always cheat is less than the amount it would gain by playing tit for tat: for the second and all subsequent years, it would never get any less than &#36;160 million and would get as much as &#36;180 million if Ajinomoto played tit for tat as well. Which strategy, always cheat or tit for tat, is more profitable depends on two things: how many years ADM expects to play the game and what strategy its rival follows.</p>
+<p id="krugmanwellsessentials4e-ch9-p159" block_type="txt">If ADM expects the lysine business to end in the near future, it is in effect playing a one-shot game. So it might as well cheat and grab what it can. Even if ADM expects to remain in the lysine business for many years (therefore to find itself repeatedly playing this game with Ajinomoto) and, for some reason, expects Ajinomoto always to cheat, it should also always cheat. That is, ADM should follow the old rule &#8220;Do unto others before they do unto you.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch9-p160" block_type="txt">But if ADM expects to be in the business for a long time and thinks Ajinomoto is likely to play tit for tat, it will make more profits over the long run by playing tit for tat, too. It could have made some extra short-term profits by cheating at the beginning, but this would provoke Ajinomoto into cheating, too, and would, in the end, mean lower profits.</p>
+<p id="krugmanwellsessentials4e-ch9-p161" block_type="txt">The lesson of this story is that when oligopolists expect to compete with one another over an extended period of time, each individual firm will often conclude that it is in its own best interest to be helpful to the other firms in the industry. So it will restrict its output in a way that raises the profits of the other firms, expecting them to return the favor, and without a formal agreement. In other words, the firms engage in tacit collusion.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch9-img-5" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch9-p162" block_type="bx-2-t"><strong>The Rise and Fall and Rise of OPEC</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p163" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-11" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p164" block_type="bx2-first"><phrase block_type="dropcap">C</phrase>all it the cartel that does not need to meet in secret. The Organization of Petroleum Exporting Countries, usually referred to as OPEC, includes 13 national governments (Algeria, Angola, Ecuador, Indonesia, Iran, Iraq, Kuwait, Libya, Nigeria, Qatar, Saudi Arabia, the United Arab Emirates, and Venezuela), and it controls 40&#37; of the world&#8217;s oil exports and 80&#37; of its proven reserves. Two other oil-exporting countries, Norway and Mexico, are not formally part of the cartel but act as if they were. (Russia, also an important oil exporter, has not yet become part of the club.)</p>
+<p id="krugmanwellsessentials4e_page_274" block_type="page_start">274</p>
+<p id="krugmanwellsessentials4e-ch9-p165" block_type="bx2-txt">Unlike corporations, which are often legally prohibited by governments from reaching agreements about production and prices, national governments can talk about whatever they feel like. OPEC members routinely meet to try to set targets for production.</p>
+<p id="krugmanwellsessentials4e-ch9-p166" block_type="bx2-txt">These nations are not particularly friendly with one another. Yet the members of OPEC are effectively players in a game with repeated interactions. In any given year it is in their combined interest to keep output low and prices high. But it is also in the interest of any one producer to cheat and produce more than the agreed-upon quota&#8212;unless that producer believes that his actions will bring future retaliation.</p>
+<p id="krugmanwellsessentials4e-ch9-p167" block_type="bx2-txt">So how successful is the cartel? Well, it&#8217;s had its ups and downs. Analysts have estimated that of 12 announced quota reductions, OPEC was able to successfully defend its price floor 80&#37; of the time.</p>
+<p id="krugmanwellsessentials4e-ch9-p168" block_type="bx2-txt"><link href="#krugmanwellsessentials4e-ch9-fig-7">Figure 9-4</link> shows the price of oil in constant dollars (that is, the value of a barrel of oil in terms of other goods) since 1949. OPEC first demonstrated its muscle in 1974: in the aftermath of a war in the Middle East, several OPEC producers limited their output&#8212;and they liked the results so much that they decided to continue the practice. Following a second wave of turmoil in the aftermath of Iran&#8217;s 1979 revolution, prices shot still higher.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-7" block_type="figure" numbered="true" number="9-4" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch9-fig-7"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-4</strong></phrase></phrase> <phrase block_type="fig_title">Crude Oil Prices, 1949&#8211;2013 (in Constant 2012 Dollars)</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch9-img-12" alt="image" src="images/KrugESS4e_fig_9_04.jpg"/>
+<asset_source><em>Data from:</em> Energy Information Administration; FRED.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p169" block_type="bx2-txt">By the mid-1980s, however, there was a growing glut of oil on world markets, and cheating by cash-short OPEC members became widespread. The result, in 1985, was that producers who had tried to play by the rules&#8212;especially Saudi Arabia, the largest producer&#8212;got fed up, and collusion collapsed.</p>
+<p id="krugmanwellsessentials4e-ch9-p170" block_type="bx2-txt">The cartel started acting effectively at the end of the 1990s, thanks largely to the efforts of Mexico&#8217;s oil minister, who orchestrated output reductions, and Saudi Arabia&#8217;s assumption of the role of &#8220;swing producer.&#8221; As the key decision maker and the largest OPEC producer by far, Saudi Arabia allowed other members to produce as much as they could, and then adjusted its own output to meet the overall limit, thereby easing friction among members. These actions helped raise the price of oil from less than &#36;10 per barrel in 1998 to a range of &#36;20 to &#36;30 per barrel in 2003.</p>
+<p id="krugmanwellsessentials4e-ch9-p171" block_type="bx2-txt">Since 2008, OPEC has experienced the steepest roller-coaster ride of oil prices in its history. By 2008, prices had soared to over &#36;145 per barrel. But at the end of 2008, one year into the recession of 2007&#8211;2009, prices dropped sharply to &#36;32 per barrel. In response, Saudi Arabia cut its output by 20&#37;, as other members reduced their output by 5&#37;. By early 2009, prices began to rebound. Political instability in several member countries caused prices to skyrocket in 2011, as Saudi Arabia increased its output to prevent a global oil shortage.</p>
+<p id="krugmanwellsessentials4e-ch9-p172" block_type="bx2-txt">More recently, as Iraq and Iran have signaled their intention to raise output, as the United States produces increasing amounts of oil from its shale formations, and as oil production from Brazil and Canada increases, some OPEC watchers are predicting that the cartel&#8217;s future cohesion may very well be in jeopardy.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch9-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch9-list-9" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch9-p173" block_type="sr1-bl">Economists use <strong>game theory</strong> to study firms&#8217; behavior when there is <strong>interdependence</strong> between their <strong>payoffs.</strong> The game can be represented with a <strong>payoff matrix.</strong> Depending on the payoffs, a player may or may not have a <strong>dominant strategy.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p174" block_type="sr1-bl">When each firm has an incentive to cheat, but both are worse off if both cheat, the situation is known as a <strong>prisoners&#8217; dilemma.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p175" block_type="sr1-bl">Players who don&#8217;t take their interdependence into account arrive at a <strong>Nash,</strong> or <strong>noncooperative, equilibrium.</strong> But if a game is played repeatedly, players may engage in <strong>strategic behavior,</strong> sacrificing short-run profit to influence future behavior.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p176" block_type="sr1-bl">In repeated prisoners&#8217; dilemma games, <strong>tit for tat</strong> is often a good strategy, leading to successful tacit collusion.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">9-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-4" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch9-p177" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Find the Nash (noncooperative) equilibrium actions for the following payoff matrix. Which actions maximize the total payoff of Nikita and Margaret? Why is it unlikely that they will choose those actions without some communication?</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-8" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-13" alt="image" src="images/KrugESS4e_9UN03.jpg"/>
+</figure>
+</question>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-5" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch9-p178" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Which of the following factors make it more likely that oligopolists will play noncooperatively? Which make it more likely that they will engage in tacit collusion? Explain.</p>
+<list id="krugmanwellsessentials4e-ch9-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p179" block_type="sr2-nl-lvl2">Each oligopolist expects several new firms to enter the market in the future.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p180" block_type="sr2-nl-lvl2">It is very difficult for a firm to detect whether another firm has raised output.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p181" block_type="sr2-nl-lvl2">The firms have coexisted while maintaining high prices for a long time.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch9-p182" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-3" block_type="h1" title="" chapter="9" numbered="true" level="1" print_page="275">
+<section-metadata><section-title>The Meaning of Monopolistic Competition</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_275" block_type="page_start">275</p>
+<p id="krugmanwellsessentials4e-ch9-p183" block_type="txt-ni">Leo manages the Wonderful Wok stand in the food court of a big shopping mall. He offers the only Chinese food there, but there are more than a dozen alternatives, from Bodacious Burgers to Pizza Paradise. When deciding what to charge for a meal, Leo knows that he must take those alternatives into account: even people who normally prefer stir-fry won&#8217;t order a &#36;15 lunch from Leo when they can get a burger, fries, and drink for &#36;4.</p>
+<p id="krugmanwellsessentials4e-ch9-p184" block_type="txt">But Leo also knows that he won&#8217;t lose all his business even if his lunches cost a bit more than the alternatives. Chinese food isn&#8217;t the same thing as burgers or pizza. Some people will really be in the mood for Chinese that day, and they will buy from Leo even if they could dine more cheaply on burgers. Of course, the reverse is also true: even if Chinese is a bit cheaper, some people will choose burgers instead. In other words, Leo does have some market power: he has <em>some</em> ability to set his own price.</p>
+<p id="krugmanwellsessentials4e-ch9-p185" block_type="txt">So how would you describe Leo&#8217;s situation? He definitely isn&#8217;t a price-taker, so he isn&#8217;t in a situation of perfect competition. But you wouldn&#8217;t exactly call him a monopolist, either. Although he&#8217;s the only seller of Chinese food in that food court, he does face competition from other food vendors.</p>
+<p id="krugmanwellsessentials4e-ch9-p186" block_type="txt">Yet it would also be wrong to call him an oligopolist. Oligopoly, remember, involves competition among a small number of interdependent firms in an industry protected by some&#8212;albeit limited&#8212;barriers to entry and whose profits are highly interdependent. Because their profits are highly interdependent, oligopolists have an incentive to collude, tacitly or explicitly. But in Leo&#8217;s case there are <em>lots</em> of vendors in the shopping mall, too many to make tacit collusion feasible.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-18" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p187" block_type="mn-gl-def"><strong>Monopolistic competition</strong> is a market structure in which there are many competing producers in an industry, each producer sells a differentiated product, and there is free entry into and exit from the industry in the long run.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p188" block_type="txt">Economists describe Leo&#8217;s situation as one of <strong>monopolistic competition.</strong> Monopolistic competition is particularly common in service industries like restaurants and gas stations, but it also exists in some manufacturing industries. It involves three conditions: large numbers of competing producers, differentiated products, and free entry into and exit from the industry in the long run.</p>
+<p id="krugmanwellsessentials4e-ch9-p189" block_type="txt">In a monopolistically competitive industry, each producer has some ability to set the price of her differentiated product. But exactly how high she can set it is limited by the competition she faces from other existing and potential producers that produce close, but not identical, products.</p>
+<p id="krugmanwellsessentials4e_page_276" block_type="page_start">276</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-5" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="276">
+<section-metadata><section-title>Large Numbers</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch9-p190" block_type="txt-ni">In a monopolistically competitive industry, there are many producers. Such an industry does not look either like a monopoly, where the firm faces no competition, or an oligopoly, where each firm has only a few rivals. Instead, each seller has many competitors. For example, there are many vendors in a big food court, many gas stations along a major highway, and many hotels at a popular beach resort.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-6" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="276">
+<section-metadata><section-title>Free Entry and Exit in the Long Run</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch9-p191" block_type="txt-ni">In monopolistically competitive industries, new producers, with their own distinct products, can enter the industry freely in the long run. For example, other food vendors would open outlets in the food court if they thought it would be profitable to do so. In addition, firms will exit the industry if they find they are not covering their costs in the long run.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec2-7" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="276">
+<section-metadata><section-title>Differentiated Products</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch9-p192" block_type="txt-ni">In a monopolistically competitive industry, each producer has a product that consumers view as somewhat distinct from the products of competing firms; at the same time, though, consumers see these competing products as close substitutes. If Leo&#8217;s food court contained 15 vendors selling exactly the same kind and quality of food, there would be perfect competition: any seller who tried to charge a higher price would have no customers. But suppose that Wonderful Wok is the only Chinese food vendor, Bodacious Burgers is the only hamburger stand, and so on. The result of this differentiation is that each seller has some ability to set his own price: each producer has some&#8212;albeit limited&#8212;market power.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-19" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch9-p193" block_type="mn-gl-def"><strong>Product differentiation</strong> is an attempt by a firm to convince buyers that its product is different from the products of other firms in the industry.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p194" block_type="txt"><strong>Product differentiation&#8212;</strong>an attempt by a firm to create the perception that its product is different&#8212;is the only way that monopolistically competitive firms can acquire some market power. How do firms in the same industry&#8212;such as fast-food vendors, gas stations, or chocolate makers&#8212;differentiate their products? Sometimes the difference is mainly in the minds of consumers rather than in the products themselves. In general, however, firms differentiate their products by&#8212;surprise!&#8212;actually making them different.</p>
+<p id="krugmanwellsessentials4e-ch9-p195" block_type="txt">The key to product differentiation is that consumers have different preferences and are willing to pay somewhat more to satisfy those preferences. Each producer can carve out a market niche by producing something that caters to the particular preferences of some group of consumers better than the products of other firms.</p>
+<p id="krugmanwellsessentials4e-ch9-p196" block_type="txt">We&#8217;ll now look at the three forms of product differentiation: differentiation by style or type, by location, and by quality.</p>
+<p id="krugmanwellsessentials4e-ch9-p197" block_type="txt-3"><phrase block_type="h3"><strong>Differentiation by Style or Type</strong></phrase> The sellers in Leo&#8217;s food court offer different types of fast food: hamburgers, pizza, Chinese food, Mexican food, and so on. Each consumer arrives at the food court with some preference for one or another of these offerings. This preference may depend on the consumer&#8217;s mood, her diet, or what she has already eaten that day. These preferences will not make consumers indifferent to price: if Wonderful Wok were to charge &#36;15 for an egg roll, everybody would go to Bodacious Burgers or Pizza Paradise instead. But some people will choose a more expensive meal if that type of food is closer to their preference. So the products of the different vendors are substitutes, but they aren&#8217;t <em>perfect</em> substitutes&#8212;they are <em>imperfect substitutes.</em></p>
+<p id="krugmanwellsessentials4e-ch9-p198" block_type="txt">Vendors in a food court aren&#8217;t the only sellers that differentiate their offerings by type. Clothing stores concentrate on women&#8217;s or men&#8217;s clothes, on business or casual clothes, on trendy or classic styles. Auto manufacturers offer sedans, minivans, sport-utility vehicles, and sports cars, each type aimed at drivers with different needs and tastes.</p>
+<p id="krugmanwellsessentials4e_page_277" block_type="page_start">277</p>
+<p id="krugmanwellsessentials4e-ch9-p199" block_type="txt">Books offer yet another example of differentiation by type and style. Mysteries are differentiated from romances; among mysteries, we can differentiate among hard-boiled detective stories, whodunits, and police procedurals.</p>
+<p id="krugmanwellsessentials4e-ch9-p200" block_type="txt">In fact, product differentiation is characteristic of most consumer goods. As long as people differ in their tastes, producers find it possible and profitable to produce a range of varieties.</p>
+<p id="krugmanwellsessentials4e-ch9-p201" block_type="txt-3"><phrase block_type="h3"><strong>Differentiation by Location</strong></phrase> Gas stations along a road offer differentiated products. True, the gas may be exactly the same. But the location of the stations is different, and location matters to consumers: it&#8217;s more convenient to stop for gas near your home, near your workplace, or near wherever you are when the gas gauge gets low.</p>
+<p id="krugmanwellsessentials4e-ch9-p202" block_type="txt">In fact, many monopolistically competitive industries supply goods differentiated by location. This is especially true in service industries, from dry cleaners to hairdressers, where customers often choose the seller who is closest rather than cheapest.</p>
+<p id="krugmanwellsessentials4e-ch9-p203" block_type="txt-3"><phrase block_type="h3"><strong>Differentiation by Quality</strong></phrase> Do you have a craving for chocolate? How much are you willing to spend on it? You see, there&#8217;s chocolate and then there&#8217;s chocolate: although ordinary chocolate may not be very expensive, gourmet chocolate can cost several dollars per bite.</p>
+<p id="krugmanwellsessentials4e-ch9-p204" block_type="txt">With chocolate, as with many goods, there is a range of possible qualities. You can get a usable bicycle for less than &#36;100; you can get a much fancier bicycle for 10 times as much. It all depends on how much the additional quality matters to you and how much you will miss the other things you could have purchased with that money.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-9" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-14" alt="image" src="images/KrugESS4e_9UN04.jpg"/>
+<caption>For industries that differentiate by location, proximity is everything.</caption>
+<asset_source>Buddy Mays/Alamy</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p205" block_type="txt">Because consumers vary in what they are willing to pay for higher quality, producers can differentiate their products by quality&#8212;some offering lowerquality, inexpensive products and others offering higher-quality products at a higher price.</p>
+<p id="krugmanwellsessentials4e-ch9-p206" block_type="txt">Product differentiation, then, can take several forms. Whatever form it takes, however, there are two important features of industries with differentiated products: competition among sellers and value in diversity.</p>
+<list id="krugmanwellsessentials4e-ch9-list-11" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch9-p207" block_type="nl-first"><em>Competition among sellers</em> means that even though sellers of differentiated products are not offering identical goods, they are to some extent competing for a limited market. If more businesses enter the market, each will find that it sells less quantity at any given price. For example, if a new gas station opens along a road, each of the existing gas stations will sell a bit less.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p208" block_type="nl-last"><em>Value in diversity</em> is the gain to consumers from the proliferation of differentiated products. A food court with eight vendors makes consumers happier than one with only six vendors, even if the prices are the same, because some customers will get a meal that is closer to what they had in mind. A road on which there is a gas station every two miles is more convenient for motorists than a road where gas stations are five miles apart.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch9-p209" block_type="txt">When a product is available in many different qualities, fewer people are forced to pay for more quality than they need or to settle for lower quality than they want. There are, in other words, benefits to consumers from a greater diversity of available products.</p>
+<p id="krugmanwellsessentials4e-ch9-p210" block_type="txt">Monopolistic competition differs from the three market structures we have examined so far. It&#8217;s not the same as perfect competition: firms have some power to set prices. It&#8217;s not pure monopoly: firms face some competition. And it&#8217;s not the same as oligopoly: because there are many firms and free entry, the potential for collusion so important in oligopoly no longer exists.</p>
+<p id="krugmanwellsessentials4e_page_278" block_type="page_start">278</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch9-p211" block_type="bx-2-t"><strong>Any Color, So Long as It&#8217;s Black</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p212" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-15" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p213" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he early history of the auto industry offers a classic illustration of the power of product differentiation.</p>
+<p id="krugmanwellsessentials4e-ch9-p214" block_type="bx2-txt">The modern automobile industry was created by Henry Ford, who first introduced assembly-line production. This technique made it possible for him to offer the famous Model T at a far lower price than anyone else was charging for a car; by 1920, Ford dominated the automobile business.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-16" alt="image" src="images/KrugESS4e_9UN05.jpg"/>
+<caption>Ford&#8217;s Model T in basic black.</caption>
+<asset_source>Science and Society/Superstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p215" block_type="bx2-txt">Ford&#8217;s strategy was to offer just one style of car, which maximized his economies of scale in production but made no concessions to differences in consumers&#8217; tastes. He supposedly declared that customers could get the Model T in &#8220;any color, so long as it&#8217;s black.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch9-p216" block_type="bx2-txt">This strategy was challenged by Alfred P. Sloan, who had merged a number of smaller automobile companies into General Motors. Sloan&#8217;s strategy was to offer a range of car types, differentiated by quality and price. Chevrolets were basic cars that directly challenged the Model T, Buicks were bigger and more expensive, and so on up to Cadillacs. And you could get each model in several different colors.</p>
+<p id="krugmanwellsessentials4e-ch9-p217" block_type="bx2-txt">By the 1930s the verdict was clear: customers preferred a range of styles, and General Motors, not Ford, became the dominant auto manufacturer for the rest of the twentieth century.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch9-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch9-list-12" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch9-p218" block_type="sr1-bl">In <strong>monopolistic competition</strong> there are many competing producers, each with a differentiated product, and free entry and exit in the long run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p219" block_type="sr1-bl"><strong>Product differentiation</strong> takes three main forms: by style or type, by location, or by quality. The products of competing sellers are considered imperfect substitutes.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p220" block_type="sr1-bl">Producers compete for the same market, so entry by more producers reduces the quantity each existing producer sells at any given price. In addition, consumers gain from the increased diversity of products.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">9-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-6" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch9-p221" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Each of the following goods and services is a differentiated product. Which are differentiated as a result of monopolistic competition and which are not? Explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch9-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p222" block_type="sr2-nl-lvl2">Ladders</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p223" block_type="sr2-nl-lvl2">Soft drinks</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p224" block_type="sr2-nl-lvl2">Department stores</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p225" block_type="sr2-nl-lvl2">Steel</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-cyuquestion-7" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch9-p226" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> You must determine which of two types of market structure better describes an industry, but you are allowed to ask only one question about the industry. What question should you ask to determine if an industry is:</p>
+<list id="krugmanwellsessentials4e-ch9-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p227" block_type="sr2-nl-lvl2">Perfectly competitive or monopolistically competitive?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p228" block_type="sr2-nl-lvl2">A monopoly or monopolistically competitive?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch9-p229" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-3" block_type="solved_problem" title="" chapter="9" numbered="true" level="1" print_page="278">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">The Ups (and Downs) of Oil Prices</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p230" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-17" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p231" block_type="wio-txt-ni">The world&#8217;s best known cartel is OPEC, the Organization of Petroleum Exporting Countries, discussed in the preceding Economics in Action. The 13 national governments that comprise OPEC export nearly &#36;1 trillion of petroleum products every year. As the largest producer, Saudi Arabia produces one-third of the annual output and it is the key decision maker. The result is a situation similar to the prisoner&#8217;s dilemma faced by Thelma and Louise, but this time, the players are Saudi Arabia and the rest of OPEC.</p>
+<p id="krugmanwellsessentials4e_page_279" block_type="page_start">279</p>
+<p id="krugmanwellsessentials4e-ch9-p232" block_type="wio-txt">Our players, Saudi Arabia and other OPEC members, must collectively decide whether to maintain or increase oil production levels:</p>
+<list id="krugmanwellsessentials4e-ch9-list-15" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch9-p233" block_type="wio-txt">If both parties choose to maintain oil production levels, the price of oil and subsequently the total value of oil exports from each country will stay the same.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p234" block_type="wio-txt">If one of the parties decides to increase oil production the price of oil will decrease.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p235" block_type="wio-txt">If either party independently increases production the value of oil exports will increase, but if both parties increase production the value of total exports will decrease.</p></li>
+</list>
+<figure id="krugmanwellsessentials4e-ch9-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-18" alt="image" src="images/KrugESS4e_9UN10.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p236" block_type="wio-txt-ni">The following payoff matrix displays the actions both Saudi Arabia and the rest of OPEC could take, as well as the outcomes for each (expressed as the annual total value of oil exports). Find the dominant strategies for Saudi Arabia and the rest of OPEC, the Nash (or noncooperative) equilibrium, and the outcome that results under tacit collusion.</p>
+<p id="krugmanwellsessentials4e-ch9-p237" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Determine the dominant strategy for Saudi Arabia and then for the rest of OPEC.</strong>
+<phrase block_type="step-subtext">Review pages 270&#8211;272.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch9-p238" block_type="wio-txt-ni">In this particular case, the dominant strategy for both Saudi Arabia and the rest of OPEC is to always increase production. Saudi Arabia is always better off increasing production independent of the actions taken by the rest of OPEC. Referring to the accompanying payoff matrix, you can see that, if the other OPEC members choose to maintain production, Saudi Arabia can increase production and increase total exports to &#36;600 billion, which is more than the &#36;400 billion they would receive by maintaining production levels. If the rest of OPEC chooses to increase production, Saudi Arabia can offset some of their losses by increasing production as well, allowing them to earn &#36;200 billion, instead of &#36;150 billion. Because the rest of OPEC faces the same incentives as Saudi Arabia, it is in their best interest to increase production as well.</p>
+<p id="krugmanwellsessentials4e-ch9-p239" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Find the noncooperative or Nash equilibrium. Then determine if Saudi Arabia and the rest of OPEC choose to increase or decrease production.</strong>
+<phrase block_type="step-subtext">Review pages 270&#8211;272.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch9-p240" block_type="wio-txt-ni">The noncooperative, Nash, equilibrium will occur when both parties increase production and Saudi Arabia exports &#36;200 billion of oil and the rest of OPEC exports &#36;400 billion. In this case both parties are following their dominant strategy. Despite leaving both parties worse off, neither party has an incentive to change their action, hence the prisoners&#8217; dilemma.</p>
+<p id="krugmanwellsessentials4e-ch9-p241" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Explain what the outcome would be if Saudi Arabia and the rest of OPEC engaged in a repeated game and followed a tit-for-tat strategy.</strong>
+<phrase block_type="step-subtext">Review pages 272&#8211;273.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch9-p242" block_type="wio-txt-ni">In reality, both Saudi and the rest of OPEC play a repeated game. They are in a situation where they must choose their production levels for many years to come. If Saudi Arabia leads by maintaining production levels, using a tit-for-tat strategy, the rest of OPEC will also choose to maintain production levels. In this case, both parties are engaging in tacit collusion, which results in a more desirable outcome. Using this strategy, Saudi Arabia will export &#36;400 billion in oil and the rest of OPEC will export &#36;800 billion. The repeated game continues until one party tries to cheat by taking advantage of the other and increasing production.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_280" block_type="page_start">280</p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-4" block_type="cr-que-t" title="" chapter="9" numbered="true" level="1" print_page="280">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch9-list-16" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch9-p243" block_type="sum-nl">Many industries are <strong>oligopolies:</strong> there are only a few sellers. In particular, a <strong>duopoly</strong> has only two sellers. Oligopolies exist for more or less the same reasons that monopolies exist, but in weaker form. They are characterized by <strong>imperfect competition:</strong> firms compete but possess market power.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p244" block_type="sum-nl">Predicting the behavior of <strong>oligopolists</strong> poses something of a puzzle. The firms in an oligopoly could maximize their combined profits by acting as a <strong>cartel,</strong> setting output levels for each firm as if they were a single monopolist; to the extent that firms manage to do this, they engage in <strong>collusion.</strong> But each individual firm has an incentive to produce more than it would in such an arrangement&#8212;to engage in <strong>noncooperative behavior.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p245" block_type="sum-nl">In order to limit the ability of oligopolists to collude and act like monopolists, most governments pursue an <strong>antitrust policy</strong> designed to make collusion more difficult. In practice, however, <strong>tacit collusion</strong> is widespread.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p246" block_type="sum-nl">A variety of factors make tacit collusion difficult: large numbers of firms, complex products and pricing, differences in interests, and bargaining power of buyers. When tacit collusion breaks down, there is a <strong>price war.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p247" block_type="sum-nl">The situation of <strong>interdependence,</strong> in which each firm&#8217;s profit depends noticeably on what other firms do, is the subject of <strong>game theory.</strong> In the case of a game with two players, the <strong>payoff</strong> of each player depends both on its own actions and on the actions of the other; this interdependence can be represented as a <strong>payoff matrix.</strong> Depending on the structure of payoffs in the payoff matrix, a player may have a <strong>dominant strategy&#8212;</strong>an action that is always the best regardless of the other player&#8217;s actions.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p248" block_type="sum-nl"><strong>Duopolists</strong> face a particular type of game known as a <strong>prisoners&#8217; dilemma;</strong> if each acts independently in its own interest, the resulting <strong>Nash equilibrium</strong> or <strong>noncooperative equilibrium</strong> will be bad for both. However, firms that expect to play a game repeatedly tend to engage in <strong>strategic behavior,</strong> trying to influence each other&#8217;s future actions. A particular strategy that seems to work well in maintaining tacit collusion is <strong>tit for tat.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p249" block_type="sum-nl"><strong>Monopolistic competition</strong> is a market structure in which there are many competing producers, each producing a differentiated product, and there is free entry and exit in the long run. <strong>Product differentiation</strong> takes three main forms: by style or type, by location, or by quality. Products of competing sellers are considered imperfect substitutes, and each firm has its own downward-sloping demand curve and marginal revenue curve.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-5" block_type="cr-kt-t" title="" chapter="9" numbered="true" level="1" print_page="280">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p250" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-19" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch9-p251" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p20">Oligopoly, p. 263</link></p>
+<p id="krugmanwellsessentials4e-ch9-p252" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p20">Oligopolist, p. 263</link></p>
+<p id="krugmanwellsessentials4e-ch9-p253" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p23">Imperfect competition, p. 263</link></p>
+<p id="krugmanwellsessentials4e-ch9-p254" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p33">Duopoly, p. 264</link></p>
+<p id="krugmanwellsessentials4e-ch9-p255" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p33">Duopolist, p. 264</link></p>
+<p id="krugmanwellsessentials4e-ch9-p256" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p40">Collusion, p. 264</link></p>
+<p id="krugmanwellsessentials4e-ch9-p257" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p40">Cartel, p. 264</link></p>
+<p id="krugmanwellsessentials4e-ch9-p258" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p55">Noncooperative behavior, p. 265</link></p>
+<p id="krugmanwellsessentials4e-ch9-p259" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p67">Antitrust policy, p. 266</link></p>
+<p id="krugmanwellsessentials4e-ch9-p260" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p73">Tacit collusion, p. 267</link></p>
+<p id="krugmanwellsessentials4e-ch9-p261" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p84">Price war, p. 268</link></p>
+<p id="krugmanwellsessentials4e-ch9-p262" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p115">Interdependence, p. 270</link></p>
+<p id="krugmanwellsessentials4e-ch9-p263" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p117">Game theory, p. 270</link></p>
+<p id="krugmanwellsessentials4e-ch9-p264" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p120">Payoff, p. 270</link></p>
+<p id="krugmanwellsessentials4e-ch9-p265" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p122">Payoff matrix, p. 270</link></p>
+<p id="krugmanwellsessentials4e-ch9-p266" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p126">Prisoners&#8217; dilemma, p. 270</link></p>
+<p id="krugmanwellsessentials4e-ch9-p267" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p133">Dominant strategy, p. 271</link></p>
+<p id="krugmanwellsessentials4e-ch9-p268" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p138">Nash equilibrium, p. 271</link></p>
+<p id="krugmanwellsessentials4e-ch9-p269" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p138">Noncooperative equilibrium, p. 271</link></p>
+<p id="krugmanwellsessentials4e-ch9-p270" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p147">Strategic behavior, p. 272</link></p>
+<p id="krugmanwellsessentials4e-ch9-p271" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p150">Tit for tat, p. 272</link></p>
+<p id="krugmanwellsessentials4e-ch9-p272" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p188">Monopolistic competition p. 275</link></p>
+<p id="krugmanwellsessentials4e-ch9-p273" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p194">Product differentiation, p. 276</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-6" block_type="cr-que-t" title="" chapter="9" numbered="true" level="1" print_page="280">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch9-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch9-p274" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> The accompanying table shows the demand schedule for vitamin D. Suppose that the marginal cost of producing vitamin D is zero.</p>
+<table id="krugmanwellsessentials4e-ch9-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-2" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of vitamin D<br/>(per ton)</strong></td>
+<td><strong>Quantity of vitamin D demanded<br/>(tons)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;8</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">7</td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td>20</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>30</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>40</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>50</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>60</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>70</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch9-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p275" block_type="cr-que-ans-first">Assume that BASF is the only producer of vitamin D and acts as a monopolist. It currently produces 40 tons of vitamin D at &#36;4 per ton. If BASF were to produce 10 more tons, what would be the price effect for BASF? What would be the quantity effect? Would BASF have an incentive to produce those 10 additional tons?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p276" block_type="cr-que-ans-mid">Now assume that Roche enters the market by also producing vitamin D and the market is now a duopoly. BASF and Roche agree to produce 40 tons of vitamin D in total, 20 tons each. BASF cannot be punished for deviating from the agreement with Roche. If BASF, on its own, were to deviate from that agreement and produce 10 more tons, what would be the price effect for BASF? What would be the quantity effect for BASF? Would BASF have an incentive to produce those 10 additional tons?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_281" block_type="page_start">281</p>
+<question id="krugmanwellsessentials4e-ch9-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch9-p277" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> The market for olive oil in New York City is controlled by two families, the Sopranos and the Contraltos. Both families will ruthlessly eliminate any other family that attempts to enter the New York City olive oil market. The marginal cost of producing olive oil is constant and equal to &#36;40 per gallon. There is no fixed cost. The accompanying table gives the market demand schedule for olive oil.</p>
+<table id="krugmanwellsessentials4e-ch9-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-3" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of olive oil<br/>(per gallon)</strong></td>
+<td><strong>Quantity of olive oil demanded<br/>(gallons)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;100</td>
+<td>1,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">90</td>
+<td>1,500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">80</td>
+<td>2,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">70</td>
+<td>2,500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">60</td>
+<td>3,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">50</td>
+<td>3,500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">40</td>
+<td>4,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">30</td>
+<td>4,500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">20</td>
+<td>5,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>5,500</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch9-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p278" block_type="cr-que-nl-first">Suppose the Sopranos and the Contraltos form a cartel. For each of the quantities given in the table, calculate the total revenue for their cartel and the marginal revenue for each additional gallon. How many gallons of olive oil would the cartel sell in total and at what price? The two families share the market equally (each produces half of the total output of the cartel). How much profit does each family make?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p279" block_type="cr-que-nl-mid">Uncle Junior, the head of the Soprano family, breaks the agreement and sells 500 more gallons of olive oil than under the cartel agreement. Assuming the Contraltos maintain the agreement, how does this affect the price for olive oil and the profit earned by each family?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p280" block_type="cr-que-nl-mid">Anthony Contralto, the head of the Contralto family, decides to punish Uncle Junior by increasing his sales by 500 gallons as well. How much profit does each family earn now?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch9-p281" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> In France, the market for bottled water is controlled by two large firms, Perrier and Evian. Each firm has a fixed cost of &#8364;1 million and a constant marginal cost of &#8364;2 per liter of bottled water (&#8364;1 = 1 euro). The following table gives the market demand schedule for bottled water in France.</p>
+<table id="krugmanwellsessentials4e-ch9-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-4" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of bottled water<br/>(per liter)</strong></td>
+<td><strong>Quantity of bottled water<br/>demanded (millions of liters)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#8364;10</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">9</td>
+<td>1</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">8</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">7</td>
+<td>3</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td>4</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>5</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>6</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>7</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>8</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch9-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p282" block_type="cr-que-ans-first">Suppose the two firms form a cartel and act as a monopolist. Calculate marginal revenue for the cartel. What will the monopoly price and output be? Assuming the firms divide the output evenly, how much will each produce and what will each firm&#8217;s profit be?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p283" block_type="cr-que-ans-mid">Now suppose Perrier decides to increase production by 1 million liters. Evian doesn&#8217;t change its production. What will the new market price and output be? What is Perrier&#8217;s profit? What is Evian&#8217;s profit?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p284" block_type="cr-que-ans-mid">What if Perrier increases production by 3 million liters? Evian doesn&#8217;t change its production. What would its output and profit be relative to those in part b?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p285" block_type="cr-que-ans-mid">What do your results tell you about the likelihood of cheating on such agreements?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch9-p286" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Over the last 40 years the Organization of Petroleum Exporting Countries (OPEC) has had varied success in forming and maintaining its cartel agreements. Explain how the following factors may contribute to the difficulty of forming and/or maintaining its price and output agreements.</p>
+<list id="krugmanwellsessentials4e-ch9-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p287" block_type="cr-que-ans-first">New oil fields are discovered and increased drilling is undertaken in the Gulf of Mexico and the North Sea by nonmembers of OPEC.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p288" block_type="cr-que-ans-mid">Crude oil is a product that is differentiated by sulfur content: it costs less to refine low-sulfur crude oil into gasoline. Different OPEC countries possess oil reserves of different sulfur content.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p289" block_type="cr-que-ans-mid">Cars powered by hydrogen are developed.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch9-p290" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> Suppose you are an economist working for the Antitrust Division of the Department of Justice. In each of the following cases you are given the task of determining whether the behavior warrants an antitrust investigation for possible illegal acts or is just an example of undesirable, but not illegal, tacit collusion. Explain your reasoning.</p>
+<list id="krugmanwellsessentials4e-ch9-list-21" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p291" block_type="cr-que-ans-first">Two companies dominate the industry for industrial lasers. Several people sit on the boards of directors of both companies.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p292" block_type="cr-que-ans-mid">Three banks dominate the market for banking in a given state. Their profits have been going up recently as they add new fees for customer transactions. Advertising among the banks is fierce, and new branches are springing up in many locations.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p293" block_type="cr-que-ans-mid">The two oil companies that produce most of the petroleum for the western half of the United States have decided to forgo building their own pipelines and to share a common pipeline, the only means of transporting petroleum products to that market.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p294" block_type="cr-que-ans-mid">The two major companies that dominate the market for herbal supplements have each created a subsidiary that sells the same product as the parent company in large quantities but with a generic name.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p295" block_type="cr-que-ans-mid">The two largest credit card companies, Passport and OmniCard, have required all retailers who accept their cards to agree to limit their use of rival credit cards.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_282" block_type="page_start">282</p>
+<question id="krugmanwellsessentials4e-ch9-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch9-p296" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> To preserve the North Atlantic fish stocks, it is decided that only two fishing fleets, one from the United States and the other from the European Union (EU), can fish in those waters. Suppose that this fisheries agreement breaks down, so that the fleets behave noncooperatively. Assume that the United States and the EU each can send out either one or two fleets. The more fleets in the area, the more fish they catch in total but the lower the catch of each fleet. The accompanying matrix shows the profit (in dollars) per week earned by each side.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-20" alt="image" src="images/KrugESS4e_9UN06.jpg"/>
+</figure>
+<list id="krugmanwellsessentials4e-ch9-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p297" block_type="cr-que-ans-first">What is the noncooperative Nash equilibrium? Will each side choose to send out one or two fleets?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p298" block_type="cr-que-ans-mid">Suppose that the fish stocks are being depleted. Each region considers the future and comes to a tit-for-tat agreement whereby each side will send only one fleet out as long as the other does the same. If either of them breaks the agreement and sends out a second fleet, the other will also send out two and will continue to do so until its competitor sends out only one fleet. If both play this tit-for-tat strategy, how much profit will each make every week?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch9-p299" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> Untied and Air &#8220;R&#8221; Us are the only two airlines operating flights between Collegeville and Bigtown. That is, they operate in a duopoly. Each airline can charge either a high price or a low price for a ticket. The accompanying matrix shows their payoffs, in profits per seat (in dollars), for any choice that the two airlines can make.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-13" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-21" alt="image" src="images/KrugESS4e_9UN07.jpg"/>
+</figure>
+<list id="krugmanwellsessentials4e-ch9-list-23" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p300" block_type="cr-que-ans-first">Suppose the two airlines play a one-shot game&#8212;that is, they interact only once and never again. What will be the Nash (noncooperative) equilibrium in this one-shot game?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p301" block_type="cr-que-ans-mid">Now suppose the two airlines play this game twice. And suppose each airline can play one of two strategies: it can play either always charge the low price or tit for tat&#8212;that is, it starts off charging the high price in the first period, and then in the second period it does whatever the other airline did in the previous period. Write down the payoffs to Untied from the following four possibilities:</p>
+<list id="krugmanwellsessentials4e-ch9-list-24" type="ordered" block_type="lowerromen">
+<li><p id="krugmanwellsessentials4e-ch9-p302" block_type="cr-que-ans2-first">Untied plays always charge the low price when Air &#8220;R&#8221; Us also plays always charge the low price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p303" block_type="cr-que-ans2-mid">Untied plays always charge the low price when Air &#8220;R&#8221; Us plays tit for tat.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p304" block_type="cr-que-ans2-mid">Untied plays tit for tat when Air &#8220;R&#8221; Us plays always charge the low price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p305" block_type="cr-que-ans2-mid">Untied plays tit for tat when Air &#8220;R&#8221; Us also plays tit for tat.</p></li>
+</list></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch9-p306" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> Suppose that Coke and Pepsi are the only two producers of cola drinks, making them duopolists. Both companies have zero marginal cost and a fixed cost of &#36;100,000.</p>
+<list id="krugmanwellsessentials4e-ch9-list-25" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p307" block_type="cr-que-ans-first">Assume first that consumers regard Coke and Pepsi as perfect substitutes. Currently both are sold for &#36;0.20 per can, and at that price each company sells 4 million cans per day.</p>
+<list id="krugmanwellsessentials4e-ch9-list-26" type="ordered" block_type="lowerromen">
+<li><p id="krugmanwellsessentials4e-ch9-p308" block_type="cr-que-ans2-first">How large is Pepsi&#8217;s profit?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p309" block_type="cr-que-ans2-mid">If Pepsi were to raise its price to &#36;0.30 per can, and Coke did not respond, what would happen to Pepsi&#8217;s profit?</p></li>
+</list></li>
+<li><p id="krugmanwellsessentials4e-ch9-p310" block_type="cr-que-ans-mid">Now suppose that each company advertises to differentiate its product from the other company&#8217;s. As a result of advertising, Pepsi realizes that if it raises or lowers its price, it will sell less or more of its product, as shown by the demand schedule in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch9-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-5" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of Pepsi<br/>(per can)</strong></td>
+<td><strong>Quantity of Pepsi demanded<br/>(millions of cans)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;0.10</td>
+<td>5</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.20</td>
+<td>4</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.30</td>
+<td>3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">0.40</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0.50</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch9-p311" block_type="cr-que-ans-mid">If Pepsi now were to raise its price to &#36;0.30 per can, what would happen to its profit?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p312" block_type="cr-que-ans-mid">Comparing your answer to part a(i) and to part b, what is the maximum amount Pepsi would be willing to spend on advertising?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch9-p313" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> Philip Morris and R.J. Reynolds spend huge sums of money each year to advertise their tobacco products in an attempt to steal customers from each other. Suppose each year Philip Morris and R.J. Reynolds have to decide whether or not they want to spend money on advertising. If neither firm advertises, each will earn a profit of &#36;2 million. If they both advertise, each will earn a profit of &#36;1.5 million. If one firm advertises and the other does not, the firm that advertises will earn a profit of &#36;2.8 million and the other firm will earn &#36;1 million.</p>
+<p id="krugmanwellsessentials4e_page_283" block_type="page_start">283</p>
+<list id="krugmanwellsessentials4e-ch9-list-27" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p314" block_type="cr-que-ans-first">Use a payoff matrix to depict this problem.</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p315" block_type="cr-que-ans-mid">Suppose Philip Morris and R.J. Reynolds can write an enforceable contract about what they will do. What is the cooperative solution to this game?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p316" block_type="cr-que-ans-mid">What is the Nash equilibrium without an enforceable contract? Explain why this is the likely outcome.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch9-p317" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> Use the three conditions for monopolistic competition discussed in the chapter to decide which of the following firms are likely to be operating as monopolistic competitors. If they are not monopolistically competitive firms, are they monopolists, oligopolists, or perfectly competitive firms?</p>
+<list id="krugmanwellsessentials4e-ch9-list-28" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p318" block_type="cr-que-ans-first">A local band that plays for weddings, parties, and so on</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p319" block_type="cr-que-ans-mid">Minute Maid, a producer of individual-serving juice boxes</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p320" block_type="cr-que-ans-mid">Your local dry cleaner</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p321" block_type="cr-que-ans-mid">A farmer who produces soybeans</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch9-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch9-p322" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> You are thinking of setting up a coffee shop. The market structure for coffee shops is monopolistic competition. There are three Starbucks and two other coffee shops very much like Starbucks in your town already. In order for you to have some degree of market power, you may want to differentiate your coffee shop. Thinking about the three different ways in which products can be differentiated, explain how you would decide whether you should copy Starbucks or whether you should sell coffee in a completely different way.</p>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-7" block_type="sum-h" title="" chapter="9" numbered="true" level="1" print_page="283">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch9-p323" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch9-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch9-p324" block_type="cr-wio-nl-first"><phrase block_type="qnum">12.</phrase> Let&#8217;s revisit the fisheries agreement introduced in Problem 6 stating that to preserve the North Atlantic fish stocks, only two fishing fleets, one from the United States and the other from the European Union (EU), can fish in those waters. The accompanying table shows the market demand schedule per week for fish from these waters. The only costs are fixed costs, so fishing fleets maximize profit by maximizing revenue.</p>
+<table id="krugmanwellsessentials4e-ch9-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-6" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price of fish<br/>(per pound)</strong></td>
+<td><strong>Quantity of fish demanded<br/>(pounds)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;17</td>
+<td>1,800</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">16</td>
+<td>2,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">15</td>
+<td>2,100</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">14</td>
+<td>2,200</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">12</td>
+<td>2,300</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch9-list-29" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch9-p325" block_type="cr-wio-ans-first">If both fishing fleets collude, what is the revenue-maximizing output for the North Atlantic fishery? What price will a pound of fish sell for?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p326" block_type="cr-wio-ans-mid">If both fishing fleets collude and share the output equally, what is the revenue to the EU fleet? To the U.S. fleet?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p327" block_type="cr-wio-ans-mid">Suppose the EU fleet cheats by expanding its own catch by 100 pounds per week. The U.S. fleet doesn&#8217;t change its catch. What is the revenue to the U.S. fleet? To the EU fleet?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p328" block_type="cr-wio-ans-mid">In retaliation for the cheating by the EU fleet, the U.S. fleet also expands its catch by 100 pounds per week. What is the revenue to the U.S. fleet? To the EU fleet?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch9-sec1-7a" block_type="business_case" title="" chapter="9" numbered="true" level="1" print_page="284">
+<section-metadata><section-title>Business Case</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_284" block_type="page_start">284</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx5-4" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch9-p329" block_type="bx5-t"><strong>Amazon and Hachette Go to War</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p330" block_type="bx5-txt-ni"><phrase block_type="dropcap">I</phrase>n May 2014, all-out war broke out between Amazon, the third largest U.S. book retailer, and Hachette, the fourth largest book publisher. Suddenly Amazon took weeks to deliver Hachette publications (paper and e-books), including their best-sellers, meanwhile offering shoppers suggestions for non-Hachette books as alternatives. In addition, pre-order options for forthcoming Hachette books&#8212;including one by J. K. Rowling of Harry Potter fame&#8212;disappeared from Amazon&#8217;s website along with many other Hachette books. These same books were readily available, often at lower prices, at rival book retailers, such as <link href="http://www.barnesandnoble.com">barnesandnoble.com</link>.</p>
+<p id="krugmanwellsessentials4e-ch9-p331" block_type="bx5-txt">All publishers pay retailers a share of sales prices. What set off hostilities in this case was Amazon&#8217;s demand that Hachette raise Amazon&#8217;s share from 30 to 50&#37;. This was a familiar story: Amazon has demanded ever-larger percentages during yearly contract negotiations. Since it won&#8217;t carry a publisher&#8217;s books without an agreement, protracted disagreement and the resulting loss of sales are disastrous for publishers. This time, however, Hachette refused to give in and went public with Amazon&#8217;s demands.</p>
+<p id="krugmanwellsessentials4e-ch9-p332" block_type="bx5-txt">Amazon claimed that the publisher could pay more out of its profit margin&#8212;around 75&#37; on e-books, 60&#37; on paperbacks, and 40&#37; on hardcovers. Indeed, Amazon openly admitted that its long-term objective was to displace publishers altogether, and deal directly with authors itself. And it received support from some authors who had been rejected by traditional publishers but succeeded by selling directly to readers via Amazon. But publishers countered that Amazon&#8217;s calculations ignored the costs of editing, marketing, advertising, and at times supporting struggling writers until they became successful. Amazon, they claimed, would eventually destroy the book industry.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-23" alt="image" src="images/KrugESS4e_9UN08.jpg"/>
+<asset_source>David Ryder/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p333" block_type="bx5-txt">Meanwhile Amazon had other problems, announcing in July 2014 that it lost &#36;800 million in the previous quarter. At the time, after 20 years in existence, Amazon had never made a profit, and investors were growing impatient.</p>
+<p id="krugmanwellsessentials4e-ch9-p334" block_type="bx5-txt">For several months, Amazon was also in a public relations battle with Authors United, a group of over 900 best-selling authors who protested that &#8220;no bookseller should block the sale of books or otherwise prevent or discourage customers from ordering or receiving the books they want.&#8221; A leader of that group, Douglas Preston, a best-selling Hachette author of thrillers, had seen sales of his books drop by over 60&#37; since the conflict began. Speaking of the comfortable lifestyle that his successful writing supports, Preston observed that if Amazon should decide not to sell his books at all, &#8220;All this goes away.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch9-p335" block_type="bx5-txt">In November 2014, Hachette and Amazon arrived at a settlement that ended their dispute. Hachette won the right to set prices for its e-books. Although Amazon got less than it wanted and its reputation was left bruised, it remained in a strong position. Amazon still controlled almost half of the book business, and it had demonstrated a willingness to use its market power to affect sales.</p>
+<p id="krugmanwellsessentials4e-ch9-p336" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch9-list-30" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch9-p337" block_type="bx5-nl">What is the source of surplus in this industry? Who generates it? How is it divided among the various agents (author, publisher, and retailer)?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p338" block_type="bx5-nl">What are the various sources of market power here? What is at risk for the various parties?</p></li>
+</list>
+</box>
+<p id="krugmanwellsessentials4e_page_285" block_type="page_start">285</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx5-5" block_type="bcbx5-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch9-img-24" alt="image" src="images/world_view_icon.jpg"/> <phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch9-p339" block_type="bx5-t"><strong>Virgin Atlantic Blows the Whistle &#8230; or Blows It?</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p340" block_type="bx5-txt-ni"><phrase block_type="dropcap">T</phrase>he United Kingdom is home to two long-haul airline carriers (that fly between continents): British Airways and its rival, Virgin Atlantic. Although British Airways is the dominant company, with a market share generally between 50&#37; and 100&#37; on routes between London and various American cities, Virgin has been a tenacious competitor.</p>
+<p id="krugmanwellsessentials4e-ch9-p341" block_type="bx5-txt">The rivalry between the two has ranged from relatively peaceable to openly hostile over the years. In the 1990s, British Airways lost a court case alleging it had engaged in &#8220;dirty tricks&#8221; to drive Virgin out of business. In April 2010, however, British Airways may well have wondered if the tables had been turned.</p>
+<figure id="krugmanwellsessentials4e-ch9-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-25" alt="image" src="images/KrugESS4e_9UN09.jpg"/>
+<asset_source>AP Photo/Alastair Grant</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch9-p342" block_type="bx5-txt">It all began in 2004, when oil prices were rising. British prosecutors alleged that the two airlines had plotted to levy fuel surcharges on passengers. For the next two years, according to the prosecutors, the rivals had established a cartel through which they coordinated increases in surcharges. British Airways first introduced a &#163;5 (&#36;8.25) surcharge on long-haul flights when a barrel of oil traded at about &#36;38. It increased the surcharge six times, so that by 2006, when oil was trading at about &#36;69 a barrel, the surcharge was &#163;70 (&#36;115). At the same time, Virgin Atlantic also levied a &#163;70 fee. These surcharges increased within days of each other.</p>
+<p id="krugmanwellsessentials4e-ch9-p343" block_type="bx5-txt">Eventually, three Virgin executives blew the whistle in exchange for immunity from prosecution. British Airways immediately suspended its executives under suspicion and paid fines of nearly &#36;500 million to U.S. and U.K. authorities. And in 2010 four British Airways executives were prosecuted by British authorities for their alleged role in the conspiracy.</p>
+<p id="krugmanwellsessentials4e-ch9-p344" block_type="bx5-txt">The lawyers for the executives argued that although the two airlines had swapped information, this was not proof of a criminal conspiracy. In fact, they argued, Virgin was so fearful of American regulators that it had admitted to criminal behavior before confirming that it had actually committed an offense. One of the defense lawyers argued that because U.S. laws against anti-competitive behavior are much tougher than those in the United Kingdom, companies may be compelled to blow the whistle to avoid investigation: &#8220;If you don&#8217;t get to them and confess first, you can&#8217;t get immunity. The only way to protect yourself is to go to the authorities, even if you haven&#8217;t [done anything].&#8221; The result was that the Virgin executives were given immunity in both the United States and the United Kingdom, but the British Airways executives were subject to prosecution (and possible jail terms) in both countries.</p>
+<p id="krugmanwellsessentials4e-ch9-p345" block_type="bx5-txt">In late 2011 the case came to a shocking end for Virgin Atlantic and U.K. authorities. Citing e-mails that Virgin was forced to turn over by the court, the judge found insufficient evidence that there was ever a conspiracy between the two airlines. The court was incensed enough to threaten to rescind the immunity granted to the three Virgin executives.</p>
+<p id="krugmanwellsessentials4e-ch9-p346" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch9-list-31" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch9-p347" block_type="bx5-nl">Explain why Virgin Atlantic and British Airlines might collude in response to increased oil prices. Was the market conducive to collusion or not?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p348" block_type="bx5-nl">How would you determine whether illegal behavior actually occurred? What might explain these events other than illegal behavior?</p></li>
+<li><p id="krugmanwellsessentials4e-ch9-p349" block_type="bx5-nl">Explain the dilemma facing the two airlines as well as their individual executives.</p></li>
+</list>
+</box>
+</section>
+</chapter>
+</manuscript>

@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="12" name="" title="KRU_Chapter_12_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="12" id="krugmanwellsessentials4e-ch12-chapter-12" title="CHAPTER 12: Macroeconomics: The Big Picture" start-numbering-at="12" numbered="true">
+<section id="krugmanwellsessentials4e-ch12-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="343">
+<p id="krugmanwellsessentials4e_page_343" block_type="page_start">343</p>
+<p id="krugmanwellsessentials4e-ch12-p2" block_type="chapter_title">Macroeconomics: The Big Picture</p>
+<p id="krugmanwellsessentials4e-ch12-p1" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">12</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch12-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch12-img-1" alt="image" src="images/world_view_icon.jpg"/><strong>THE PAIN IN SPAIN</strong></p>
+<figure id="krugmanwellsessentials4e-ch12-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch12-img-2" alt="image" src="images/KrugESS4e_CO12.jpg"/>
+<caption>Spanish students protest government cuts and the lack of jobs, holding aloft a banner that proclaimed, &#8220;The Youth say &#8216;Enough&#8217;!&#8221;</caption>
+<asset_source>Luca Piergiovanni/Demotix/Corbis</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch12-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch12-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch12-p5" block_type="obj-bl">What makes macroeconomics different from microeconomics</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p6" block_type="obj-bl">What a <strong>business cycle</strong> is and why policy makers seek to diminish the severity of business cycles</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p7" block_type="obj-bl">How <strong>long-run economic growth</strong> determines a country&#8217;s standard of living</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p8" block_type="obj-bl">The meaning of <strong>inflation</strong> and <strong>deflation</strong> and why <strong>price stability</strong> is preferred</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p9" block_type="obj-bl">The importance of <strong>open-economy macroeconomics</strong> and how economies interact through <strong>trade deficits</strong> and <strong>trade surpluses</strong></p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch12-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch12-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p11" block_type="co-txt-ni"><phrase block_type="dropcap">I</phrase>N 2012 JAVIER DIAZ, A 25-YEAR-old Spanish college graduate, found himself where he never expected to be: unemployed and living at home. He went to college with the intention of becoming a teacher, but by the time he graduated, no one would offer him a job. And we mean <em>any</em> kind of job. Diaz was willing to work at McDonald&#8217;s, but even that wasn&#8217;t an option.</p>
+<p id="krugmanwellsessentials4e-ch12-p12" block_type="co-txt">Was this lack of job prospects a reflection on Mr. Diaz&#8217;s qualifications? Probably not. No matter who you were, finding a job in Spain in the year 2012 was tough indeed. Of Spaniards under the age of 25 seeking work, 57&#37;&#8212;that&#8217;s right, 57&#37;&#8212;were unemployed. Having a college degree didn&#8217;t help much: the unemployment rate among recent college graduates was 39&#37;.</p>
+<p id="krugmanwellsessentials4e-ch12-p13" block_type="co-txt">Yet it wasn&#8217;t always like that. Five years earlier Mr. Diaz probably would have found it fairly easy to get a job that made use of his education. In 2007&#8211;2008, however, much of the world economy, the United States included, plunged into a severe slump. The United States and some other countries began recovering from the slump in 2009, although the recovery was slow and painful. But as of 2012 Spain and a number of other European countries hadn&#8217;t recovered at all&#8212;in fact, unemployment kept rising.</p>
+<p id="krugmanwellsessentials4e-ch12-p14" block_type="co-txt">As bad as things were for the global economy after 2007, they could have been much worse. In fact, they were much worse during an epic global slump that began in 1929 and persisted until the beginning of World War II. It was a time of severe economic troubles known as the <em>Great Depression.</em> To emphasize that the troubles were the worst since the Great Depression, economists refer to the downturn that began in 2007 as the <em>Great Recession.</em></p>
+<p id="krugmanwellsessentials4e-ch12-p15" block_type="co-txt">Why wasn&#8217;t the slump after 2007 as bad as the slump after 1929? There were many reasons, but one stands out: economists learned something about what to do from the earlier catastrophe. When the Great Depression struck, political leaders and their economic advisers literally had no idea what to do. Fortunately, during the Great Recession they did know what needed to be done, although not all of the good advice on offer was taken.</p>
+<p id="krugmanwellsessentials4e-ch12-p16" block_type="co-txt">At the time of the Great Depression, <em>microeconomics,</em> which is concerned with the consumption and production decisions of individual consumers and producers and with the allocation of scarce resources among industries, was already a well-developed branch of economics. But <em>macroeconomics,</em> which focuses on the behavior of the economy as a whole, was still in its infancy.</p>
+<p id="krugmanwellsessentials4e_page_344" block_type="page_start">344</p>
+<p id="krugmanwellsessentials4e-ch12-p17" block_type="co-txt">What happened to much of the world during the Great Depression and during the Great Recession&#8212;and has happened in many other times and places, although rarely with the same severity&#8212;was a blow to the economy as a whole. During normal times, at any given moment there are always some industries laying off workers. For example, the number of video rental stores in America fell as consumers turned to Netflix and streaming movies at home. But workers who lost their jobs at video rental stores had a good chance of finding new jobs elsewhere, because other industries were expanding even as video rental stores shut their doors. However, in Europe and America during the Great Recession, there were no expanding industries: everything was headed downward.</p>
+<p id="krugmanwellsessentials4e-ch12-p18" block_type="co-txt">Macroeconomics came into its own as a branch of economics during the Great Depression. Economists realized that they needed to understand the nature of the catastrophe that had overtaken the United States and much of the rest of the world in order to extricate themselves, as well as to learn how to avoid such catastrophes in the future. To this day, the effort to understand economic slumps and find ways to prevent them is at the core of macroeconomics. Over time, however, macroeconomics has broadened its reach to encompass a number of other subjects, such as <em>long-run economic growth, inflation,</em> and <em>open-economy macroeconomics.</em></p>
+<p id="krugmanwellsessentials4e-ch12-p19" block_type="co-txt">This chapter offers an overview of macroeconomics. We start with a general description of the difference between macroeconomics and microeconomics, then briefly describe some of the field&#8217;s major concerns.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-1" block_type="h1" title="" chapter="12" numbered="true" level="1" print_page="344">
+<section-metadata><section-title>The Nature of Macroeconomics</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p20" block_type="txt-ni">Macroeconomics differs from microeconomics by focusing on the behavior of the economy as a whole.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-1" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="344">
+<section-metadata><section-title>Macroeconomic Questions</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p21" block_type="txt-ni"><link href="#krugmanwellsessentials4e-ch12-tab-1">Table 12-1</link> lists some typical economic questions from the perspective of microeconomics and from macroeconomics. By comparing the questions, you can begin to get a sense of the difference between microeconomics and macroeconomics.</p>
+<table id="krugmanwellsessentials4e-ch12-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch12-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">12-1</phrase></strong> <phrase block_type="tbl_title">Microeconomic versus Macroeconomic Questions</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Microeconomic Questions</strong></td>
+<td><strong>Macroeconomic Questions</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Should I go to business school or take a job right now?</td>
+<td class="tbl-td-dark tbl-ljust">How many people are employed in the economy as a whole this year?</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">What determines the salary Google offers to Cherie Camajo, a new MBA?</td>
+<td class="tbl-td-dark tbl-ljust">What determines the overall salary levels paid to workers in a given year?</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">What determines the cost to a university or college of offering a new course?</td>
+<td class="tbl-td-dark tbl-ljust">What determines the overall level of prices in the economy as a whole?</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">What government policies should be adopted to make it easier for low-income students to attend college?</td>
+<td class="tbl-td-dark tbl-ljust">What government policies should be adopted to promote employment and growth in the economy as a whole?</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">What determines whether Citibank opens a new office in Shanghai?</td>
+<td class="tbl-td-dark tbl-ljust">What determines the overall trade in goods, services, and financial assets between the United States and the rest of the world?</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch12-p22" block_type="txt">As these questions illustrate, microeconomics focuses on how decisions are made by individuals and firms and the consequences of those decisions. For example, we use microeconomics to determine how much it would cost a university or college to offer a new course, which includes the instructor&#8217;s salary, the cost of class materials, and so on. The school can then decide whether to offer the course by weighing the costs and benefits.</p>
+<p id="krugmanwellsessentials4e-ch12-p23" block_type="txt">Macroeconomics, in contrast, examines the <em>overall</em> behavior of the economy&#8212;how the actions of all the individuals and firms in the economy interact to produce a particular economy-wide level of economic performance. For example, macroeconomics is concerned with the general level of prices in the economy and how high or how low it is relative to the general level of prices last year, rather than with the price of one particular good or service.</p>
+<p id="krugmanwellsessentials4e-ch12-p24" block_type="txt">You might imagine that macroeconomic questions can be answered simply by adding up microeconomic answers. For example, the model of supply and demand introduced in <link href="Chapter03.xml">Chapter 3</link> tells us how the equilibrium price of an individual good or service is determined in a competitive market. So you might think that applying supply and demand analysis to every good and service in the economy, then summing the results, is the way to understand the overall level of prices in the economy as a whole.</p>
+<p id="krugmanwellsessentials4e-ch12-p25" block_type="txt">But that is incorrect: although basic concepts such as supply and demand are essential to macroeconomics, answering macroeconomic questions requires an additional set of tools and an expanded frame of reference.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-2" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="345">
+<section-metadata><section-title>Macroeconomics: The Whole Is Greater Than the Sum of Its Parts</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_345" block_type="page_start">345</p>
+<p id="krugmanwellsessentials4e-ch12-p26" block_type="txt-ni">If you drive on a highway, you probably know what a rubber-necking traffic jam is and why it is so annoying. Someone pulls over to the side of the road, perhaps to fix a flat tire, and, pretty soon, a long traffic jam occurs as drivers slow down to take a look.</p>
+<p id="krugmanwellsessentials4e-ch12-p27" block_type="txt">What makes it so annoying is that the length of the traffic jam is greatly out of proportion to the minor event that precipitated it. Because some drivers hit their brakes in order to rubber-neck, the drivers behind them must also hit their brakes, those behind them must do the same, and so on. The accumulation of all the individual hitting of brakes eventually leads to a long, wasteful traffic jam as each driver slows down a little bit more than the driver in front of him or her. In other words, each person&#8217;s response leads to an amplified response by the next person.</p>
+<p id="krugmanwellsessentials4e-ch12-p28" block_type="txt">Understanding a rubber-necking traffic jam gives us some insight into one very important way in which macroeconomics differs from microeconomics: many thousands or millions of individual actions compound upon one another to produce an outcome that isn&#8217;t simply the sum of those individual actions.</p>
+<p id="krugmanwellsessentials4e-ch12-p29" block_type="txt">Consider, for example, what macroeconomists call the <em>paradox of thrift:</em> when families and businesses are worried about the possibility of economic hard times, they prepare by cutting their spending. This reduction in spending depresses the economy as consumers spend less and businesses react by laying off workers. As a result, families and businesses may end up worse off than if they hadn&#8217;t tried to act responsibly by cutting their spending.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch12-img-4" alt="image" src="images/KrugESS4e_12UN01.jpg"/>
+<caption>The behavior of the macroeconomy is greater than the sum of individual actions and market outcomes.</caption>
+<asset_source>SFC/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch12-p30" block_type="txt">This is a paradox because seemingly virtuous behavior&#8212;preparing for hard times by saving more&#8212;ends up harming everyone. And there is a flip-side to this story: when families and businesses are feeling optimistic about the future, they spend more today. This stimulates the economy, leading businesses to hire more workers, which further expands the economy. Seemingly profligate behavior leads to good times for all.</p>
+<p id="krugmanwellsessentials4e-ch12-p31" block_type="txt">A key insight of macroeconomics, then, is that the combined effect of individual decisions can have results that are very different from what any one individual intended, results that are sometimes perverse. The behavior of the macroeconomy is, indeed, greater than the sum of individual actions and market outcomes.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-3" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="345">
+<section-metadata><section-title>Macroeconomics: Theory and Policy</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p32" block_type="txt-ni">To a much greater extent than microeconomists, macroeconomists are concerned with questions about <em>policy,</em> about what the government can do to make macroeconomic performance better. This policy focus was strongly shaped by history, in particular by the Great Depression of the 1930s.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p33" block_type="mn-gl-def">In a <strong>self-regulating economy,</strong> problems such as unemployment are resolved without government intervention, through the working of the invisible hand.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p34" block_type="txt">Before the 1930s, economists tended to regard the economy as <strong>self-regulating:</strong> they believed that problems such as unemployment would be corrected through the working of the invisible hand and that government attempts to improve the economy&#8217;s performance would be ineffective at best&#8212;and would probably make things worse.</p>
+<p id="krugmanwellsessentials4e-ch12-p35" block_type="txt">The Great Depression changed all that. The sheer scale of the catastrophe, which left a quarter of the U.S. workforce without jobs and threatened the political stability of many countries created a demand for action. It also led to a major effort on the part of economists to understand economic slumps and find ways to prevent them.</p>
+<p id="krugmanwellsessentials4e_page_346" block_type="page_start">346</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p36" block_type="mn-gl-def">According to <strong>Keynesian economics,</strong> economic slumps are caused by inadequate spending, and they can be mitigated by government intervention.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p37" block_type="mn-gl-def"><strong>Monetary policy</strong> uses changes in the quantity of money to alter interest rates and affect overall spending.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p38" block_type="mn-gl-def"><strong>Fiscal policy</strong> uses changes in government spending and taxes to affect overall spending.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p39" block_type="txt">In 1936 the British economist John Maynard Keynes (pronounced &#8220;canes&#8221;) published <em>The General Theory of Employment, Interest, and Money,</em> a book that transformed macroeconomics. According to <strong>Keynesian economics,</strong> a depressed economy is the result of inadequate spending. In addition, Keynes argued that government intervention can help a depressed economy through <em>monetary policy</em> and <em>fiscal policy.</em> <strong>Monetary policy</strong> uses changes in the quantity of money to alter interest rates, which in turn affect the level of overall spending. <strong>Fiscal policy</strong> uses changes in taxes and government spending to affect overall spending.</p>
+<p id="krugmanwellsessentials4e-ch12-p40" block_type="txt">In general, Keynes established the idea that managing the economy is a government responsibility. Keynesian ideas continue to have a strong influence on both economic theory and public policy: in 2008 and 2009, Congress, the White House, and the Federal Reserve (a quasi-governmental agency that manages U.S. monetary policy) took steps to fend off an economic slump that were clearly Keynesian in spirit, as described in the following Economics in Action.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch12-img-5" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch12-p41" block_type="bx-2-t"><strong>Fending Off Depression</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch12-p42" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch12-img-6" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p43" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n 2008 the world economy experienced a severe financial crisis that was all too reminiscent of the early days of the Great Depression. Major banks teetered on the edge of collapse; world trade slumped. In the spring of 2009, the economic historians Barry Eichengreen and Kevin O&#8217;Rourke, reviewing the available data, pointed out that &#8220;globally we are tracking or even doing worse than the Great Depression.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch12-p44" block_type="bx2-txt">But the worst did not, in the end, come to pass. <link href="#krugmanwellsessentials4e-ch12-fig-3">Figure 12-1</link> shows one of Eichengreen and O&#8217;Rourke&#8217;s measures of economic activity, world industrial production, during the Great Depression (the top line) and during the Great Recession (the bottom line). During the first year the two crises were indeed comparable. But fortunately, one year into the Great Recession, world production leveled off and turned around. In contrast, three years into the Great Depression world production continued to fall. Why the difference?</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-3" block_type="figure" numbered="true" number="12-1" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-3"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num">12-1</phrase> <phrase block_type="fig_title">Economic Activity and Industrial Production During the Great Depression and the Great Recession</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-7" alt="image" src="images/KrugESS4e_fig_12_01.jpg"/>
+<asset_source><em>Data from:</em> Barry Eichengreen and Kevin O&#8217;Rourke (2009), &#8220;A Tale of Two Depressions.&#8221; &#169; VoxEU.org; CPB Netherlands Bureau for Economic Policy Analysis World Trade Monitor.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch12-p45" block_type="bx2-txt">At least part of the answer is that policy makers responded very differently. During the Great Depression, it was widely argued that the slump should simply be allowed to run its course. Any attempt to mitigate the ongoing catastrophe, declared Joseph Schumpeter&#8212;the Austrian-born Harvard economist now famed for his work on innovation&#8212;would &#8220;leave the work of depression undone.&#8221; In the early 1930s, some countries&#8217; monetary authorities actually raised interest rates in the face of the slump, while governments cut spending and raised taxes&#8212;actions that, as we&#8217;ll see in later chapters, deepened the recession.</p>
+<p id="krugmanwellsessentials4e_page_347" block_type="page_start">347</p>
+<p id="krugmanwellsessentials4e-ch12-p46" block_type="bx2-txt">In the aftermath of the 2008 crisis, by contrast, interest rates were slashed, and a number of countries, the United States included, used temporary increases in spending and reductions in taxes in an attempt to sustain spending. Governments also moved to shore up their banks with loans, aid, and guarantees.</p>
+<p id="krugmanwellsessentials4e-ch12-p47" block_type="bx2-txt">Many of these measures were controversial, to say the least. But most economists believe that by responding actively to the Great Recession&#8212;and doing so using the knowledge gained from the study of macroeconomics&#8212;governments helped avoid a global economic catastrophe.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch12-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch12-list-2" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch12-p48" block_type="sr1-bl">Microeconomics focuses on decision making by individuals and firms and the consequences of the decisions made. Macroeconomics focuses on the overall behavior of the economy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p49" block_type="sr1-bl">The combined effect of individual actions can have unintended consequences and lead to worse or better macroeconomic outcomes for everyone.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p50" block_type="sr1-bl">Before the 1930s, economists tended to regard the economy as <strong>self-regulating.</strong> After the Great Depression, <strong>Keynesian economics</strong> provided the rationale for government intervention through <strong>monetary policy</strong> and <strong>fiscal policy</strong> to help a depressed economy.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">12-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch12-p51" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following questions involve microeconomics, and which involve macroeconomics? In each case, explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch12-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p52" block_type="sr2-nl-lvl2">Why did consumers switch to smaller cars in 2008?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p53" block_type="sr2-nl-lvl2">Why did overall consumer spending slow down in 2008?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p54" block_type="sr2-nl-lvl2">Why did the standard of living rise more rapidly in the first generation after World War II than in the second?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p55" block_type="sr2-nl-lvl2">Why have starting salaries for students with geology degrees risen sharply of late?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p56" block_type="sr2-nl-lvl2">What determines the choice between rail and road transportation?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p57" block_type="sr2-nl-lvl2">Why did salmon get much cheaper between 1980 and 2000?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p58" block_type="sr2-nl-lvl2">Why did inflation fall in the 1990s?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch12-p59" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> In 2008, problems in the financial sector led to a drying up of credit around the country: home-buyers were unable to get mortgages, students were unable to get student loans, car-buyers were unable to get car loans, and so on.</p>
+<list id="krugmanwellsessentials4e-ch12-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p60" block_type="sr2-nl-lvl2">Explain how the drying up of credit can lead to compounding effects throughout the economy and result in an economic slump.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p61" block_type="sr2-nl-lvl2">If you believe the economy is self-regulating, what would you advocate that policy makers do?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p62" block_type="sr2-nl-lvl2">If you believe in Keynesian economics, what would you advocate that policy makers do?</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch12-p63" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</question>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-2" block_type="h1" title="" chapter="12" numbered="true" level="1" print_page="347">
+<section-metadata><section-title>The Business Cycle</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p64" block_type="txt-ni">The Great Depression was by far the worst economic crisis in U.S. history. But although the economy managed to avoid catastrophe for the rest of the twentieth century, it has experienced many ups and downs.</p>
+<p id="krugmanwellsessentials4e-ch12-p65" block_type="txt">It&#8217;s true that the ups have consistently been bigger than the downs: a chart of any of the major numbers used to track the U.S. economy shows a strong upward trend over time. For example, <link href="#krugmanwellsessentials4e-ch12-fig-4">Figure 12-2</link> shows total U.S. private-sector employment (the total number of jobs offered by private businesses) measured along the left vertical axis, with the data from 1985 to 2014 given by the purple line. The graph also shows the index of industrial production (a measure of the total output of U.S. factories) measured along the right vertical axis, with the data from 1985 to 2014 given by the red line. Both private-sector employment and industrial production were much higher at the end of this period than at the beginning, and in most years both measures rose.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-4" block_type="figure" numbered="true" number="12-2" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-4"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-2</strong></phrase> <phrase block_type="fig_title">Private-Sector Employment and Industrial Production, 1985&#8211;2014</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-8" alt="image" src="images/KrugESS4e_fig_12_02.jpg"/>
+<caption>This figure shows two important economic numbers, the industrial production index and total private-sector employment. Both numbers grew substantially from 1985 to 2014, but they didn&#8217;t grow steadily. Instead, both suffered from three downturns associated with <em>recessions,</em> which are indicated by the shaded areas in the figure.</caption>
+<asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_348" block_type="page_start">348</p>
+<p id="krugmanwellsessentials4e-ch12-p66" block_type="txt">But they didn&#8217;t rise steadily. As you can see from the figure, there were three periods&#8212;in the early 1990s, in the early 2000s, and again beginning in late 2007&#8212;when both employment and industrial output stumbled.</p>
+<p id="krugmanwellsessentials4e-ch12-p67" block_type="txt">The economy&#8217;s forward march, in other words, isn&#8217;t smooth. And the uneven pace of the economy&#8217;s progress, its ups and downs, is one of the main preoccupations of macroeconomics.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-4" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="348">
+<section-metadata><section-title>Charting the Business Cycle</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p68" block_type="txt-ni"><link href="#krugmanwellsessentials4e-ch12-fig-5">Figure 12-3</link> shows a stylized representation of the way the economy evolves over time. The vertical axis shows either employment or an indicator of how much the economy is producing, such as industrial production or <em>real gross domestic product (real GDP),</em> a measure of the economy&#8217;s overall output that we&#8217;ll learn about in the next chapter. As the data in <link href="#krugmanwellsessentials4e-ch12-fig-4">Figure 12-2</link> suggest, these two measures tend to move together. Their common movement is the starting point for a major theme of macroeconomics: the economy&#8217;s alternation between short-run downturns and upturns.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-5" block_type="figure" numbered="true" number="12-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-3</strong></phrase> <phrase block_type="fig_title">The Business Cycle</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-9" alt="image" src="images/KrugESS4e_fig_12_03.jpg"/>
+<caption>This is a stylized picture of the business cycle. The vertical axis measures either employment or total output in the economy. Periods when these two variables turn down are <em>recessions</em>; periods when they turn up are <em>expansions</em>. The point at which the economy turns down is a <em>business-cycle peak</em>; the point at which it turns up again is a <em>business-cycle trough</em>.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p69" block_type="mn-gl-def"><strong>Recessions,</strong> or contractions, are periods of economic downturn when output and employment are falling.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p70" block_type="mn-gl-def"><strong>Expansions,</strong> or recoveries, are periods of economic upturn when output and employment are rising.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p71" block_type="txt">A broad-based downturn, in which output and employment fall in many industries, is called a <strong>recession</strong> (sometimes referred to as a <em>contraction</em>). Recessions, as officially declared by the National Bureau of Economic Research, or NBER (discussed in the upcoming For Inquiring Minds), are indicated by the shaded areas in <link href="#krugmanwellsessentials4e-ch12-fig-4">Figure 12-2</link>. When the economy isn&#8217;t in a recession, when most economic numbers are following their normal upward trend, the economy is said to be in an <strong>expansion</strong> (sometimes referred to as a <em>recovery</em>).</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p72" block_type="mn-gl-def">The <strong>business cycle</strong> is the short-run alternation between recessions and expansions.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p73" block_type="mn-gl-def">The point at which the economy turns from expansion to recession is a <strong>business-cycle peak.</strong></p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p74" block_type="mn-gl-def">The point at which the economy turns from recession to expansion is a <strong>business-cycle trough.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p75" block_type="txt">The alternation between recessions and expansions is known as the <strong>business cycle.</strong> The point in time at which the economy shifts from expansion to recession is known as a <strong>business-cycle peak;</strong> the point at which the economy shifts from recession to expansion is known as a <strong>business-cycle trough.</strong></p>
+<p id="krugmanwellsessentials4e-ch12-p76" block_type="txt">The business cycle is an enduring feature of the economy. <link href="#krugmanwellsessentials4e-ch12-tab-2">Table 12-2</link> shows the official list of business-cycle peaks and troughs. As you can see, there have been recessions and expansions for at least the past 155 years. Whenever there is a prolonged expansion, as there was in the 1960s and again in the 1990s, books and articles come out proclaiming the end of the business cycle. Such proclamations have always proved wrong: the cycle always comes back.</p>
+<table id="krugmanwellsessentials4e-ch12-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch12-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">12-2</phrase></strong> <phrase block_type="tbl_title">The History of the Business Cycle</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Business-Cycle Peak</strong></td>
+<td class="tbl-ljust"><strong>Business-Cycle Trough</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder"><em>no prior data available</em></td>
+<td>December 1854</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">June 1857</td>
+<td class="tbl-ljust">December 1858</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">October 1860</td>
+<td class="tbl-ljust">June 1861</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">April 1865</td>
+<td class="tbl-ljust">December 1867</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">June 1869</td>
+<td class="tbl-ljust">December 1870</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">October 1873</td>
+<td class="tbl-ljust">March 1879</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">March 1882</td>
+<td class="tbl-ljust">May 1885</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">March 1887</td>
+<td class="tbl-ljust">April 1888</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">July 1890</td>
+<td class="tbl-ljust">May 1891</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">January 1893</td>
+<td class="tbl-ljust">June 1894</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">December 1895</td>
+<td class="tbl-ljust">June 1897</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">June 1899</td>
+<td class="tbl-ljust">December 1900</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">September 1902</td>
+<td class="tbl-ljust">August 1904</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">May 1907</td>
+<td class="tbl-ljust">June 1908</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">January 1910</td>
+<td class="tbl-ljust">January 1912</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">January 1913</td>
+<td class="tbl-ljust">December 1914</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">August 1918</td>
+<td class="tbl-ljust">March 1919</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">January 1920</td>
+<td class="tbl-ljust">July 1921</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">May 1923</td>
+<td class="tbl-ljust">July 1924</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">October 1926</td>
+<td class="tbl-ljust">November 1927</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">August 1929</td>
+<td class="tbl-ljust">March 1933</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">May 1937</td>
+<td class="tbl-ljust">June 1938</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">February 1945</td>
+<td class="tbl-ljust">October 1945</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">November 1948</td>
+<td class="tbl-ljust">October 1949</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">July 1953</td>
+<td class="tbl-ljust">May 1954</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">August 1957</td>
+<td class="tbl-ljust">April 1958</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">April 1960</td>
+<td class="tbl-ljust">February 1961</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">December 1969</td>
+<td class="tbl-ljust">November 1970</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">November 1973</td>
+<td class="tbl-ljust">March 1975</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">January 1980</td>
+<td class="tbl-ljust">July 1980</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">July 1981</td>
+<td class="tbl-ljust">November 1982</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">July 1990</td>
+<td class="tbl-ljust">March 1991</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">March 2001</td>
+<td class="tbl-ljust">November 2001</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">December 2007</td>
+<td class="tbl-ljust">June 2009</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch12-p77a" block_type="tbn-sc"><em>Data from:</em> National Bureau of Economic Research.</p>
+<p id="krugmanwellsessentials4e_page_349" block_type="page_start">349</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx3-2" block_type="bx3-h">
+<box-metadata><box-title><phrase block_type="title">FOR INQUIRING MINDS</phrase> &#124; <strong>Defining Recessions and Expansions</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch12-p77" block_type="bx3-txt-ni">You may be wondering how recessions and expansions are defined. The truth is that there are no exact definitions!</p>
+<p id="krugmanwellsessentials4e-ch12-p78" block_type="bx3-txt">In many countries, economists adopt the rule that a recession is a period of at least two consecutive quarters (a quarter is three months) during which the total output of the economy shrinks. The two-consecutive-quarters requirement is designed to avoid classifying brief hiccups in the economy&#8217;s performance, with no lasting significance, as recessions.</p>
+<p id="krugmanwellsessentials4e-ch12-p79" block_type="bx3-txt">Sometimes, however, this seems too strict. For example, three months of sharply declining output, then three months of slightly positive growth, then another three months of rapid decline, should surely be considered to have endured a nine-month recession.</p>
+<p id="krugmanwellsessentials4e-ch12-p80" block_type="bx3-txt">In the United States, we assign the task of determining when a recession begins and ends to an independent panel of experts at the National Bureau of Economic Research (NBER). This panel looks at a variety of economic indicators, with the main focus on employment and production. But, ultimately, the panel makes a judgment call.</p>
+<p id="krugmanwellsessentials4e-ch12-p81" block_type="bx3-txt">Sometimes this judgment is controversial. In fact, there is lingering controversy over the 2001 recession. According to the NBER, that recession began in March 2001 and ended in November 2001 when output began rising. Some critics argue, however, that the recession really began several months earlier, when industrial production began falling. Other critics argue that the recession didn&#8217;t really end in 2001 because employment continued to fall and the job market remained weak for another year and a half.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-5" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="349">
+<section-metadata><section-title>The Pain of Recession</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p82" block_type="txt-ni">Not many people complain about the business cycle when the economy is expanding. Recessions, however, create a great deal of pain.</p>
+<p id="krugmanwellsessentials4e-ch12-p83" block_type="txt">The most important effect of a recession is its effect on the ability of workers to find and hold jobs. The most widely used indicator of conditions in the labor market is the <em>unemployment rate.</em> We&#8217;ll explain how that rate is calculated in <link href="Chapter14.xml">Chapter 14</link>, but for now it&#8217;s enough to say that a high unemployment rate tells us that jobs are scarce and a low unemployment rate tells us that jobs are easy to find.</p>
+<p id="krugmanwellsessentials4e-ch12-p84" block_type="txt"><link href="#krugmanwellsessentials4e-ch12-fig-6">Figure 12-4</link> shows the unemployment rate from 1988 to 2016. As you can see, the U.S. unemployment rate surged during and after each recession but eventually fell during periods of expansion. The rising unemployment rate in 2008 was a sign that a new recession might be under way, which was later confirmed by the NBER to have begun in December 2007.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-6" block_type="figure" numbered="true" number="12-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-6"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-4</strong></phrase> <phrase block_type="fig_title">The U.S. Unemployment Rate, 1988&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-10" alt="image" src="images/KrugESS4e_fig_12_04.jpg"/>
+<caption>The unemployment rate, a measure of joblessness, rises sharply during recessions and usually falls during expansions.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch12-p85" block_type="txt">Because recessions cause many people to lose their jobs and make it hard to find new ones, they hurt the standard of living of many families. Recessions are usually associated with a rise in the number of people living below the poverty line, an increase in the number of people who lose their houses because they can&#8217;t afford the mortgage payments, and a fall in the percentage of Americans with health insurance coverage.</p>
+<p id="krugmanwellsessentials4e-ch12-p86" block_type="txt">You should not think, however, that workers are the only group that suffers during a recession. Recessions are also bad for firms: like employment and wages, profits suffer during recessions, with many small businesses failing.</p>
+<p id="krugmanwellsessentials4e-ch12-p87" block_type="txt">All in all, then, recessions are bad for almost everyone. Can anything be done to reduce their frequency and severity?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-6" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="349">
+<section-metadata><section-title>Taming the Business Cycle</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p89" block_type="txt-ni">Modern macroeconomics largely came into being as a response to the worst recession in history&#8212;the 43-month downturn that began in 1929 and continued into 1933, ushering in the Great Depression. The havoc wreaked by the 1929&#8211;1933 recession spurred economists to search both for understanding and for solutions: they wanted to know how such things could happen and how to prevent them.</p>
+<p id="krugmanwellsessentials4e_page_350" block_type="page_start">350</p>
+<p id="krugmanwellsessentials4e-ch12-p90" block_type="txt">As explained earlier, the work of John Maynard Keynes suggested that monetary and fiscal policies could be used to mitigate the effects of recessions, and to this day governments turn to Keynesian policies when recession strikes. Later work, notably that of another great macroeconomist, Milton Friedman, led to a consensus that it&#8217;s important to rein in booms as well as to fight slumps. So modern policy makers try to &#8220;smooth out&#8221; the business cycle. They haven&#8217;t been completely successful, as a look back at <link href="#krugmanwellsessentials4e-ch12-fig-4">Figure 12-2</link> makes clear. It&#8217;s widely believed, however, that policy guided by macroeconomic analysis has helped make the economy more stable.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-7" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch12-img-11" alt="image" src="images/KrugESS4e_12UN02.jpg"/>
+<asset_source>&#169;Aaron Bacall/<link href="http://www.CartoonStock.com">www.CartoonStock.com</link></asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch12-p91" block_type="txt">Although the business cycle is one of the main concerns of macroeconomics and historically played a crucial role in fostering the development of the field, macroeconomists are also concerned with other issues we examine next.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch12-p92" block_type="bx-2-t"><strong>Comparing Recessions</strong></p>
+<p id="krugmanwellsessentials4e-ch12-p93" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he alternation of recessions and expansions seems to be an enduring feature of economic life. However, not all business cycles are created equal. In particular, some recessions have been much worse than others.</p>
+<p id="krugmanwellsessentials4e-ch12-p94" block_type="bx2-txt">Let&#8217;s compare the two most recent U.S. recessions: the 2001 recession and the Great Recession of 2007&#8211;2009. These recessions differed in duration: the first lasted only eight months, the second more than twice as long. Even more important, however, they differed greatly in depth.</p>
+<p id="krugmanwellsessentials4e-ch12-p95" block_type="bx2-txt">In <link href="#krugmanwellsessentials4e-ch12-fig-8">Figure 12-5</link> we compare the depth of the recessions by looking at what happened to industrial production over the months after the recession began. In each case, production is measured as a percentage of its level at the recession&#8217;s start. Thus the line for the 2007&#8211;2009 recession shows that industrial production eventually fell to about 85&#37; of its initial level.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-8" block_type="figure" numbered="true" number="12-5" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-8"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-5</strong></phrase> <phrase block_type="fig_title">Two U.S. Recessions</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-12" alt="image" src="images/KrugESS4e_fig_12_05.jpg"/>
+<asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_351" block_type="page_start">351</p>
+<p id="krugmanwellsessentials4e-ch12-p96" block_type="txt">Clearly, the 2007&#8211;2009 recession hit the economy vastly harder than the 2001 recession. Indeed, by comparison to many recessions, the 2001 slump was very mild.</p>
+<p id="krugmanwellsessentials4e-ch12-p97" block_type="txt">Of course, this was no consolation to the millions of American workers who lost their jobs, even in that mild recession.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch12-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch12-list-5" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch12-p98" block_type="sr1-bl">The <strong>business cycle,</strong> the short-run alternation between <strong>recessions</strong> and <strong>expansions,</strong> is a major concern of modern macroeconomics.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p99" block_type="sr1-bl">The point at which expansion shifts to recession is a <strong>business-cycle peak.</strong> The point at which recession shifts to expansion is a <strong>business-cycle trough.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">12-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch12-p100" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Why do we talk about business cycles for the economy as a whole, rather than just talking about the ups and downs of particular industries?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-4" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch12-p101" block_type="sr2-nl-last"><phrase block_type="qnum">2.</phrase> Describe who gets hurt in a recession, and how.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch12-p102" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-3" block_type="h1" title="" chapter="12" numbered="true" level="1" print_page="351">
+<section-metadata><section-title>Long-Run Economic Growth</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p103" block_type="txt-ni">In 1955, Americans were delighted with the nation&#8217;s prosperity. The economy was expanding, consumer goods that had been rationed during World War II were available for everyone to buy, and most Americans believed, rightly, that they were better off than the citizens of any other nation, past or present. Yet by today&#8217;s standards, Americans were quite poor in 1955. <link href="#krugmanwellsessentials4e-ch12-fig-9">Figure 12-6</link> shows the percentage of American homes equipped with a variety of appliances in 1905, 1955, and 2005: in 1955 only 37&#37; of American homes contained washing machines and hardly anyone had air conditioning. And if we turn the clock back another half-century, to 1905, we find that life for many Americans was startlingly primitive by today&#8217;s standards.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-9" block_type="figure" numbered="true" number="12-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-9"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-6</strong></phrase> <phrase block_type="fig_title">The Fruits of Long-Run Growth in America</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-13" alt="image" src="images/KrugESS4e_fig_12_06.jpg"/>
+<caption>Americans have become able to afford many more material goods over time thanks to long-run economic growth.</caption>
+<asset_source><em>Data from:</em> W. Michael Cox and Richard Alm, &#8220;How Are We Doing?&#8221; <em>The American</em> (July/August 2008). <link href="http://www.american.com/archive/2008/ july-august-magazine-contents/how-are-we-doing">http://www.american.com/archive/2008/ july-august-magazine-contents/how-are-we-doing</link></asset_source>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p104" block_type="mn-gl-def"><strong>Long-run economic growth</strong> is the sustained upward trend in the economy&#8217;s output over time.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p105" block_type="txt">Why are the vast majority of Americans today able to afford conveniences that many Americans lacked in 1955? The answer is <strong>long-run economic growth,</strong> the sustained rise in the quantity of goods and services the economy produces. <link href="#krugmanwellsessentials4e-ch12-fig-10">Figure 12-7</link> shows the growth between 1900 and 2013 in real GDP per capita, a measure of total output per person in the economy. The severe recession of 1929&#8211;1933 stands out, but business cycles between World War II and 2007 are almost invisible, dwarfed by the strong upward trend.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-10" block_type="figure" numbered="true" number="12-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-10"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-7</strong></phrase> <phrase block_type="fig_title">American Growth, the Long View</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-14" alt="image" src="images/KrugESS4e_fig_12_07.jpg"/>
+<caption>Over the long run, growth in real GDP per capita in America has dwarfed the ups and downs of the business cycle. Except for the recession that began the Great Depression, recessions are almost invisible until 2007.</caption>
+<asset_source><em>Data from:</em> Angus Maddison, <em>Statistics on World Population, GDP, and Per Capita GDP, 1&#8211;2008 AD,</em> <link href="http://www.ggdc. net/MADDISON/oriindex.htm">http://www.ggdc. net/MADDISON/oriindex.htm</link>; Bureau of Economic Analysis; The Conference Board Total Economy Database&#8482;, January 2014.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_352" block_type="page_start">352</p>
+<p id="krugmanwellsessentials4e-ch12-p106" block_type="txt">Part of the long-run increase in output is accounted for by the fact that we have a growing population and workforce. But the economy&#8217;s overall production has increased by much more than the population. On average, in 2013 the U.S. economy produced about &#36;53,000 worth of goods and services per person, about twice as much as in 1972, about three times as much as in 1952, and about eight times as much as in 1900.</p>
+<p id="krugmanwellsessentials4e-ch12-p107" block_type="txt">Long-run economic growth is fundamental to many of the most pressing economic questions today. Responses to key policy questions, like the country&#8217;s ability to bear the future costs of government programs such as Social Security and Medicare, depend in part on how fast the U.S. economy grows over the next few decades.</p>
+<p id="krugmanwellsessentials4e-ch12-p108" block_type="txt">More broadly, the public&#8217;s sense that the country is making progress depends crucially on success in achieving long-run growth. When growth slows, as it did in the 1970s, it can help feed a national mood of pessimism. In particular, <em>long-run growth per capita&#8212;</em>a sustained upward trend in output per person&#8212;is the key to higher wages and a rising standard of living. A major concern of macroeconomics&#8212;and the theme of <link href="Chapter15.xml">Chapter 15</link>&#8212;is trying to understand the forces behind long-run growth.</p>
+<p id="krugmanwellsessentials4e-ch12-p109" block_type="txt">Long-run growth is an even more urgent concern in poorer, less developed countries. In these countries, which would like to achieve a higher standard of living, the question of how to accelerate long-run growth is the central concern of economic policy.</p>
+<p id="krugmanwellsessentials4e-ch12-p110" block_type="txt">As we&#8217;ll see, macroeconomists don&#8217;t use the same models to think about long-run growth that they use to think about the business cycle. It&#8217;s important to keep both sets of models in mind, because what is good in the long run can be bad in the short run, and vice versa. For example, we&#8217;ve already mentioned the paradox of thrift: an attempt by households to increase their savings can cause a recession. But a higher level of savings plays a crucial role in encouraging long-run economic growth.</p>
+<p id="krugmanwellsessentials4e_page_353" block_type="page_start">353</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch12-img-15" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch12-p111" block_type="bx-2-t"><strong>A Tale of Two Countries</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch12-p112" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch12-img-16" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p113" block_type="bx2-first"><phrase block_type="dropcap">M</phrase>any countries have experienced long-run growth, but not all have done equally well. One of the most informative contrasts is between Canada and Argentina, two countries that, at the beginning of the twentieth century, seemed to be in a good economic position.</p>
+<p id="krugmanwellsessentials4e-ch12-p114" block_type="txt">From today&#8217;s vantage point, it&#8217;s surprising to realize that Canada and Argentina looked rather similar before World War I. Both were major exporters of agricultural products; both attracted large numbers of European immigrants; both also attracted large amounts of European investment, especially in the railroads that opened up their agricultural hinterlands. Economic historians believe that the average level of per capita income was about the same in the two countries as late as the 1930s.</p>
+<p id="krugmanwellsessentials4e-ch12-p115" block_type="txt">After World War II, however, Argentina&#8217;s economy performed poorly, largely due to political instability and bad macroeconomic policies. Argentina experienced several periods of extremely high inflation, during which the cost of living soared. Meanwhile, Canada made steady progress. Thanks to the fact that Canada has achieved sustained long-run growth since 1930, but Argentina has not, Canada&#8217;s standard of living today is almost as high as that of the United States&#8212;and is about three times as high as Argentina&#8217;s.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch12-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch12-list-6" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch12-p116" block_type="sr1-bl">Because the U.S. economy has achieved <strong>long-run economic growth,</strong> Americans live much better than they did a half-century or more ago.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p117" block_type="sr1-bl">Long-run economic growth is crucial for many economic concerns, such as a higher standard of living or financing government programs. It&#8217;s especially crucial for poorer countries.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">12-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-5" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch12-p118" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Many poor countries have high rates of population growth. What does this imply about the long-run growth rates of overall output that they must achieve in order to generate a higher standard of living per person?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-6" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch12-p119" block_type="sr2-nl-last"><phrase block_type="qnum">2.</phrase> Argentina used to be as rich as Canada; now it&#8217;s much poorer. Does this mean that Argentina is poorer than it was in the past? Explain.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch12-p120" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-4" block_type="h1" title="" chapter="12" numbered="true" level="1" print_page="353">
+<section-metadata><section-title>Inflation and Deflation</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p121" block_type="txt-ni">In January 1980 the average production worker in the United States was paid &#36;6.57 an hour. By January 2014, the average hourly earnings for such a worker had risen to &#36;20.18 an hour. Three cheers for economic progress!</p>
+<p id="krugmanwellsessentials4e-ch12-p122" block_type="txt">But wait. American workers were paid much more in 2014, but they also faced a much higher cost of living. In January 1980, a dozen eggs cost only about &#36;0.88; by January 2014, that was up to &#36;2.01. The price of a loaf of white bread went from about &#36;0.50 to &#36;1.37. And the price of a gallon of gasoline rose from just &#36;1.13 to &#36;3.38.</p>
+<p id="krugmanwellsessentials4e-ch12-p123" block_type="txt"><link href="#krugmanwellsessentials4e-ch12-fig-11">Figure 12-8</link> compares the percentage increase in hourly earnings between 1980 and 2014 with the increases in the prices of some standard items: the average worker&#8217;s paycheck went farther in terms of some goods, but less far in terms of others. Overall, the rise in the cost of living wiped out many, if not all, of the wage gains of the typical American worker from 1980 to 2014. In other words, once inflation is taken into account, the living standard of the typical American worker barely rose from 1980 to the present.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-11" block_type="figure" numbered="true" number="12-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-8</strong></phrase> <phrase block_type="fig_title">Rising Prices</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-17" alt="image" src="images/KrugESS4e_fig_12_08.jpg"/>
+<caption>Between 1980 and 2014, American workers&#8217; hourly earnings rose by 207&#37;. But the prices of just about all the goods bought by workers also rose, some by more, some by less. Overall, the rising cost of living offset most of the rise in the average U.S. worker&#8217;s wage.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p124" block_type="mn-gl-def">A rising overall level of prices is <strong>inflation.</strong></p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p125" block_type="mn-gl-def">A falling overall level of prices is <strong>deflation.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p126" block_type="txt">The point is that between 1980 and 2014 the economy experienced substantial <strong>inflation:</strong> a rise in the overall level of prices. Understanding the causes of inflation and its opposite, <strong>deflation&#8212;</strong>a fall in the overall level of prices&#8212;is another main concern of macroeconomics.</p>
+<p id="krugmanwellsessentials4e_page_354" block_type="page_start">354</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-7" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="354">
+<section-metadata><section-title>The Causes of Inflation and Deflation</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p127" block_type="txt-ni">You might think that changes in the overall level of prices are just a matter of supply and demand. For example, higher gasoline prices reflect the higher price of crude oil, and higher crude oil prices reflect such factors as the exhaustion of major oil fields, growing demand from China and other emerging economies as more people grow rich enough to buy cars, and so on. Can&#8217;t we just add up what happens in each of these markets to find out what happens to the overall level of prices?</p>
+<p id="krugmanwellsessentials4e-ch12-p128" block_type="txt">The answer is no, we can&#8217;t. Supply and demand can only explain why a particular good or service becomes more expensive <em>relative to other goods and services.</em> It can&#8217;t explain why, for example, the price of chicken has risen over time in spite of the facts that chicken production has become more efficient (you don&#8217;t want to know) and that chicken has become substantially cheaper compared to other goods.</p>
+<p id="krugmanwellsessentials4e-ch12-p129" block_type="txt">What causes the overall level of prices to rise or fall? As we&#8217;ll learn in <link href="Chapter14.xml">Chapter 14</link>, in the short run, movements in inflation are closely related to the business cycle. When the economy is depressed and jobs are hard to find, inflation tends to fall; when the economy is booming, inflation tends to rise. For example, prices of most goods and services fell sharply during the terrible recession of 1929&#8211;1933.</p>
+<p id="krugmanwellsessentials4e-ch12-p130" block_type="txt">In the long run, by contrast, the overall level of prices is mainly determined by changes in the <em>money supply,</em> the total quantity of assets that can be readily used to make purchases.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec2-8" block_type="h2" title="" chapter="12" numbered="false" level="2" print_page="354">
+<section-metadata><section-title>The Pain of Inflation and Deflation</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p131" block_type="txt-ni">Both inflation and deflation can pose problems for the economy. Here are two examples: inflation discourages people from holding onto cash, because cash loses value over time if the overall price level is rising. That is, the amount of goods and services you can buy with a given amount of cash falls. In extreme cases, people stop holding cash altogether and turn to barter. Deflation can cause the reverse problem. If the price level is falling, cash gains value over time. In other words, the amount of goods and services you can buy with a given amount of cash increases. So holding on to it can become more attractive than investing in new factories and other productive assets. This can deepen a recession.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p132" block_type="mn-gl-def">The economy has <strong>price stability</strong> when the overall level of prices changes slowly or not at all.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p133" block_type="txt">We&#8217;ll describe other costs of inflation and deflation in <link href="Chapter13.xml">Chapters 13</link> and <link href="Chapter14.xml">14</link>. For now, let&#8217;s just note that, in general, economists regard <strong>price stability&#8212;</strong>in which the overall level of prices is changing, if at all, only slowly&#8212;as a desirable goal. Price stability is a goal that seemed far out of reach for much of the American economy during the post&#8211;World War II period. However, beginning in the 1990s and continuing to the present, it has been achieved to the satisfaction of most macroeconomists.</p>
+<p id="krugmanwellsessentials4e_page_355" block_type="page_start">355</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx2-4" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch12-p134" block_type="bx-2-t"><strong>A Fast (Food) Measure of Inflation</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch12-p135" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch12-img-18" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p136" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he original McDonald&#8217;s opened in 1954. It offered fast service&#8212;it was, indeed, the original fast-food restaurant. And it was also very inexpensive: hamburgers cost &#36;0.15, &#36;0.25 with fries. By 2014, a hamburger at a typical McDonald&#8217;s cost more than six times as much, about &#36;1.00. Has McDonald&#8217;s lost touch with its fast-food roots? Have burgers become luxury cuisine?</p>
+<p id="krugmanwellsessentials4e-ch12-p137" block_type="txt">No&#8212;in fact, compared with other consumer goods, a burger is a better bargain today than it was in 1954. Burger prices were about 6.5 times as high in 2013 as they were in 1954. But the consumer price index, the most widely used measure of the cost of living, was 8.5 times as high in 2013 as it was in 1954.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch12-img-19" alt="image" src="images/KrugESS4e_12UN03.jpg"/>
+<caption>A burger at McDonald&#8217;s is still a good bargain compared to other consumer goods.</caption>
+<asset_source>Everett Collection Inc./Alamy</asset_source>
+</figure>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch12-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch12-list-7" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch12-p138" block_type="sr1-bl">A dollar today doesn&#8217;t buy what it did in 1980, because the prices of most goods have risen. This rise in the overall price level has wiped out most if not all of the wage increases received by the typical American worker over the past 34 years.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p139" block_type="sr1-bl">One area of macroeconomic study is in the overall level of prices. Because either <strong>inflation</strong> or <strong>deflation</strong> can cause problems for the economy, economists typically advocate maintaining <strong>price stability.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx6-4" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">12-4</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-7" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch12-p140" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Which of these sound like inflation, which sound like deflation, and which are ambiguous?</p>
+<list id="krugmanwellsessentials4e-ch12-list-8" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p141" block_type="sr2-nl-lvl2">Gasoline prices are up 10&#37;, food prices are down 20&#37;, and the prices of most services are up 1&#8211;2&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p142" block_type="sr2-nl-lvl2">Gas prices have doubled, food prices are up 50&#37;, and most services seem to be up 5&#37; or 10&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p143" block_type="sr2-nl-lvl2">Gas prices haven&#8217;t changed, food prices are way down, and services have gotten cheaper, too.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch12-p144" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-5" block_type="h1" title="" chapter="12" numbered="true" level="1" print_page="355">
+<section-metadata><section-title>International Imbalances</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p145" block_type="mn-gl-def">An <strong>open economy</strong> is an economy that trades goods and services with other countries.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p146" block_type="txt-ni">The United States is an <strong>open economy:</strong> an economy that trades goods and services with other countries. There have been times when that trade was more or less balanced&#8212;when the United States sold about as much to the rest of the world as it bought. But this isn&#8217;t one of those times.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch12-p147" block_type="mn-gl-def">A country runs a <strong>trade deficit</strong> when the value of goods and services bought from foreigners is more than the value of goods and services it sells to them. It runs a <strong>trade surplus</strong> when the value of goods and services bought from foreigners is less than the value of the goods and services it sells to them.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p148" block_type="txt">In 2014, the United States ran a big <strong>trade deficit&#8212;</strong>that is, the value of the goods and services U.S. residents bought from the rest of the world was a lot larger than the value of the goods and services American producers sold to customers abroad. Meanwhile, some other countries were in the opposite position, selling much more to foreigners than they bought.</p>
+<p id="krugmanwellsessentials4e-ch12-p149" block_type="txt"><link href="#krugmanwellsessentials4e-ch12-fig-13">Figure 12-9</link> shows the exports and imports of goods for several important economies in 2014. As you can see, the United States imported much more than it exported, but Germany, China, and Saudi Arabia did the reverse: they each ran a <strong>trade surplus.</strong> A country runs a trade surplus when the value of the goods and services it buys from the rest of the world is smaller than the value of the goods and services it sells abroad. Was America&#8217;s trade deficit a sign that something was wrong with our economy&#8212;that we weren&#8217;t able to make things that people in other countries wanted to buy?</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-13" block_type="figure" numbered="true" number="12-9" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-13"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-9</strong></phrase> <phrase block_type="fig_title">Unbalanced Trade</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-20" alt="image" src="images/KrugESS4e_fig_12_09.jpg"/>
+<caption>In 2014, the goods and services the United States bought from other countries were worth considerably more than the goods and services we sold abroad. Germany, China, and Saudi Arabia were in the reverse position. Trade deficits and trade surpluses reflect macroeconomic forces, especially differences in savings and investment spending.</caption>
+<asset_source><em>Data from:</em> CIA World Factbook.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch12-p150" block_type="txt">No, not really. Trade deficits and their opposite, trade surpluses, are macroeconomic phenomena. They&#8217;re the result of situations in which the whole is very different from the sum of its parts. You might think that countries with highly productive workers or widely desired products and services to sell run trade surpluses but countries with unproductive workers or poor-quality products and services run deficits. But the reality is that there&#8217;s no simple relationship between the success of an economy and whether it runs trade surpluses or deficits.</p>
+<p id="krugmanwellsessentials4e_page_356" block_type="page_start">356</p>
+<p id="krugmanwellsessentials4e-ch12-p151" block_type="txt">In <link href="Chapter02.xml">Chapter 2</link> we learned that international trade is the result of comparative advantage: countries export goods they&#8217;re relatively good at producing and import goods they&#8217;re not as good at producing. That&#8217;s why the United States exports wheat and imports coffee. What the concept of comparative advantage doesn&#8217;t explain, however, is why the value of a country&#8217;s imports is sometimes much larger than the value of its exports, or vice versa.</p>
+<p id="krugmanwellsessentials4e-ch12-p152" block_type="txt">So what does determine whether a country runs a trade surplus or a trade deficit? In <link href="Chapter20.xml">Chapter 20</link> we&#8217;ll learn the surprising answer: the determinants of the overall balance between exports and imports lie in decisions about savings and investment spending&#8212;spending on goods like machinery and factories that are in turn used to produce goods and services for consumers. Countries with high investment spending relative to savings run trade deficits; countries with low investment spending relative to savings run trade surpluses.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx2-5" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch12-img-21" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch12-p153" block_type="bx-2-t"><strong>Spain&#8217;s Costly Surplus</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch12-p154" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch12-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch12-p155" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n 1999 Spain took a momentous step: it gave up its national currency, the peseta, in order to adopt the euro, a shared currency intended to promote closer economic and political union among the nations of Europe. How did this affect Spain&#8217;s international trade?</p>
+<p id="krugmanwellsessentials4e-ch12-p156" block_type="txt"><link href="#krugmanwellsessentials4e-ch12-fig-14">Figure 12-10</link> shows Spain&#8217;s current account balance&#8212;a broad definition of its trade balance&#8212;from 1999 to 2013, measured as a share of g<em>ross domestic product,</em> the country&#8217;s total production of goods and services. A negative current account balance, as shown here, means the country is running a trade deficit. As you can see, after Spain switched to the euro it began running large trade deficits, which at their peak were more than 10&#37; of gross domestic product. After 2008, however, the trade deficit began shrinking rapidly, and by 2013 Spain was running a small surplus which continued into early 2016.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-14" block_type="figure" numbered="true" number="12-10" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch12-fig-14"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>12-10</strong></phrase> <phrase block_type="fig_title">Spain&#8217;s Current Account Balance, 1999-2015</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch12-img-23" alt="image" src="images/KrugESS4e_fig_12_10.jpg"/>
+<asset_source><em>Data from:</em> International Monetary Fund.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch12-p157" block_type="txt">Did this mean that Spain&#8217;s economy was doing badly in the mid-2000s, and better thereafter? Just the opposite. When Spain adopted the euro, foreign investors became highly optimistic about its prospects, and money poured into the country, fueling rapid economic expansion. At the heart of this expansion was a huge housing boom, led in particular by the construction of holiday homes along Spain&#8217;s famed Mediterranean coast.</p>
+<p id="krugmanwellsessentials4e_page_357" block_type="page_start">357</p>
+<p id="krugmanwellsessentials4e-ch12-p158" block_type="txt">Unfortunately, this epic boom eventually turned into an epic bust, and the inflows of foreign capital into Spain dried up. One consequence was that Spain could no longer run large trade deficits, and by 2013 was forced into running a surplus. Another consequence was a severe recession, leading to very high unemployment&#8212;including the unemployment of Javier Diaz, the jobless graduate we described at the start of this chapter.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch12-bx5-5" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch12-list-9" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch12-p159" block_type="sr1-bl">Comparative advantage can explain why an <strong>open economy</strong> exports some goods and services and imports others, but it can&#8217;t explain why a country imports more than it exports, or vice versa.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p160" block_type="sr1-bl"><strong>Trade deficits</strong> and <strong>trade surpluses</strong> are macroeconomic phenomena, determined by decisions about investment spending and savings.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch12-bx6-5" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">12-5</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch12-cyuquestion-8" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch12-p161" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following reflect comparative advantage, and which reflect macroeconomic forces?</p>
+<list id="krugmanwellsessentials4e-ch12-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p162" block_type="sr2-nl-lvl2">Thanks to the development of huge oil sands in the province of Alberta, Canada has become an exporter of oil and an importer of manufactured goods.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p163" block_type="sr2-nl-lvl2">Like many consumer goods, the Apple iPod is assembled in China, although many of the components are made in other countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p164" block_type="sr2-nl-lvl2">Since 2002, Germany has been running huge trade surpluses, exporting much more than it imports.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p165" block_type="sr2-nl-lvl2">The United States, which had roughly balanced trade in the early 1990s, began running large trade deficits later in the decade, as the technology boom took off.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch12-p166" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-6" block_type="cr-que-t" title="" chapter="12" numbered="true" level="1" print_page="356">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch12-list-11" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch12-p167" block_type="sum-nl">Macroeconomics is the study of the behavior of the economy as a whole, which can be different from the sum of its parts. Macroeconomics differs from microeconomics in the type of questions it tries to answer. Macroeconomics also has a strong policy focus: <strong>Keynesian economics,</strong> which emerged during the Great Depression, advocates the use of <strong>monetary policy</strong> and <strong>fiscal policy</strong> to fight economic slumps. Prior to the Great Depression, the economy was thought to be <strong>self-regulating.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p168" block_type="sum-nl">One key concern of macroeconomics is the <strong>business cycle,</strong> the short-run alternation between <strong>recessions,</strong> periods of falling employment and output, and <strong>expansions,</strong> periods of rising employment and output. The point at which expansion turns to recession is a <strong>business-cycle peak.</strong> The point at which recession turns to expansion is a <strong>business-cycle trough.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p169" block_type="sum-nl">Another key area of macroeconomic study is <strong>long-run economic growth,</strong> the sustained upward trend in the economy&#8217;s output over time. Long-run economic growth is the force behind long-term increases in living standards and is important for financing some economic programs. It is especially important for poorer countries.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p170" block_type="sum-nl">When the prices of most goods and services are rising, so that the overall level of prices is going up, the economy experiences <strong>inflation.</strong> When the overall level of prices is going down, the economy is experiencing <strong>deflation.</strong> In the short run, inflation and deflation are closely related to the business cycle. In the long run, prices tend to reflect changes in the overall quantity of money. Because both inflation and deflation can cause problems, economists and policy makers generally aim for <strong>price stability.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p171" block_type="sum-nl">Although comparative advantage explains why <strong>open economies</strong> export some things and import others, macroeconomic analysis is needed to explain why countries run <strong>trade surpluses</strong> or <strong>trade deficits.</strong> The determinants of the overall balance between exports and imports lie in decisions about savings and investment spending.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-7" block_type="cr-kt-t" title="" chapter="12" numbered="true" level="1" print_page="356">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch12-p172" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p34">Self-regulating economy, p. 345</link></p>
+<p id="krugmanwellsessentials4e-ch12-p173" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p39">Keynesian economics, p. 346</link></p>
+<p id="krugmanwellsessentials4e-ch12-p174" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p39">Monetary policy, p. 346</link></p>
+<p id="krugmanwellsessentials4e-ch12-p175" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p39">Fiscal policy, p. 346</link></p>
+<p id="krugmanwellsessentials4e-ch12-p176" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p71">Recession, p. 348</link></p>
+<p id="krugmanwellsessentials4e-ch12-p177" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p71">Expansion, p. 348</link></p>
+<p id="krugmanwellsessentials4e-ch12-p178" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p75">Business cycle, p. 348</link></p>
+<p id="krugmanwellsessentials4e-ch12-p179" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p75">Business-cycle peak, p. 348</link></p>
+<p id="krugmanwellsessentials4e-ch12-p180" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p75">Business-cycle trough, p. 348</link></p>
+<p id="krugmanwellsessentials4e-ch12-p181" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p105">Long-run economic growth, p. 351</link></p>
+<p id="krugmanwellsessentials4e-ch12-p182" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p126">Inflation, p. 353</link></p>
+<p id="krugmanwellsessentials4e-ch12-p183" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p126">Deflation, p. 353</link></p>
+<p id="krugmanwellsessentials4e-ch12-p184" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p133">Price stability, p. 354</link></p>
+<p id="krugmanwellsessentials4e-ch12-p185" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p146">Open economy, p. 355</link></p>
+<p id="krugmanwellsessentials4e-ch12-p186" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p148">Trade deficit, p. 355</link></p>
+<p id="krugmanwellsessentials4e-ch12-p187" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch12-p148">Trade surplus, p. 355</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-8" block_type="cr-que-t" title="" chapter="12" numbered="true" level="1" print_page="358">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_358" block_type="page_start">358</p>
+<question id="krugmanwellsessentials4e-ch12-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch12-p188" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following questions are relevant for the study of macroeconomics and which for microeconomics?</p>
+<list id="krugmanwellsessentials4e-ch12-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p189" block_type="cr-que-ans-mid">How will Ms. Martin&#8217;s tips change when a large manufacturing plant near the restaurant where she works closes?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p190" block_type="cr-que-ans-mid">What will happen to spending by consumers when the economy enters a downturn?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p191" block_type="cr-que-ans-mid">How will the price of oranges change when a late frost damages Florida&#8217;s orange groves?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p192" block_type="cr-que-ans-mid">How will wages at a manufacturing plant change when its workforce is unionized?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p193" block_type="cr-que-ans-mid">What will happen to U.S. exports as the dollar becomes less expensive in terms of other currencies?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p194" block_type="cr-que-ans-mid">What is the relationship between a nation&#8217;s unemployment rate and its inflation rate?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch12-p195" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase>When one person saves more, that person&#8217;s wealth is increased, meaning that he or she can consume more in the future. But when everyone saves more, everyone&#8217;s income falls, meaning that everyone must consume less today. Explain this seeming contradiction.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch12-p196" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> Before the Great Depression, the conventional wisdom among economists and policy makers was that the economy is largely self-regulating.</p>
+<list id="krugmanwellsessentials4e-ch12-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p197" block_type="cr-que-ans-mid">Is this view consistent or inconsistent with Keynesian economics? Explain.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p198" block_type="cr-que-ans-mid">What effect did the Great Depression have on conventional wisdom?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p199" block_type="cr-que-ans-mid">Contrast the response of policy makers during the 2007&#8211;2009 recession to the actions of policy makers during the Great Depression. What would have been the likely outcome of the 2007&#8211;2009 recession if policy makers had responded in the same fashion as policy makers during the Great Depression?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch12-p200" block_type="cr-que-nl-first"><phrase block_type="qnum">4.</phrase> How do economists in the United States determine when a recession begins and when it ends? How do other countries determine whether or not a recession is occurring?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch12-p201" block_type="cr-que-nl-first"><phrase block_type="qnum">5.</phrase> The U.S. Department of Labor reports statistics on employment and earnings that are used as key indicators by many economists to gauge the health of the economy. <link href="#krugmanwellsessentials4e-ch12-fig-6">Figure 12-4</link> in the text plots historical data on the unemployment rate each month. Noticeably, the numbers were high during the recessions in the early 1990s, in 2001, and in the aftermath of the Great Recession, 2008&#8211;2014.</p>
+<list id="krugmanwellsessentials4e-ch12-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p202" block_type="cr-que-ans-mid">Locate the latest data on the national unemployment rate. (<em>Hint:</em> Go to the website of the Bureau of Labor Statistics, <link href="http://www.bls.gov, and locate the latest release of the Employment Situation.)">www.bls.gov, and locate the latest release of the Employment Situation.)</link></p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p203" block_type="cr-que-ans-mid">Compare the current numbers with those during the early 1990s, 2001, and during 2008&#8211;2014, as well as with the periods of relatively high economic growth just before the recessions. Are the current numbers indicative of a recessionary trend?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch12-p204" block_type="cr-que-nl-first"><phrase block_type="qnum">6.</phrase> In the 1990s there were some dramatic economic events that came to be known as the <em>Asian financial crisis.</em> A decade later similar events came to be known as the <em>global financial crisis.</em> The accompanying figure shows the growth rate of real GDP in the United States and Japan from 1995 to 2011. Using the graph, explain why the two sets of events are referred to this way.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch12-img-24" alt="image" src="images/KrugESS4e_12UN04.jpg"/>
+<asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
+</figure>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch12-p205" block_type="cr-que-nl-first"><phrase block_type="qnum">7.</phrase></p>
+<list id="krugmanwellsessentials4e-ch12-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p205" block_type="cr-que-nl-first">What three measures of the economy tend to move together during the business cycle? Which way do they move during an upturn? During a downturn?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p206" block_type="cr-que-ans-mid">Who in the economy is hurt during a recession? How?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p207" block_type="cr-que-ans-mid">How did Milton Friedman alter the consensus that had developed in the aftermath of the Great Depression on how the economy should be managed? What is the current goal of policy makers in managing the economy?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch12-p208" block_type="cr-que-nl-first"><phrase block_type="qnum">8.</phrase> Why do we consider a business-cycle expansion different from long-run economic growth? Why do we care about the size of the long-run growth rate of real GDP relative to the size of the growth rate of the population?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch12-p209" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> In 1798, Thomas Malthus&#8217;s <em>Essay on the Principle of Population</em> was published. In it, he wrote: &#8220;Population, when unchecked, increases in a geometrical ratio. Subsistence increases only in an arithmetical ratio&#8230;. This implies a strong and constantly operating check on population from the difficulty of subsistence.&#8221; Malthus was saying that the growth of the population is limited by the amount of food available to eat; people will live at the subsistence level forever. Why didn&#8217;t Malthus&#8217;s description apply to the world after 1800?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch12-p210" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> Each year, <em>The Economist</em> publishes data on the price of the Big Mac in different countries and exchange rates. The accompanying table shows some data from 2007 and 2014. Use this information to answer the following questions.</p>
+<p id="krugmanwellsessentials4e_page_359" block_type="page_start">359</p>
+<table id="krugmanwellsessentials4e-ch12-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch3-untab-3" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td rowspan="2" class="tbl-ljusg"><strong>Country</strong></td>
+<td colspan="2" class="tbl-bborder"><strong>2007</strong></td>
+<td colspan="2" class="tbl-bborder"><strong>2014</strong></td>
+</tr>
+<tr>
+<td><strong>Price of Big Mac (in local currrency)</strong></td>
+<td class="tbl-rborder"><strong>Price of Big Mac (in U.S. dollars)</strong></td>
+<td><strong>Price of Big Mac (in local currency)</strong></td>
+<td><strong>Price of Big Mac (in U.S. dollars)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">Argentina</td>
+<td class="tbl-rborder">peso8.25</td>
+<td class="tbl-rborder">&#36;2.65</td>
+<td class="tbl-rborder">peso21.0</td>
+<td>&#36;2.57</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">Canada</td>
+<td class="tbl-rborder">C&#36;3.63</td>
+<td class="tbl-rborder">&#36;3.08</td>
+<td class="tbl-rborder">C&#36;5.25</td>
+<td>&#36;5.64</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">Euro area</td>
+<td class="tbl-rborder">&#8364;2.94</td>
+<td class="tbl-rborder">&#36;3.82</td>
+<td class="tbl-rborder">&#8364;3.68</td>
+<td>&#36;4.95</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">Japan</td>
+<td class="tbl-rborder">&#165;280</td>
+<td class="tbl-rborder">&#36;2.31</td>
+<td class="tbl-rborder">&#165;370</td>
+<td>&#36;3.64</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">United States</td>
+<td class="tbl-rborder">&#36;3.22</td>
+<td class="tbl-rborder">&#36;3.22</td>
+<td class="tbl-rborder">&#36;4.80</td>
+<td>&#36;4.80</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch12-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p211" block_type="cr-que-ans-mid">Where was it cheapest to buy a Big Mac in U.S. dollars in 2007?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p212" block_type="cr-que-ans-mid">Where was it cheapest to buy a Big Mac in U.S. dollars in 2014?</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p213" block_type="cr-que-ans-mid">Using the increase in the local currency price of the Big Mac in each country to measure the percent change in the overall price level from 2007 to 2014, which nation experienced the most inflation? Did any of the nations experience deflation?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch12-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch12-p214" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> The accompanying figure illustrates the trade deficit of the United States since 1987. The United States has been consistently and, on the whole, increasingly importing more goods than it has been exporting. One of the countries it runs a trade deficit with is China. Which of the following statements are valid possible explanations of this fact? Explain.</p>
+<figure id="krugmanwellsessentials4e-ch12-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch12-img-25" alt="image" src="images/KrugESS4e_12UN05.jpg"/>
+<asset_source><em>Data from</em>: Federal Reserve Economic Data.</asset_source>
+</figure>
+<list id="krugmanwellsessentials4e-ch12-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch12-p215" block_type="cr-que-ans-mid">Many products, such as televisions, that were formerly manufactured in the United States are now manufactured in China.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p216" block_type="cr-que-ans-mid">The wages of the average Chinese worker are far lower than the wages of the average American worker.</p></li>
+<li><p id="krugmanwellsessentials4e-ch12-p217" block_type="cr-que-ans-mid">Investment spending in the United States is high relative to its level of savings.</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch12-sec1-9" block_type="sum-h" title="" chapter="12" numbered="true" level="1" print_page="359">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch12-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch12-p218" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch12-img-26" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch12-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch12-p219" block_type="cr-wio-nl-first"><phrase block_type="qnum">12.</phrase> College tuition has risen significantly in the last few decades. From the 1981&#8211;1982 academic year to the 2011&#8211;2012 academic year, total tuition, room, and board paid by full-time undergraduate students went from &#36;2,871 to &#36;16,789 at public institutions and from &#36;6,330 to &#36;33,716 at private institutions. This is an average annual tuition increase of 6.1&#37; at public institutions and 5.7&#37; at private institutions. Over the same time, average personal income after taxes rose from &#36;9,785 to &#36;39,409 per year, which is an average annual rate of growth of personal income of 4.8&#37;. Have these tuition increases made it more difficult for the average student to afford college tuition?</p>
+</question>
+</section>
+</chapter>
+</manuscript>

@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="06" name="" title="KRU_Chapter_06_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="6" id="krugmanwellsessentials4e-ch6-chapter-6" title="CHAPTER 6: Behind the Supply Curve: Inputs and Costs" start-numbering-at="6" numbered="true">
+<section id="krugmanwellsessentials4e-ch6-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="175">
+<p id="krugmanwellsessentials4e_page_175" block_type="page_start">175</p>
+<p id="krugmanwellsessentials4e-ch6-p1" block_type="chapter_title">Behind the Supply Curve: Inputs and Costs</p>
+<p id="krugmanwellsessentials4e-ch6-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">6</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch6-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch6-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong>THE FARMER&#8217;S MARGIN</strong></p>
+<figure id="krugmanwellsessentials4e-ch6-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-2" alt="image" src="images/KrugESS4e_CO06.jpg"/>
+<caption>How intensively an acre of land is worked&#8212;a decision at the margin&#8212;depends on the price of wheat a farmer faces.</caption>
+<asset_source>&#169; Terrance Klassen/AgeFotostock</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch6-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch6-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch6-p5" block_type="obj-bl">The importance of the firm&#8217;s <strong>production function,</strong> the relationship between quantity of inputs and quantity of output</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p6" block_type="obj-bl">Why production is often subject to <strong>diminishing returns to inputs</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p7" block_type="obj-bl">The various types of costs a firm faces and how they generate the firm&#8217;s marginal and average cost curves</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p8" block_type="obj-bl">Why a firm&#8217;s costs may differ in the <strong>short run</strong> versus the <strong>long run</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p9" block_type="obj-bl">How the firm&#8217;s technology of production can generate <strong>increasing returns to scale</strong></p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p11" block_type="co-txt-ni"><phrase block_type="dropcap">&#8220;O</phrase>BEAUTIFUL FOR SPACIOUS skies, for amber waves of grain.&#8221; So begins the song &#8220;America the Beautiful.&#8221; And those amber waves of grain are for real: though farmers are now only a small minority of America&#8217;s population, our agricultural industry is immensely productive and feeds much of the world.</p>
+<p id="krugmanwellsessentials4e-ch6-p12" block_type="co-txt">If you look at agricultural statistics, however, something may seem a bit surprising: when it comes to yield per acre, U.S. farmers are often nowhere near the top. For example, farmers in Western European countries grow about three times as much wheat per acre as their U.S. counterparts. Are the Europeans better at growing wheat than we are?</p>
+<p id="krugmanwellsessentials4e-ch6-p13" block_type="co-txt">No: European farmers are very skillful, but no more so than Americans. They produce more wheat per acre because they employ more inputs&#8212;more fertilizer and, especially, more labor&#8212;per acre. Of course, this means that European farmers have higher costs than their American counterparts. But because of government policies, European farmers receive a much higher price for their wheat than American farmers. This gives them an incentive to use more inputs and to expend more effort at the margin to increase the crop yield per acre.</p>
+<p id="krugmanwellsessentials4e-ch6-p14" block_type="co-txt">Notice our use of the phrase &#8220;at the margin.&#8221; Like most decisions that involve a comparison of benefits and costs, decisions about inputs and production involve a comparison of marginal quantities&#8212;the marginal cost versus the marginal benefit of producing a bit more from each acre.</p>
+<p id="krugmanwellsessentials4e-ch6-p15" block_type="co-txt">In this chapter and the next, we will show how the <em>principle of marginal analysis</em> can be used to understand these output decisions&#8212;decisions that lie behind the supply curve. The first step in this analysis is to show how the relationship between a firm&#8217;s inputs and its output&#8212;its <em>production function</em>&#8212;determines its <em>cost curves,</em> the relationship between cost and quantity of output produced. That is what we do in this chapter. In <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link>, we will use our understanding of the firm&#8217;s cost curves to derive the individual and the market supply curves.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-1" block_type="h1" title="" chapter="6" numbered="true" level="1" print_page="176">
+<section-metadata><section-title>The Production Function</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_176" block_type="page_start">176</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p16" block_type="mn-gl-def">A <strong>production function</strong> is the relationship between the quantity of inputs a firm uses and the quantity of output it produces.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p17" block_type="txt-ni">A <em>firm</em> is an organization that produces goods or services for sale. To do this, it must transform inputs into output. The quantity of output a firm produces depends on the quantity of inputs; this relationship is known as the firm&#8217;s <strong>production function.</strong> As we&#8217;ll see, a firm&#8217;s production function underlies its <em>cost curves</em>. As a first step, let&#8217;s look at the characteristics of a hypothetical production function.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-1" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="176">
+<section-metadata><section-title>Inputs and Output</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch6-p18" block_type="txt-ni">To understand the concept of a production function, let&#8217;s consider a farm that we assume, for the sake of simplicity, produces only one output, wheat, and uses only two inputs, land and labor. This particular farm is owned by a couple named George and Martha. They hire workers to do the actual physical labor on the farm. Moreover, we will assume that all potential workers are of the same quality&#8212;they are all equally knowledgeable and capable of performing farmwork.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p19" block_type="mn-gl-def">A <strong>fixed input</strong> is an input whose quantity is fixed for a period of time and cannot be varied.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p20" block_type="mn-gl-def">A <strong>variable input</strong> is an input whose quantity the firm can vary at any time.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p21" block_type="txt">George and Martha&#8217;s farm sits on 10 acres of land; no more acres are available to them, and they are currently unable to either increase or decrease the size of their farm by selling, buying, or leasing acreage. Land here is what economists call a <strong>fixed input&#8212;</strong>an input whose quantity is fixed for a period of time and cannot be varied. George and Martha are, however, free to decide how many workers to hire. The labor provided by these workers is called a <strong>variable input&#8212;</strong>an input whose quantity the firm can vary at any time.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p22" block_type="mn-gl-def">The <strong>long run</strong> is the time period in which all inputs can be varied.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p23" block_type="mn-gl-def">The <strong>short run</strong> is the time period in which at least one input is fixed.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p24" block_type="txt">In reality, whether or not the quantity of an input is really fixed depends on the time horizon. In the <strong>long run&#8212;</strong>that is, given that a long enough period of time has elapsed&#8212;firms can adjust the quantity of any input. For example, in the long run, George and Martha can vary the amount of land they farm by buying or selling land. So there are no fixed inputs in the long run. In contrast, the <strong>short run</strong> is defined as the time period during which at least one input is fixed. Later in this chapter, we&#8217;ll look more carefully at the distinction between the short run and the long run. But for now, we will restrict our attention to the short run and assume that at least one input is fixed.</p>
+<p id="krugmanwellsessentials4e-ch6-p25" block_type="txt">George and Martha know that the quantity of wheat they produce depends on the number of workers they hire. Using modern farming techniques, one worker can cultivate the 10-acre farm, albeit not very intensively. When an additional worker is added, the land is divided equally among all the workers: each worker has 5 acres to cultivate when 2 workers are employed, each cultivates 3&#8531; acres when 3 are employed, and so on. So as additional workers are employed, the 10 acres of land are cultivated more intensively and more bushels of wheat are produced.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p26" block_type="mn-gl-def">The <strong>total product curve</strong> shows how the quantity of output depends on the quantity of the variable input, for a given quantity of the fixed input.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p27" block_type="txt">The relationship between the quantity of labor and the quantity of output, for a given amount of the fixed input, constitutes the farm&#8217;s production function. The production function for George and Martha&#8217;s farm, where land is the fixed input and labor is a variable input, is shown in the first two columns of the table in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link>; the diagram there shows the same information graphically. The curve in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link> shows how the quantity of output depends on the quantity of the variable input, for a given quantity of the fixed input; it is called the farm&#8217;s <strong>total product curve.</strong></p>
+<figure id="krugmanwellsessentials4e-ch6-fig-2" block_type="figure" numbered="true" number="6-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-2"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-1</phrase></strong></phrase> <phrase block_type="fig_title">Production Function and Total Product Curve for George and Martha&#8217;s Farm</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-4" alt="image" src="images/KrugESS4e_fig_06_01.jpg"/>
+<caption>The table shows the production function, the relationship between the quantity of the variable input (labor, measured in number of workers) and the quantity of output (wheat, measured in bushels) for a given quantity of the fixed input. It also calculates the marginal product of labor on George and Martha&#8217;s farm. The total product curve shows the production function graphically. It slopes upward because more wheat is produced as more workers are employed. It also becomes flatter because the marginal product of labor declines as more and more workers are employed.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p28" block_type="txt">The physical quantity of output, bushels of wheat, is measured on the vertical axis; the quantity of the variable input, labor (that is, the number of workers employed), is measured on the horizontal axis. The total product curve here slopes upward, reflecting the fact that more bushels of wheat are produced as more workers are employed.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p29" block_type="mn-gl-def">The <strong>marginal product</strong> of an input is the additional quantity of output that is produced by using one more unit of that input.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p30" block_type="txt">Although the total product curve in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link> slopes upward along its entire length, the slope isn&#8217;t constant: as you move up the curve to the right, it flattens out. To understand why the slope changes, look at the third column of the table in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link>, which shows the <em>change in the quantity of output</em> that is generated by adding one more worker. This is called the <em>marginal product</em> of labor, or <em>MPL:</em> the additional quantity of output from using one more unit of labor (where one unit of labor is equal to one worker). In general, the <strong>marginal product</strong> of an input is the additional quantity of output that is produced by using one more unit of that input.</p>
+<p id="krugmanwellsessentials4e_page_177" block_type="page_start">177</p>
+<p id="krugmanwellsessentials4e-ch6-p31" block_type="txt">In this example, we have data on changes in output at intervals of 1 worker. Sometimes data aren&#8217;t available in increments of 1 unit&#8212;for example, you might have information only on the quantity of output when there are 40 workers and when there are 50 workers. In this case, we use the following equation to calculate the marginal product of labor:</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-3" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-5" alt="image" src="images/KrugESS4e_eqn_177_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p32" block_type="txt-ni">or</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-4" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-6" alt="image" src="images/KrugESS4e_eqn_177_02.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p33" block_type="txt-ni">In this equation, &#916;, the Greek uppercase delta, represents the change in a variable.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p34" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-7" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p35" block_type="txt">Now we can explain the significance of the slope of the total product curve: it is equal to the marginal product of labor. The slope of a line is equal to &#8220;rise&#8221; over &#8220;run&#8221; (see the appendix to <link href="krugmanwellsessentials4e-ch02.xml">Chapter 2</link>). This implies that the slope of the total product curve is the change in the quantity of output (the &#8220;rise&#8221;, &#916;<em>Q</em>) divided by the change in the quantity of labor (the &#8220;run&#8221;, &#916;<em>L</em>). And this, as we can see from Equation 6-1, is simply the marginal product of labor. So in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link>, the fact that the marginal product of the first worker is 19 also means that the slope of the total product curve in going from 0 to 1 worker is 19. Similarly, the slope of the total product curve in going from 1 to 2 workers is the same as the marginal product of the second worker, 17, and so on.</p>
+<p id="krugmanwellsessentials4e_page_178" block_type="page_start">178</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx4-1" block_type="bx4-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch6-img-8" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase> <phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch6-p36" block_type="bx4-t"><strong>Wheat Yields Around the World</strong></p>
+<p id="krugmanwellsessentials4e-ch6-p37" block_type="bx4-txt-ni"><phrase block_type="dropcap">W</phrase>heat yields differ substantially around the world. The disparity between France and the United States that you see in this graph is particularly striking, given that they are both wealthy countries with comparable agricultural technology. Yet the reason for that disparity is straightforward: differing government policies. In the United States, farmers receive payments from the government to supplement their incomes, but European farmers benefit from price floors. Since European farmers get higher prices for their output than American farmers, they employ more variable inputs and produce significantly higher yields.</p>
+<p id="krugmanwellsessentials4e-ch6-p38" block_type="bx4-txt">Interestingly, in poor countries like Uganda and Ethiopia, foreign aid can lead to significantly depressed yields. Foreign aid from wealthy countries has often taken the form of surplus food, which depresses local market prices, severely hurting the local agriculture that poor countries normally depend on. Charitable organizations like OXFAM have asked wealthy food-producing countries to modify their aid policies&#8212;principally, to give aid in cash rather than in food products except in the case of acute food shortages&#8212;to avoid this problem.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-5" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-9" alt="image" src="images/KrugESS4e_06UN01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p39" block_type="bx4-sc"><em>Data from:</em> Food and Agriculture Organization of the United Nations. Data are from 2012.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p40" block_type="txt">In this example, the marginal product of labor steadily declines as more workers are hired&#8212;that is, each successive worker adds less to output than the previous worker. So as employment increases, the total product curve gets flatter.</p>
+<p id="krugmanwellsessentials4e-ch6-p41" block_type="txt"><link href="#krugmanwellsessentials4e-ch6-fig-6">Figure 6-2</link> shows how the marginal product of labor depends on the number of workers employed on the farm. The marginal product of labor, <em>MPL,</em> is measured on the vertical axis in units of physical output&#8212;bushels of wheat&#8212;produced per additional worker, and the number of workers employed is measured on the horizontal axis. You can see from the table in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link> that if 5 workers are employed instead of 4, output rises from 64 to 75 bushels; in this case the marginal product of labor is 11 bushels&#8212;the same number found in <link href="#krugmanwellsessentials4e-ch6-fig-6">Figure 6-2</link>. To indicate that 11 bushels is the marginal product when employment rises from 4 to 5, we place the point corresponding to that information halfway between 4 and 5 workers.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-6" block_type="figure" numbered="true" number="6-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-6"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-2</phrase></strong></phrase> <phrase block_type="fig_title">Marginal Product of Labor Curve for George and Martha&#8217;s Farm</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-10" alt="image" src="images/KrugESS4e_fig_06_02.jpg"/>
+<caption>The marginal product of labor curve plots each worker&#8217;s marginal product, the increase in the quantity of output generated by each additional worker. The change in the quantity of output is measured on the vertical axis and the number of workers employed is on the horizontal axis. The first worker employed generates an increase in output of 19 bushels, the second worker generates an increase of 17 bushels, and so on. The curve slopes downward due to diminishing returns to labor.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_179" block_type="page_start">179</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p42" block_type="mn-gl-def">There are <strong>diminishing returns to an input</strong> when an increase in the quantity of that input, holding the levels of all other inputs fixed, leads to a decline in the marginal product of that input.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p43" block_type="txt">In this example the marginal product of labor falls as the number of workers increases. That is, there are <em>diminishing returns to labor</em> on George and Martha&#8217;s farm. In general, there are <strong>diminishing returns to an input</strong> when an increase in the quantity of that input, holding the quantity of all other inputs fixed, reduces that input&#8217;s marginal product. Due to diminishing returns to labor, the <em>MPL</em> curve is negatively sloped.</p>
+<p id="krugmanwellsessentials4e-ch6-p44" block_type="txt">To grasp why diminishing returns can occur, think about what happens as George and Martha add more and more workers without increasing the number of acres of land. As the number of workers increases, the land is farmed more intensively and the number of bushels produced increases. But each additional worker is working with a smaller share of the 10 acres&#8212;the fixed input&#8212;than the previous worker. As a result, the additional worker cannot produce as much output as the previous worker. So it&#8217;s not surprising that the marginal product of the additional worker falls.</p>
+<p id="krugmanwellsessentials4e-ch6-p45" block_type="txt">The crucial point to emphasize about diminishing returns is that, like many propositions in economics, it is an &#8220;other things equal&#8221; proposition: each successive unit of an input will raise production by less than the last <em>if the quantity of all other inputs is held fixed.</em></p>
+<p id="krugmanwellsessentials4e-ch6-p46" block_type="txt">What would happen if the levels of other inputs were allowed to change? You can see the answer illustrated in <link href="#krugmanwellsessentials4e-ch6-fig-7">Figure 6-3</link>. Panel (a) shows two total product curves, <em>TP</em><sub>10</sub> and <em>TP</em><sub>20</sub>. <em>TP</em><sub>10</sub> is the farm&#8217;s total product curve when its total area is 10 acres (the same curve as in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link>). <em>TP</em><sub>20</sub> is the total product curve when the farm has increased to 20 acres. Except when 0 workers are employed, <em>TP</em><sub>20</sub> lies everywhere above <em>TP</em><sub>10</sub> because with more acres available, any given number of workers produces more output. Panel (b) shows the corresponding marginal product of labor curves. <em>MPL</em><sub>10</sub> is the marginal product of labor curve given 10 acres to cultivate (the same curve as in <link href="#krugmanwellsessentials4e-ch6-fig-6">Figure 6-2</link>), and <em>MPL</em><sub>20</sub> is the marginal product of labor curve given 20 acres.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-7" block_type="figure" numbered="true" number="6-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-7"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-3</phrase></strong></phrase> <phrase block_type="fig_title">Total Product, Marginal Product, and the Fixed Input</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-11" alt="image" src="images/KrugESS4e_fig_06_03ab.jpg"/>
+<caption>This figure shows how the quantity of output and the marginal product of labor depend on the level of the fixed input. Panel (a) shows two total product curves for George and Martha&#8217;s farm, <em>TP</em><sub>10</sub> when their farm is 10 acres and <em>TP</em><sub>20</sub> when it is 20 acres. With more land, each worker can produce more wheat. So an increase in the fixed input shifts the total product curve up from <em>TP</em><sub>10</sub> to <em>TP</em><sub>20</sub>. This implies that the marginal product of each worker is higher when the farm is 20 acres than when it is 10 acres. Panel (b) shows the marginal product of labor curves. The increase in acreage also shifts the marginal product of labor curve up from <em>MPL</em><sub>10</sub> to <em>MPL</em><sub>20</sub>. Note that both marginal product of labor curves still slope downward due to diminishing returns to labor.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_180" block_type="page_start">180</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch6-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch6-p47" block_type="bx1-t"><strong>WHAT&#8217;S A UNIT?</strong></p>
+<p id="krugmanwellsessentials4e-ch6-p48" block_type="bx1-txt-ni">The marginal product of labor (or any other input) is defined as the increase in the quantity of output when you increase the quantity of that input by one unit. But what do we mean by a &#8220;unit&#8221; of labor? Is it an additional hour of labor, an additional week, or a person-year?</p>
+<p id="krugmanwellsessentials4e-ch6-p49" block_type="bx1-txt">The answer is that it doesn&#8217;t matter, <em>as long as you are consistent.</em> One common source of error in economics is getting units confused&#8212;say, comparing the output added by an additional <em>hour</em> of labor with the cost of employing a worker for a <em>week.</em> Whatever units you use, always be careful that you use the same units throughout your analysis of any problem.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p50" block_type="txt">Both curves slope downward because, in each case, the amount of land is fixed, albeit at different levels. But <em>MPL</em><sub>20</sub> lies everywhere above <em>MPL</em><sub>10</sub>, reflecting the fact that the marginal product of the same worker is higher when he or she has more of the fixed input to work with.</p>
+<p id="krugmanwellsessentials4e-ch6-p51" block_type="txt"><link href="#krugmanwellsessentials4e-ch6-fig-7">Figure 6-3</link> demonstrates a general result: the position of the total product curve of a given input depends on the quantities of other inputs. If you change the quantity of the other inputs, both the total product curve and the marginal product curve of the remaining input will shift.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-2" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="180">
+<section-metadata><section-title>From the Production Function to Cost Curves</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch6-p52" block_type="txt-ni">Once George and Martha know their production function, they know the relationship between inputs of labor and land and output of wheat. But if they want to maximize their profits, they need to translate this knowledge into information about the relationship between the quantity of output and cost. Let&#8217;s see how they can do this.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p53" block_type="mn-gl-def">A <strong>fixed cost</strong> is a cost that does not depend on the quantity of output produced. It is the cost of the fixed input.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p54" block_type="txt">To translate information about a firm&#8217;s production function into information about its costs, we need to know how much the firm must pay for its inputs. We will assume that George and Martha face a cost of &#36;400 for the use of the land. It is irrelevant whether George and Martha must rent 10 acres of the land for &#36;400 from someone else or whether they own the land themselves and forgo earning &#36;400 from renting it to someone else. Either way, they pay an opportunity cost of &#36;400 by using the land to grow wheat. Moreover, since the land is a fixed input, the &#36;400 George and Martha pay for it is a <strong>fixed cost,</strong> denoted by <em>FC</em>&#8212;a cost that does not depend on the quantity of output produced (in the short run). In business, fixed cost is often referred to as &#8220;overhead cost.&#8221;</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p55" block_type="mn-gl-def">A <strong>variable cost</strong> is a cost that depends on the quantity of output produced. It is the cost of the variable input.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p56" block_type="mn-gl-def">The <strong>total cost</strong> of producing a given quantity of output is the sum of the fixed cost and the variable cost of producing that quantity of output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p57" block_type="txt">We also assume that George and Martha must pay each worker &#36;200. Using their production function, George and Martha know that the number of workers they must hire depends on the amount of wheat they intend to produce. So the cost of labor, which is equal to the number of workers multiplied by &#36;200, is a <strong>variable cost,</strong> denoted by <em>VC</em>&#8212;a cost that depends on the quantity of output produced. It is variable because in order to produce more they have to employ more units of input. Adding the fixed cost and the variable cost of a given quantity of output gives the <strong>total cost,</strong> or <em>TC,</em> of that quantity of output. We can express the relationship among fixed cost, variable cost, and total cost as an equation:</p>
+<p id="krugmanwellsessentials4e-ch6-p58" block_type="eq"><strong>(6-2)</strong> Total cost = Fixed cost &#43; Variable cost</p>
+<p id="krugmanwellsessentials4e-ch6-p59" block_type="txt-ni">or</p>
+<p id="krugmanwellsessentials4e-ch6-p60" block_type="eq"><em>TC</em> = <em>FC</em> &#43; <em>VC</em></p>
+<p id="krugmanwellsessentials4e-ch6-p61" block_type="txt">The table in <link href="#krugmanwellsessentials4e-ch6-fig-8">Figure 6-4</link> shows how total cost is calculated for George and Martha&#8217;s farm. The second column shows the number of workers employed, <em>L.</em> The third column shows the corresponding level of output, <em>Q,</em> taken from the table in <link href="#krugmanwellsessentials4e-ch6-fig-2">Figure 6-1</link>. The fourth column shows the variable cost, <em>VC,</em> equal to the number of workers multiplied by &#36;200, the cost per worker. The fifth column shows the fixed cost, <em>FC,</em> which is &#36;400 regardless of how many workers are employed. The sixth column shows the total cost of output, <em>TC,</em> which is the variable cost plus the fixed cost.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-8" block_type="figure" numbered="true" number="6-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-8"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-4</phrase></strong></phrase> <phrase block_type="fig_title">Total Cost Curve for George and Martha&#8217;s Farm</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-12" alt="image" src="images/KrugESS4e_fig_06_04.jpg"/>
+<caption>The table shows the variable cost, fixed cost, and total cost for various output quantities on George and Martha&#8217;s 10-acre farm. The total cost curve shows how total cost (measured on the vertical axis) depends on the quantity of output (measured on the horizontal axis). The labeled points on the curve correspond to the rows of the table. The total cost curve slopes upward because the number of workers employed, and hence total cost, increases as the quantity of output increases. The curve gets steeper as output increases due to diminishing returns to labor.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_181" block_type="page_start">181</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p62" block_type="mn-gl-def">The <strong>total cost curve</strong> shows how total cost depends on the quantity of output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p63" block_type="txt">The first column labels each row of the table with a letter, from <em>A</em> to <em>I.</em> These labels will be helpful in understanding our next step: drawing the <strong>total cost curve,</strong> a curve that shows how total cost depends on the quantity of output.</p>
+<p id="krugmanwellsessentials4e-ch6-p64" block_type="txt">George and Martha&#8217;s total cost curve is shown in the diagram in <link href="#krugmanwellsessentials4e-ch6-fig-8">Figure 6-4</link>, where the horizontal axis measures the quantity of output in bushels of wheat and the vertical axis measures total cost in dollars. Each point on the curve corresponds to one row of the table in <link href="#krugmanwellsessentials4e-ch6-fig-8">Figure 6-4</link>. For example, point <em>A</em> shows the situation when 0 workers are employed: output is 0, and total cost is equal to fixed cost, &#36;400. Similarly, point <em>B</em> shows the situation when 1 worker is employed: output is 19 bushels, and total cost is &#36;600, equal to the sum of &#36;400 in fixed cost and &#36;200 in variable cost.</p>
+<p id="krugmanwellsessentials4e-ch6-p65" block_type="txt">Like the total product curve, the total cost curve slopes upward: due to the variable cost, the more output produced, the higher the farm&#8217;s total cost. But unlike the total product curve, which gets flatter as employment rises, the total cost curve gets <em>steeper.</em> That is, the slope of the total cost curve is greater as the amount of output produced increases. As we will soon see, the steepening of the total cost curve is also due to diminishing returns to the variable input. Before we can understand this, we must first look at the relationships among several useful measures of cost.</p>
+<p id="krugmanwellsessentials4e_page_182" block_type="page_start">182</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch6-p66" block_type="bx-2-t"><strong>The Mythical Man-Month</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p67" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-13" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p68" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he concept of diminishing returns to an input was first formulated by economists during the late eighteenth century. These economists, notably including Thomas Malthus, drew their inspiration from agricultural examples.</p>
+<p id="krugmanwellsessentials4e-ch6-p69" block_type="bx2-txt">However, the idea of diminishing returns to an input applies with equal force to the most modern of economic activities&#8212;such as, say, the design of software. In 1975 Frederick P. Brooks Jr., a project manager at IBM during the days when it dominated the computer business, published a book titled <em>The Mythical Man-Month</em> that soon became a classic&#8212;so much so that a special anniversary edition was published 20 years later.</p>
+<p id="krugmanwellsessentials4e-ch6-p70" block_type="bx2-txt">The chapter that gave its title to the book is basically about diminishing returns to labor in the writing of software. Brooks observed that multiplying the number of programmers assigned to a project did not produce a proportionate reduction in the time it took to get the program written. A project that could be done by 1 programmer in 12 months could <em>not</em> be done by 12 programmers in 1 month&#8212;hence the &#8220;mythical man-month,&#8221; the false notion that the number of lines of programming code produced was proportional to the number of code writers employed. In fact, above a certain number, adding another programmer on a project actually <em>increased</em> the time to completion.</p>
+<p id="krugmanwellsessentials4e-ch6-p71" block_type="bx2-txt">The argument of <em>The Mythical Man-Month</em> is summarized in <link href="#krugmanwellsessentials4e-ch6-fig-9">Figure 6-5</link>. The upper part of the figure shows how the quantity of the project&#8217;s output, as measured by the number of lines of code produced per month, varies with the number of programmers. Each additional programmer accomplishes less than the previous one, and beyond a certain point an additional programmer is actually counterproductive. The lower part of the figure shows the marginal product of each successive programmer, which falls as more programmers are employed and eventually becomes negative.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-9" block_type="figure" numbered="true" number="6-5" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-9"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-5</phrase></strong></phrase> <phrase block_type="fig_title">The Mythical Man-Month</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-14" alt="image" src="images/KrugESS4e_fig_06_05.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p72" block_type="bx2-txt">In other words, programming is subject to diminishing returns so severe that at some point more programmers actually have negative marginal product. The source of the diminishing returns lies in the nature of the production function for a programming project: each programmer must coordinate his or her work with that of all the other programmers on the project, leading each person to spend more time communicating with others as the number of programmers increases. In other words, other things equal, there are diminishing returns to labor. It is likely, however, that if fixed inputs devoted to programming projects are increased&#8212;say, installing a faster and more accurate programming bug-detection system&#8212;the problem of diminishing returns for additional programmers can be mitigated.</p>
+<p id="krugmanwellsessentials4e-ch6-p73" block_type="bx2-txt">A reviewer of the reissued edition of <em>The Mythical Man-Month</em> summarized the reasons for these diminishing returns: &#8220;There is an inescapable overhead to yoking up programmers in parallel. The members of the team must &#8216;waste time&#8217; attending meetings, drafting project plans, exchanging e-mail, negotiating interfaces, enduring performance reviews, and so on&#8230;. At Microsoft, there will be at least one team member that just designs T-shirts for the rest of the team to wear.&#8221;</p>
+</box>
+<p id="krugmanwellsessentials4e_page_183" block_type="page_start">183</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch6-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch6-list-2" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch6-p74" block_type="sr1-bl">The firm&#8217;s <strong>production function</strong> is the relationship between quantity of inputs and quantity of output. The <strong>total product curve</strong> shows how the quantity of output depends on the quantity of the <strong>variable input</strong> for a given quantity of the <strong>fixed input,</strong> and its slope is equal to the <strong>marginal product</strong> of the variable input. In the <strong>short run,</strong> the fixed input cannot be varied; in the <strong>long run</strong> all inputs are variable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p75" block_type="sr1-bl">When the levels of all other inputs are fixed, <strong>diminishing returns to an input</strong> may arise, yielding a downward-sloping marginal product curve and a total product curve that becomes flatter as more output is produced.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p76" block_type="sr1-bl">The <strong>total cost</strong> of a given quantity of output equals the <strong>fixed cost</strong> plus the <strong>variable cost</strong> of that output. The <strong>total cost curve</strong> becomes steeper as more output is produced due to diminishing returns to the variable input.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">6-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch6-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch6-p77" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Bernie&#8217;s ice-making company produces ice cubes using a 10-ton machine and electricity. The quantity of output, measured in terms of pounds of ice, is given in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-1" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-1" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of <br/>electricity (kilowatts)</strong></td>
+<td><strong>Quantity of ice <br/>(pounds)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>1,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>1,800</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>2,400</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>2,800</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch6-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p78" block_type="sr2-nl-lvl2">What is the fixed input? What is the variable input?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p79" block_type="sr2-nl-lvl2">Construct a table showing the marginal product of the variable input. Does it show diminishing returns?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p80" block_type="sr2-nl-lvl2">Suppose a 50&#37; increase in the size of the fixed input increases output by 100&#37; for any given amount of the variable input. What is the fixed input now? Construct a table showing the quantity of output and marginal product in this case.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p81" block_type="sr2-nl-fn">Solutions appear at back of book.</p></li>
+</list>
+</question>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-2" block_type="h1" title="" chapter="6" numbered="true" level="1" print_page="183">
+<section-metadata><section-title>Two Key Concepts: Marginal Cost and Average Cost</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch6-p82" block_type="txt-ni">We&#8217;ve just learned how to derive a firm&#8217;s total cost curve from its production function. Our next step is to take a deeper look at total cost by deriving two extremely useful measures: <em>marginal cost</em> and <em>average cost.</em> As we&#8217;ll see, these two measures of the cost of production have a somewhat surprising relationship to each other. Moreover, they will prove to be vitally important later when we use them to analyze the firm&#8217;s output decision and the market supply curve.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-3" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="183">
+<section-metadata><section-title>Marginal Cost</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p83" block_type="mn-gl-def">The <strong>marginal cost</strong> of producing a good or service is the additional cost incurred by producing one more unit of that good or service.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p84" block_type="txt-ni"><strong>Marginal cost</strong> is the change in total cost generated by producing one more unit of output. We&#8217;ve already seen that the marginal product of an input is easiest to calculate if data on output are available in increments of one unit of that input. Similarly, marginal cost is easiest to calculate if data on total cost are available in increments of one unit of output. When the data come in less convenient increments, it&#8217;s still possible to calculate marginal cost. But for the sake of simplicity, let&#8217;s work with an example in which the data come in convenient one-unit increments.</p>
+<p id="krugmanwellsessentials4e-ch6-p85" block_type="txt">Selena&#8217;s Gourmet Salsas produces bottled salsa and <link href="#krugmanwellsessentials4e-ch6-tab-2">Table 6-1</link> shows how its costs per day depend on the number of cases of salsa it produces per day. The firm has fixed cost of &#36;108 per day, shown in the second column, which represents the daily cost of its food-preparation equipment. The third column shows the variable cost, and the fourth column shows the total cost. Panel (a) of <link href="#krugmanwellsessentials4e-ch6-fig-10">Figure 6-6</link> plots the total cost curve. Like the total cost curve for George and Martha&#8217;s farm in <link href="#krugmanwellsessentials4e-ch6-fig-8">Figure 6-4</link>, this curve slopes upward, getting steeper as you move up it to the right.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-10" block_type="figure" numbered="true" number="6-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-10"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-6</phrase></strong></phrase> <phrase block_type="fig_title">Total Cost and Marginal Cost Curves for Selena&#8217;s Gourmet Salsas</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-15" alt="image" src="images/KrugESS4e_fig_06_06ab.jpg"/>
+<caption>Panel (a) shows the total cost curve from <link href="#krugmanwellsessentials4e-ch6-tab-2">Table 6-1</link>. Like the total cost curve in <link href="#krugmanwellsessentials4e-ch6-fig-8">Figure 6-4</link>, it slopes upward and gets steeper as we move up it to the right. Panel (b) shows the marginal cost curve. It also slopes upward, reflecting diminishing returns to the variable input.</caption>
+</figure>
+<table id="krugmanwellsessentials4e-ch6-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch6-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">6-1</phrase></strong> <phrase block_type="tbl_title">Costs at Selena&#8217;s Gourmet Salsas</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity of <br/>salsa <em>Q</em> <br/>(cases)</strong></td>
+<td><strong>Fixed cost <br/><em>FC</em></strong></td>
+<td><strong>Variable cost <br/><em>VC</em></strong></td>
+<td><strong>Total cost <br/><em>TC</em> = <em>FC</em> &#43; <em>VC</em></strong></td>
+<td><strong>Marginal cost <br/>of case <br/><em>MC</em> = &#916;<em>TC/</em>&#916;<em>Q</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>0</td>
+<td>&#36;108</td>
+<td>&#36;0</td>
+<td>&#36;108</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&#36;12</td>
+</tr>
+<tr class="tbl-td-light">
+<td>1</td>
+<td>108</td>
+<td>12</td>
+<td>120</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+</tr>
+<tr class="tbl-td-light">
+<td>2</td>
+<td>108</td>
+<td>48</td>
+<td>156</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>60</td>
+</tr>
+<tr class="tbl-td-light">
+<td>3</td>
+<td>108</td>
+<td>108</td>
+<td>216</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>84</td>
+</tr>
+<tr class="tbl-td-light">
+<td>4</td>
+<td>108</td>
+<td>192</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>108</td>
+</tr>
+<tr class="tbl-td-light">
+<td>5</td>
+<td>108</td>
+<td>300</td>
+<td>408</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>132</td>
+</tr>
+<tr class="tbl-td-light">
+<td>6</td>
+<td>108</td>
+<td>432</td>
+<td>540</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>156</td>
+</tr>
+<tr class="tbl-td-light">
+<td>7</td>
+<td>108</td>
+<td>588</td>
+<td>696</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>180</td>
+</tr>
+<tr class="tbl-td-light">
+<td>8</td>
+<td>108</td>
+<td>768</td>
+<td>876</td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>204</td>
+</tr>
+<tr class="tbl-td-light">
+<td>9</td>
+<td>108</td>
+<td>972</td>
+<td>1,080</td>
+<td>228</td>
+</tr>
+<tr class="tbl-td-light">
+<td>10</td>
+<td>108</td>
+<td>1,200</td>
+<td>1,308</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch6-p86" block_type="txt">The significance of the slope of the total cost curve is shown by the fifth column of <link href="#krugmanwellsessentials4e-ch6-tab-2">Table 6-1</link>, which calculates <em>marginal cost:</em> the additional cost of each additional unit. The general formula for marginal cost is:</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-11" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-16" alt="image" src="images/KrugESS4e_eqn_183_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p87" block_type="txt-ni">or</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-12" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-17" alt="image" src="images/KrugESS4e_eqn_183_02.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e_page_184" block_type="page_start">184</p>
+<p id="krugmanwellsessentials4e-ch6-p88" block_type="txt-ni">As in the case of marginal product, marginal cost is equal to &#8220;rise&#8221; (the increase in total cost) divided by &#8220;run&#8221; (the increase in the quantity of output). So just as marginal product is equal to the slope of the total product curve, marginal cost is equal to the slope of the total cost curve.</p>
+<p id="krugmanwellsessentials4e-ch6-p89" block_type="txt">Now we can understand why the total cost curve gets steeper as we move up it to the right: as you can see in <link href="#krugmanwellsessentials4e-ch6-tab-2">Table 6-1</link>, marginal cost at Selena&#8217;s Gourmet Salsas rises as output increases. Panel (b) of <link href="#krugmanwellsessentials4e-ch6-fig-10">Figure 6-6</link> shows the marginal cost curve corresponding to the data in <link href="#krugmanwellsessentials4e-ch6-tab-2">Table 6-1</link>. Notice that, as in <link href="#krugmanwellsessentials4e-ch6-fig-6">Figure 6-2</link>, we plot the marginal cost for increasing output from 0 to 1 case of salsa halfway between 0 and 1, the marginal cost for increasing output from 1 to 2 cases of salsa halfway between 1 and 2, and so on.</p>
+<p id="krugmanwellsessentials4e_page_185" block_type="page_start">185</p>
+<p id="krugmanwellsessentials4e-ch6-p90" block_type="txt">Why does the marginal cost curve slope upward? Because there are diminishing returns to inputs in this example. As output increases, the marginal product of the variable input declines. This implies that more and more of the variable input must be used to produce each additional unit of output as the amount of output already produced rises. And since each unit of the variable input must be paid for, the additional cost per additional unit of output also rises.</p>
+<p id="krugmanwellsessentials4e-ch6-p91" block_type="txt">In addition, recall that the flattening of the total product curve is also due to diminishing returns: the marginal product of an input falls as more of that input is used if the quantities of other inputs are fixed. The flattening of the total product curve as output increases and the steepening of the total cost curve as output increases are just flip-sides of the same phenomenon. That is, as output increases, the marginal cost of output also increases because the marginal product of the variable input decreases.</p>
+<p id="krugmanwellsessentials4e-ch6-p92" block_type="txt">We will return to marginal cost in <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link>, when we consider the firm&#8217;s profit-maximizing output decision. Our next step is to introduce another measure of cost: <em>average cost.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-4" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="185">
+<section-metadata><section-title>Average Total Cost</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p93" block_type="mn-gl-def"><strong>Average total cost,</strong> often referred to simply as <strong>average cost,</strong> is total cost divided by quantity of output produced.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p94" block_type="txt-ni">In addition to total cost and marginal cost, it&#8217;s useful to calculate another measure, <strong>average total cost,</strong> often simply called <strong>average cost.</strong> The average total cost is total cost divided by the quantity of output produced; that is, it is equal to total cost per unit of output. If we let <em>ATC</em> denote average total cost, the equation looks like this:</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-13" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-18" alt="image" src="images/KrugESS4e_eqn_185_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p95" block_type="txt-ni">Average total cost is important because it tells the producer how much the <em>average</em> or <em>typical</em> unit of output costs to produce. Marginal cost, meanwhile, tells the producer how much <em>one more</em> unit of output costs to produce. Although they may look very similar, these two measures of cost typically differ. And confusion between them is a major source of error in economics, both in the classroom and in real life, as illustrated by the upcoming Economics in Action.</p>
+<p id="krugmanwellsessentials4e-ch6-p96" block_type="txt"><link href="#krugmanwellsessentials4e-ch6-tab-3">Table 6-2</link> uses data from Selena&#8217;s Gourmet Salsas to calculate average total cost. For example, the total cost of producing 4 cases of salsa is &#36;300, consisting of &#36;108 in fixed cost and &#36;192 in variable cost (from <link href="#krugmanwellsessentials4e-ch6-tab-2">Table 6-1</link>). So the average total cost of producing 4 cases of salsa is &#36;300/4 = &#36;75. You can see from <link href="#krugmanwellsessentials4e-ch6-tab-3">Table 6-2</link> that as quantity of output increases, average total cost first falls, then rises.</p>
+<table id="krugmanwellsessentials4e-ch6-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch6-tab-3" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">6-2</phrase></strong> <phrase block_type="tbl_title">Average Costs for Selena&#8217;s Gourmet Salsas</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity <br/>of salsa <br/>Q (cases)</strong></td>
+<td><strong>Total <br/>cost <br/><em>TC</em></strong></td>
+<td><strong>Average total <br/>cost of case <br/><em>ATC</em></strong> = <strong><em>TC/Q</em></strong></td>
+<td><strong>Average fixed <br/>cost of case <br/><em>AFC</em></strong> = <strong><em>FC/Q</em></strong></td>
+<td><strong>Average variable <br/>cost of case <br/><em>AVC</em></strong> = <strong><em>VC/Q</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1</td>
+<td class="tbl-rborder">&#36;120</td>
+<td class="tbl-rborder">&#36;120.00</td>
+<td class="tbl-rborder">&#36;108.00</td>
+<td>&#36;12.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2</td>
+<td class="tbl-rborder">156</td>
+<td class="tbl-rborder">78.00</td>
+<td class="tbl-rborder">54.00</td>
+<td>24.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">3</td>
+<td class="tbl-rborder">216</td>
+<td class="tbl-rborder">72.00</td>
+<td class="tbl-rborder">36.00</td>
+<td>36.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">4</td>
+<td class="tbl-rborder">300</td>
+<td class="tbl-rborder">75.00</td>
+<td class="tbl-rborder">27.00</td>
+<td>48.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td class="tbl-rborder">408</td>
+<td class="tbl-rborder">81.60</td>
+<td class="tbl-rborder">21.60</td>
+<td>60.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">6</td>
+<td class="tbl-rborder">540</td>
+<td class="tbl-rborder">90.00</td>
+<td class="tbl-rborder">18.00</td>
+<td>72.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">7</td>
+<td class="tbl-rborder">696</td>
+<td class="tbl-rborder">99.43</td>
+<td class="tbl-rborder">15.43</td>
+<td>84.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">8</td>
+<td class="tbl-rborder">876</td>
+<td class="tbl-rborder">109.50</td>
+<td class="tbl-rborder">13.50</td>
+<td>96.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">9</td>
+<td class="tbl-rborder">1,080</td>
+<td class="tbl-rborder">120.00</td>
+<td class="tbl-rborder">12.00</td>
+<td>108.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td class="tbl-rborder">1,308</td>
+<td class="tbl-rborder">130.80</td>
+<td class="tbl-rborder">10.80</td>
+<td>120.00</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_186" block_type="page_start">186</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p97" block_type="mn-gl-def">A <strong>U-shaped average total cost curve</strong> falls at low levels of output, then rises at higher levels.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p98" block_type="txt"><link href="#krugmanwellsessentials4e-ch6-fig-14">Figure 6-7</link> plots that data to yield the <em>average total cost curve,</em> which shows how average total cost depends on output. As before, cost in dollars is measured on the vertical axis and quantity of output is measured on the horizontal axis. The average total cost curve has a distinctive U shape that corresponds to how average total cost first falls and then rises as output increases. Economists believe that such <strong>U-shaped average total cost curves</strong> are the norm for producers in many industries.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-14" block_type="figure" numbered="true" number="6-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-14"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-7</phrase></strong></phrase> <phrase block_type="fig_title">Average Total Cost Curve for Selena&#8217;s Gourmet Salsas</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-19" alt="image" src="images/KrugESS4e_fig_06_07.jpg"/>
+<caption>The average total cost curve at Selena&#8217;s Gourmet Salsas is U-shaped. At low levels of output, average total cost falls because the &#8220;spreading effect&#8221; of falling average fixed cost dominates the &#8220;diminishing returns effect&#8221; of rising average variable cost. At higher levels of output, the opposite is true and average total cost rises. At point <em>M,</em> corresponding to an output of three cases of salsa per day, average total cost is at its minimum level, the minimum average total cost.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p99" block_type="mn-gl-def"><strong>Average fixed cost</strong> is the fixed cost per unit of output.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p100" block_type="mn-gl-def"><strong>Average variable cost</strong> is the variable cost per unit of output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p101" block_type="txt">To help our understanding of why the average total cost curve is U-shaped, <link href="#krugmanwellsessentials4e-ch6-tab-3">Table 6-2</link> breaks average total cost into its two underlying components, <em>average fixed cost</em> and <em>average variable cost.</em> <strong>Average fixed cost,</strong> or <em>AFC,</em> is fixed cost divided by the quantity of output, also known as the fixed cost per unit of output. For example, if Selena&#8217;s Gourmet Salsas produces 4 cases of salsa, average fixed cost is &#36;108/4 = &#36;27 per case. <strong>Average variable cost,</strong> or <em>AVC,</em> is variable cost divided by the quantity of output, also known as variable cost per unit of output. At an output of 4 cases, average variable cost is &#36;192/4 = &#36;48 per case. Writing these in the form of equations:</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-15" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-20" alt="image" src="images/KrugESS4e_eqn_186_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p102" block_type="txt-ni">Average total cost is the sum of average fixed cost and average variable cost. It has a U shape because these components move in opposite directions as output rises.</p>
+<p id="krugmanwellsessentials4e-ch6-p103" block_type="txt">Average fixed cost falls as more output is produced because the numerator (the fixed cost) is a fixed number but the denominator (the quantity of output) increases as more is produced. Another way to think about this relationship is that, as more output is produced, the fixed cost is spread over more units of output; the end result is that the fixed cost <em>per unit of output</em>&#8212;the average fixed cost&#8212;falls. You can see this effect in the fourth column of <link href="#krugmanwellsessentials4e-ch6-tab-3">Table 6-2</link>: average fixed cost drops continuously as output increases.</p>
+<p id="krugmanwellsessentials4e_page_187" block_type="page_start">187</p>
+<p id="krugmanwellsessentials4e-ch6-p104" block_type="txt">Average variable cost, however, rises as output increases. As we&#8217;ve seen, this reflects diminishing returns to the variable input: each additional unit of output incurs more variable cost to produce than the previous unit. So variable cost rises at a faster rate than the quantity of output increases.</p>
+<p id="krugmanwellsessentials4e-ch6-p105" block_type="txt">So increasing output has two opposing effects on average total cost&#8212;the &#8220;spreading effect&#8221; and the &#8220;diminishing returns effect&#8221;:</p>
+<list id="krugmanwellsessentials4e-ch6-list-4" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch6-p106" block_type="bl-first"><em>The spreading effect.</em> The larger the output, the greater the quantity of output over which fixed cost is spread, leading to lower average fixed cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p107" block_type="bl-last"><em>The diminishing returns effect.</em> The larger the output, the greater the amount of variable input required to produce additional units, leading to higher average variable cost.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch6-p108" block_type="txt-ni">At low levels of output, the spreading effect is very powerful because even small increases in output cause large reductions in average fixed cost. So at low levels of output, the spreading effect dominates the diminishing returns effect and causes the average total cost curve to slope downward. But when output is large, average fixed cost is already quite small, so increasing output further has only a very small spreading effect.</p>
+<p id="krugmanwellsessentials4e-ch6-p109" block_type="txt">Diminishing returns, however, usually grow increasingly important as output rises. As a result, when output is large, the diminishing returns effect dominates the spreading effect, causing the average total cost curve to slope upward. At the bottom of the U-shaped average total cost curve, point <em>M</em> in <link href="#krugmanwellsessentials4e-ch6-fig-14">Figure 6-7</link>, the two effects exactly balance each other. At this point average total cost is at its minimum level, the minimum average total cost.</p>
+<p id="krugmanwellsessentials4e-ch6-p110" block_type="txt"><link href="#krugmanwellsessentials4e-ch6-fig-16">Figure 6-8</link> brings together in a single picture four members of the family of cost curves that we have derived from the total cost curve for Selena&#8217;s Gourmet Salsas: the marginal cost curve (<em>MC</em>), the average total cost curve (<em>ATC</em>), the average variable cost curve (<em>AVC</em>), and the average fixed cost curve (<em>AFC</em>). All are based on the information in <link href="#krugmanwellsessentials4e-ch6-tab-2">Tables 6-1</link> and <link href="#krugmanwellsessentials4e-ch6-tab-3">6-2</link>. As before, cost is measured on the vertical axis and the quantity of output is measured on the horizontal axis.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-16" block_type="figure" numbered="true" number="6-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-16"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-8</phrase></strong></phrase> <phrase block_type="fig_title">Marginal Cost and Average Cost Curves for Selena&#8217;s Gourmet Salsas</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-21" alt="image" src="images/KrugESS4e_fig_06_08.jpg"/>
+<caption>Here we have the family of cost curves for Selena&#8217;s Gourmet Salsas: the marginal cost curve (<em>MC</em>), the average total cost curve (<em>ATC</em>), the average variable cost curve (<em>AVC</em>), and the average fixed cost curve (<em>AFC</em>). Note that the average total cost curve is U-shaped and the marginal cost curve crosses the average total cost curve at the bottom of the U, point <em>M</em>, corresponding to the minimum average total cost from <link href="#krugmanwellsessentials4e-ch6-tab-3">Table 6-2</link> and <link href="#krugmanwellsessentials4e-ch6-fig-14">Figure 6-7</link>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_188" block_type="page_start">188</p>
+<p id="krugmanwellsessentials4e-ch6-p111" block_type="txt">Let&#8217;s take a moment to note some features of the various cost curves. First of all, marginal cost slopes upward&#8212;the result of diminishing returns that make an additional unit of output more costly to produce than the one before. Average variable cost also slopes upward&#8212;again, due to diminishing returns&#8212;but is flatter than the marginal cost curve. This is because the higher cost of an additional unit of output is averaged across all units, not just the additional units, in the average variable cost measure. Meanwhile, average fixed cost slopes downward because of the spreading effect.</p>
+<p id="krugmanwellsessentials4e-ch6-p112" block_type="txt">Finally, notice that the marginal cost curve intersects the average total cost curve from below, crossing it at its lowest point, point <em>M</em> in <link href="#krugmanwellsessentials4e-ch6-fig-16">Figure 6-8</link>. This last feature is our next subject of study.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-5" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="188">
+<section-metadata><section-title>Minimum Average Total Cost</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-18" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p113" block_type="mn-gl-def">The <strong>minimum-cost output</strong> is the quantity of output at which average total cost is lowest&#8212;the bottom of the U-shaped average total cost curve.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p114" block_type="txt-ni">For a U-shaped average total cost curve, average total cost is at its minimum level at the bottom of the U. Economists call the quantity of output that corresponds to the minimum average total cost the <strong>minimum-cost output.</strong> In the case of Selena&#8217;s Gourmet Salsas, the minimum-cost output is three cases of salsa per day.</p>
+<p id="krugmanwellsessentials4e-ch6-p115" block_type="txt">In <link href="#krugmanwellsessentials4e-ch6-fig-16">Figure 6-8</link>, the bottom of the U is at the level of output at which the marginal cost curve crosses the average total cost curve from below. Is this an accident? No&#8212;it reflects three general principles that are always true about a firm&#8217;s marginal cost and average total cost curves:</p>
+<list id="krugmanwellsessentials4e-ch6-list-5" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch6-p116" block_type="nl-first">At the minimum-cost output, average total cost <em>is equal to</em> marginal cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p117" block_type="nl-mid">At output less than the minimum-cost output, marginal cost <em>is less than</em> average total cost and average total cost is falling.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p118" block_type="nl-last">At output greater than the minimum-cost output, marginal cost <em>is greater than</em> average total cost and average total cost is rising.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch6-p119" block_type="txt">To understand these principles, think about how your grade in one course&#8212;say, a 3.0 in physics&#8212;affects your overall grade point average. If your GPA before receiving that grade was more than 3.0, the new grade lowers your average.</p>
+<p id="krugmanwellsessentials4e-ch6-p120" block_type="txt">Similarly, if marginal cost&#8212;the cost of producing one more unit&#8212;is less than average total cost, producing that extra unit lowers average total cost. This is shown in <link href="#krugmanwellsessentials4e-ch6-fig-17">Figure 6-9</link> by the movement from <em>A</em><sub>1</sub> to <em>A</em><sub>2</sub>. In this case, the marginal cost of producing an additional unit of output is low, as indicated by the point <em>MC<sub>L</sub></em> on the marginal cost curve.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-17" block_type="figure" numbered="true" number="6-9" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-17"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-9</phrase></strong></phrase> <phrase block_type="fig_title">The Relationship Between the Average Total Cost and the Marginal Cost Curves</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-22" alt="image" src="images/KrugESS4e_fig_06_09.jpg"/>
+<caption>To see why the marginal cost curve (<em>MC</em>) must cut through the average total cost curve at the minimum average total cost (point <em>M</em>), corresponding to the minimum-cost output, we look at what happens if marginal cost is different from average total cost. If marginal cost is <em>less</em> than average total cost, an increase in output must reduce average total cost, as in the movement from <em>A</em><sub>1</sub> to <em>A</em><sub>2</sub>. If marginal cost is <em>greater</em> than average total cost, an increase in output must increase average total cost, as in the movement from <em>B</em><sub>1</sub> to <em>B</em><sub>2</sub>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p121" block_type="txt">When the cost of producing the next unit of output is less than average total cost, increasing production reduces average total cost. So any quantity of output at which marginal cost is less than average total cost must be on the downward-sloping segment of the U.</p>
+<p id="krugmanwellsessentials4e-ch6-p122" block_type="txt">But if your grade in physics is more than the average of your previous grades, this new grade raises your GPA. Similarly, if marginal cost is greater than average total cost, producing that extra unit raises average total cost. This is illustrated by the movement from <em>B</em><sub>1</sub> to <em>B</em><sub>2</sub> in <link href="#krugmanwellsessentials4e-ch6-fig-17">Figure 6-9</link>, where the marginal cost, <em>MC<sub>H</sub>,</em> is higher than average total cost. So any quantity of output at which marginal cost is greater than average total cost must be on the upward-sloping segment of the U.</p>
+<p id="krugmanwellsessentials4e-ch6-p123" block_type="txt">Finally, if a new grade is exactly equal to your previous GPA, the additional grade neither raises nor lowers that average&#8212;it stays the same. This corresponds to point <em>M</em> in <link href="#krugmanwellsessentials4e-ch6-fig-17">Figure 6-9</link>: when marginal cost equals average total cost, we must be at the bottom of the U, because only at that point is average total cost neither falling nor rising.</p>
+<p id="krugmanwellsessentials4e_page_189" block_type="page_start">189</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-6" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="189">
+<section-metadata><section-title>Does the Marginal Cost Curve Always Slope Upward?</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch6-p124" block_type="txt-ni">Up to this point, we have emphasized the importance of diminishing returns, which lead to a marginal product curve that always slopes downward and a marginal cost curve that always slopes upward. In practice, however, economists believe that marginal cost curves often slope <em>downward</em> as a firm increases its production from zero up to some low level, sloping upward only at higher levels of production: they look like the curve <em>MC</em> in <link href="#krugmanwellsessentials4e-ch6-fig-18">Figure 6-10</link>.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-18" block_type="figure" numbered="true" number="6-10" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-18"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-10</phrase></strong></phrase> <phrase block_type="fig_title">More Realistic Cost Curves</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-23" alt="image" src="images/KrugESS4e_fig_06_10.jpg"/>
+<caption>A realistic marginal cost curve has a &#8220;swoosh&#8221; shape. Starting from a very low output level, marginal cost often falls as the firm increases output. That&#8217;s because hiring additional workers allows greater specialization of their tasks and leads to increasing returns. Once specialization is achieved, however, diminishing returns to additional workers set in and marginal cost rises. The corresponding average variable cost curve is now U-shaped, like the average total cost curve.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_190" block_type="page_start">190</p>
+<p id="krugmanwellsessentials4e-ch6-p125" block_type="txt">This initial downward slope occurs because a firm often finds that, when it starts with only a very small number of workers, employing more workers and expanding output allows its workers to specialize in various tasks. This, in turn, lowers the firm&#8217;s marginal cost as it expands output. For example, one individual producing salsa would have to perform all the tasks involved: selecting and preparing the ingredients, mixing the salsa, bottling and labeling it, packing it into cases, and so on. As more workers are employed, they can divide the tasks, with each worker specializing in one or a few aspects of salsa-making.</p>
+<p id="krugmanwellsessentials4e-ch6-p126" block_type="txt">This specialization leads to <em>increasing returns</em> to the hiring of additional workers and results in a marginal cost curve that initially slopes downward. But once there are enough workers to have completely exhausted the benefits of further specialization, diminishing returns to labor set in and the marginal cost curve changes direction and slopes upward. So typical marginal cost curves actually have the &#8220;swoosh&#8221; shape shown by <em>MC</em> in <link href="#krugmanwellsessentials4e-ch6-fig-18">Figure 6-10</link>. For the same reason, average variable cost curves typically look like <em>AVC</em> in <link href="#krugmanwellsessentials4e-ch6-fig-18">Figure 6-10</link>: they are U-shaped rather than strictly upward sloping.</p>
+<p id="krugmanwellsessentials4e-ch6-p127" block_type="txt">However, as <link href="#krugmanwellsessentials4e-ch6-fig-18">Figure 6-10</link> also shows, the key features we saw from the example of Selena&#8217;s Gourmet Salsas remain true: the average total cost curve is U-shaped, and the marginal cost curve passes through the point of minimum average total cost.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch6-p128" block_type="bx-2-t"><strong>Smart Grid Economics</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p129" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-24" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p130" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>f you are a night owl who likes to listen to music, write term papers, or do laundry in the middle of the night, your local electricity grid would like to thank you. Why? Because you are using electricity when it is least costly to generate.</p>
+<p id="krugmanwellsessentials4e-ch6-p131" block_type="bx2-txt">The problem is that energy cannot be stored efficiently on a large scale. So power plant operators maintain both the main power stations that are designed to run continuously, as well as smaller power plants that operate only during periods of peak demand&#8212;such as during daytime working hours or periods of extreme outside temperatures.</p>
+<p id="krugmanwellsessentials4e-ch6-p132" block_type="bx2-txt">These smaller power plants are more expensive to operate, incurring higher marginal cost per kilowatt generated than the average cost of generating a kilowatt (that is, cost averaged over kilowatts generated by the large and small plants). According to the U.S. Government Accountability Office, it can cost up to 10 times more to generate electricity during a summer afternoon (when air conditioners are running at maximum capacity) compared to nighttime.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-19" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-25" alt="image" src="images/KrugESS4e_06UN02.jpg"/>
+<caption>With SMART Grid technology, consumers save money by basing their demand for electricity on marginal cost rather than average cost.</caption>
+<asset_source>Caiaimage/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p133" block_type="bx2-txt">But consumers typically aren&#8217;t aware that the marginal cost of electricity varies over the course of a day or according to the weather. Instead, consumers see prices on their electricity bills based on the average cost of electricity generation. As a result, electricity demand is inefficient&#8212;too high during high marginal cost periods and too low during low marginal cost periods. In the end, consumers end up paying more than they should for their electricity, as utility companies must eventually raise their prices to cover production costs.</p>
+<p id="krugmanwellsessentials4e-ch6-p134" block_type="bx2-txt">To solve this inefficiency, utility companies, appliance manufacturers, and the federal government are working together to develop SMART Grid technologies&#8212;that help consumers adjust their usage according to the true marginal cost of a kilowatt in real time. &#8220;Smart&#8221; meters have been developed for home use, which allow the price to the consumer to vary according to the true marginal cost&#8212;which the consumer can see. And appliances such as dishwashers, refrigerators, dryers, and hot water heaters have been developed to run when electricity rates are lowest.</p>
+<p id="krugmanwellsessentials4e_page_191" block_type="page_start">191</p>
+<p id="krugmanwellsessentials4e-ch6-p135" block_type="bx2-txt">Studies have consistently shown that when consumers see the real marginal cost fluctuations and are asked to pay accordingly, they scale back their consumption during peak demand times. Clearly, SMART Grid technologies are just an application of smart economics.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch6-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch6-list-6" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch6-p136" block_type="sr1-bl"><strong>Marginal cost</strong>&#8212;the change in total cost with a change in output&#8212;is equal to the slope of the total cost curve. Diminishing returns cause the marginal cost curve to slope upward.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p137" block_type="sr1-bl"><strong>Average total cost</strong> (or <strong>average cost</strong>) is equal to the sum of <strong>average fixed cost</strong> and <strong>average variable cost.</strong> When the <strong>U-shaped average total cost curve</strong> slopes downward, the spreading effect dominates: fixed cost is spread over more units of output. When it slopes upward, the diminishing returns effect dominates: an additional unit of output requires more variable inputs.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p138" block_type="sr1-bl">Marginal cost is equal to average total cost at the <strong>minimum-cost output.</strong> At higher output levels, marginal cost is greater than average total cost and average total cost is rising. At lower output levels, marginal cost is lower than average total cost and average total cost is falling.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p139" block_type="sr1-bl">At low levels of output there are often increasing returns to the variable input due to the benefits of specialization, making the marginal cost curve &#8220;swoosh&#8221;-shaped: initially sloping downward before sloping upward.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">6-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch6-cyuquestion-2" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch6-p140" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Alicia&#8217;s Apple Pies is a roadside business. Alicia must pay &#36;9.00 in rent each day. In addition, it costs her &#36;1.00 to produce the first pie of the day, and each subsequent pie costs 50&#37; more to produce than the one before. For example, the second pie costs &#36;1.00 &#215; 1.5 = &#36;1.50 to produce, and so on.</p>
+<list id="krugmanwellsessentials4e-ch6-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p141" block_type="sr2-nl-lvl2">Calculate Alicia&#8217;s marginal cost, variable cost, average total cost, average variable cost, and average fixed cost as her daily pie output rises from 0 to 6. (<em>Hint:</em> The variable cost of two pies is just the marginal cost of the first pie, plus the marginal cost of the second, and so on.)</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p142" block_type="sr2-nl-lvl2">Indicate the range of pies for which the spreading effect dominates and the range for which the diminishing returns effect dominates.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p143" block_type="sr2-nl-lvl2">What is Alicia&#8217;s minimum-cost output? Explain why making one more pie lowers Alicia&#8217;s average total cost when output is lower than the minimum-cost output. Similarly, explain why making one more pie raises Alicia&#8217;s average total cost when output is greater than the minimum-cost output.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch6-p144" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-3" block_type="h1" title="" chapter="6" numbered="true" level="1" print_page="191">
+<section-metadata><section-title>Short-Run versus Long-Run Costs</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch6-p145" block_type="txt-ni">Up to this point, we have treated fixed cost as completely outside the control of a firm because we have focused on the short run. But as we noted earlier, all inputs are variable in the long run: this means that in the long run fixed cost may also be varied. <em>In the long run, in other words, a firm&#8217;s fixed cost becomes a variable it can choose.</em> For example, given time, Selena&#8217;s Gourmet Salsas can acquire additional food-preparation equipment or dispose of some of its existing equipment. In this section, we will examine how a firm&#8217;s costs behave in the short run and in the long run. We will also see that the firm will choose its fixed cost in the long run based on the level of output it expects to produce.</p>
+<p id="krugmanwellsessentials4e-ch6-p146" block_type="txt">Let&#8217;s begin by supposing that Selena&#8217;s Gourmet Salsas is considering whether to acquire additional food-preparation equipment. Acquiring additional machinery will affect its total cost in two ways. First, the firm will have to either rent or buy the additional equipment; either way, that will mean higher fixed cost in the short run. Second, if the workers have more equipment, they will be more productive: fewer workers will be needed to produce any given output, so variable cost for any given output level will be reduced.</p>
+<p id="krugmanwellsessentials4e-ch6-p147" block_type="txt">The table in <link href="#krugmanwellsessentials4e-ch6-fig-20">Figure 6-11</link> shows how acquiring an additional machine affects costs. In our original example, we assumed that Selena&#8217;s Gourmet Salsas had a fixed cost of &#36;108. The left half of the table shows variable cost as well as total cost and average total cost assuming a fixed cost of &#36;108. The average total cost curve for this level of fixed cost is given by <em>ATC</em><sub>1</sub> in <link href="#krugmanwellsessentials4e-ch6-fig-20">Figure 6-11</link>. Let&#8217;s compare that to a situation in which the firm buys additional food-preparation equipment, doubling its fixed cost to &#36;216 but reducing its variable cost at any given level of output. The right half of the table shows the firm&#8217;s variable cost, total cost, and average total cost with this higher level of fixed cost. The average total cost curve corresponding to &#36;216 in fixed cost is given by <em>ATC</em><sub>2</sub> in <link href="#krugmanwellsessentials4e-ch6-fig-20">Figure 6-11</link>.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-20" block_type="figure" numbered="true" number="6-11" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-20"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-11</phrase></strong></phrase> <phrase block_type="fig_title">Choosing the Level of Fixed Cost for Selena&#8217;s Gourmet Salsas</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-26" alt="image" src="images/KrugESS4e_fig_06_11.jpg"/>
+<caption>For any given level of output, there is a tradeoff: a choice between lower fixed cost and higher variable cost, or higher fixed cost and lower variable cost. <em>ATC</em><sub>1</sub> is the average total cost curve corresponding to a fixed cost of &#36;108; it leads to lower fixed cost and higher variable cost. <em>ATC</em><sub>2</sub> is the average total cost curve corresponding to a higher fixed cost of &#36;216 but lower variable cost. At low output levels, at 4 or fewer cases of salsa per day, <em>ATC</em><sub>1</sub> lies below <em>ATC</em><sub>2</sub>: average total cost is lower with only &#36;108 in fixed cost. But as output goes up, average total cost is lower with the higher amount of fixed cost, &#36;216: at more than 4 cases of salsa per day, <em>ATC</em><sub>2</sub> lies below <em>ATC</em><sub>1</sub>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p148" block_type="txt">From the figure you can see that when output is small, 4 cases of salsa per day or fewer, average total cost is smaller when Selena forgoes the additional equipment and maintains the lower fixed cost of &#36;108: <em>ATC</em><sub>1</sub> lies below <em>ATC</em><sub>2</sub>. For example, at 3 cases per day, average total cost is &#36;72 without the additional machinery and &#36;90 with the additional machinery. But as output increases beyond 4 cases per day, the firm&#8217;s average total cost is lower if it acquires the additional equipment, raising its fixed cost to &#36;216. For example, at 9 cases of salsa per day, average total cost is &#36;120 when fixed cost is &#36;108 but only &#36;78 when fixed cost is &#36;216.</p>
+<p id="krugmanwellsessentials4e_page_192" block_type="page_start">192</p>
+<p id="krugmanwellsessentials4e-ch6-p149" block_type="txt">Why does average total cost change like this when fixed cost increases? When output is low, the increase in fixed cost from the additional equipment outweighs the reduction in variable cost from higher worker productivity&#8212;that is, there are too few units of output over which to spread the additional fixed cost. So if Selena plans to produce 4 or fewer cases per day, she would be better off choosing the lower level of fixed cost, &#36;108, to achieve a lower average total cost of production. When planned output is high, however, she should acquire the additional machinery.</p>
+<p id="krugmanwellsessentials4e-ch6-p150" block_type="txt">In general, for each output level there is some choice of fixed cost that minimizes the firm&#8217;s average total cost for that output level. So when the firm has a desired output level that it expects to maintain over time, it should choose the level of fixed cost optimal for that level&#8212;that is, the level of fixed cost that minimizes its average total cost.</p>
+<p id="krugmanwellsessentials4e-ch6-p151" block_type="txt">Now that we are studying a situation in which fixed cost can change, we need to take time into account when discussing average total cost. All of the average total cost curves we have considered until now are defined for a given level of fixed cost&#8212;that is, they are defined for the short run, the period of time over which fixed cost doesn&#8217;t vary. To reinforce that distinction, for the rest of this chapter we will refer to these average total cost curves as &#8220;short-run average total cost curves.&#8221;</p>
+<p id="krugmanwellsessentials4e_page_193" block_type="page_start">193</p>
+<p id="krugmanwellsessentials4e-ch6-p152" block_type="txt">For most firms, it is realistic to assume that there are many possible choices of fixed cost, not just two. The implication: for such a firm, many possible short-run average total cost curves will exist, each corresponding to a different choice of fixed cost and so giving rise to what is called a firm&#8217;s &#8220;family&#8221; of short-run average total cost curves.</p>
+<p id="krugmanwellsessentials4e-ch6-p153" block_type="txt">At any given point in time, a firm will find itself on one of its short-run cost curves, the one corresponding to its current level of fixed cost; a change in output will cause it to move along that curve. If the firm expects that change in output level to be long-standing, then it is likely that the firm&#8217;s current level of fixed cost is no longer optimal. Given sufficient time, it will want to adjust its fixed cost to a new level that minimizes average total cost for its new output level. For example, if Selena had been producing 2 cases of salsa per day with a fixed cost of &#36;108 but found herself increasing her output to 8 cases per day for the foreseeable future, then in the long run she should purchase more equipment and increase her fixed cost to a level that minimizes average total cost at the 8-cases-per-day output level.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-19" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p154" block_type="mn-gl-def">The <strong>long-run average total cost curve</strong> shows the relationship between output and average total cost when fixed cost has been chosen to minimize average total cost for each level of output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p155" block_type="txt">Suppose we do a thought experiment and calculate the lowest possible average total cost that can be achieved for each output level if the firm were to choose its fixed cost for each output level. Economists have given this thought experiment a name: the <em>long-run average total cost curve.</em> Specifically, the <strong>long-run average total cost curve,</strong> or <em>LRATC,</em> is the relationship between output and average total cost when fixed cost has been chosen to minimize average total cost <em>for each level of output.</em> If there are many possible choices of fixed cost, the long-run average total cost curve will have the familiar, smooth U shape, as shown by <em>LRATC</em> in <link href="#krugmanwellsessentials4e-ch6-fig-21">Figure 6-12</link>.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-21" block_type="figure" numbered="true" number="6-12" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch6-fig-21"><phrase block_type="fig-label"><strong><phrase block_type="fig">FIGURE</phrase> <phrase block_type="fig_num">6-12</phrase></strong></phrase> <phrase block_type="fig_title">Short-Run and Long-Run Average Total Cost Curves</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch6-img-27" alt="image" src="images/KrugESS4e_fig_06_12.jpg"/>
+<caption>Short-run and long-run average total cost curves differ because a firm can choose its fixed cost in the long run. If Selena has chosen the level of fixed cost that minimizes short-run average total cost at an output of 6 cases, and actually produces 6 cases, then she will be at point <em>C</em> on <em>LRATC</em> and <em>ATC</em><sub>6</sub>. But if she produces only 3 cases, she will move to point <em>B</em>. If she expects to produce only 3 cases for a long time, in the long run she will reduce her fixed cost and move to point <em>A</em> on <em>ATC</em><sub>3</sub>. Likewise, if she produces 9 cases (putting her at point <em>Y</em>) and expects to continue this for a long time, she will increase her fixed cost in the long run and move to point <em>X</em> on <em>ATC</em><sub>9</sub>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p156" block_type="txt">We can now draw the distinction between the short run and the long run more fully. In the long run, when a producer has had time to choose the fixed cost appropriate for its desired level of output, that producer will be at some point on the long-run average total cost curve. But if the output level is altered, the firm will no longer be on its long-run average total cost curve and will instead be moving along its current short-run average total cost curve. It will not be on its long-run average total cost curve again until it readjusts its fixed cost for its new output level.</p>
+<p id="krugmanwellsessentials4e_page_194" block_type="page_start">194</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-22" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-28" alt="image" src="images/KrugESS4e_06UN03.jpg"/>
+<caption>To understand how firms operate over time, be sure to distinguish between short-run and long-run average total costs.</caption>
+<asset_source>Egmont Strigl/Westend61/Superstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p157" block_type="txt"><link href="#krugmanwellsessentials4e-ch6-fig-21">Figure 6-12</link> illustrates this point. The curve <em>ATC</em><sub>3</sub> shows short-run average total cost if Selena has chosen the level of fixed cost that minimizes average total cost at an output of 3 cases of salsa per day. This is confirmed by the fact that at 3 cases per day, <em>ATC</em><sub>3</sub> touches <em>LRATC,</em> the long-run average total cost curve. Similarly, <em>ATC</em><sub>6</sub> shows short-run average total cost if Selena has chosen the level of fixed cost that minimizes average total cost if her output is 6 cases per day. It touches <em>LRATC</em> at 6 cases per day. And <em>ATC</em><sub>9</sub> shows short-run average total cost if Selena has chosen the level of fixed cost that minimizes average total cost if her output is 9 cases per day. It touches <em>LRATC</em> at 9 cases per day.</p>
+<p id="krugmanwellsessentials4e-ch6-p158" block_type="txt">Suppose that Selena initially chose to be on <em>ATC</em><sub>6</sub>. If she actually produces 6 cases of salsa per day, her firm will be at point <em>C</em> on both its short-run and long-run average total cost curves. Suppose, however, that Selena ends up producing only 3 cases of salsa per day. In the short run, her average total cost is indicated by point <em>B</em> on <em>ATC</em><sub>6</sub>; it is no longer on <em>LRATC.</em> If Selena had known that she would be producing only 3 cases per day, she would have been better off choosing a lower level of fixed cost, the one corresponding to <em>ATC</em><sub>3</sub>, thereby achieving a lower average total cost. She could do this, for example, by selling her production plant and purchasing a smaller one. Then her firm would have found itself at point <em>A</em> on the long-run average total cost curve, which lies below point <em>B.</em></p>
+<p id="krugmanwellsessentials4e-ch6-p159" block_type="txt">Suppose, conversely, that Selena ends up producing 9 cases per day even though she initially chose to be on <em>ATC</em><sub>6</sub>. In the short run her average total cost is indicated by point <em>Y</em> on <em>ATC</em><sub>6</sub>. But she would be better off purchasing more equipment and incurring a higher fixed cost in order to reduce her variable cost and move to <em>ATC</em><sub>9</sub>. This would allow her to reach point <em>X</em> on the long-run average total cost curve, which lies below <em>Y.</em></p>
+<p id="krugmanwellsessentials4e-ch6-p160" block_type="txt">The distinction between short-run and long-run average total costs is extremely important in making sense of how real firms operate over time. A company that has to increase output suddenly to meet a surge in demand will typically find that in the short run its average total cost rises sharply because it is hard to get extra production out of existing facilities. But given time to build new factories or add machinery, short-run average total cost falls.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-7" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="194">
+<section-metadata><section-title>Returns to Scale</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-20" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p161" block_type="mn-gl-def">There are <strong>increasing returns to scale</strong> when long-run average total cost declines as output increases.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p162" block_type="txt-ni">What determines the shape of the long-run average total cost curve? The answer is that <em>scale,</em> the size of a firm&#8217;s operations, is often an important determinant of its long-run average total cost of production. Firms that experience scale effects in production find that their long-run average total cost changes substantially depending on the quantity of output they produce. There are <strong>increasing returns to scale</strong> (also known as <em>economies of scale</em>) when long-run average total cost declines as output increases.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-21" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p163" block_type="mn-gl-def">There are <strong>decreasing returns to scale</strong> when long-run average total cost increases as output increases.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p164" block_type="txt">As you can see in <link href="#krugmanwellsessentials4e-ch6-fig-21">Figure 6-12</link>, Selena&#8217;s Gourmet Salsas experiences increasing returns to scale over output levels ranging from 0 up to 5 cases of salsa per day&#8212;the output levels over which the long-run average total cost curve is declining. In contrast, there are <strong>decreasing returns to scale</strong> (also known as <em>dis-economies of scale</em>) when long-run average total cost increases as output increases. For Selena&#8217;s Gourmet Salsas, decreasing returns to scale occur at output levels greater than 7 cases, the output levels over which its long-run average total cost curve is rising.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-22" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p165" block_type="mn-gl-def">There are <strong>constant returns to scale</strong> when long-run average total cost is constant as output increases.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p166" block_type="txt">There is also a third possible relationship between long-run average total cost and scale: firms experience <strong>constant returns to scale</strong> when long-run average total cost is constant as output increases. In this case, the firm&#8217;s long-run average total cost curve is horizontal over the output levels for which there are constant returns to scale. As you can see in <link href="#krugmanwellsessentials4e-ch6-fig-21">Figure 6-12</link>, Selena&#8217;s Gourmet Salsas has constant returns to scale when it produces anywhere from 5 to 7 cases of salsa per day.</p>
+<p id="krugmanwellsessentials4e_page_195" block_type="page_start">195</p>
+<p id="krugmanwellsessentials4e-ch6-p167" block_type="txt">What explains these scale effects in production? The answer ultimately lies in the firm&#8217;s technology of production. Increasing returns often arise from the increased <em>specialization</em> that larger output levels allow&#8212;a larger scale of operation means that individual workers can limit themselves to more specialized tasks, becoming more skilled and efficient at doing them.</p>
+<p id="krugmanwellsessentials4e-ch6-p168" block_type="txt">Another source of increasing returns is very large initial setup cost; in some industries&#8212;such as auto manufacturing, electricity generating, or petroleum refining&#8212;incurring a high fixed cost in the form of plant and equipment is necessary to produce any output.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp3-23" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch6-p169" block_type="mn-gl-def">A good is subject to a <strong>network externality</strong> when the value of the good to an individual is greater when a large number of other people also use that good.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p170" block_type="txt">A third source of increasing returns, found in certain high-tech industries such as software development, is that the value of a good or service to an individual increases when a large number of others own or use the same good or service, known as <strong>network externalities.</strong> The classic example is computer operating systems. Worldwide, most personal computers run on Microsoft Windows. Although many believe that Apple has a superior operating system, the wider use of Windows in the early days of personal computers attracted more software development and technical support, giving it lasting dominance. As we&#8217;ll see in <link href="krugmanwellsessentials4e-ch08.xml">Chapter 8</link>, where we study monopoly, increasing returns have very important implications for how firms and industries interact and behave.</p>
+<p id="krugmanwellsessentials4e-ch6-p171" block_type="txt">Decreasing returns&#8212;the opposite scenario&#8212;typically arise in large firms due to problems of coordination and communication: as the firm grows in size, it becomes ever more difficult and so more costly to communicate and to organize its activities. Although increasing returns induce firms to get larger, decreasing returns tend to limit their size. And when there are constant returns to scale, scale has no effect on a firm&#8217;s long-run average total cost: it is the same regardless of whether the firm produces 1 unit or 100,000 units.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec2-8" block_type="h2" title="" chapter="6" numbered="false" level="2" print_page="195">
+<section-metadata><section-title>Summing Up Costs: The Short and Long of It</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch6-p172" block_type="txt-ni">If a firm is to make the best decisions about how much to produce, it has to understand how its costs relate to the quantity of output it chooses to produce. <link href="#krugmanwellsessentials4e-ch6-tab-4">Table 6-3</link> provides a quick summary of the concepts and measures of cost you have learned about.</p>
+<table id="krugmanwellsessentials4e-ch6-tab-4" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch6-tab-4" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">6-3</phrase></strong> <phrase block_type="tbl_title">Concepts and Measures of Cost</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-rborder"><strong>Measurement</strong></td>
+<td class="tbl-rborder"><strong>Definition</strong></td>
+<td class="tbl-rborder"><strong>Mathematical term</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td rowspan="2" class="tbl-rborder tbl-ljust"><strong>Short run</strong></td>
+<td class="tbl-rborder tbl-ljust">Fixed cost</td>
+<td class="tbl-rborder tbl-ljust">Cost that does not depend on the quantity of output produced</td>
+<td class="tbl-ljust"><em>FC</em></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Average fixed cost</td>
+<td class="tbl-rborder tbl-ljust">Fixed cost per unit of output</td>
+<td class="tbl-ljust tbl-ljust"><em>AFC</em> = <em>FC</em>/<em>Q</em></td>
+</tr>
+<tr class="tbl-td-dark">
+<td rowspan="5" class="tbl-rborder tbl-ljust"><strong>Short run and long run</strong></td>
+<td class="tbl-rborder tbl-ljust">Variable cost</td>
+<td class="tbl-rborder tbl-ljust">Cost that depends on the quantity of output produced</td>
+<td class="tbl-ljust"><em>VC</em></td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-bborder tbl-ljust">Average variable cost</td>
+<td class="tbl-rborder tbl-ljust">Variable cost per unit of output</td>
+<td class="tbl-ljust"><em>AVC</em> = <em>VC/Q</em></td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Total cost</td>
+<td class="tbl-rborder tbl-ljust">The sum of fixed cost (short run) and variable cost</td>
+<td class="tbl-ljust"><em>TC</em> = <em>FC</em> (short run) &#43; <em>VC</em></td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Average total cost (average cost)</td>
+<td class="tbl-rborder tbl-ljust">Total cost per unit of output</td>
+<td class="tbl-ljust"><em>ATC</em> = <em>TC/Q</em></td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Marginal cost</td>
+<td class="tbl-rborder tbl-ljust">The change in total cost generated by producing one more unit of output</td>
+<td class="tbl-ljust"><em>MC</em> = &#916;<em>TC/</em>&#916;<em>Q</em></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust"><strong>Long run</strong></td>
+<td class="tbl-rborder tbl-ljust">Long-run average total cost</td>
+<td class="tbl-rborder tbl-ljust">Average total cost when fixed cost has been chosen to minimize average total cost for each level of output</td>
+<td class="tbl-ljust"><em>LRATC</em></td>
+</tr>
+</tbody>
+</table>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch6-p173" block_type="bx-2-t"><strong>There&#8217;s No Business Like Snow Business</strong></p>
+<p id="krugmanwellsessentials4e_page_196" block_type="page_start">196</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p174" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-29" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p175" block_type="bx2-first"><phrase block_type="dropcap">A</phrase>nyone who has lived both in a snowy city, like Chicago, and in a city that only occasionally experiences significant snowfall, like Washington, D.C., is aware of the differences in total cost that arise from making different choices about fixed cost.</p>
+<figure id="krugmanwellsessentials4e-ch6-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch6-img-30" alt="image" src="images/KrugESS4e_06UN04.jpg"/>
+<caption>Cities with higher average annual snowfall maintain larger snowplow fleets.</caption>
+<asset_source>iStockphoto/Thinkstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch6-p176" block_type="bx2-txt">In Washington, even a minor snowfall&#8212;say, an inch or two overnight&#8212;is enough to create chaos during the next morning&#8217;s commute. The same snowfall in Chicago has hardly any effect at all. The reason is not that Washingtonians are wimps and Chicagoans are made of sterner stuff; it is that Washington, where it rarely snows, has only a fraction as many snowplows and other snowclearing equipment as cities where heavy snow is a fact of life.</p>
+<p id="krugmanwellsessentials4e-ch6-p177" block_type="bx2-txt">In this sense Washington and Chicago are like two producers who expect to produce different levels of output, where the &#8220;output&#8221; is snow removal. Washington, which rarely has significant snow, has chosen a low level of fixed cost in the form of snow-clearing equipment. This makes sense under normal circumstances but leaves the city unprepared when major snow does fall. Chicago, which knows that it will face lots of snow, chooses to accept the higher fixed cost that leaves it in a position to respond effectively.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch6-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch6-list-8" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch6-p178" block_type="sr1-bl">In the long run, firms choose fixed cost according to expected output. Higher fixed cost reduces average total cost when output is high. Lower fixed cost reduces average total cost when output is low.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p179" block_type="sr1-bl">There are many possible short-run average total cost curves, each corresponding to a different level of fixed cost. The <strong>long-run average total cost curve, LRATC,</strong> shows average total cost over the long run, when the firm has chosen fixed cost to minimize average total cost for each level of output.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p180" block_type="sr1-bl">A firm that has fully adjusted its fixed cost for its output level will operate at a point that lies on both its current short-run and long-run average total cost curves. A change in output moves the firm along its current short-run average total cost curve. Once it has readjusted its fixed cost, the firm will operate on a new short-run average total cost curve and on the long-run average total cost curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p181" block_type="sr1-bl">Scale effects arise from the technology of production. <strong>Increasing returns to scale</strong> tend to make firms larger. <strong>Network externalities</strong> are one reason for increasing returns to scale. <strong>Decreasing returns to scale</strong> tend to limit their size. With <strong>constant returns to scale,</strong> scale has no effect.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">6-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch6-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch6-p182" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> The table shows three possible combinations of fixed cost and average variable cost. Average variable cost is constant in this example (it does not vary with the quantity of output produced).</p>
+<list id="krugmanwellsessentials4e-ch6-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p183" block_type="sr2-nl-lvl2">For each of the three choices, calculate the average total cost of producing 12,000, 22,000, and 30,000 units. For each of these quantities, which choice results in the lowest average total cost?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p184" block_type="sr2-nl-lvl2">Suppose that the firm, which has historically produced 12,000 units, experiences a sharp, permanent increase in demand that leads it to produce 22,000 units. Explain how its average total cost will change in the short run and in the long run.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-5" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Choice</strong></td>
+<td class="tbl-rborder"><strong>Fixed cost</strong></td>
+<td><strong>Average variable cost</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1</td>
+<td class="tbl-rborder">&#36;8,000</td>
+<td>&#36;1.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2</td>
+<td class="tbl-rborder">12,000</td>
+<td>0.75</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">3</td>
+<td class="tbl-rborder">24,000</td>
+<td>0.25</td>
+</tr>
+</tbody>
+</table></li>
+<li><p id="krugmanwellsessentials4e-ch6-p185" block_type="sr2-nl-lvl2">Explain what the firm should do instead if it believes the change in demand is temporary.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-cyuquestion-4" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch6-p186" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> In each of the following cases, explain what kind of scale effects you think the firm will experience and why.</p>
+<list id="krugmanwellsessentials4e-ch6-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p187" block_type="sr2-nl-lvl2">A telemarketing firm in which employees make sales calls using computers and telephones</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p188" block_type="sr2-nl-lvl2">An interior design firm in which design projects are based on the expertise of the firm&#8217;s owner</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p189" block_type="sr2-nl-lvl2">A diamond-mining company</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-cyuquestion-5" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch6-p190" block_type="sr2-nl-last"><phrase block_type="qnum">3.</phrase> Draw a graph like <link href="#krugmanwellsessentials4e-ch6-fig-21">Figure 6-12</link> and insert a short-run average total cost curve corresponding to a long-run output choice of 5 cases of salsa per day. Use the graph to show why Selena should change her fixed cost if she expects to produce only 4 cases per day for a long period of time.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch6-p191" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-4" block_type="solved_problem" title="" chapter="6" numbered="true" level="1" print_page="197">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_197" block_type="page_start">197</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch6-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">Production Challenges for Tesla: The Model X</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p192" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-31" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p193" block_type="wio-txt-ni">Tesla Motors, founded in 2003, produces electric cars in a former Toyota factory in Fremont, California. The Tesla Roadster, a sports car, was the company&#8217;s first design. Their latest design, the Tesla Model X, hit the road in 2015. The Model X is an all-wheel-drive, full-size luxury, crossover SUV. It uses no gasoline, has a range of 250 miles per charge, and has zero tailpipe emissions. It is considered to be the safest and fastest SUV ever developed.</p>
+<p id="krugmanwellsessentials4e-ch6-p194" block_type="wio-txt">Pre-orders for the Model X exceeded 30,000 units, nearly triple those for the previous model, the 2012 Tesla Model S. Despite the strong demand, production of the Model X at the Fremont plant was slower than expected.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-6" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td colspan="4" class="tbl-bborder"><strong>Total cost (hundreds of millions of U.S. dollars)</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Plant size</strong></td>
+<td><strong>10,000 cars sold</strong></td>
+<td><strong>20,000 cars sold</strong></td>
+<td><strong>30,000 cars sold</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">A</td>
+<td class="tbl-rborder">&#36;1.75</td>
+<td class="tbl-rborder">&#36;3.25</td>
+<td>&#36;5.5</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">B</td>
+<td class="tbl-rborder">2.0</td>
+<td class="tbl-rborder">3.0</td>
+<td>5.0</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">C</td>
+<td class="tbl-rborder">2.5</td>
+<td class="tbl-rborder">4.0</td>
+<td>4.5</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch6-p195" block_type="wio-txt">Let&#8217;s assume that Tesla engineers knew they needed to either build or buy a new factory in order to produce the new Model X. And, suppose that Tesla engineers and accountants estimated the following hypothetical cost structure per year based on full-year production at plants of different sizes.</p>
+<p id="krugmanwellsessentials4e-ch6-p196" block_type="wio-txt">When Toyotas were built there, the Fremont plant produced about 80,000 vehicles per year. Suppose that Tesla equipped the plant with the hopes of producing 30,000 Tesla vehicles per year, yet in its first few years of production, Tesla predicted production would be only 20,000 vehicles per year. But, by 2015, because of production delays, actual sales dropped to less than 10,000 cars per year. Using the table, find Tesla&#8217;s average total cost of production across the various plants for each level of production. Explain why the production costs with size C plant are higher than they would be if Tesla could build a new plant that was equipped to produce 10,000 vehicles.</p>
+<p id="krugmanwellsessentials4e-ch6-p197" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Find Tesla&#8217;s average total cost of production at the various plant sizes and production levels.</strong>
+<phrase block_type="step-subtext">Review pages 185&#8211;188.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch6-p198" block_type="wio-txt-ni">Average total cost is found by dividing total cost by the quantity of output. So, if Tesla has a total cost of &#36;175,000,000 at an output of 10,000 cars we calculate &#36;175,000,000/10,000 = &#36;17,500. Average total cost for each plant size and production level from the previous table are given in the following table.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-7" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td colspan="4" class="tbl-bborder"><strong>Average Total Cost</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Plant size</strong></td>
+<td><strong>10,000 cars sold</strong></td>
+<td><strong>20,000 cars sold</strong></td>
+<td><strong>30,000 cars sold</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">A</td>
+<td class="tbl-rborder">&#36;17,500</td>
+<td class="tbl-rborder">&#36;16,250</td>
+<td>&#36;18,333</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">B</td>
+<td class="tbl-rborder">&#36;20,000</td>
+<td class="tbl-rborder">&#36;15,000</td>
+<td>&#36;16,667</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">C</td>
+<td class="tbl-rborder">&#36;25,000</td>
+<td class="tbl-rborder">&#36;20,000</td>
+<td>&#36;15,000</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch6-p199" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Explain why the production cost with a size C plant is higher than it would be if Tesla could build a new plant that was best equipped to produce 10,000 vehicles.</strong>
+<phrase block_type="step-subtext">Review pages 191&#8211;194.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch6-p200" block_type="wio-txt-ni">If Tesla were to build a new plant based on production of 10,000 vehicles, it would build a size A plant. Tesla would be able to adjust its fixed cost to a new level that minimizes average total cost for its new output level. If Tesla could easily change its plant size, it would always build the plant size that minimizes its average total cost on its long-run average total cost curve. However, if the size of the plant is fixed at size C, then it will be on its short-run average total cost curve based on a size C plant.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-5" block_type="cr-que-t" title="" chapter="6" numbered="true" level="1" print_page="198">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_198" block_type="page_start">198</p>
+<list id="krugmanwellsessentials4e-ch6-list-11" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch6-p201" block_type="sum-nl">The relationship between inputs and output is a producer&#8217;s <strong>production function.</strong> In the <strong>short run,</strong> the quantity of a <strong>fixed input</strong> cannot be varied but the quantity of a <strong>variable input</strong> can. In the <strong>long run,</strong> the quantities of all inputs can be varied. For a given amount of the fixed input, the <strong>total product curve</strong> shows how the quantity of output changes as the quantity of the variable input changes. We may also calculate the <strong>marginal product</strong> of an input, the increase in output from using one more unit of that input.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p202" block_type="sum-nl">There are <strong>diminishing returns to an input</strong> when its marginal product declines as more of the input is used, holding the quantity of all other inputs fixed.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p203" block_type="sum-nl"><strong>Total cost,</strong> represented by the <strong>total cost curve,</strong> is equal to the sum of <strong>fixed cost,</strong> which does not depend on output, and <strong>variable cost,</strong> which does depend on output. Due to diminishing returns, <strong>marginal cost,</strong> the increase in total cost generated by producing one more unit of output, normally increases as output increases.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p204" block_type="sum-nl"><strong>Average total cost</strong> (also known as <strong>average cost</strong>), total cost divided by quantity of output, is the cost of the average unit of output, and marginal cost is the cost of one more unit produced. Economists believe that <strong>U-shaped average total cost curves</strong> are typical, because average total cost consists of two parts: <strong>average fixed cost,</strong> which falls when output increases (the spreading effect), and <strong>average variable cost,</strong> which rises with output (the diminishing returns effect).</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p205" block_type="sum-nl">When average total cost is U-shaped, the bottom of the U is the level of output at which average total cost is minimized, the point of <strong>minimum-cost output.</strong> This is also the point at which the marginal cost curve crosses the average total cost curve from below. Due to gains from specialization, the marginal cost curve may slope downward initially before sloping upward, giving it a &#8220;swoosh&#8221; shape.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p206" block_type="sum-nl">In the long run, a producer can change its fixed input and its level of fixed cost. By accepting higher fixed cost, a firm can lower its variable cost for any given output level, and vice versa. The <strong>long-run average total cost curve</strong> shows the relationship between output and average total cost when fixed cost has been chosen to minimize average total cost at each level of output. A firm moves along its short-run average total cost curve as it changes the quantity of output, and it returns to a point on both its short-run and long-run average total cost curves once it has adjusted fixed cost to its new output level.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p207" block_type="sum-nl">As output increases, there are <strong>increasing returns to scale</strong> if long-run average total cost declines; <strong>decreasing returns to scale</strong> if it increases; and <strong>constant returns to scale</strong> if it remains constant. <strong>Network externalities</strong> are a source of increasing returns to scale.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-6" block_type="cr-kt-t" title="" chapter="6" numbered="true" level="1" print_page="198">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p208" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-32" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch6-p209" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p17">Production function, p. 176</link></p>
+<p id="krugmanwellsessentials4e-ch6-p210" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p21">Fixed input, p. 176</link></p>
+<p id="krugmanwellsessentials4e-ch6-p211" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p21">Variable input, p. 176</link></p>
+<p id="krugmanwellsessentials4e-ch6-p212" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p24">Long run, p. 176</link></p>
+<p id="krugmanwellsessentials4e-ch6-p213" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p24">Short run, p. 176</link></p>
+<p id="krugmanwellsessentials4e-ch6-p214" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p27">Total product curve, p. 176</link></p>
+<p id="krugmanwellsessentials4e-ch6-p215" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p30">Marginal product, p. 177</link></p>
+<p id="krugmanwellsessentials4e-ch6-p216" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p43">Diminishing returns to an input, p. 179</link></p>
+<p id="krugmanwellsessentials4e-ch6-p217" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p54">Fixed cost, p. 180</link></p>
+<p id="krugmanwellsessentials4e-ch6-p218" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p57">Variable cost, p. 180</link></p>
+<p id="krugmanwellsessentials4e-ch6-p219" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p57">Total cost, p. 180</link></p>
+<p id="krugmanwellsessentials4e-ch6-p220" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p63">Total cost curve, p. 181</link></p>
+<p id="krugmanwellsessentials4e-ch6-p221" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p84">Marginal cost, p. 183</link></p>
+<p id="krugmanwellsessentials4e-ch6-p222" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p94">Average total cost, p. 185</link></p>
+<p id="krugmanwellsessentials4e-ch6-p223" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p94">Average cost, p. 185</link></p>
+<p id="krugmanwellsessentials4e-ch6-p224" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p98">U-shaped average total cost curve, p. 186</link></p>
+<p id="krugmanwellsessentials4e-ch6-p225" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p101">Average fixed cost, p. 186</link></p>
+<p id="krugmanwellsessentials4e-ch6-p226" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p101">Average variable cost, p. 186</link></p>
+<p id="krugmanwellsessentials4e-ch6-p227" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p114">Minimum-cost output, p. 188</link></p>
+<p id="krugmanwellsessentials4e-ch6-p228" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p155">Long-run average total cost curve, p. 193</link></p>
+<p id="krugmanwellsessentials4e-ch6-p229" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p162">Increasing returns to scale, p. 194</link></p>
+<p id="krugmanwellsessentials4e-ch6-p230" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p164">Decreasing returns to scale, p. 194</link></p>
+<p id="krugmanwellsessentials4e-ch6-p231" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p166">Constant returns to scale, p. 194</link></p>
+<p id="krugmanwellsessentials4e-ch6-p232" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch6-p170">Network externalities, p. 195</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-7" block_type="cr-que-t" title="" chapter="6" numbered="true" level="1" print_page="198">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch6-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch6-p233" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Marty&#8217;s Frozen Yogurt is a small shop that sells cups of frozen yogurt in a university town. Marty owns three frozen-yogurt machines. His other inputs are refrigerators, frozen-yogurt mix, cups, sprinkle toppings, and, of course, workers. He estimates that his daily production function when he varies the number of workers employed (and at the same time, of course, yogurt mix, cups, and so on) is as shown in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-8" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-8" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of labor <br/>(workers)</strong></td>
+<td><strong>Quantity of frozen <br/>yogurt (cups)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>110</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>200</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>270</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>320</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td>330</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_199" block_type="page_start">199</p>
+<list id="krugmanwellsessentials4e-ch6-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p234" block_type="cr-que-ans-first">What are the fixed inputs and variable inputs in the production of cups of frozen yogurt?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p235" block_type="cr-que-ans-mid">Draw the total product curve. Put the quantity of labor on the horizontal axis and the quantity of frozen yogurt on the vertical axis.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p236" block_type="cr-que-ans-mid">What is the marginal product of the first worker? The second worker? The third worker? Why does marginal product decline as the number of workers increases?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch6-p237" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> The production function for Marty&#8217;s Frozen Yogurt is given in Problem 1. Marty pays each of his workers &#36;80 per day. The cost of his other variable inputs is &#36;0.50 per cup of yogurt. His fixed cost is &#36;100 per day.</p>
+<list id="krugmanwellsessentials4e-ch6-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p238" block_type="cr-que-ans-first">What is Marty&#8217;s variable cost and total cost when he produces 110 cups of yogurt? 200 cups? Calculate variable and total cost for every level of output given in Problem 1.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p239" block_type="cr-que-ans-mid">Draw Marty&#8217;s variable cost curve. On the same diagram, draw his total cost curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p240" block_type="cr-que-ans-mid">What is the marginal cost per cup for the first 110 cups of yogurt? For the next 90 cups? Calculate the marginal cost for all remaining levels of output.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch6-p241" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> The production function for Marty&#8217;s Frozen Yogurt is given in Problem 1. The costs are given in Problem 2.</p>
+<list id="krugmanwellsessentials4e-ch6-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p242" block_type="cr-que-ans-first">For each of the given levels of output, calculate the average fixed cost (<em>AFC</em>), average variable cost (<em>AVC</em>), and average total cost (<em>ATC</em>) per cup of frozen yogurt.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p243" block_type="cr-que-ans-mid">On one diagram, draw the <em>AFC</em>, <em>AVC</em>, and <em>ATC</em> curves.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p244" block_type="cr-que-ans-mid">What principle explains why the <em>AFC</em> declines as output increases? What principle explains why the <em>AVC</em> increases as output increases? Explain your answers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p245" block_type="cr-que-ans-mid">How many cups of frozen yogurt are produced when average total cost is minimized?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch6-p246" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Magnificent Blooms is a florist specializing in floral arrangements for weddings, graduations, and other events. Magnificent Blooms has a fixed cost associated with space and equipment of &#36;100 per day. Each worker is paid &#36;50 per day. The daily production function for Magnificent Blooms is shown in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-9" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-9" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of labor <br/>(workers)</strong></td>
+<td><strong>Quantity of floral <br/>arrangements</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>5</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>9</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>12</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>14</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch6-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p247" block_type="cr-que-ans-first">Calculate the marginal product of each worker. What principle explains why the marginal product per worker declines as the number of workers employed increases?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p248" block_type="cr-que-ans-mid">Calculate the marginal cost of each level of output. What principle explains why the marginal cost per floral arrangement increases as the number of arrangements increases?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch6-p249" block_type="cr-que-nl-first"><phrase block_type="qnum">5.</phrase> You have the information shown in the accompanying table about a firm&#8217;s costs. Complete the missing data.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-10" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-10" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity <br/>of output</strong></td>
+<td><strong><em>TC</em></strong></td>
+<td><strong><em>MC</em></strong></td>
+<td><strong><em>ATC</em></strong></td>
+<td><strong><em>AVC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>0</td>
+<td>&#36;20</td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td>&#36;20</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>1</td>
+<td>?</td>
+<td></td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td>&#36;10</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>2</td>
+<td>?</td>
+<td></td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td>16</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>3</td>
+<td>?</td>
+<td></td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td>20</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>4</td>
+<td>?</td>
+<td></td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td>24</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>5</td>
+<td>?</td>
+<td></td>
+<td>?</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch6-p250" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> Evaluate each of the following statements. If a statement is true, explain why; if it is false, identify the mistake and try to correct it.</p>
+<list id="krugmanwellsessentials4e-ch6-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p251" block_type="cr-que-ans-first">A decreasing marginal product tells us that marginal cost must be rising.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p252" block_type="cr-que-ans-mid">An increase in fixed cost increases the minimum-cost output.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p253" block_type="cr-que-ans-mid">An increase in fixed cost increases marginal cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p254" block_type="cr-que-ans-mid">When marginal cost is above average total cost, average total cost must be falling.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch6-p255" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> Mark and Jeff operate a small company that produces souvenir footballs. Their fixed cost is &#36;2,000 per month. They can hire workers for &#36;1,000 per worker per month. Their monthly production function for footballs is as given in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-11" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-11" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of labor <br/>(workers)</strong></td>
+<td><strong>Quantity of <br/>footballs</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>800</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>1,200</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>1,400</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>1,500</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch6-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p256" block_type="cr-que-ans-first">For each quantity of labor, calculate average variable cost (<em>AVC</em>), average fixed cost (<em>AFC</em>), average total cost (<em>ATC</em>), and marginal cost (<em>MC</em>).</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p257" block_type="cr-que-ans-mid">On one diagram, draw the <em>AVC, ATC,</em> and <em>MC</em> curves.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p258" block_type="cr-que-ans-mid">At what level of output is Mark and Jeff&#8217;s average total cost minimized?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch6-p259" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> You produce widgets. Currently you produce four widgets at a total cost of &#36;40.</p>
+<list id="krugmanwellsessentials4e-ch6-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p260" block_type="cr-que-ans-first">What is your average total cost?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p261" block_type="cr-que-ans-mid">Suppose you could produce one more (the fifth) widget at a marginal cost of &#36;5. If you do produce that fifth widget, what will your average total cost be? Has your average total cost increased or decreased? Why?</p>
+<p id="krugmanwellsessentials4e_page_200" block_type="page_start">200</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p262" block_type="cr-que-ans-mid">Suppose instead that you could produce one more (the fifth) widget at a marginal cost of &#36;20. If you do produce that fifth widget, what will your average total cost be? Has your average total cost increased or decreased? Why?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch6-p263" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> In your economics class, each homework problem set is graded on the basis of a maximum score of 100. You have completed 9 out of 10 of the problem sets for the term, and your current average grade is 88. What range of grades for your 10th problem set will raise your overall average? What range will lower your overall average? Explain your answer.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch6-p264" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> Don owns a small concrete-mixing company. His fixed cost is the cost of the concrete-batching machinery and his mixer trucks. His variable cost is the cost of the sand, gravel, and other inputs for producing concrete; the gas and maintenance for the machinery and trucks; and his workers. He is trying to decide how many mixer trucks to purchase. He has estimated the costs shown in the accompanying table based on estimates of the number of orders his company will receive per week.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-12" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-12" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td colspan="4" class="tbl-bborder"><strong>VC</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity of trucks</strong></td>
+<td><strong><em>FC</em></strong></td>
+<td><strong>20 <br/>orders</strong></td>
+<td><strong>40 <br/>orders</strong></td>
+<td><strong>60 <br/>orders</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td class="tbl-rborder">&#36;6,000</td>
+<td class="tbl-rborder">&#36;2,000</td>
+<td class="tbl-rborder">&#36;5,000</td>
+<td class="tbl-rborder">&#36;12,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td class="tbl-rborder">7,000</td>
+<td class="tbl-rborder">1,800</td>
+<td class="tbl-rborder">3,800</td>
+<td class="tbl-rborder">10,800</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td class="tbl-rborder">8,000</td>
+<td class="tbl-rborder">1,200</td>
+<td class="tbl-rborder">3,600</td>
+<td class="tbl-rborder">8,400</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch6-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p265" block_type="cr-que-ans-first">For each level of fixed cost, calculate Don&#8217;s total cost for producing 20, 40, and 60 orders per week.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p266" block_type="cr-que-ans-mid">If Don is producing 20 orders per week, how many trucks should he purchase and what will his average total cost be? Answer the same questions for 40 and 60 orders per week.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch6-p267" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> Consider Don&#8217;s concrete-mixing business described in Problem 10. Assume that Don purchased 3 trucks, expecting to produce 40 orders per week.</p>
+<list id="krugmanwellsessentials4e-ch6-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p268" block_type="cr-que-ans-first">Suppose that, in the short run, business declines to 20 orders per week. What is Don&#8217;s average total cost per order in the short run? What will his average total cost per order in the short run be if his business booms to 60 orders per week?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p269" block_type="cr-que-ans-mid">What is Don&#8217;s long-run average total cost for 20 orders per week? Explain why his short-run average total cost of producing 20 orders per week when the number of trucks is fixed at 3 is greater than his long-run average total cost of producing 20 orders per week.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p270" block_type="cr-que-ans-first">Draw Don&#8217;s long-run average total cost curve. Draw his short-run average total cost curve if he owns 3 trucks.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch6-p271" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> True or false? Explain your reasoning.</p>
+<list id="krugmanwellsessentials4e-ch6-list-21" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p272" block_type="cr-que-ans-first">The short-run average total cost can never be less than the long-run average total cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p273" block_type="cr-que-ans-mid">The short-run average variable cost can never be less than the long-run average total cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p274" block_type="cr-que-ans-first">In the long run, choosing a higher level of fixed cost shifts the long-run average total cost curve upward.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch6-p275" block_type="cr-que-nl-mid"><phrase block_type="qnum">13.</phrase> Wolfsburg Wagon (WW) is a small automaker. The accompanying table shows WW&#8217;s long-run average total cost.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-13" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-13" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of cars</strong></td>
+<td><strong><em>LRATC</em> of car</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">1</td>
+<td>&#36;30,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">2</td>
+<td>20,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">3</td>
+<td>15,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">4</td>
+<td>12,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">5</td>
+<td>12,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">6</td>
+<td>12,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">7</td>
+<td>14,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">8</td>
+<td>18,000</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch6-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p276" block_type="cr-que-ans-first">For which levels of output does WW experience increasing returns to scale?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p277" block_type="cr-que-ans-mid">For which levels of output does WW experience decreasing returns to scale?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p278" block_type="cr-que-ans-mid">For which levels of output does WW experience constant returns to scale?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-14" block_type="q_prob" number="14">
+<p id="krugmanwellsessentials4e-ch6-p279" block_type="cr-que-nl-mid"><phrase block_type="qnum">14.</phrase> Changes in the prices of key commodities can have a significant impact on a company&#8217;s bottom line. But, changes in the price of energy produced from oil, gas, and electricity are not the only concern for companies. According to an August 16, 2012, <em>Bloomberg</em> article, &#8220;ethanol requirements are aggravating the rise in food costs and spreading it to the price of gasoline, which is up almost 40 cents a gallon since the start of July.&#8221; The U.S. government mandates that gasoline contain ethanol, which is derived from corn.</p>
+<list id="krugmanwellsessentials4e-ch6-list-23" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p280" block_type="cr-que-ans-first">Explain how the cost of energy can be both a fixed cost and a variable cost for a company.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p281" block_type="cr-que-ans-mid">Suppose energy is a fixed cost and energy prices rise. What happens to the company&#8217;s average total cost curve? What happens to its marginal cost curve? Illustrate your answer with a diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p282" block_type="cr-que-ans-mid">Explain why the cost of corn is a variable cost but not a fixed cost for an ethanol producer.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p283" block_type="cr-que-ans-mid">When the cost of corn goes up, what happens to the average total cost curve of an ethanol producer? What happens to its marginal cost curve? Illustrate your answer with a diagram.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch6-question-15" block_type="q_prob" number="15">
+<p id="krugmanwellsessentials4e-ch6-p284" block_type="cr-que-nl-mid"><phrase block_type="qnum">15.</phrase> Labor costs represent a large percentage of total costs for many firms. According to a July 29, 2011, <em>Wall Street Journal</em> article, U.S. labor costs were up 0.7&#37; during the second quarter of 2011, compared to the first quarter of 2011.</p>
+<list id="krugmanwellsessentials4e-ch6-list-24" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p285" block_type="cr-que-ans-first">When labor costs increase, what happens to average total cost and marginal cost? Consider a case in which labor costs are only variable costs and a case in which they are both variable and fixed costs.</p>
+<p id="krugmanwellsessentials4e-ch6-p286" block_type="cr-que-nl-mid">An increase in labor productivity means each worker can produce more output. Recent data on productivity show that labor productivity in the U.S. nonfarm business sector grew by 1.7&#37; between 1970 and 1999, by 2.6&#37; between 2000 and 2010, and by 4.1&#37; in 2010.</p>
+<p id="krugmanwellsessentials4e_page_201" block_type="page_start">201</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p287" block_type="cr-que-ans-first">When productivity growth is positive, what happens to the total product curve and the marginal product of labor curve? Illustrate your answer with a diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p288" block_type="cr-que-ans-first">When productivity growth is positive, what happens to the marginal cost curve and the average total cost curve? Illustrate your answer with a diagram.</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p289" block_type="cr-que-ans-first">If labor costs are rising over time on average, why would a company want to adopt equipment and methods that increase labor productivity?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch6-sec1-8" block_type="sum-h" title="" chapter="6" numbered="true" level="1" print_page="201">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch6-exp2-8" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch6-p290" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch6-img-33" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch6-question-16" block_type="q_prob" number="16">
+<p id="krugmanwellsessentials4e-ch6-p291" block_type="cr-wio-nl-first"><phrase block_type="qnum">16.</phrase> The table shows a car manufacturer&#8217;s total cost of producing cars.</p>
+<table id="krugmanwellsessentials4e-ch6-untab-14" block_type="un_table" data-href="#krugmanwellsessentials4e-ch6-untab-14" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of cars</strong></td>
+<td><strong><em>TC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>&#36;500,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>540,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>560,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>570,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>590,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>620,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td>660,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">7</td>
+<td>720,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">8</td>
+<td>800,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">9</td>
+<td>920,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">10</td>
+<td>1,100,000</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch6-list-25" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch6-p292" block_type="cr-wio-ans-first">What is this manufacturer&#8217;s fixed cost?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p293" block_type="cr-wio-ans-mid">For each level of output, calculate the variable cost (<em>VC</em>). For each level of output except zero output, calculate the average variable cost (<em>AVC</em>), average total cost (<em>ATC</em>), and average fixed cost (<em>AFC</em>). What is the minimum-cost output?</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p294" block_type="cr-wio-ans-mid">For each level of output, calculate this manufacturer&#8217;s marginal cost (<em>MC</em>).</p></li>
+<li><p id="krugmanwellsessentials4e-ch6-p295" block_type="cr-wio-ans-mid">On one diagram, draw the manufacturer&#8217;s <em>AVC, ATC,</em> and <em>MC</em> curves.</p></li>
+</list>
+</question>
+</section>
+</chapter>
+</manuscript>

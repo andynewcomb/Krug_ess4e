@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="14" name="" title="KRU_Chapter_14_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="14" id="krugmanwellsessentials4e-ch14-chapter-14" title="CHAPTER 14: Unemployment and Inflation" start-numbering-at="14" numbered="true">
+<section id="krugmanwellsessentials4e-ch14-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="377">
+<p id="krugmanwellsessentials4e_page_377" block_type="page_start">377</p>
+<p id="krugmanwellsessentials4e-ch14-p1" block_type="chapter_title">Unemployment and Inflation</p>
+<p id="krugmanwellsessentials4e-ch14-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">14</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch14-p3" block_type="co-t"><strong>HITTING THE BRAKING POINT</strong></p>
+<figure id="krugmanwellsessentials4e-ch14-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-1" alt="image" src="images/KrugESS4e_CO14.jpg"/>
+<caption>As chair of the Federal Reserve, Janet Yellen balances the goals of low unemployment and price stability when deciding whether to give the economy more gas or hit the brakes.</caption>
+<asset_source>Bradley Boner/Bloomberg via Getty Images</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch14-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch14-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch14-p5" block_type="obj-bl"><strong>How unemployment is measured and how the unemployment rate is calculated</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p6" block_type="obj-bl"><strong>The significance of the unemployment rate for the economy</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p7" block_type="obj-bl"><strong>The relationship between the unemployment rate and economic growth</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p8" block_type="obj-bl"><strong>The factors that determine the natural rate of unemployment</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p9" block_type="obj-bl"><strong>The economic costs of inflation</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p10" block_type="obj-bl"><strong>How inflation and deflation create winners and losers</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p11" block_type="obj-bl"><strong>Why policy makers try to maintain a stable rate of inflation</strong></p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p12" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-2" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p13" block_type="co-txt-ni"><phrase block_type="dropcap">E</phrase>VERY AUGUST MANY OF THE world&#8217;s most powerful financial officials and many influential economists gather in Jackson Hole, Wyoming, for a conference sponsored by the Federal Reserve Bank of Kansas City. Financial journalists come too, hoping to get clues about the future direction of policy. It&#8217;s always an interesting scene&#8212;but in August 2014 it was even more interesting than usual.</p>
+<p id="krugmanwellsessentials4e-ch14-p14" block_type="co-txt">What was different about that year&#8217;s conclave? One answer was that the Federal Reserve&#8217;s Board of Governors, which makes U.S. monetary policy, had a new chair&#8212;and Janet Yellen had already made history as the first woman to hold the position.</p>
+<p id="krugmanwellsessentials4e-ch14-p15" block_type="co-txt">Beyond the historic first, however, there was a widespread sense that August that U.S. monetary policy might be approaching a critical moment. For almost six years the Fed&#8217;s goal had been simple, if hard to accomplish: boost the U.S. economy out of a sustained job drought that had kept unemployment high. By the summer of 2014, however, the unemployment rate had fallen much of the way back toward historically normal levels. At some point, almost everyone agreed, it would be time for the Fed to take its foot off the gas and hit the brakes instead, raising interest rates that had been close to zero for years. But when?</p>
+<p id="krugmanwellsessentials4e-ch14-p16" block_type="co-txt">It was a fraught question. Some Fed officials&#8212;so-called hawks, always ready to pounce on any sign of inflation&#8212;warned that if the Fed waited too long to raise rates, inflation would shoot up to unacceptable levels. Others&#8212;so-called doves&#8212;warned that the economy was still fragile, and that raising rates too soon would risk condemning the economy to a further stretch of high unemployment. Ms. Yellen was, in general, part of the dovish camp. But even she warned that controlling inflation must eventually take priority over reducing unemployment. At that point the Fed would have to raise rates.</p>
+<p id="krugmanwellsessentials4e-ch14-p17" block_type="co-txt">Only time would tell who was right about the timing. As it turns out, it wasn&#8217;t until December 2015 that the Fed raised short-term interest rates&#8212;for the first time in nearly a decade.</p>
+<p id="krugmanwellsessentials4e-ch14-p18" block_type="co-txt">But the dispute in 2014 highlighted the key concerns of macroeconomic policy. Unemployment and inflation are the two great evils of macroeconomics. So the two principal goals of macroeconomic policy are low unemployment and price stability, usually defined as a low but positive rate of inflation. Unfortunately, these goals sometimes seem to be in conflict with each other: economists often warn that policies intended to reduce unemployment run the risk of increasing inflation; conversely, policies intended to bring down inflation can raise unemployment.</p>
+<p id="krugmanwellsessentials4e-ch14-p19" block_type="co-txt">The nature of the trade-off between low unemployment and low inflation and the policy dilemma it creates is a topic for later chapters. This chapter provides an overview of the basic facts about unemployment and inflation: how they&#8217;re measured, how they affect consumers and firms, and how they change over time.</p>
+<p id="krugmanwellsessentials4e_page_378" block_type="page_start">378</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-1" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="378">
+<section-metadata><section-title>The Unemployment Rate</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p20" block_type="txt-ni">The U.S. unemployment rate in February 2016 was 4.9&#37;. That was a substantial improvement from the situation a few years earlier. In late 2009, after the Great Recession, unemployment peaked at 10&#37;. But unemployment was still well above pre-recession levels; it was only 4.7&#37; in November 2007.</p>
+<p id="krugmanwellsessentials4e-ch14-p21" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2">Figure 14-1</link> shows the U.S. unemployment rate from 1948 to early 2016; as you can see, unemployment soared during the Great Recession of 2007&#8211;2009 and fell slowly in the years that followed. To understand what the elevated unemployment rate means, why it is such a big factor in people&#8217;s lives, and why policy makers pay so much attention to employment and unemployment, we need to look at how they are both defined and measured.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-2" block_type="figure" numbered="true" number="14-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>14-1</strong></phrase> <phrase block_type="fig_title">The U.S. Unemployment Rate, 1948&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-3" alt="image" src="images/KrugESS4e_fig_14_01.jpg"/>
+<caption>The unemployment rate has fluctuated widely over time. It always rises during recessions, which are shown by the shaded bars. It usually, but not always, falls during periods of economic expansion.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics; National Bureau of Economic Research.</asset_source>
+</figure>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-2" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="378">
+<section-metadata><section-title>Defining and Measuring Unemployment</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p22" block_type="mn-gl-def"><strong>Employment</strong> is the number of people currently employed in the economy, either full time or part time.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p23" block_type="txt-ni">It&#8217;s easy to define employment: you&#8217;re employed if and only if you have a job. <strong>Employment</strong> is the total number of people currently employed, either full time or part time.</p>
+<p id="krugmanwellsessentials4e-ch14-p24" block_type="txt">Unemployment, however, is a more subtle concept. Just because a person isn&#8217;t working doesn&#8217;t mean that we consider that person unemployed. For example, as of January 2016, there were 44 million retired workers in the United States receiving Social Security checks. Most of them were probably happy that they were no longer working, so we wouldn&#8217;t consider someone who has settled into a comfortable, well-earned retirement to be unemployed. There were also 14 million disabled U.S. workers receiving benefits because they were unable to work. Again, although they weren&#8217;t working, we wouldn&#8217;t normally consider them to be unemployed.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p25" block_type="mn-gl-def"><strong>Unemployment</strong> is the number of people who are actively looking for work but aren&#8217;t currently employed.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p26" block_type="txt">The U.S. Census Bureau, the federal agency tasked with collecting data on unemployment, considers the unemployed to be those who are &#8220;jobless, looking for jobs, and available for work.&#8221; Retired people don&#8217;t count because they aren&#8217;t looking for jobs; the disabled don&#8217;t count because they aren&#8217;t available for work. More specifically, an individual is considered unemployed if he or she doesn&#8217;t currently have a job and has been actively seeking a job during the past four weeks. So <strong>unemployment</strong> is defined as the total number of people who are actively looking for work but aren&#8217;t currently employed.</p>
+<p id="krugmanwellsessentials4e_page_379" block_type="page_start">379</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p27" block_type="mn-gl-def">The <strong>labor force</strong> is equal to the sum of employment and unemployment.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p28" block_type="mn-gl-def">The <strong>labor force participation rate</strong> is the percentage of the population aged 16 or older that is in the labor force.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p29" block_type="txt">A country&#8217;s <strong>labor force</strong> is the sum of employment and unemployment&#8212;that is, of people who are currently working and people who are currently looking for work, respectively. The <strong>labor force participation rate,</strong> defined as the percentage of the working-age population that is in the labor force, is calculated as follows:</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-3" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-4" alt="image" src="images/KrugESS4e_eqn_379_01.jpg"/>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p30" block_type="mn-gl-def">The <strong>unemployment rate</strong> is the percentage of the total number of people in the labor force who are unemployed.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p31" block_type="txt">The <strong>unemployment rate,</strong> defined as the percentage of the total number of people in the labor force who are unemployed, is calculated as follows:</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-4" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-5" alt="image" src="images/KrugESS4e_eqn_379_02.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p32" block_type="txt">To estimate the numbers that go into calculating the unemployment rate, the U.S. Census Bureau carries out a monthly survey called the Current Population Survey, which involves interviewing a random sample of 60,000 American families. People are asked whether they are currently employed. If they are not employed, they are asked whether they have been looking for a job during the past four weeks. The results are then scaled up, using estimates of the total population, to estimate the total number of employed and unemployed Americans.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-3" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="379">
+<section-metadata><section-title>The Significance of the Unemployment Rate</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p33" block_type="txt-ni">In general, the unemployment rate is a good indicator of how easy or difficult it is to find a job given the current state of the economy. When the unemployment rate is low, nearly everyone who wants a job can find one. In 2000, when the unemployment rate averaged just 4&#37;, jobs were so abundant that employers spoke of a &#8220;mirror test&#8221; for getting a job: if you were breathing (therefore your breath would fog a mirror), you could find work. By contrast, in 2010, with the unemployment rate above 9&#37; all year, it was very hard to find work. In fact, there were almost five times as many Americans seeking work as there were job openings.</p>
+<p id="krugmanwellsessentials4e-ch14-p34" block_type="txt">Although the unemployment rate is a good indicator of current labor market conditions, it&#8217;s not a literal measure of the percentage of people who want a job but can&#8217;t find one. That&#8217;s because in some ways the unemployment rate exaggerates the difficulty people have in finding jobs. But in other ways, the opposite is true&#8212;a low unemployment rate can conceal deep frustration over the lack of job opportunities.</p>
+<p id="krugmanwellsessentials4e-ch14-p35" block_type="txt-3"><phrase block_type="h3-ri"><strong>How the Unemployment Rate Can Overstate the True Level of Unemployment</strong></phrase> If you are searching for work, it&#8217;s normal to take at least a few weeks to find a suitable job. Yet a worker who is quite confident of finding a job, but has not yet accepted a position, is counted as unemployed. As a consequence, the unemployment rate never falls to zero, even in boom times when jobs are plentiful. Even in the buoyant labor market of 2000, when it was easy to find work, the unemployment rate was still 4&#37;. Later in this chapter, we&#8217;ll examine the reasons that measured unemployment persists even when jobs are abundant.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p36" block_type="mn-gl-def"><strong>Discouraged workers</strong> are nonworking people who are capable of working but have given up looking for a job given the state of the job market.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p37" block_type="txt-3"><phrase block_type="h3-ri"><strong>How the Unemployment Rate Can Understate the True Level of Unemployment</strong></phrase> Frequently, people who would like to work but aren&#8217;t working still don&#8217;t get counted as unemployed. In particular, an individual who has given up looking for a job for the time being because there are no jobs available&#8212;say, a laid-off steelworker in a deeply depressed steel town&#8212;isn&#8217;t counted as unemployed because he or she has not been searching for a job during the previous four weeks. Individuals who want to work but have told government researchers that they aren&#8217;t currently searching because they see little prospect of finding a job given the state of the job market are called <strong>discouraged workers.</strong> Because it does not count discouraged workers, the measured unemployment rate may understate the percentage of people who want to work but are unable to find jobs.</p>
+<p id="krugmanwellsessentials4e_page_380" block_type="page_start">380</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p38" block_type="mn-gl-def"><strong>Marginally attached workers</strong> would like to be employed and have looked for a job in the recent past but are not currently looking for work.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p39" block_type="mn-gl-def"><strong>Underemployment</strong> is the number of people who work part time because they cannot find full-time jobs.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p40" block_type="txt">Discouraged workers are part of a larger group&#8212;<strong>marginally attached workers.</strong> These are people who say they would like to have a job and have looked for work in the recent past but are not currently looking for work. They, too, are not included when calculating the unemployment rate. Finally, another category of workers who are frustrated in their ability to find work but aren&#8217;t counted as unemployed are the <strong>underemployed:</strong> workers who would like to find full-time jobs but are currently working part time &#8220;for economic reasons&#8221;&#8212;that is, they can&#8217;t find a full-time job. Again, they aren&#8217;t counted in the unemployment rate.</p>
+<p id="krugmanwellsessentials4e-ch14-p41" block_type="txt">The Bureau of Labor Statistics is the federal agency that calculates the official unemployment rate. It also calculates broader &#8220;measures of labor underutilization&#8221; that include the three categories of frustrated workers. <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-5">Figure 14-2</link> shows what happens to the measured unemployment rate once discouraged workers, other marginally attached workers, and the underemployed are counted. The broadest measure of unemployment and underemployment, known as U-6, is the sum of these three measures plus the unemployed. It is substantially higher than the rate usually quoted by the news media. But U-6 and the unemployment rate move very much in parallel, so changes in the unemployment rate remain a good guide to what&#8217;s happening in the overall labor market, including frustrated workers.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-5" block_type="figure" numbered="true" number="14-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-2</strong></phrase></phrase> <phrase block_type="fig_title">Alternative Measures of Unemployment, 1994&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-6" alt="image" src="images/KrugESS4e_fig_14_02.jpg"/>
+<caption>The unemployment number usually quoted in the news media counts someone as unemployed only if he or she has been looking for work during the past four weeks. Broader measures also count discouraged workers, marginally attached workers, and the underemployed. These broader measures show a higher unemployment rate, but they move closely in parallel with the standard rate.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p42" block_type="txt">Finally, it&#8217;s important to realize that the unemployment rate varies greatly among demographic groups. Other things equal, jobs are generally easier to find for more experienced workers and for workers during their &#8220;prime&#8221; working years, from ages 25 to 54. For younger workers, as well as workers nearing retirement age, jobs are typically harder to find, other things equal.</p>
+<p id="krugmanwellsessentials4e-ch14-p43" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-6">Figure 14-3</link> shows unemployment rates for different groups in 2007, when the overall unemployment rate was low by historical standards, in 2010, when the rate was high in the aftermath of the Great Recession, and in 2016, when it had come down much of, but not all, the way to pre-crisis levels. As you can see, the unemployment rate for African-American workers is consistently much higher than the national average; the unemployment rate for White teenagers (ages 16&#8211;19) is normally even higher; and the unemployment rate for African-American teenagers is higher still. (Bear in mind that a teenager isn&#8217;t considered unemployed, even if he or she isn&#8217;t working, unless that teenager is looking for work but can&#8217;t find it.) So even at times when the overall unemployment rate is relatively low, jobs are hard to find for some groups.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-6" block_type="figure" numbered="true" number="14-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-6"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-3</strong></phrase></phrase> <phrase block_type="fig_title">Unemployment Rates of Different Groups in 2007, 2010, and 2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-7" alt="image" src="images/KrugESS4e_fig_14_03.jpg"/>
+<caption>Unemployment rates vary greatly among different demographic groups. For example, although the overall unemployment rate in February 2016 was 4.9&#37;, the unemployment rate among African-American teenagers was 23.3&#37;. As a result, even during periods of low overall unemployment, unemployment remains a serious problem for some groups.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_381" block_type="page_start">381</p>
+<p id="krugmanwellsessentials4e-ch14-p44" block_type="txt">So you should interpret the unemployment rate as an indicator of overall labor market conditions, not as an exact, literal measure of the percentage of people unable to find jobs. The unemployment rate is, however, a very good indicator: its ups and downs closely reflect economic changes that have a significant impact on people&#8217;s lives. Now let&#8217;s look at what causes these fluctuations.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-4" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="381">
+<section-metadata><section-title>Growth and Unemployment</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p45" block_type="txt-ni">Compared to <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2">Figure 14-1</link>, <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-7">Figure 14-4</link> shows the U.S. unemployment rate over a somewhat shorter period, the 35 years from 1981 through early 2016. The shaded bars represent periods of recession. As you can see, during every recession, without exception, the unemployment rate rose. The severe recession of 2007&#8211;2009, like the earlier one of 1981&#8211;1982, led to a huge rise in unemployment.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-7" block_type="figure" numbered="true" number="14-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-7"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-4</strong></phrase></phrase> <phrase block_type="fig_title">Unemployment and Recessions, 1981&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-8" alt="image" src="images/KrugESS4e_fig_14_04.jpg"/>
+<caption>This figure shows a close-up of the unemployment rate for the past three decades, with the shaded bars indicating recessions. It&#8217;s clear that unemployment always rises during recessions and usually falls during expansions. But in both the early 1990s and the early 2000s, unemployment continued to rise for some time after the recession was officially declared over.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics; National Bureau of Economic Research.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_382" block_type="page_start">382</p>
+<p id="krugmanwellsessentials4e-ch14-p46" block_type="txt">Correspondingly, during periods of economic expansion the unemployment rate usually falls. The long economic expansion of the 1990s eventually brought the unemployment rate to 4.0&#37;, and the expansion of the mid-2000s brought the rate down to 4.7&#37;. However, it&#8217;s important to recognize that <em>economic expansions aren&#8217;t always periods of falling unemployment.</em> Look at the periods immediately following the recessions of 1990&#8211;1991 and 2001 in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-7">Figure 14-4</link>. In each case the unemployment rate continued to rise for more than a year after the recession was officially over. The explanation in both cases is that although the economy was growing, it was not growing fast enough to reduce the unemployment rate.</p>
+<p id="krugmanwellsessentials4e-ch14-p47" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8">Figure 14-5</link> is a scatter diagram showing U.S. data for the period from 1949 to 2015. The horizontal axis measures the annual rate of growth in real GDP&#8212;the percent by which each year&#8217;s real GDP changed compared to the previous year&#8217;s real GDP. (Notice that there were ten years in which growth was negative&#8212;that is, real GDP shrank.) The vertical axis measures the <em>change</em> in the unemployment rate over the previous year in percentage points&#8212;last year&#8217;s unemployment rate minus this year&#8217;s unemployment rate. Each dot represents the observed growth rate of real GDP and change in the unemployment rate for a given year. For example, in 2000 the average unemployment rate fell to 4.0&#37; from 4.2&#37; in 1999; this is shown as a value of <strong>&#8722;</strong>0.2 along the vertical axis for the year 2000. Over the same period, real GDP grew by 4.1&#37;; this is the value shown along the horizontal axis for the year 2000.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-8" block_type="figure" numbered="true" number="14-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-5</strong></phrase></phrase> <phrase block_type="fig_title">Growth and Changes in Unemployment, 1949&#8211;2015</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-9" alt="image" src="images/KrugESS4e_fig_14_05.jpg"/>
+<caption>Each dot shows the growth rate of the economy and the change in the unemployment rate for a specific year between 1949 and 2015. For example, in 2000 the economy grew 4.1&#37; and the unemployment rate fell 0.2 percentage points, from 4.2&#37; to 4.0&#37;. In general, the unemployment rate fell when growth was above its average rate of 3.22&#37; a year and rose when growth was below average. Unemployment always rose when real GDP fell.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics; Bureau of Economic Analysis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_383" block_type="page_start">383</p>
+<p id="krugmanwellsessentials4e-ch14-p48" block_type="txt">The downward trend of the scatter diagram in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8">Figure 14-5</link> shows that there is a generally strong negative relationship between growth in the economy and the rate of unemployment. Years of high growth in real GDP were also years in which the unemployment rate fell, and years of low or negative growth in real GDP were years in which the unemployment rate rose.</p>
+<p id="krugmanwellsessentials4e-ch14-p49" block_type="txt">The green vertical line in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8">Figure 14-5</link> at the value of 3.22&#37; indicates the average growth rate of real GDP over the period from 1949 to 2015. Points lying to the right of the vertical line are years of above-average growth. In these years, the value on the vertical axis is usually negative, meaning that the unemployment rate fell. That is, years of above-average growth were usually years in which the unemployment rate was falling. Conversely, points lying to the left of the green vertical line were years of below-average growth. In these years, the value on the vertical axis is usually positive, meaning that the unemployment rate rose. That is, years of below-average growth were usually years in which the unemployment rate was rising.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p50" block_type="mn-gl-def">A <strong>jobless recovery</strong> is a period in which the real GDP growth rate is positive but the unemployment rate is still rising.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p51" block_type="txt">A period in which real GDP is growing at a below-average rate and unemployment is rising is called a <strong>jobless recovery</strong> or a <em>growth recession</em>. Since 1990, there have been three recessions, each of which was followed by a period of jobless recovery. But true recessions, periods when real GDP falls, are especially painful for workers. As illustrated by the points to the left of the purple vertical line in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8">Figure 14-5</link> (representing years in which the real GDP growth rate is negative), falling real GDP is always associated with a rising rate of unemployment, causing a great deal of hardship to families.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch14-p52" block_type="bx-2-t"><strong>Failure to Launch</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p53" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-10" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p54" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n March 2010, when the U.S. job situation was near its worst, the <em>Harvard Law Record</em> published a brief note titled &#8220;Unemployed law student will work for &#36;160K plus benefits.&#8221; In a self-mocking tone, the author admitted to having graduated from Harvard Law School the previous year but not landing a job offer. &#8220;What mark on our r&#233;sum&#233; is so bad that it outweighs the crimson H?&#8221; the note asked.</p>
+<p id="krugmanwellsessentials4e-ch14-p55" block_type="bx2-txt">The answer, of course, is that it wasn&#8217;t about the r&#233;sum&#233;&#8212;it was about the economy. Times of high unemployment are especially hard on new graduates, who often find it hard to get any kind of full-time job.</p>
+<p id="krugmanwellsessentials4e-ch14-p56" block_type="bx2-txt">How bad was it around the time that note was written? <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-9">Figure 14-6</link> shows unemployment rates for two kinds of college graduates&#8212;all graduates 25 and older, and recent graduates in their 20s&#8212;for each year from 2007 to 2011. Even at its peak, in October 2009, the unemployment rate among older graduates was less than 5 percent. Among recent graduates, however, the rate peaked at 15.5 percent, and it was still well into double digits in late 2011. The U.S. labor market had a long way to go before being able to offer college graduates&#8212;and young people in general&#8212;the kinds of opportunities they deserved.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-9" block_type="figure" numbered="true" number="14-6" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-9"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-6</strong></phrase></phrase> <phrase block_type="fig_title">Unemployment Rate for Recent College Graduates, 2007&#8211;2011</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-11" alt="image" src="images/KrugESS4e_fig_14_06.jpg"/>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+</box>
+<p id="krugmanwellsessentials4e_page_384" block_type="page_start">384</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch14-list-2" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch14-p57" block_type="sr1-bl">The <strong>labor force,</strong> equal to <strong>employment</strong> plus <strong>unemployment,</strong> does not include discouraged workers. Nor do labor statistics contain data on <strong>underemployment.</strong> The <strong>labor force participation rate</strong> is the percentage of the population age 16 and over in the labor force.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p58" block_type="sr1-bl">The <strong>unemployment rate</strong> is an indicator of the state of the labor market, not an exact measure of the percentage of workers who can&#8217;t find jobs. It can overstate the true level of unemployment because workers often spend time searching for a job even when jobs are plentiful. But it can also understate the true level of unemployment because it excludes <strong>discouraged workers, marginally attached workers,</strong> and <strong>underemployed</strong> workers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p59" block_type="sr1-bl">There is a strong negative relationship between growth in real GDP and changes in the unemployment rate. When growth is above average, the unemployment rate generally falls. When growth is below average, the unemployment rate generally rises&#8212;a period called a <strong>jobless recovery</strong> that typically follows a deep recession.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">14-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p60" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Suppose that the advent of employment websites enables job-seekers to find suitable jobs more quickly. What effect will this have on the unemployment rate over time? Also suppose that these websites encourage job-seekers who had given up their searches to begin looking again. What effect will this have on the unemployment rate?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-2" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p61" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> In which of the following cases is a worker counted as unemployed? Explain.</p>
+<list id="krugmanwellsessentials4e-ch14-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p62" block_type="sr2-nl-lvl2">Rosa, an older worker who has been laid off and who gave up looking for work months ago</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p63" block_type="sr2-nl-lvl2">Anthony, a schoolteacher who is not working during his three-month summer break</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p64" block_type="sr2-nl-lvl2">Grace, an investment banker who has been laid off and is currently searching for another position</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p65" block_type="sr2-nl-lvl2">Sergio, a classically trained musician who can only find work playing for local parties</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p66" block_type="sr2-nl-lvl2">Natasha, a graduate student who went back to school because jobs were scarce</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p67" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> Which of the following are consistent with the observed relationship between growth in real GDP and changes in the unemployment rate as shown in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8">Figure 14-5</link>? Which are not?</p>
+<list id="krugmanwellsessentials4e-ch14-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p68" block_type="sr2-nl-lvl2">A rise in the unemployment rate accompanies a fall in real GDP.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p69" block_type="sr2-nl-lvl2">An exceptionally strong business recovery is associated with a greater percentage of the labor force being employed.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p70" block_type="sr2-nl-lvl2">Negative real GDP growth is associated with a fall in the unemployment rate.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch14-p71" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-1" block_type="h1" title="" chapter="14" numbered="true" level="1" print_page="384">
+<section-metadata><section-title>The Natural Rate of Unemployment</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p72" block_type="txt-ni">Fast economic growth tends to reduce the unemployment rate. So how low can the unemployment rate go? You might be tempted to say zero, but that isn&#8217;t feasible. Over the past half-century, the national unemployment rate has never dropped below 2.9&#37;.</p>
+<p id="krugmanwellsessentials4e-ch14-p73" block_type="txt">To understand how there can be so much unemployment even when many businesses are having a hard time finding workers, we need to examine the nature of labor markets and why they normally lead to substantial measured unemployment even when jobs are plentiful. Our starting point is the observation that even in the best of times, jobs are constantly being created and destroyed.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-5" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="384">
+<section-metadata><section-title>Job Creation and Job Destruction</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p74" block_type="txt-ni">Even during good times, Americans lose their jobs. In July 2007, the U.S. unemployment rate was only 4.7&#37;, relatively low by historical standards. Yet in that month there were 4.5 million &#8220;job separations&#8221;&#8212;terminations of employment that occur because workers are either fired or quit voluntarily.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-12" alt="image" src="images/KrugESS4e_14UN01.jpg"/>
+<asset_source>&#169; The New Yorker Collection 2009 Christopher Weyant from <link href="http://www.cartoonbank.com">cartoonbank.com</link>. All Rights Reserved.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p75" block_type="txt">There are many reasons for such job loss. One is structural change in the economy: industries rise and fall as new technologies emerge and consumers&#8217; tastes change. For example, employment in high-tech industries such as telecommunications surged in the late 1990s but slumped after 2000. However, structural change also brings the creation of new jobs: after 2000, the number of jobs in the American health care sector surged as new medical technologies and an aging population increased the demand for medical care. Poor management performance or bad luck at individual companies also leads to job loss for employees.</p>
+<p id="krugmanwellsessentials4e_page_385" block_type="page_start">385</p>
+<p id="krugmanwellsessentials4e-ch14-p76" block_type="txt">Continual job creation and destruction are a feature of modern economies, making a naturally occurring amount of unemployment inevitable. Within this naturally occurring amount, there are two types of unemployment&#8212;<em>frictional</em> and <em>structural.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-6" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="385">
+<section-metadata><section-title>Frictional Unemployment</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p77" block_type="txt-ni">When a worker loses a job involuntarily due to job destruction, he or she often doesn&#8217;t take the first new job offered. For example, suppose a skilled programmer, laid off because her software company&#8217;s product line was unsuccessful, sees a help-wanted ad for clerical work online. She might respond to the ad and get the job&#8212;but that would be foolish. Instead, she should take the time to look for a job that takes advantage of her skills and pays accordingly.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p78" block_type="mn-gl-def">Workers who spend time looking for employment are engaged in <strong>job search.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p79" block_type="txt">In addition, individual workers are constantly leaving jobs voluntarily, typically for personal reasons&#8212;family moves, dissatisfaction, and better job prospects elsewhere.</p>
+<p id="krugmanwellsessentials4e-ch14-p80" block_type="txt">Economists say that workers who spend time looking for employment are engaged in <strong>job search.</strong> If all workers and all jobs were alike, job search wouldn&#8217;t be necessary; if information about jobs and workers was perfect, job search would be very quick. In practice, however, it&#8217;s normal for a worker who loses a job, or a young worker seeking a first job, to spend at least a few weeks searching.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p81" block_type="mn-gl-def"><strong>Frictional unemployment</strong> is unemployment due to the time workers spend in job search.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p82" block_type="txt"><strong>Frictional unemployment</strong> is unemployment due to the time workers spend in job search. A certain amount of frictional unemployment is inevitable due to the constant process of economic change. Thus even in 2007, a year of low unemployment, there were 62 million &#8220;job separations,&#8221; in which workers left or lost their jobs. Total employment grew because these separations were more than offset by more than 63 million hires. Inevitably, some of the workers who left or lost their jobs spent at least some time unemployed, as did some of the workers newly entering the labor force.</p>
+<p id="krugmanwellsessentials4e-ch14-p83" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-11">Figure 14-7</link> shows the average monthly flows of workers among three states: employed, unemployed, and not in the labor force during 2007, a year of relatively low unemployment. What the figure suggests is how much churning is constantly taking place in the labor market. An inevitable consequence of that churning is a significant number of workers who haven&#8217;t yet found their next job&#8212;that is, frictional unemployment.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-11" block_type="figure" numbered="true" number="14-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-7</strong></phrase></phrase> <phrase block_type="fig_title">Labor Market Flows in an Average Month in 2007</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-13" alt="image" src="images/KrugESS4e_fig_14_07.jpg"/>
+<caption>Even in 2007, a low-unemployment year, large numbers of workers moved into and out of both employment and unemployment each month. On average, each month in 2007, 1.781 million unemployed became employed, and 1.929 million employed became unemployed.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_386" block_type="page_start">386</p>
+<p id="krugmanwellsessentials4e-ch14-p84" block_type="txt">A limited amount of frictional unemployment is relatively harmless and may even be a good thing. The economy is more productive if workers take the time to find jobs that are well matched to their skills, and workers who are unemployed for a brief period while searching for the right job don&#8217;t experience great hardship. In fact, when there is a low unemployment rate, periods of unemployment tend to be quite short, suggesting that much of the unemployment is frictional.</p>
+<p id="krugmanwellsessentials4e-ch14-p85" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-12">Figure 14-8</link> shows the composition of unemployment for all of 2007, when the unemployment rate was only 4.6&#37;. Thirty-six percent of the unemployed had been unemployed for less than 5 weeks, and only 33&#37; had been unemployed for 15 or more weeks. Only about one in six unemployed workers were considered to be &#8220;long-term unemployed&#8221;&#8212;unemployed for 27 or more weeks.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-12" block_type="figure" numbered="true" number="14-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-8</strong></phrase></phrase> <phrase block_type="fig_title">Distribution of the Unemployed by Duration of Unemployment, 2007</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-14" alt="image" src="images/KrugESS4e_fig_14_08.jpg"/>
+<caption>In years when the unemployment rate is low, most unemployed workers are unemployed for only a short period. In 2007, a year of low unemployment, 36&#37; of the unemployed had been unemployed for less than 5 weeks and 67&#37; for less than 15 weeks. The short duration of unemployment for most workers suggests that most unemployment in 2007 was frictional.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p86" block_type="txt">In periods of higher unemployment, however, workers tend to be jobless for longer periods of time, suggesting that a smaller share of unemployment is frictional. The fraction of the unemployed who had been out of work for six months or more from 2007 to mid-2014 jumped to 45&#37; after the Great Recession, and was still historically high five years after the recession officially ended.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-7" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="386">
+<section-metadata><section-title>Structural Unemployment</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-015" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p87" block_type="mn-gl-def">In <strong>structural unemployment,</strong> more people are seeking jobs in a particular labor market than there are jobs available at the current wage rate, even when the economy is at the peak of the business cycle.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p88" block_type="txt-ni">Frictional unemployment exists even when the number of people seeking jobs is equal to the number of jobs being offered&#8212;that is, the existence of frictional unemployment doesn&#8217;t mean that there is a surplus of labor. Sometimes, however, there is a <em>persistent surplus</em> of job-seekers in a particular labor market, even when the economy is at the peak of the business cycle. There may be more workers with a particular skill than there are jobs available using that skill, or there may be more workers in a particular geographic region than there are jobs available in that region. <strong>Structural unemployment</strong> is unemployment that results when there are more people seeking jobs in a particular labor market than there are jobs available at the current wage rate.</p>
+<p id="krugmanwellsessentials4e-ch14-p89" block_type="txt">The supply and demand model tells us that the price of a good, service, or factor of production tends to move toward an equilibrium level that matches the quantity supplied with the quantity demanded. This is equally true, in general, of labor markets.</p>
+<p id="krugmanwellsessentials4e-ch14-p90" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-13">Figure 14-9</link> shows a typical market for labor. The labor demand curve indicates that when the price of labor&#8212;the wage rate&#8212;increases, employers demand less labor. The labor supply curve indicates that when the price of labor increases, more workers are willing to supply labor at the prevailing wage rate. These two forces coincide to lead to an equilibrium wage rate for any given type of labor in a particular location. That equilibrium wage rate is shown as <em>W<sub>E</sub>.</em></p>
+<figure id="krugmanwellsessentials4e-ch14-fig-13" block_type="figure" numbered="true" number="14-9" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-13"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-9</strong></phrase></phrase> <phrase block_type="fig_title">The Effect of a Minimum Wage on a Labor Market</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-15" alt="image" src="images/KrugESS4e_fig_14_09.jpg"/>
+<caption>When the government sets a minimum wage, <em>W<sub>F</sub>,</em> that exceeds the market equilibrium wage rate in that market, <em>W<sub>E</sub>,</em> the number of <em>workers</em> who would like to work at that minimum wage, <em>Q<sub>S</sub>,</em> is greater than the number of workers demanded at that wage rate, <em>Q<sub>D</sub></em>. This surplus of labor is structural unemployment.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p91" block_type="txt">Even at the equilibrium wage rate <em>W<sub>E</sub>,</em> there will still be some frictional unemployment. That&#8217;s because there will always be some workers engaged in job search even when the number of jobs available is equal to the number of workers seeking jobs. But there wouldn&#8217;t be any structural unemployment in this labor market. <em>Structural unemployment occurs when the wage rate is, for some reason, persistently above W</em><sub>E</sub><em>.</em> Several factors can lead to a wage rate in excess of <em>W<sub>E</sub>,</em> the most important being minimum wages, labor unions, <em>efficiency wages,</em> the side effects of government policies, and mismatches between employees and employers.</p>
+<p id="krugmanwellsessentials4e_page_387" block_type="page_start">387</p>
+<p id="krugmanwellsessentials4e-ch14-p92" block_type="txt-3"><phrase block_type="h3-ri"><strong>Minimum Wages</strong></phrase> A minimum wage is a government-mandated floor on the price of labor. In the United States, the national minimum wage in early 2014 was &#36;7.25 an hour. A number of state and local governments also determine the minimum wage within their jurisdictions, typically for the purpose of setting it higher than the federal level. For example, the city of Seattle has set a minimum wage at &#36;15 an hour.</p>
+<p id="krugmanwellsessentials4e-ch14-p93" block_type="txt">For many American workers, the minimum wage is irrelevant; the market equilibrium wage for these workers is well above the national price floor. But for less skilled workers, the minimum wage may be binding&#8212;it affects the wages that people are actually paid and can lead to structural unemployment in particular markets for labor. Other wealthy countries have higher minimum wages; for example, in 2014 the French minimum wage was 9.40 euros an hour, or around &#36;12.40. In these countries, the range of workers for whom the minimum wage is binding is larger.</p>
+<p id="krugmanwellsessentials4e-ch14-p94" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-13">Figure 14-9</link> shows the effect of a binding minimum wage. In this market, there is a legal floor on wages, <em>W<sub>F</sub>,</em> which is above the equilibrium wage rate, <em>W<sub>E</sub>.</em> This leads to a persistent surplus in the labor market: the quantity of labor supplied, <em>Q<sub>S</sub>,</em> is larger than the quantity demanded, <em>Q<sub>D</sub>.</em> In other words, more people want to work than can find jobs at the minimum wage, leading to structural unemployment.</p>
+<p id="krugmanwellsessentials4e-ch14-p95" block_type="txt">Given that minimum wages&#8212;that is, binding minimum wages&#8212;generally lead to structural unemployment, you might wonder why governments impose them. The rationale is to help ensure that people who work can earn enough income to afford at least a minimally comfortable lifestyle. However, this may come at a cost, because it may eliminate the opportunity to work for some workers who would have willingly worked for lower wages. As illustrated in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-13">Figure 14-9</link>, not only are there more sellers of labor than there are buyers, but there are also fewer people working at a minimum wage (<em>Q<sub>D</sub></em>) than there would have been with no minimum wage at all (<em>Q<sub>E</sub></em>).</p>
+<p id="krugmanwellsessentials4e_page_388" block_type="page_start">388</p>
+<p id="krugmanwellsessentials4e-ch14-p96" block_type="txt">Although economists broadly agree that a high minimum wage has the employment-reducing effects shown in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-13">Figure 14-9</link>, there is some question about whether this is a good description of how the U.S. minimum wage actually works. The minimum wage in the United States is quite low compared with that in other wealthy countries. For three decades, from the 1970s to the mid-2000s, the American minimum wage was so low that it was not binding for the vast majority of workers.</p>
+<p id="krugmanwellsessentials4e-ch14-p97" block_type="txt">In addition, some researchers have produced evidence showing that increases in the minimum wage actually lead to higher employment when, as was the case in the United States at one time, the minimum wage is low compared to average wages. They argue that firms that employ low-skilled workers sometimes restrict their hiring in order to keep wages low and that, as a result, the minimum wage can sometimes be increased without any loss of jobs. Most economists, however, agree that a sufficiently high minimum wage <em>does</em> lead to structural unemployment.</p>
+<p id="krugmanwellsessentials4e-ch14-p98" block_type="txt-3"><phrase block_type="h3-ri"><strong>Labor Unions</strong></phrase> The actions of <em>labor unions</em> can have effects similar to those of minimum wages, leading to structural unemployment. By bargaining collectively for all of a firm&#8217;s workers, unions can often win higher wages from employers than workers would have obtained by bargaining individually. This process, known as <em>collective bargaining,</em> is intended to tip the scales of bargaining power more toward workers and away from employers. Labor unions exercise bargaining power by threatening firms with a <em>labor strike,</em> a collective refusal to work. The threat of a strike can have serious consequences for firms. In such cases, workers acting collectively can exercise more power than they could if acting individually.</p>
+<p id="krugmanwellsessentials4e-ch14-p99" block_type="txt">Employers have acted to counter the bargaining power of unions by threatening and enforcing lockouts&#8212;periods in which union workers are locked out and rendered unemployed&#8212;while hiring replacement workers.</p>
+<p id="krugmanwellsessentials4e-ch14-p100" block_type="txt">When workers have increased bargaining power, they tend to demand and receive higher wages. Unions also bargain over benefits, such as health care and pensions, which we can think of as additional wages. Indeed, economists who study the effects of unions on wages find that unionized workers earn higher wages and more generous benefits than non-union workers with similar skills. The result of these increased wages can be the same as the result of a minimum wage: labor unions push the wage that workers receive above the equilibrium wage. Consequently, there are more people willing to work at the wage being paid than there are jobs available. Like a binding minimum wage, this leads to structural unemployment. In the United States, however, due to a low level of unionization, the amount of unemployment generated by union demands is likely to be very small.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-016" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p101" block_type="mn-gl-def"><strong>Efficiency wages</strong> are wages that employers set above the equilibrium wage rate as an incentive for better employee performance.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p102" block_type="txt-3"><phrase block_type="h3-ri"><strong>Efficiency Wages</strong></phrase> Actions by firms can contribute to structural unemployment. Firms may choose to pay <strong>efficiency wages</strong>&#8212;wages that employers set above the equilibrium wage rate as an incentive for their workers to perform better.</p>
+<p id="krugmanwellsessentials4e-ch14-p103" block_type="txt">Employers may feel the need for such incentives for several reasons. For example, employers often have difficulty observing directly how hard an employee works. They can, however, elicit more work effort by paying above-market wages: employees receiving these higher wages are more likely to work harder to ensure that they aren&#8217;t fired, which would cause them to lose their higher wages.</p>
+<p id="krugmanwellsessentials4e-ch14-p104" block_type="txt">When many firms pay efficiency wages, the result is a pool of workers who want jobs but can&#8217;t find them. So the use of efficiency wages by firms leads to structural unemployment.</p>
+<p id="krugmanwellsessentials4e-ch14-p105" block_type="txt-3"><phrase block_type="h3-ri"><strong>Side Effects of Government Policies</strong></phrase> In addition, government policies designed to help workers who lose their jobs can lead to structural unemployment as an unintended side effect. Most economically advanced countries provide benefits to laid-off workers as a way to tide them over until they find a new job. In the United States, these benefits typically replace only a small fraction of a worker&#8217;s income and expire after 26 weeks. (This was extended in some cases to 99 weeks during the period of high unemployment in 2009&#8211;2011). In other countries, particularly in Europe, benefits are more generous and last longer. The drawback to this generosity is that it reduces a worker&#8217;s incentive to quickly find a new job. During the 1980s, it was often argued that unemployment benefits in some European countries were one of the causes of <em>Eurosclerosis,</em> persistently high unemployment that afflicts a number of European economies.</p>
+<p id="krugmanwellsessentials4e_page_389" block_type="page_start">389</p>
+<p id="krugmanwellsessentials4e-ch14-p106" block_type="txt-3"><phrase block_type="h3-ri"><strong>Mismatches Between Employees and Employers</strong></phrase> It takes time for workers and firms to adjust to shifts in the economy. The result can be a mismatch between what employees have to offer and what employers are looking for. A skills mismatch is one form; for example, in the aftermath of the housing bust of 2009, there were more construction workers looking for jobs than were available. Another form is geographic as in Michigan, which has had a long-standing surplus of workers after its auto industry declined. Until the mismatch is resolved through a big enough fall in wages of the surplus workers that induces retraining or relocation, there will be structural unemployment.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-8" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="389">
+<section-metadata><section-title>The Natural Rate of Unemployment</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-017" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p107" block_type="mn-gl-def">The <strong>natural rate of unemployment</strong> is the unemployment rate that arises from the effects of frictional plus structural unemployment.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-018" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p108" block_type="mn-gl-def"><strong>Cyclical unemployment</strong> is the deviation of the actual rate of unemployment from the natural rate due to downturns in the business cycle.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p109" block_type="txt-ni">Because some frictional unemployment is inevitable and because many economies also suffer from structural unemployment, a certain amount of unemployment is normal, or &#8220;natural.&#8221; Actual unemployment fluctuates around this normal level. The <strong>natural rate of unemployment</strong> is the normal unemployment rate around which the actual unemployment rate fluctuates. It is the rate of unemployment that arises from the effects of frictional plus structural unemployment. <strong>Cyclical unemployment</strong> is the deviation of the actual rate of unemployment from the natural rate; that is, it is the difference between the actual and natural rates of unemployment. As the name suggests, cyclical unemployment is the share of unemployment that arises from the downturns of the business cycle.</p>
+<p id="krugmanwellsessentials4e-ch14-p110" block_type="txt">We can summarize the relationships between the various types of unemployment as follows:</p>
+<p id="krugmanwellsessentials4e-ch14-p111" block_type="eq"><strong>(14-3)</strong> Natural unemployment <strong>=</strong> Frictional unemployment <strong>&#43;</strong> Structural unemployment</p>
+<p id="krugmanwellsessentials4e-ch14-p112" block_type="eq"><strong>(14-4)</strong> Actual unemployment <strong>=</strong> Natural unemployment <strong>&#43;</strong> Cyclical unemployment</p>
+<p id="krugmanwellsessentials4e-ch14-p113" block_type="txt">Perhaps because of its name, people often imagine that the natural rate of unemployment is a constant that doesn&#8217;t change over time and can&#8217;t be affected by government policy. Neither proposition is true. Let&#8217;s take a moment to stress two facts: the natural rate of unemployment changes over time, and it can be affected by government policies.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-9" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="389">
+<section-metadata><section-title>Changes in the Natural Rate of Unemployment</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p114" block_type="txt-ni">Private-sector economists and government agencies need estimates of the natural rate of unemployment both to make forecasts and to conduct policy analyses. Almost all these estimates show that the U.S. natural rate rises and falls over time. For example, the Congressional Budget Office, the independent agency that conducts budget and economic analyses for Congress, believes that the U.S. natural rate of unemployment was 5.3&#37; in 1950, rose to 6.3&#37; by the end of the 1970s, but has fallen to 4.9&#37; at the beginning of 2016. European countries have experienced even larger swings in their natural rates of unemployment.</p>
+<p id="krugmanwellsessentials4e_page_390" block_type="page_start">390</p>
+<p id="krugmanwellsessentials4e-ch14-p115" block_type="txt">What causes the natural rate of unemployment to change? The most important factors are changes in labor force characteristics, changes in labor market institutions, and changes in government policies. Let&#8217;s look briefly at each factor.</p>
+<p id="krugmanwellsessentials4e-ch14-p116" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Labor Force Characteristics</strong></phrase> In 2007 the rate of unemployment in the United States was 4.6&#37;. Young workers, however, had much higher unemployment rates: 15.7&#37; for teenagers and 8.2&#37; for workers aged 20 to 24. Workers aged 25 to 54 had an unemployment rate of only 3.7&#37;.</p>
+<p id="krugmanwellsessentials4e-ch14-p117" block_type="txt">In general, unemployment rates tend to be lower for experienced than for inexperienced workers. Because experienced workers tend to stay in a given job longer than do inexperienced ones, they have lower frictional unemployment. Also, because older workers are more likely than young workers to be family breadwinners, they have a stronger incentive to find and keep jobs.</p>
+<p id="krugmanwellsessentials4e-ch14-p118" block_type="txt">One reason the natural rate of unemployment rose during the 1970s was a large rise in the number of new workers&#8212;children of the post&#8211;World War II baby boom entered the labor force, as did a rising percentage of married women. As <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-14">Figure 14-10</link> shows, both the percentage of the labor force less than 25 years old and the percentage of women in the labor force grew rapidly in the 1970s. By the end of the 1990s, however, the share of women in the labor force had leveled off and the percentage of workers under 25 had fallen sharply. As a result, the labor force as a whole is more experienced today than it was in the 1970s, one likely reason that the natural rate of unemployment is lower today than in the 1970s.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-14" block_type="figure" numbered="true" number="14-10" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-14"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-10</strong></phrase></phrase> <phrase block_type="fig_title">The Changing Makeup of the U.S. Labor Force, 1948&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-16" alt="image" src="images/KrugESS4e_fig_14_10.jpg"/>
+<caption>In the 1970s the percentage of women in the labor force rose rapidly, as did the percentage of those under age 25. These changes reflected the entry of large numbers of women into the paid labor force for the first time and the fact that baby boomers were reaching working age. The natural rate of unemployment may have risen because many of these workers were relatively inexperienced. Today, the labor force is much more experienced, which is one possible reason the natural rate has fallen since the 1970s.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p119" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Labor Market Institutions</strong></phrase> As we pointed out earlier, unions that negotiate wages above the equilibrium level can be a source of structural unemployment. Some economists believe that the high natural rate of unemployment in Europe is caused, in part, by strong labor unions. In the United States, a sharp fall in union membership after 1980 may have been one reason the natural rate of unemployment fell between the 1970s and the 1990s.</p>
+<p id="krugmanwellsessentials4e-ch14-p120" block_type="txt">Other institutional changes may also be at work. For example, some labor economists believe that temporary employment agencies, which have proliferated in recent years, have reduced frictional unemployment by helping match workers to jobs.</p>
+<p id="krugmanwellsessentials4e_page_391" block_type="page_start">391</p>
+<p id="krugmanwellsessentials4e-ch14-p121" block_type="txt">Technological change, coupled with labor market institutions, can also affect the natural rate of unemployment. Technological change tends to increase the demand for skilled workers who are familiar with the relevant technology and reduce the demand for unskilled workers. Economic theory predicts that wages should increase for skilled workers and decrease for unskilled workers as technology advances. But if wages for unskilled workers cannot go down&#8212;say, due to a binding minimum wage&#8212;increased structural unemployment, and therefore a higher natural rate of unemployment, will result during periods of faster technological change.</p>
+<p id="krugmanwellsessentials4e-ch14-p122" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Government Policies</strong></phrase> A high minimum wage can cause structural unemployment. Generous unemployment benefits can increase both structural and frictional unemployment. So government policies intended to help workers can have the undesirable side effect of raising the natural rate of unemployment.</p>
+<p id="krugmanwellsessentials4e-ch14-p123" block_type="txt">Some government policies, however, may reduce the natural rate. Two examples are job training and employment subsidies. Job-training programs are supposed to provide unemployed workers with skills that widen the range of jobs they can perform. Employment subsidies are payments either to workers or to employers that provide a financial incentive to accept or offer jobs.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch14-img-17" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch14-p124" block_type="bx-2-t"><strong>Structural Unemployment in East Germany</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-019" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p125" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-18" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p126" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n one of the most dramatic events in world history, a spontaneous popular uprising in 1989 overthrew the communist dictatorship in East Germany. Citizens quickly tore down the wall that had divided Berlin, and in short order East and West Germany united into one democratic nation.</p>
+<p id="krugmanwellsessentials4e-ch14-p127" block_type="bx2-txt">Then the trouble started.</p>
+<p id="krugmanwellsessentials4e-ch14-p128" block_type="bx2-txt">After reunification, employment in East Germany plunged and the unemployment rate soared. This high unemployment rate has gradually come down, but remains well above the rate in the rest of Germany. In late 2014 the unemployment rate in what was formerly East Germany was more than 9&#37;, compared with 5.6&#37; in the former West Germany. Other parts of formerly communist Eastern Europe have done much better. For example, the Czech Republic, which was often cited along with East Germany as a relatively successful communist economy, had an unemployment rate of only 5.7&#37; in October 2014. What went wrong in East Germany?</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-19" alt="image" src="images/KrugESS4e_14UN02.jpg"/>
+<caption>After reunification in 1989, East Germany found itself suffering from severe structural unemployment that continues to this day.</caption>
+<asset_source>Robert Wallis/Corbis</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p129" block_type="bx2-txt">The answer is that, through nobody&#8217;s fault, East Germany found itself suffering from severe structural unemployment. When Germany was reunified, it became clear that workers in East Germany were much less productive than their cousins in the west. Yet unions initially demanded and received wage rates equal to those in West Germany. These wage rates have been slow to come down because East German workers objected to being treated as inferior to their West German counterparts. Meanwhile, productivity in the former East Germany remains well below West German levels, in part because of decades of misguided investment under the former dictatorship. The result has been a persistently large mismatch between the number of workers demanded and the number of those seeking jobs, and persistently high structural unemployment in the former East Germany.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_392" block_type="page_start">392</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch14-list-5" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch14-p130" block_type="sr1-bl"><strong>Frictional unemployment</strong> occurs because unemployed workers engage in <strong>job search,</strong> making some amount of unemployment inevitable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p131" block_type="sr1-bl">A variety of factors&#8212;minimum wages, unions, <strong>efficiency wages,</strong> the side effects of government policies such as unemployment benefits, and mismatches between employees and employers&#8212;lead to <strong>structural unemployment.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p132" block_type="sr1-bl">Frictional plus structural unemployment equals natural unemployment, yielding a <strong>natural rate of unemployment.</strong> In contrast, <strong>cyclical unemployment</strong> changes with the business cycle. Actual unemployment is equal to the sum of natural unemployment and cyclical unemployment.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p133" block_type="sr1-bl">The natural rate of unemployment can shift over time, due to changes in labor force characteristics and institutions. Government policies designed to help workers are believed to be one reason for high natural rates of unemployment in Europe.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">14-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p134" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Explain the following statements.</p>
+<list id="krugmanwellsessentials4e-ch14-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p135" block_type="sr2-nl-lvl2">Frictional unemployment is higher when the pace of technological advance quickens.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p136" block_type="sr2-nl-lvl2">Structural unemployment is higher when the pace of technological advance quickens.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p137" block_type="sr2-nl-lvl2">Frictional unemployment accounts for a larger share of total unemployment when the unemployment rate is low.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-2" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p138" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> Why does collective bargaining have the same general effect on unemployment as a minimum wage? Illustrate your answer with a diagram.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p139" block_type="cr-que-nl-first"><phrase block_type="qnum">3.</phrase> Suppose that at the peak of the business cycle the United States dramatically increases benefits for unemployed workers. Explain what will happen to the natural rate of unemployment.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch14-p140" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-2" block_type="h1" title="" chapter="14" numbered="true" level="1" print_page="392">
+<section-metadata><section-title>Inflation and Deflation</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p141" block_type="txt-ni">As we&#8217;ve seen, monetary officials are perennially divided between doves and hawks&#8212;between those who want to place a high priority on low unemployment and those who want to place a high priority on low inflation. It&#8217;s easy to see why high unemployment is a problem. But why is inflation something to worry about? The answer is that inflation can impose costs on the economy&#8212;but not in the way most people think.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-10" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="392">
+<section-metadata><section-title>The Level of Prices Doesn&#8217;t Matter . . .</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p142" block_type="txt-ni">The most common complaint about inflation, an increase in the price level, is that it makes everyone poorer&#8212;after all, a given amount of money buys less. But inflation does not make everyone poorer. To see why, it&#8217;s helpful to imagine what would happen if the United States did something other countries have done from time to time&#8212;replacing the dollar with a new currency.</p>
+<p id="krugmanwellsessentials4e-ch14-p143" block_type="txt">An example of this kind of currency conversion happened in 2002, when France, like a number of other European countries, replaced its national currency, the franc, with the euro. People turned in their franc coins and notes, and received euro coins and notes in exchange, at a rate of precisely 6.55957 francs per euro. At the same time, all contracts were restated in euros at the same rate of exchange. For example, if a French citizen had a home mortgage debt of 500,000 francs, this became a debt of 500,000/6.55957 <strong>=</strong> 76,224.51 euros. If a worker&#8217;s contract specified that he or she should be paid 100 francs per hour, it became a contract specifying a wage of 100/6.55957 <strong>=</strong> 15.2449 euros per hour, and so on.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-20" alt="image" src="images/KrugESS4e_14UN03.jpg"/>
+<caption>Inflation can distort consumers&#8217; incentives about what and when to buy.</caption>
+<asset_source>AP Photo/Paul Sakuma</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p144" block_type="txt">You could imagine doing the same thing here, replacing the dollar with a &#8220;new dollar&#8221; at a rate of exchange of, say, 7 to 1. If you owed &#36;140,000 on your home, that would become a debt of 20,000 new dollars. If you had a wage rate of &#36;14 an hour, it would become 2 new dollars an hour, and so on. This would bring the overall U.S. price level back to about what it was in 1962, when John F. Kennedy was president.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-020" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p145" block_type="mn-gl-def">The <strong>real wage</strong> is the wage rate divided by the price level.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p146" block_type="txt">So would everyone be richer as a result because prices would be only one-seventh as high? Of course not. Prices would be lower, but so would wages and incomes in general. If you cut a worker&#8217;s wage to one-seventh of its previous value, but also cut all prices to one-seventh of their previous level, the worker&#8217;s <strong>real wage</strong>&#8212;the wage rate divided by the price level&#8212;hasn&#8217;t changed. In fact, bringing the overall price level back to what it was during the Kennedy administration would have no effect on overall purchasing power because doing so would reduce income exactly as much as it reduced prices.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-021" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p147" block_type="mn-gl-def"><strong>Real income</strong> is income divided by the price level.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_393" block_type="page_start">393</p>
+<p id="krugmanwellsessentials4e-ch14-p148" block_type="txt">Conversely, the rise in prices that has actually taken place since the early 1960s hasn&#8217;t made America poorer because it has also raised incomes by the same amount: <strong>real incomes</strong>&#8212;incomes divided by the price level&#8212;haven&#8217;t been affected by the rise in overall prices.</p>
+<p id="krugmanwellsessentials4e-ch14-p149" block_type="txt">The moral of this story is that the <em>level</em> of prices doesn&#8217;t matter: the United States would be no richer than it is now if the overall level of prices were still as low as it was in 1961; conversely, the rise in prices over the past 50 years hasn&#8217;t made us poorer.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-11" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="393">
+<section-metadata><section-title>. . . But the Rate of Change of Prices Does</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p150" block_type="txt-ni">The conclusion that the level of prices doesn&#8217;t matter might seem to imply that the inflation rate doesn&#8217;t matter either. But that&#8217;s not true.</p>
+<p id="krugmanwellsessentials4e-ch14-p151" block_type="txt">To see why, it&#8217;s crucial to distinguish between the <em>level of prices</em> and the <em>inflation rate:</em> the percent increase in the overall level of prices per year. Recall that the inflation rate is defined as follows:</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-17" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-21" alt="image" src="images/KrugESS4e_eqn_393_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p152" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-18">Figure 14-11</link> highlights the difference between the price level and the inflation rate in the United States over the last half-century, with the price level measured along the left vertical axis and the inflation rate measured along the right vertical axis. In the 2000s, the overall level of prices in America was much higher than it had been in 1960&#8212;but that, as we&#8217;ve learned, didn&#8217;t matter. The inflation rate in the 2000s, however, was much lower than in the 1970s&#8212;and that almost certainly made the economy richer than it would have been if high inflation had continued.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-18" block_type="figure" numbered="true" number="14-11" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-18"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-11</strong></phrase></phrase> <phrase block_type="fig_title">The U.S. Price Level versus the Inflation Rate, 1960&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-22" alt="image" src="images/KrugESS4e_fig_14_11.jpg"/>
+<caption>With the exception of 2009, over the past half-century the price level has continuously increased. But the <em>inflation rate</em>&#8212;the rate at which prices are rising&#8212;has had both ups and downs. And in 2009, the inflation rate briefly turned negative, a phenomenon called <em>deflation</em>.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_394" block_type="page_start">394</p>
+<p id="krugmanwellsessentials4e-ch14-p153" block_type="txt">Economists believe that high rates of inflation impose significant economic costs. The most important of these costs are <em>shoe-leather costs, menu costs,</em> and <em>unit-of-account costs.</em> We&#8217;ll discuss each in turn.</p>
+<p id="krugmanwellsessentials4e-ch14-p154" block_type="txt-3"><phrase block_type="h3-ri"><strong>Shoe-Leather Costs</strong></phrase> People hold money&#8212;cash in their wallets and bank deposits on which they can write checks&#8212;for convenience in making transactions. A high inflation rate, however, discourages people from holding money because the purchasing power of the cash in your wallet and the funds in your bank account steadily erode as the overall level of prices rises. This leads people to search for ways to reduce the amount of money they hold, often at considerable economic cost.</p>
+<p id="krugmanwellsessentials4e-ch14-p155" block_type="txt">The upcoming Economics in Action describes how Israelis spent a lot of time at the bank during the periods of high inflation rates that afflicted Israel in 1984&#8211;1985. During the most famous of all inflations, the German <em>hyperinflation</em> of 1921&#8211;1923, merchants employed runners to take their cash to the bank many times a day to convert it into something that would hold its value, such as a stable foreign currency. In each case, in an effort to avoid having the purchasing power of their money eroded, people used up valuable resources, such as time for Israeli citizens and the labor of those German runners, that could have been used productively elsewhere. During the German hyperinflation, so many banking transactions were taking place that the number of employees at German banks nearly quadrupled&#8212;from around 100,000 in 1913 to 375,000 in 1923.</p>
+<p id="krugmanwellsessentials4e-ch14-p156" block_type="txt">More recently, Brazil experienced hyperinflation during the early 1990s; during that episode, the Brazilian banking sector grew so large that it accounted for 15&#37; of GDP, more than twice the size of the financial sector in the United States measured as a share of GDP. The large increase in the Brazilian banking sector needed to cope with the consequences of inflation represented a loss of real resources to its society.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-022" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p157" block_type="mn-gl-def"><strong>Shoe-leather costs</strong> are the increased costs of transactions caused by inflation.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p158" block_type="txt">Increased costs of transactions caused by inflation are known as <strong>shoe-leather costs,</strong> an allusion to the wear and tear caused by the extra running around that takes place when people are trying to avoid holding money. Shoe-leather costs are substantial in economies with very high inflation&#8212;say, one suffering inflation of 100&#37; or more per year. Most estimates suggest, however, that the shoe-leather costs of inflation at the rates seen in the United States&#8212;which in peacetime has never had inflation above 15&#37;&#8212;are quite small.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-023" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p159" block_type="mn-gl-def">The <strong>menu cost</strong> is the real cost of changing a listed price.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p160" block_type="txt-3"><phrase block_type="h3-ri"><strong>Menu Costs</strong></phrase> In a modern economy, most of the things we buy have a listed price. There&#8217;s a price listed under each item on a supermarket shelf, a price printed on the back of a book, and a price listed for each dish on a restaurant&#8217;s menu. Changing a listed price has a real cost, called a <strong>menu cost.</strong> For example, to change prices in a supermarket requires sending clerks through the store to change the listed price under each item. In the face of inflation, of course, firms are forced to change prices more often than they would if the aggregate price level was more or less stable. This means higher costs for the economy as a whole.</p>
+<p id="krugmanwellsessentials4e-ch14-p161" block_type="txt">In times of very high inflation, menu costs can be substantial. During the Brazilian inflation of the early 1990s, for instance, supermarket workers reportedly spent half of their time replacing old price stickers with new ones. When inflation is high, merchants may decide to stop listing prices in terms of the local currency and use either an artificial unit&#8212;in effect, measuring prices relative to one another&#8212;or a more stable currency, such as the U.S. dollar. This is exactly what the Israeli real estate market began doing in the mid-1980s: prices were quoted in U.S. dollars, even though payment was made in Israeli shekels. And this is also what happened in Zimbabwe when, in May 2008, official estimates of the inflation rate reached 1,694,000&#37;. By 2009, the government had suspended the Zimbabwean dollar, allowing Zimbabweans to buy and sell goods using foreign currencies.</p>
+<p id="krugmanwellsessentials4e_page_395" block_type="page_start">395</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-19" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-23" alt="image" src="images/KrugESS4e_14UN04.jpg"/>
+<caption>When one hundred trillion dollar bills are in circulation as they were in Zimbabwe, menu costs are substantial.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p162" block_type="txt">Menu costs are also present in low-inflation economies, but they are not severe. In low-inflation economies, businesses might update their prices only sporadically&#8212;not daily or even more frequently, as is the case in high-inflation or hyperinflation economies. Also, with the growing popularity of online shopping, menu costs are becoming less and less important, since prices can be changed electronically and fewer merchants attach price stickers to merchandise.</p>
+<p id="krugmanwellsessentials4e-ch14-p163" block_type="txt-3"><phrase block_type="h3-ri"><strong>Unit-of-Account Costs</strong></phrase> In the Middle Ages, contracts were often specified &#8220;in kind&#8221;: a tenant might, for example, be obliged to provide his landlord with a certain number of cattle each year. This may have made sense at the time, but it would be an awkward way to conduct modern business. Instead, we state contracts in monetary terms: a renter owes a certain number of dollars per month, a company that issues a bond promises to pay the bondholder the dollar value of the bond when it comes due, and so on. We also tend to make our economic calculations in dollars: a family planning its budget, or a small business owner trying to figure out how well the business is doing, makes estimates of the amount of money coming in and going out.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-024" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p164" block_type="mn-gl-def"><strong>Unit-of-account costs</strong> arise from the way inflation makes money a less reliable unit of measurement.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p165" block_type="txt">This role of the dollar as a basis for contracts and calculation is called the <em>unit-of-account</em> role of money. It&#8217;s an important aspect of the modern economy. Yet it&#8217;s a role that can be degraded by inflation, which causes the purchasing power of a dollar to change over time&#8212;a dollar next year is worth less than a dollar this year. The effect, many economists argue, is to reduce the quality of economic decisions: the economy as a whole makes less efficient use of its resources because of the uncertainty caused by changes in the unit of account, the dollar. The <strong>unit-of-account costs</strong> of inflation are the costs arising from the way inflation makes money a less reliable unit of measurement.</p>
+<p id="krugmanwellsessentials4e-ch14-p166" block_type="txt">Unit-of-account costs may be particularly important in the tax system because inflation can distort the measures of income on which taxes are collected. Here&#8217;s an example: assume that the inflation rate is 10&#37;, so the overall level of prices rises 10&#37; each year. Suppose that a business buys an asset, such as a piece of land, for &#36;100,000, then resells it a year later for &#36;110,000. In a fundamental sense, the business didn&#8217;t make a profit on the deal: in real terms, it got no more for the land than it paid for it. But U.S. tax law would say that the business made a capital gain of &#36;10,000, and it would have to pay taxes on that phantom gain.</p>
+<p id="krugmanwellsessentials4e-ch14-p167" block_type="txt">During the 1970s, when the United States had relatively high inflation, the distorting effects of inflation on the tax system were a serious problem. Some businesses were discouraged from productive investment spending because they found themselves paying taxes on phantom gains. Meanwhile, some unproductive investments became attractive because they led to phantom losses that reduced tax bills. When inflation fell in the 1980s&#8212;and tax rates were reduced&#8212;these problems became much less important.</p>
+<p id="krugmanwellsessentials4e_page_396" block_type="page_start">396</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-12" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="396">
+<section-metadata><section-title>Winners and Losers from Inflation</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch14-p168" block_type="txt-ni">As we&#8217;ve just learned, a high inflation rate imposes overall costs on the economy. In addition, inflation can produce winners and losers within the economy. The main reason inflation sometimes helps some people while hurting others is that economic transactions often involve contracts that extend over a period of time, such as loans, and these contracts are normally specified in nominal&#8212;that is, in dollar&#8212;terms.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-025" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p169" block_type="mn-gl-def">The <strong>interest rate</strong> on a loan is the price, calculated as a percentage of the amount borrowed, that lenders charge borrowers for the use of their savings for one year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p170" block_type="txt">In the case of a loan, the borrower receives a certain amount of funds at the beginning, and the loan contract specifies the <em>interest rate</em> on the loan and when it must be paid off. The <strong>interest rate</strong> is the return a lender receives for allowing borrowers the use of their savings for one year, calculated as a percentage of the amount borrowed.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-026" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p171" block_type="mn-gl-def">The <strong>nominal interest rate</strong> is the interest rate expressed in dollar terms.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-027" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p172" block_type="mn-gl-def">The <strong>real interest rate</strong> is the nominal interest rate minus the rate of inflation.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p173" block_type="txt">But what that dollar is worth in real terms&#8212;that is, in terms of purchasing power&#8212;depends greatly on the rate of inflation over the intervening years of the loan. Economists summarize the effect of inflation on borrowers and lenders by distinguishing between the <em>nominal</em> interest rate and the <em>real</em> interest rate. The <strong>nominal interest rate</strong> is the interest rate in dollar terms&#8212;for example, the interest rate on a student loan. The <strong>real interest rate</strong> is the nominal interest rate minus the rate of inflation. For example, if a loan carries an interest rate of 8&#37;, but there is 5&#37; inflation, the real interest rate is 8&#37; <strong>&#8722;</strong> 5&#37; <strong>=</strong> 3&#37;.</p>
+<p id="krugmanwellsessentials4e-ch14-p174" block_type="txt">When a borrower and a lender enter into a loan contract, the contract is normally written in dollar terms&#8212;that is, the interest rate it specifies is a nominal interest rate. (And in later chapters, when we say the interest rate we will mean the nominal interest rate unless noted otherwise.) But each party to a loan contract has an expectation about the future rate of inflation and therefore an expectation about the real interest rate on the loan. If the actual inflation rate is <em>higher</em> than expected, borrowers gain at the expense of lenders: borrowers will repay their loans with funds that have a lower real value than had been expected. Conversely, if the inflation rate is <em>lower</em> than expected, lenders will gain at the expense of borrowers: borrowers must repay their loans with funds that have a higher real value than had been expected.</p>
+<p id="krugmanwellsessentials4e-ch14-p175" block_type="txt">In modern America, home mortgages are the most important source of gains and losses from inflation. Americans who took out mortgages in the early 1970s quickly found their real payments reduced by higher-than-expected inflation: by 1983, the purchasing power of a dollar was only 45&#37; of what it had been in 1973. Those who took out mortgages in the early 1990s were not so lucky, because the inflation rate fell to lower-than-expected levels in the following years: in 2003 the purchasing power of a dollar was 78&#37; of what it had been in 1993.</p>
+<p id="krugmanwellsessentials4e-ch14-p176" block_type="txt">Because gains for some and losses for others result from inflation that is either higher or lower than expected, yet another problem arises: uncertainty about the future inflation rate discourages people from entering into any form of long-term contract. This is an additional cost of high inflation, because high rates of inflation are usually unpredictable. In countries with high and uncertain inflation, long-term loans are rare, which makes it difficult in many cases to make long-term investments.</p>
+<p id="krugmanwellsessentials4e-ch14-p177" block_type="txt">One last point: unexpected <em>deflation&#8212;</em>a surprise fall in the price level&#8212;creates winners and losers, too. Between 1929 and 1933, as the U.S. economy plunged into the Great Depression, the consumer price index fell by 35&#37;. This meant that debtors, including many farmers and homeowners, saw a sharp rise in the real value of their debts, which led to widespread bankruptcy and helped create a banking crisis, as lenders found their customers unable to pay back their loans. And as you can see in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-18">Figure 14-11</link>, deflation occurred again in 2009, when the inflation rate fell to <strong>&#8722;</strong>2&#37; at the trough of a deep recession. Like the Great Depression (but to a much lesser extent), the unexpected deflation of 2009 imposed heavy costs on debtors.</p>
+<p id="krugmanwellsessentials4e_page_397" block_type="page_start">397</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec2-13" block_type="h2" title="" chapter="14" numbered="false" level="2" print_page="397">
+<section-metadata><section-title>Inflation Is Easy; Disinflation Is Hard</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-028" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch14-p178" block_type="mn-gl-def"><strong>Disinflation</strong> is the process of bringing the inflation rate down.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p179" block_type="txt-ni">There is not much evidence that a rise in the inflation rate from, say, 2&#37; to 5&#37; would do a great deal of harm to the economy. Still, policy makers generally move forcefully to bring inflation back down when it creeps above 2&#37; or 3&#37;. Why? Because experience shows that bringing the inflation rate down&#8212;a process called <strong>disinflation</strong>&#8212;is very difficult and costly once a higher rate of inflation has become well established in the economy.</p>
+<p id="krugmanwellsessentials4e-ch14-p180" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-20">Figure 14-12</link> shows what happened during two major episodes of disinflation in the United States, in the mid-1970s and in the early 1980s. The horizontal axis shows the unemployment rate. The vertical axis shows &#8220;core&#8221; inflation over the previous year, a measure that excludes volatile food and energy prices and is widely considered a better measure of underlying inflation than overall consumer prices. Each marker represents the inflation rate and the unemployment rate for one month. In each episode, unemployment and inflation followed a sort of clockwise spiral, with high inflation gradually falling in the face of an extended period of very high unemployment.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-20" block_type="figure" numbered="true" number="14-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-20"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-12</strong></phrase></phrase> <phrase block_type="fig_title">The Cost of Disinflation</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-24" alt="image" src="images/KrugESS4e_fig_14_12.jpg"/>
+<caption>There were two major periods of disinflation in modern U.S. history, in the mid-1970s and the early 1980s. This figure shows the track of the unemployment rate and the &#8220;core&#8221; inflation rate, which excludes food and energy, during these two episodes. In each case bringing inflation down required a temporary but very large increase in the unemployment rate, demonstrating the high cost of disinflation.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p181" block_type="txt">According to many economists, these periods of high unemployment that temporarily depressed the economy were necessary to reduce inflation that had become deeply embedded in the economy. The best way to avoid having to put the economy through a wringer to reduce inflation, however, is to avoid having a serious inflation problem in the first place. So policy makers respond forcefully to signs that inflation may be accelerating as a form of preventive medicine for the economy.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch14-img-25" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch14-p182" block_type="bx-2-t"><strong>Israel&#8217;s Experience with Inflation</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-029" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p183" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-26" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p184" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>t&#8217;s often hard to see the costs of inflation clearly because serious inflation problems are often associated with other problems that disrupt economic life, notably war or political instability (or both). In the mid-1980s, however, Israel experienced a &#8220;clean&#8221; inflation: there was no war, the government was stable, and there was order in the streets. Yet a series of policy errors led to very high inflation, with prices often rising more than 10&#37; a month.</p>
+<p id="krugmanwellsessentials4e_page_398" block_type="page_start">398</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-21" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-27" alt="image" src="images/KrugESS4e_14UN05.jpg"/>
+<caption>The shoe-leather costs of inflation in Israel: when the inflation rate hit 500&#37; in 1985, people spent a lot of time in line at banks.</caption>
+<asset_source>Ricki Rosen/Corbis Saba</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p185" block_type="bx2-txt">As it happens, one of the authors spent a month visiting at Tel Aviv University at the height of the inflation, so we can give a first-hand account of the effects.</p>
+<p id="krugmanwellsessentials4e-ch14-p186" block_type="bx2-txt">First, the shoe-leather costs of inflation were substantial. At the time, Israelis spent a lot of time in lines at the bank, moving money in and out of accounts that provided high enough interest rates to offset inflation. People walked around with very little cash in their wallets; they had to go to the bank whenever they needed to make even a moderately large cash payment. Banks responded by opening a lot of branches, a costly business expense.</p>
+<p id="krugmanwellsessentials4e-ch14-p187" block_type="bx2-txt">Second, although menu costs weren&#8217;t that visible to a visitor, what you could see were the efforts businesses made to minimize them. For example, restaurant menus often didn&#8217;t list prices. Instead, they listed numbers that you had to multiply by another number, written on a chalkboard and changed every day, to figure out the price of a dish.</p>
+<p id="krugmanwellsessentials4e-ch14-p188" block_type="bx2-txt">Finally, it was hard to make decisions because prices changed so much and so often. It was a common experience to walk out of a store because prices were 25&#37; higher than at one&#8217;s usual shopping destination, only to discover that prices had just been increased 25&#37; there, too.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch14-list-7" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch14-p189" block_type="sr1-bl">The <strong>real wage</strong> and <strong>real income</strong> are unaffected by the level of prices.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p190" block_type="sr1-bl">Inflation, like unemployment, is a major concern of policy makers&#8212;so much so that in the past they have accepted high unemployment as the price of reducing inflation.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p191" block_type="sr1-bl">While the overall level of prices is irrelevant, high rates of inflation impose real costs on the economy: <strong>shoe-leather costs, menu costs,</strong> and <strong>unit-of-account costs.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p192" block_type="sr1-bl">The <strong>interest rate</strong> is the return a lender receives for use of his or her funds for a year. The <strong>real interest rate</strong> is equal to the <strong>nominal interest rate</strong> minus the inflation rate. As a result, unexpectedly high inflation helps borrowers and hurts lenders. With high and uncertain inflation, people often avoid long-term investments.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p193" block_type="sr1-bl"><strong>Disinflation</strong> is very costly, so policy makers try to avoid situations of high inflation in the first place.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">14-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p194" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> The widespread use of technology has revolutionized the banking industry, making it much easier for customers to access and manage their assets. Does this mean that the shoe-leather costs of inflation are higher or lower than they used to be?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch14-cyuquestion-2" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch14-p195" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> Most people in the United States have grown accustomed to a modest inflation rate of around 2&#37; to 3&#37;. Who would gain and who would lose if inflation unexpectedly came to a complete stop over the next 15 or 20 years?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch14-p196" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-3" block_type="solved_problem" title="" chapter="3" numbered="true" level="1" print_page="399">
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2"><strong>The Current Population Survey</strong></phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-030" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p197" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-28" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e_page_399" block_type="page_start">399</p>
+<p id="krugmanwellsessentials4e-ch14-p198" block_type="wio-txt-ni">Every month, the U.S. Census Bureau surveys about 60,000 American households to gather information about the U.S. labor force for the Bureau of Labor Statistics. The survey, known as the Current Population Survey (CPS), provides information about employment, unemployment, earnings, work hours, and more. Once these data are collected, researchers at the Bureau of Labor Statistics publish a number of tables describing their findings. Please complete the following table and analyze the trend in the unemployment rate, the employment-population rate, and the labor force participation rate from October 2014 through October 2015. Then determine whether the unemployment rate in October 2015 is high or low by historical standards.</p>
+<table id="krugmanwellsessentials4e-ch14-untab-1" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-1" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder"><strong>Oct. 2014<br/>(thousands)</strong></td>
+<td class="tbl-lborder"><strong>August 2015<br/>(thousands)</strong></td>
+<td class="tbl-lborder"><strong>Sept. 2015<br/>(thousands)</strong></td>
+<td class="tbl-lborder"><strong>Oct. 2015<br/>(thousands)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Civilian noninstitutional population</td>
+<td class="tbl-lborder">248,657</td>
+<td class="tbl-lborder">251,096</td>
+<td class="tbl-lborder">251,325</td>
+<td class="tbl-lborder">251,541</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Civilian labor force</td>
+<td class="tbl-lborder">156,243</td>
+<td class="tbl-lborder">157,065</td>
+<td class="tbl-lborder">156,715</td>
+<td class="tbl-lborder">157,028</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Labor force participation rate</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Employed</td>
+<td class="tbl-lborder">147,260</td>
+<td class="tbl-lborder">149,036</td>
+<td class="tbl-lborder">148,800</td>
+<td class="tbl-lborder">149,120</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Employment-population ratio</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Unemployed</td>
+<td class="tbl-lborder">8,983</td>
+<td class="tbl-lborder">8,029</td>
+<td class="tbl-lborder">7,915</td>
+<td class="tbl-lborder">7,908</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Unemployment rate</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+<td class="tbl-lborder">?</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Not in labor force</td>
+<td class="tbl-lborder">92,414</td>
+<td class="tbl-lborder">94,031</td>
+<td class="tbl-lborder">94,610</td>
+<td class="tbl-lborder">94,513</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch14-p199" block_type="sp-stp-txt"><phrase block_type="step-green"><strong>STEP</strong></phrase> &#124; <phrase block_type="step-green"><strong>1</strong></phrase> <phrase block_type="step-title"><strong>Complete the table.</strong>
+<phrase block_type="step-subtext">Read pages 378&#8211;379 and use Equations 14-1 and 14-2.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch14-p200" block_type="wio-txt-ni">Equations 14-1 and 14-2 demonstrate how to calculate the labor force participation rate and the unemployment rate. The employment-population ratio is calculated as follows:</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-22" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-29" alt="image" src="images/KrugESS4e_eqn_399_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p201" block_type="wio-txt-ni">This is the completed table.</p>
+<table id="krugmanwellsessentials4e-ch14-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-2" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td class="tbl-lborder"><strong>Oct. 2014<br/>(thousands)</strong></td>
+<td class="tbl-lborder"><strong>August 2015<br/>(thousands)</strong></td>
+<td class="tbl-lborder"><strong>Sept. 2015<br/>(thousands)</strong></td>
+<td class="tbl-lborder"><strong>Oct. 2015<br/>(thousands)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Civilian noninstitutional population</td>
+<td class="tbl-lborder">248,657</td>
+<td class="tbl-lborder">251,096</td>
+<td class="tbl-lborder">251,325</td>
+<td class="tbl-lborder">251,541</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Civilian labor force</td>
+<td class="tbl-lborder">156,243</td>
+<td class="tbl-lborder">157,065</td>
+<td class="tbl-lborder">156,715</td>
+<td class="tbl-lborder">157,028</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Labor force participation rate</td>
+<td class="tbl-lborder">62.8&#37;</td>
+<td class="tbl-lborder">62.6&#37;</td>
+<td class="tbl-lborder">62.4&#37;</td>
+<td class="tbl-lborder">62.4&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Employed</td>
+<td class="tbl-lborder">147,260</td>
+<td class="tbl-lborder">149,036</td>
+<td class="tbl-lborder">148,800</td>
+<td class="tbl-lborder">149,120</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Employment-population ratio</td>
+<td class="tbl-lborder">59.2&#37;</td>
+<td class="tbl-lborder">59.4&#37;</td>
+<td class="tbl-lborder">59.2&#37;</td>
+<td class="tbl-lborder">59.3&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Unemployed</td>
+<td class="tbl-lborder">8,983</td>
+<td class="tbl-lborder">8,029</td>
+<td class="tbl-lborder">7,915</td>
+<td class="tbl-lborder">7,903</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Unemployment rate</td>
+<td class="tbl-lborder">5.7&#37;</td>
+<td class="tbl-lborder">5.1&#37;</td>
+<td class="tbl-lborder">5.1&#37;</td>
+<td class="tbl-lborder">5.0&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Not in labor force</td>
+<td class="tbl-lborder">92,414</td>
+<td class="tbl-lborder">94.031</td>
+<td class="tbl-lborder">94,610</td>
+<td class="tbl-lborder">94,513</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch14-p202" block_type="wio-txt-ni">As shown in Equation 14-1 in the chapter, the participation rate is calculated by dividing the civilian labor force by the civilian noninstitutional population and then multiplying by 100. The October 2015 labor force participation rate is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-30" alt="image" src="images/KrugESS4e_ineqn_399_01.jpg"/>. As shown in Equation 14-2 in the chapter, the unemployment rate is calculated by dividing the unemployed by the civilian labor force and then multiplying by 100. The October 2015 unemployment rate is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-31" alt="image" src="images/KrugESS4e_ineqn_400_01.jpg"/>. The employment-population ratio is calculated by dividing the employed by the civilian noninstitutional population and then multiplying by 100. The October 2015 employment-population ratio is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-32" alt="image" src="images/KrugESS4e_ineqn_400_02.jpg"/>.</p>
+<p id="krugmanwellsessentials4e_page_400" block_type="page_start">400</p>
+<p id="krugmanwellsessentials4e-ch14-p203" block_type="sp-stp-txt"><phrase block_type="step-green"><strong>STEP</strong></phrase> <strong>&#124;</strong> <phrase block_type="step-green"><strong>2</strong></phrase> <phrase block_type="step-title"><strong>Analyze the trend in the unemployment rate, the employmentpopulation rate, and the participation rate from October 2014 through October 2015. Is the unemployment rate in October 2015 high or low by historical standards?</strong>
+<phrase block_type="step-subtext">Read pages 378&#8211;379 and study <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2">Figure 14-1</link>.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch14-p204" block_type="wio-txt-ni">Both the unemployment rate and the labor force participation rate have steadily decreased over this period. The employment-population ratio has remained relatively stable throughout the period, as well. By historical standards, as indicated in <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2">Figure 14-1</link>, an unemployment rate of 5.0&#37; is relatively low.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-4" block_type="cr-que-t" title="" chapter="14" numbered="true" level="1" print_page="400">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch14-list-8" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch14-p205" block_type="sum-nl">The twin goals of reducing inflation and unemployment are the main concerns of macroeconomic policy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p206" block_type="sum-nl"><strong>Employment</strong> is the number of people employed; <strong>unemployment</strong> is the number of people unemployed and actively looking for work. Their sum is equal to the <strong>labor force,</strong> and the <strong>labor force participation rate</strong> is the percentage of the population age 16 or older that is in the labor force.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p207" block_type="sum-nl">The <strong>unemployment rate,</strong> the percentage of the labor force that is unemployed and actively looking for work, can both overstate and understate the true level of unemployment. It can overstate because it counts as unemployed those who are continuing to search for a job despite having been offered one. It can understate because it ignores frustrated workers, such as <strong>discouraged workers, marginally attached workers,</strong> and the <strong>underemployed.</strong> In addition, the unemployment rate varies greatly among different groups in the population; it is typically higher for younger workers and for workers near retirement age than for workers in their prime working years.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p208" block_type="sum-nl">The unemployment rate is affected by the business cycle. The unemployment rate generally falls when the growth rate of real GDP is above average and generally increases when the growth rate of real GDP is below average. A <strong>jobless recovery,</strong> a period in which real GDP is growing but unemployment rises, often follows recessions.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p209" block_type="sum-nl">Job creation and destruction, as well as voluntary job separations, lead to <strong>job search</strong> and <strong>frictional unemployment.</strong> In addition, a variety of factors such as minimum wages, unions, <strong>efficiency wages,</strong> government policies designed to help laid-off workers, and mismatch between employees and employers result in a situation in which there is a surplus of labor at the market wage rate, creating <strong>structural unemployment.</strong> As a result, the <strong>natural rate of unemployment,</strong> the sum of frictional and structural unemployment, is well above zero, even when jobs are plentiful.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p210" block_type="sum-nl">The actual unemployment rate is equal to the natural rate of unemployment, the share of unemployment that is independent of the business cycle, plus <strong>cyclical unemployment,</strong> the share of unemployment that depends on fluctuations in the business cycle.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p211" block_type="sum-nl">The natural rate of unemployment changes over time, largely in response to changes in labor force characteristics, labor market institutions, and government policies.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p212" block_type="sum-nl">Inflation does not, as many assume, make everyone poorer by raising the level of prices. That&#8217;s because wages and incomes are adjusted to take into account a rising price level, leaving <strong>real wages</strong> and <strong>real income</strong> unaffected. However, a high inflation rate imposes overall costs on the economy: <strong>shoe-leather costs, menu costs,</strong> and <strong>unit-of-account costs.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p213" block_type="sum-nl">Inflation can produce winners and losers within the economy, because long-term contracts are generally written in dollar terms. The <strong>interest rate</strong> specified in a loan is typically a <strong>nominal interest rate,</strong> which differs from the <strong>real interest rate</strong> due to inflation. A higher-than-expected inflation rate is good for borrowers and bad for lenders. A lower-than-expected inflation rate is good for lenders and bad for borrowers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p214" block_type="sum-nl">Many believe policies that depress the economy and produce high unemployment are necessary to reduce embedded inflation. Because <strong>disinflation</strong> is very costly, policy makers try to prevent inflation from becoming excessive in the first place.</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_401" block_type="page_start">401</p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-5" block_type="cr-kt-t" title="" chapter="14" numbered="true" level="1" print_page="401">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-031" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p215" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-33" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch14-p216" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p23">Employment, p. 378</link></p>
+<p id="krugmanwellsessentials4e-ch14-p217" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p26">Unemployment, p. 378</link></p>
+<p id="krugmanwellsessentials4e-ch14-p218" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p29">Labor force, p. 379</link></p>
+<p id="krugmanwellsessentials4e-ch14-p219" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p29">Labor force participation rate, p. 379</link></p>
+<p id="krugmanwellsessentials4e-ch14-p220" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p31">Unemployment rate, p. 379</link></p>
+<p id="krugmanwellsessentials4e-ch14-p221" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p37">Discouraged workers, p. 380</link></p>
+<p id="krugmanwellsessentials4e-ch14-p222" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p40">Marginally attached workers, p. 380</link></p>
+<p id="krugmanwellsessentials4e-ch14-p223" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p40">Underemployment, p. 380</link></p>
+<p id="krugmanwellsessentials4e-ch14-p224" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p51">Jobless recovery, p. 383</link></p>
+<p id="krugmanwellsessentials4e-ch14-p225" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p79">Job search, p. 385</link></p>
+<p id="krugmanwellsessentials4e-ch14-p226" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p82">Frictional unemployment, p. 385</link></p>
+<p id="krugmanwellsessentials4e-ch14-p227" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p88">Structural unemployment, p. 386</link></p>
+<p id="krugmanwellsessentials4e-ch14-p228" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p102">Efficiency wages, p. 388</link></p>
+<p id="krugmanwellsessentials4e-ch14-p229" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p109">Natural rate of unemployment, p. 389</link></p>
+<p id="krugmanwellsessentials4e-ch14-p230" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p109">Cyclical unemployment, p. 389</link></p>
+<p id="krugmanwellsessentials4e-ch14-p231" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p146">Real wage, p. 393</link></p>
+<p id="krugmanwellsessentials4e-ch14-p232" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p148">Real income, p. 393</link></p>
+<p id="krugmanwellsessentials4e-ch14-p233" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p154">Shoe-leather costs, p. 394</link></p>
+<p id="krugmanwellsessentials4e-ch14-p234" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p160">Menu costs, p. 394</link></p>
+<p id="krugmanwellsessentials4e-ch14-p235" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p163">Unit-of-account costs, p. 395</link></p>
+<p id="krugmanwellsessentials4e-ch14-p236" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p170">Interest rate, p. 396</link></p>
+<p id="krugmanwellsessentials4e-ch14-p237" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p173">Nominal interest rate, p. 396</link></p>
+<p id="krugmanwellsessentials4e-ch14-p238" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p173">Real interest rate, p. 396</link></p>
+<p id="krugmanwellsessentials4e-ch14-p239" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p179">Disinflation, p. 397</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-6" block_type="cr-que-t" title="" chapter="14" numbered="true" level="1" print_page="401">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch14-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch14-p240" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Each month, usually on the first Friday of the month, the Bureau of Labor Statistics releases the Employment Situation Summary for the previous month. Go to <link href="http://www.bls.gov">www.bls.gov</link> and find the latest report. On the Bureau of Labor Statistics home page, at the top of the page, select the &#8220;Subjects&#8221; tab, find &#8220;Unemployment,&#8221; and select &#8220;National Unemployment Rate.&#8221; You will find the Employment Situation Summary under &#8220;CPS News Releases&#8221; on the left-hand side of the page. How does the current unemployment rate compare to the rate one month earlier? How does the current unemployment rate compare to the rate one year earlier?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch14-p241" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> In general, how do changes in the unemployment rate vary with changes in real GDP? After several quarters of a severe recession, explain why we might observe a decrease in the official unemployment rate. Explain why we could see an increase in the official unemployment rate after several quarters of a strong expansion.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch14-p242" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> In each of the following situations, what type of unemployment is Melanie facing?</p>
+<list id="krugmanwellsessentials4e-ch14-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p243" block_type="cr-que-ans-first">After completing a complex programming project, Melanie is laid off. Her prospects for a new job requiring similar skills are good, and she has signed up with a programmer placement service. She has passed up offers for low-paying jobs.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p244" block_type="cr-que-ans-mid">When Melanie and her co-workers refused to accept pay cuts, her employer outsourced their programming tasks to workers in another country. This phenomenon is occurring throughout the programming industry.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p245" block_type="cr-que-ans-mid">Due to the current slump, Melanie has been laid off from her programming job. Her employer promises to rehire her when business picks up.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch14-p246" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Part of the information released in the Employment Situation Summary concerns how long individuals have been unemployed. Go to <link href="http://www.bls.gov">www.bls.gov</link> to find the latest report. Use the same technique as in Problem 1 to find the Employment Situation Summary. Near the end of the Employment Situation, click on Table A-12, titled &#8220;Unemployed persons by duration of unemployment.&#8221; Use the seasonally adjusted numbers to answer the following questions.</p>
+<list id="krugmanwellsessentials4e-ch14-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p247" block_type="cr-que-ans-first">How many workers were unemployed less than 5 weeks? What percentage of all unemployed workers do these workers represent? How do these numbers compare to the previous month&#8217;s data?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p248" block_type="cr-que-ans-mid">How many workers were unemployed for 27 or more weeks? What percentage of all unemployed workers do these workers represent? How do these numbers compare to the previous month&#8217;s data?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p249" block_type="cr-que-ans-mid">How long has the average worker been unemployed (average duration, in weeks)? How does this compare to the average for the previous month&#8217;s data?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p250" block_type="cr-que-ans-mid">Comparing the latest month for which there are data with the previous month, has the problem of long-term unemployment improved or deteriorated?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch14-p251" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> A country&#8217;s labor force is the sum of the number of employed and unemployed workers. The accompanying table provides data on the size of the labor force and the number of unemployed workers for different regions of the United States.</p>
+<table id="krugmanwellsessentials4e-ch14-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-3" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td colspan="2" class="tbl-bborder tbl-rborder"><strong>Labor force (thousands)</strong></td>
+<td colspan="2" class="tbl-bborder"><strong>Unemployed(thousands)</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Region</strong></td>
+<td><strong>April 2013</strong></td>
+<td class="tbl-lborder"><strong>April 2014</strong></td>
+<td><strong>April 2013</strong></td>
+<td><strong>April 2014</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Northeast</td>
+<td class="tbl-lborder">28,407.2</td>
+<td class="tbl-lborder">28,288.9</td>
+<td class="tbl-lborder">2,174.4</td>
+<td class="tbl-lborder">1,781.3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">South</td>
+<td class="tbl-lborder">56,787.8</td>
+<td class="tbl-lborder">57,016.4</td>
+<td class="tbl-lborder">4,089.9</td>
+<td class="tbl-lborder">3,363.8</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Midwest</td>
+<td class="tbl-lborder">34,320.0</td>
+<td class="tbl-lborder">34,467.0</td>
+<td class="tbl-lborder">2,473.7</td>
+<td class="tbl-lborder">2,109.0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">West</td>
+<td class="tbl-lborder">36,122.2</td>
+<td class="tbl-lborder">36,307.3</td>
+<td class="tbl-lborder">2,940.8</td>
+<td class="tbl-lborder">2,535.7</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch14-p253a" block_type="tbn-sc"><em>Data from:</em> Bureau of Labor Statistics.</p>
+<list id="krugmanwellsessentials4e-ch14-list-11" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p252" block_type="cr-que-ans-first">Calculate the number of workers employed in each of the regions in April 2013 and April 2014. Use your answers to calculate the change in the total number of workers employed between April 2013 and April 2014.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p253" block_type="cr-que-ans-mid">For each region, calculate the growth in the labor force from April 2013 to April 2014.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p254" block_type="cr-que-ans-mid">Compute unemployment rates in the different regions of the country in April 2013 and April 2014.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p255" block_type="cr-que-ans-mid">What can you infer about the fall in unemployment rates over this period? Was it caused by a net gain in the number of jobs or by a large fall in the number of people seeking jobs?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch14-p256" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> In which of the following cases is it more likely for efficiency wages to exist? Why?</p>
+<list id="krugmanwellsessentials4e-ch14-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p257" block_type="cr-que-ans-first">Jane and her boss work as a team selling ice cream.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p258" block_type="cr-que-ans-mid">Jane sells ice cream without any direct supervision by her boss.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p259" block_type="cr-que-ans-mid">Jane speaks Korean and sells ice cream in a neighborhood in which Korean is the primary language. It is difficult to find another worker who speaks Korean.</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_402" block_type="page_start">402</p>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch14-p260" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> How will the following changes affect the natural rate of unemployment?</p>
+<list id="krugmanwellsessentials4e-ch14-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p261" block_type="cr-que-ans-first">The government reduces the time during which an unemployed worker can receive unemployment benefits.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p262" block_type="cr-que-ans-mid">More teenagers focus on their studies and do not look for jobs until after college.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p263" block_type="cr-que-ans-mid">Greater access to the internet leads both potential employers and potential employees to use the internet to list and find jobs.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p264" block_type="cr-que-ans-mid">Union membership declines.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch14-p265" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> With its tradition of a job for life for most citizens, Japan once had a much lower unemployment rate than that of the United States; from 1960 to 1995, the unemployment rate in Japan exceeded 3&#37; only once. However, since the crash of its stock market in 1989 and slow economic growth in the 1990s, the job-for-life system has broken down and unemployment rose to more than 5&#37; in 2003.</p>
+<list id="krugmanwellsessentials4e-ch14-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p266" block_type="cr-que-ans-first">Explain the likely effect of the breakdown of the job-for-life system in Japan on the Japanese natural rate of unemployment.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p267" block_type="cr-que-ans-mid">As the accompanying diagram shows, the rate of growth of real GDP picked up in Japan after 2001 and before the global economic crisis of 2007&#8211;2009. Explain the likely effect of this increase in real GDP growth on the unemployment rate. Was the likely cause of the change in the unemployment rate during this period a change in the natural rate of unemployment or a change in the cyclical unemployment rate?</p></li>
+</list>
+<figure id="krugmanwellsessentials4e-ch14-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-34" alt="image" src="images/KrugESS4e_14UN06.jpg"/>
+<asset_source><em>Data from:</em> OECD.</asset_source>
+</figure>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch14-p268" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> In the following examples, is inflation creating winners and losers at no net cost to the economy or is inflation imposing a net cost on the economy? If a net cost is being imposed, which type of cost is involved?</p>
+<list id="krugmanwellsessentials4e-ch14-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p269" block_type="cr-que-ans-first">When inflation is expected to be high, workers get paid more frequently and make more trips to the bank.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p270" block_type="cr-que-ans-mid">Lanwei is reimbursed by her company for her work-related travel expenses. Sometimes, however, the company takes a long time to reimburse her. So when inflation is high, she is less willing to travel for her job.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p271" block_type="cr-que-ans-mid">Hector Homeowner has a mortgage with a fixed nominal 6&#37; interest rate that he took out five years ago. Over the years, the inflation rate has crept up unexpectedly to its present level of 7&#37;.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p272" block_type="cr-que-ans-mid">In response to unexpectedly high inflation, the manager of Cozy Cottages of Cape Cod must reprint and resend expensive color brochures correcting the price of rentals this season.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch14-p273" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> The accompanying diagram shows the interest rate on one-year loans and inflation during 1998&#8211;2013 in the economy of Albernia. When would one-year loans have been especially attractive and why?</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-24" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-35" alt="image" src="images/KrugESS4e_14UN07.jpg"/>
+</figure>
+</question>
+<question id="krugmanwellsessentials4e-ch14-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch14-p274" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> The accompanying table provides the inflation rate in the year 2000 and the average inflation rate over the period 2001&#8211;2013 for seven different countries.</p>
+<table id="krugmanwellsessentials4e-ch14-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-4" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Country</strong></td>
+<td class="tbl-lborder"><strong>Inflation rate in 2000</strong></td>
+<td class="tbl-lborder"><strong>Average inflation rate in 2001&#8211;2013</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Brazil</td>
+<td class="tbl-lborder">7.06&#37;</td>
+<td class="tbl-lborder">6.72&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">China</td>
+<td class="tbl-lborder">0.40</td>
+<td class="tbl-lborder">2.34</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">France</td>
+<td class="tbl-lborder">1.83</td>
+<td class="tbl-lborder">1.86</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Indonesia</td>
+<td class="tbl-lborder">3.77</td>
+<td class="tbl-lborder">7.56</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Japan</td>
+<td class="tbl-lborder"><strong>&#8211;</strong>0.78</td>
+<td class="tbl-lborder"><strong>&#8211;</strong>0.23</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Turkey</td>
+<td class="tbl-lborder">55.03</td>
+<td class="tbl-lborder">18.79</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">United States</td>
+<td class="tbl-lborder">3.37</td>
+<td class="tbl-lborder">2.43</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch14-p275a" block_type="tbn-sc"><em>Data from:</em> IMF.</p>
+<list id="krugmanwellsessentials4e-ch14-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p275" block_type="cr-que-ans-first">Given the expected relationship between average inflation and menu costs, rank the countries in descending order of menu costs using average inflation over the period 2001&#8211;2013.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p276" block_type="cr-que-ans-mid">Rank the countries in order of inflation rates that most favored borrowers with ten-year loans that were taken out in 2000. Assume that the loans were agreed upon with the expectation that the inflation rate for 2001 to 2013 would be the same as the inflation rate in 2000.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p277" block_type="cr-que-ans-last">Did borrowers who took out ten-year loans in Japan gain or lose overall versus lenders? Explain.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_403" block_type="page_start">403</p>
+<question id="krugmanwellsessentials4e-ch14-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch14-p278" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> The accompanying diagram shows the inflation rate in the United Kingdom from 1980 to 2013.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-25" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-36" alt="image" src="images/KrugESS4e_14UN08.jpg"/>
+<asset_source><em>Data from:</em> IMF.</asset_source>
+</figure>
+<list id="krugmanwellsessentials4e-ch14-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p279" block_type="cr-que-ans-first">Between 1980 and 1985, policy makers in the United Kingdom worked to lower the inflation rate. What would you predict happened to unemployment between 1980 and 1985?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p280" block_type="cr-que-ans-mid">Policy makers in the United Kingdom react forcefully when the inflation rate rises above a target rate of 2&#37;. Why would it be harmful if inflation rose from 2.6&#37; (the level in 2013) to, say, a level of 5&#37;?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-7" block_type="sum-h" title="" chapter="14" numbered="true" level="1" print_page="403">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-032" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch14-p281" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-37" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch14-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch14-p282" block_type="cr-wio-nl-first"><phrase block_type="qnum">13.</phrase> There is only one labor market in Profunctia. All workers have the same skills, and all firms hire workers with these skills. Use the accompanying diagram, which shows the supply of and demand for labor, to answer the following questions. Illustrate each answer with a diagram.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-26" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-38" alt="image" src="images/KrugESS4e_14UN09.jpg"/>
+</figure>
+<list id="krugmanwellsessentials4e-ch14-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch14-p283" block_type="cr-wio-ans-first">What is the equilibrium wage rate in Profunctia? At this wage rate, what are the level of employment, the size of the labor force, and the unemployment rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p284" block_type="cr-wio-ans-mid">If the government of Profunctia sets a minimum wage equal to &#36;12, what will be the level of employment, the size of the labor force, and the unemployment rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p285" block_type="cr-wio-ans-mid">If unions bargain with the firms in Profunctia and set a wage rate equal to &#36;14, what will be the level of employment, the size of the labor force, and the unemployment rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p286" block_type="cr-wio-ans-last">If the concern for retaining workers and encouraging high-quality work leads firms to set a wage rate equal to &#36;16, what will be the level of employment, the size of the labor force, and the unemployment rate?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch14-sec1-8" block_type="business_case" title="" chapter="14" numbered="true" level="1" print_page="404">
+<section-metadata><section-title>Business Case</section-title></section-metadata>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-4" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>The Business Cycle and the Decline of Montgomery Ward</strong></box-title></box-metadata>
+<figure id="krugmanwellsessentials4e-ch14-fig-27" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-39" alt="image" src="images/KrugESS4e_14UN10.jpg"/>
+<asset_source>Chicago History Museum/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_404" block_type="page_start">404</p>
+<p id="krugmanwellsessentials4e-ch14-p288" block_type="bx5-txt-ni"><phrase block_type="dropcap">B</phrase>efore there was the internet, there was mail order, and for rural and small-town America, what that meant, above all, was the Montgomery Ward catalog. Starting in 1872, that catalog made it possible for families far from the big city to buy goods their local store wasn&#8217;t likely to stock&#8212;everything from bicycles to pianos. In 1896 Sears, Roebuck and Co. introduced a competing catalog, and the two firms struggled for dominance right up to World War II. After that, however, Montgomery Ward fell far behind (it finally closed all its stores in 2000).</p>
+<p id="krugmanwellsessentials4e-ch14-p289" block_type="bx5-txt">Why did Montgomery Ward falter? One key factor was that its management misjudged postwar prospects. The 1930s were a difficult time for retailers in general because of the catastrophic economic impact wrought by the Great Depression. The figure shows an index of department store sales, which plunged after 1930 and hadn&#8217;t fully recovered by 1940. Montgomery Ward coped with this tough environment by cutting back: it closed some of its stores, cut costs, and accumulated a large hoard of cash. This strategy served the company well, restoring profitability and putting it in a very strong financial position.</p>
+<p id="krugmanwellsessentials4e-ch14-p290" block_type="bx5-txt">Unfortunately for the company, it made the mistake of returning to this strategy after World War II&#8212;and the postwar environment was nothing like the environment of the 1930s. Overall department store sales surged: by 1960 they were more than four times their level in 1940. Sears and other retailers expanded to meet this surge in demand, especially in the rapidly growing suburbs. But Montgomery Ward, expecting the 1930s to return, just sat on its cash; it didn&#8217;t open any new stores until 1959. By failing to expand with the market, Montgomery Ward suffered what turned out to be an irretrievable loss of market share, reputation, and name recognition.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-28" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<caption><strong>Department Store Sales Index, 1919&#8211;1946</strong></caption>
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-40" alt="image" src="images/KrugESS4e_14UN11.jpg"/>
+<asset_source><em>Data from:</em> National Bureau of Economic Research.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p291" block_type="bx5-txt">Nothing in business is forever. Eventually Sears too entered a long, slow decline. First it was overtaken by newer retailers like Walmart, whose &#8220;big box&#8221; stores didn&#8217;t sell large appliances but generally sold other goods more cheaply than Sears, in part because Walmart used information technology to hold costs down. More recently, the rise of internet sales has hurt traditional retailers of all kinds. But Montgomery Ward&#8217;s self-inflicted defeat in the years after World War II nonetheless shows how important it is for businesses to understand what is happening in the broader economic environment&#8212;that is, to take macroeconomics into account.</p>
+<p id="krugmanwellsessentials4e-ch14-p292" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch14-list-19" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch14-p293" block_type="bx5-nl">What caused the steep decline in department store sales in the 1930s?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p294" block_type="bx5-nl">In terms of macroeconomics, what was the management of Montgomery Ward betting would happen after World War II?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p295" block_type="bx5-nl">Economists believe that improvements in our macroeconomic understanding over the course of the 1930s led to better policies thereafter. If this is true, how did better policies after World War II end up hurting Montgomery Ward?</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-5" block_type="bcbx5-h">
+<p id="krugmanwellsessentials4e_page_405" block_type="page_start">405</p>
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>Getting a Jump on GDP</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch14-p297" block_type="bx5-txt-ni"><phrase block_type="dropcap">G</phrase>DP matters. Investors and business leaders are always anxious to get the latest numbers. When the Bureau of Economic Analysis releases its first estimate of each quarter&#8217;s GDP, normally on the 27th or 28th day of the month after the quarter ends, it&#8217;s invariably a big news story.</p>
+<p id="krugmanwellsessentials4e-ch14-p298" block_type="txt">In fact, many companies and other players in the economy are so eager to know what&#8217;s happening to GDP that they don&#8217;t want to wait for the official estimate. So a number of organizations produce numbers that can be used to predict what the official GDP number will say. Let&#8217;s talk about two of those organizations, the economic consulting firm Macroeconomic Advisers and the nonprofit Institute for Supply Management.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-29" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-41" alt="image" src="images/KrugESS4e_14UN12.jpg"/>
+<asset_source>Monkey Business Images/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p299" block_type="bx5-txt">Macroeconomic Advisers takes a direct approach: it produces its own estimates of GDP based on raw data from the U.S. government. But whereas the Bureau of Economic Analysis estimates GDP only on a quarterly basis, Macroeconomic Advisers produces monthly estimates. This means that clients can, for example, look at the estimates for January and February and make a pretty good guess at what first-quarter GDP, which also includes March, will turn out to be. The monthly estimates are derived by looking at a number of monthly measures that track purchases, such as car and truck sales, new housing construction, and exports.</p>
+<p id="krugmanwellsessentials4e-ch14-p300" block_type="bx5-txt">The Institute for Supply Management (ISM) takes a very different approach. It relies on monthly surveys of purchasing managers&#8212;that is, executives in charge of buying supplies&#8212;who are basically asked whether their companies are increasing or reducing production. (We say &#8220;basically&#8221; because the ISM asks a longer list of questions.)</p>
+<p id="krugmanwellsessentials4e-ch14-p301" block_type="bx5-txt">Responses to the surveys are released in the form of indexes showing the percentage of companies that are expanding. Obviously, these indexes don&#8217;t directly tell you what is happening to GDP. But historically, the ISM indexes have been strongly correlated with the rate of growth of GDP, and this historical relationship can be used to translate ISM data into &#8220;early warning&#8221; GDP estimates.</p>
+<p id="krugmanwellsessentials4e-ch14-p302" block_type="bx5-txt">So if you just can&#8217;t wait for those quarterly GDP numbers, you&#8217;re not alone. The private sector has responded to demand, and you can get your data fix every month.</p>
+<p id="krugmanwellsessentials4e-ch14-p303" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch14-list-20" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch14-p304" block_type="bx5-nl">Why do businesses care about GDP to such an extent that they want early estimates?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p305" block_type="bx5-nl">How do the methods of Macroeconomic Advisers and the Institute for Supply Management fit into the three different ways to calculate GDP?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p306" block_type="bx5-nl">If private firms are producing GDP estimates, why do we need the Bureau of Economic Analysis?</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-6" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>Day Labor in the Information Age</strong></box-title></box-metadata>
+<p id="krugmanwellsessentials4e_page_406" block_type="page_start">406</p>
+<p id="krugmanwellsessentials4e-ch14-p308" block_type="bx5-txt-ni"><phrase block_type="dropcap">B</phrase>y the usual measures, California-based Elance-oDesk is a pretty small business, with only 250 employees. But in mid-2014 it was supplying workers to 2.5 million businesses. Elance-oDesk could do that because it doesn&#8217;t offer services directly; instead, it operates as an online marketplace, matching employers with freelance workers.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-30" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-42" alt="image" src="images/KrugESS4e_14UN13.jpg"/>
+<asset_source>The Photo Works</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p309" block_type="bx5-txt">While most American workers consistently work for a single employer, temporary workers have always accounted for a significant portion of the labor force. On urban street corners across America, workers line up early each morning in the hope of getting day jobs in industries like construction where the need for workers fluctuates, sometimes unpredictably. For more skilled workers, there are temporary staffing agencies like Allegis Group that provide workers on a subcontracting basis, from a few days to months at a time. The figure shows the share of temporary employment accounted for by these agencies in total employment. As you can see, in the late stages of the economic expansion in the 1990s and the 2000s, temporary employment soared as companies needed more workers but had difficulty hiring permanent employees in a tight labor market. Temporary employment then proceeded to plunge once demand for additional workers fell off.</p>
+<figure id="krugmanwellsessentials4e-ch14-fig-31" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><strong>The Rise in Temporary Employment, 1990&#8211;2014</strong></caption>
+<image asset-id="krugmanwellsessentials4e-ch14-img-43" alt="image" src="images/KrugESS4e_14UN14.jpg"/>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch14-p310" block_type="bx5-txt">At first glance, the rapid growth of temporary employment since the end of the 2007&#8211;2009 recession might seem to follow the same pattern. But this time companies were hiring temporary workers in a weak labor market. With more than three times as many Americans seeking work as there were job openings, companies shouldn&#8217;t have had any trouble hiring. So why the surge in temp work?</p>
+<p id="krugmanwellsessentials4e-ch14-p311" block_type="bx5-txt">One answer may be the way in which advances in technology have opened up a new breed of services. Manual laborers might still have been lining up on street corners, but information technology workers and other professionals were increasingly finding temporary, freelance work through web-based services like the two companies Elance (e-commerce <strong>&#43;</strong> freelance&#8212;get it?) and oDesk, which merged in 2014.</p>
+<p id="krugmanwellsessentials4e-ch14-p312" block_type="bx5-txt">By 2014 Elance-oDesk was serving more than 8 million workers (three-quarters of them outside the United States), twice as many as in 2012. Growth like that indicates the economy may be undergoing a fundamental shift in the way work is structured, one in which temporary arrangements of convenience replace long-term commitment.</p>
+<p id="krugmanwellsessentials4e-ch14-p313" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch14-list-21" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch14-p314" block_type="bx5-nl">Use the flows shown in <link href="#krugmanwellsessentials4e-ch14-fig-11">Figure 14-7</link> to explain the role of temporary staffing in the economy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p315" block_type="bx5-nl">What is the likely effect of improved matching of job-seekers and employers through online services listings on the unemployment rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p316" block_type="bx5-nl">What does the fact that temporary staffing fell sharply during the 2008&#8211;2009 surge in unemployment suggest about the nature of that surge?</p></li>
+</list>
+</box>
+</section>
+</chapter>
+</manuscript>

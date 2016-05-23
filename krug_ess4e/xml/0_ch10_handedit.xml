@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="10" name="" title="KRU_Chapter_10_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="10" id="krugmanwellsessentials4e-ch10-chapter-10" title="CHAPTER 10: Externalities and Public Goods" start-numbering-at="10" numbered="true">
+<section id="krugmanwellsessentials4e-ch10-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="286">
+<p id="krugmanwellsessentials4e_page_286" block_type="page_start">286</p>
+<p id="krugmanwellsessentials4e-ch10-p1" block_type="chapter_title">Externalities and Public Goods</p>
+<p id="krugmanwellsessentials4e-ch10-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">10</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch10-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch10-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong>THE GREAT STINK</strong></p>
+<figure id="krugmanwellsessentials4e-ch10-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-2" alt="image" src="images/KrugESS4e_CO10a.jpg"/>
+<caption>London&#8217;s River Thames then &#8230;</caption>
+<asset_source>UPPA/Topham/The Image Works</asset_source>
+</figure>
+<figure id="krugmanwellsessentials4e-ch10-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-3" alt="image" src="images/KrugESS4e_CO10b.jpg"/>
+<caption>&#8230; and the same river now, thanks to government intervention.</caption>
+<asset_source>Corbis</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch10-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch10-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch10-p5" block_type="obj-bl">What <strong>externalities</strong> are and why they can lead to inefficiency and government intervention in the market</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p6" block_type="obj-bl">The importance of the <strong>Coase theorem,</strong> which explains how private individuals can sometimes remedy externalities</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p7" block_type="obj-bl">Why some government policies to deal with externalities, like <strong>emissions taxes, tradable emissions permits,</strong> or <strong>Pigouvian subsidies,</strong> are efficient and others, like <strong>environmental standards,</strong> are not</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p8" block_type="obj-bl">The difference between <strong>private goods,</strong> which can be efficiently provided by markets, and <strong>public goods,</strong> which markets fail to supply</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p9" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-4" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p10" block_type="co-txt-ni"><phrase block_type="dropcap">B</phrase>Y THE MIDDLE OF THE NINEteenth century, London had become the world&#8217;s largest city, with close to 2.5 million inhabitants. Unfortunately, all those people produced a lot of waste&#8212;and there was no place for it to go except into the Thames, the river flowing through the city. Nobody with a working nose could ignore the results. And the river didn&#8217;t just smell bad&#8212;it carried dangerous waterborne diseases like cholera and typhoid. London neighborhoods close to the Thames had death rates from cholera more than six times greater than the neighborhoods farthest away. And the great majority of Londoners drew their drinking water from the Thames.</p>
+<p id="krugmanwellsessentials4e-ch10-p11" block_type="co-txt">The hot summer of 1858 brought what came to be known as the Great Stink, which was so bad that one health journal reported &#8220;men struck down with the stench.&#8221; Even the privileged and powerful suffered: Parliament met in a building next to the river and unsuccesfully attempted to stop the smell by covering the windows with chemicalsoaked curtains. Parliament finally approved a plan for an immense system of sewers and pumping stations to direct sewage away from the city. The system, opened in 1865, brought dramatic improvement in the city&#8217;s quality of life.</p>
+<p id="krugmanwellsessentials4e-ch10-p12" block_type="co-txt">By dumping waste into the Thames, individuals imposed costs on all of the residents of London. When individuals impose costs on or provide benefits for others, but don&#8217;t have an economic incentive to take those costs or benefits into account, economists say that <em>externalities</em> are generated.</p>
+<p id="krugmanwellsessentials4e-ch10-p13" block_type="co-txt">In this chapter, we&#8217;ll examine the economics of externalities, seeing how they can get in the way of economic efficiency and lead to market failure, why they provide a reason for government intervention in markets, and how economic analysis can be used to guide government policy.</p>
+<p id="krugmanwellsessentials4e-ch10-p14" block_type="co-txt">The story of the Great Stink also illustrates an important reason for government intervention in the economy. London&#8217;s new sewage system was a clear example of a public good&#8212;a good that benefits many people, whether or not they have paid for it, and whose benefits to any one individual do not depend on how many others also benefit. As we will see, public goods differ in important ways from the private goods we have studied so far&#8212;and these differences mean that public goods cannot be efficiently supplied by the market.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-1" block_type="h1" title="" chapter="10" numbered="true" level="1" print_page="287">
+<section-metadata><section-title>Externalities</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_287" block_type="page_start">287</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p15" block_type="mn-gl-def">An <strong>external cost</strong> is an uncompensated cost that an individual or firm imposes on others.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p16" block_type="txt-ni">The environmental costs of pollution are the best known and most important example of an <strong>external cost&#8212;</strong>an uncompensated cost that an individual or firm imposes on others. In a modern economy there are many examples of an external cost that an individual or firm imposes on others. A very familiar one is the external cost of traffic congestion: an individual who chooses to drive during rush hour increases congestion and has no incentive to take into account the inconvenience inflicted on other drivers.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p17" block_type="mn-gl-def">An <strong>external benefit</strong> is a benefit that an individual or firm confers on others without receiving compensation.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p18" block_type="txt">We&#8217;ll see later in this chapter that there are also important examples of <strong>external benefits,</strong> benefits that individuals or firms confer on others without receiving compensation.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p19" block_type="mn-gl-def">External costs and benefits are known as <strong>externalities.</strong> External costs are <strong>negative externalities,</strong> and external benefits are <strong>positive externalities.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p20" block_type="txt">External costs and benefits are jointly known as <strong>externalities,</strong> with external costs called <strong>negative externalities</strong> and external benefits called <strong>positive externalities.</strong> Externalities can lead to private decisions&#8212;that is, decisions by individuals or firms&#8212;that are not optimal for society as a whole. Let&#8217;s take a closer look at why.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-1" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="287">
+<section-metadata><section-title>Pollution: An External Cost</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p21" block_type="txt-ni">Pollution is a bad thing. Yet most pollution is a side effect of activities that provide us with good things: our air is polluted by power plants generating the electricity that lights our cities, and groundwater contamination may occur from hydraulic fracturing or fracking, which also produces cleaner-burning fuel. Recall from <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link> that <em>fracking</em> is a method of extracting natural gas or oil from deposits trapped between layers of shale rock thousands of feet underground, using powerful jets of liquid.</p>
+<p id="krugmanwellsessentials4e-ch10-p22" block_type="txt">Why shouldn&#8217;t we accept a certain amount of pollution as the cost of a good life? Actually, we do. Even highly committed environmentalists don&#8217;t think that we can or should completely eliminate pollution&#8212;even an environmentally conscious society would accept <em>some</em> pollution as the cost of producing useful goods and services. What environmentalists argue is that unless there is a strong and effective environmental policy, our society will generate <em>too much</em> pollution&#8212;too much of a bad thing. And the great majority of economists agree.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx3-2" block_type="bx3-h">
+<box-metadata><box-title><phrase block_type="title">FOR INQUIRING MINDS</phrase> &#124; <strong>Talking, Texting, and Driving</strong> <image asset-id="krugmanwellsessentials4e-ch10-img-5" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch10-p23" block_type="bx3-txt-ni">Why is that person in the car in front of us driving so erratically? Is the driver drunk? No, the driver is talking on the phone or texting.</p>
+<p id="krugmanwellsessentials4e-ch10-p24" block_type="bx3-txt">Traffic safety experts take the risks posed by driving while using a cell phone very seriously: A recent study found a six-fold increase in accidents caused by this type of driving while distracted.</p>
+<p id="krugmanwellsessentials4e-ch10-p25" block_type="bx3-txt">One estimate suggests that talking while driving may be responsible for 3,000 or more traffic deaths each year. And using hands-free, voice-activated devices to make a call doesn&#8217;t seem to help much because the main danger is distraction. As one traffic consultant put it, &#8220;It&#8217;s not where your eyes are; it&#8217;s where your head is.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch10-p26" block_type="bx3-txt">The National Safety Council urges people not to use cell phones while driving. Most states have some restrictions on cell phone use while driving. But in response to a growing number of accidents, several states have banned cell phone use behind the wheel altogether. Cell phone use while driving is illegal in many other countries as well, including Japan and Israel.</p>
+<p id="krugmanwellsessentials4e-ch10-p27" block_type="bx3-txt">Why not leave the decision up to drivers? Because the safety risk posed extends beyond the drivers to include others&#8212;their passengers, pedestrians, and people in other cars. Even if drivers decide that the benefit of using a cell phone while driving is worth the cost, they aren&#8217;t taking into account the cost to other people. Driving while using a cell phone, in other words, generates a serious&#8212;and sometimes fatal&#8212;negative externality.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-6" alt="image" src="images/KrugESS4e_10UN01.jpg"/>
+<caption>Using a cell phone while driving makes you a danger to others as well as yourself.</caption>
+<asset_source>Steve Debenport/Getty Images</asset_source>
+</figure>
+</box>
+<p id="krugmanwellsessentials4e_page_288" block_type="page_start">288</p>
+<p id="krugmanwellsessentials4e-ch10-p28" block_type="txt">To see why, we need a framework that lets us think about how much pollution a society <em>should</em> have. We&#8217;ll then be able to see why a market economy, left to itself, will produce more pollution than it should. We&#8217;ll start by adopting the simplest framework to study the problem&#8212;assuming that the amount of pollution emitted by a polluter is directly observable and controllable.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-2" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="288">
+<section-metadata><section-title>The Socially Optimal Quantity of Pollution</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p29" block_type="txt-ni">How much pollution should society allow? To answer this &#8220;how much&#8221; question, recall the <em>principle of marginal analysis</em> that we learned about in <link href="krugmanwellsessentials4e-ch07.xml">Chapter 7</link>. This principle always involves comparing the marginal benefit from an additional unit of something with the marginal cost of that additional unit. The same is true of pollution.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p30" block_type="mn-gl-def">The <strong>marginal social cost of pollution</strong> is the additional cost imposed on society as a whole by an additional unit of pollution.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p31" block_type="txt">The <strong>marginal social cost of pollution</strong> is the additional cost imposed on society as a whole by an additional unit of pollution.</p>
+<p id="krugmanwellsessentials4e-ch10-p32" block_type="txt">For example, sulfur dioxide from coal-fired power plants mixes with rainwater to form acid rain, which damages fisheries, crops, and forests. Likewise, groundwater contamination, which may be a side effect of fracking, damages health. Typically, the marginal social cost of pollution is increasing&#8212;each additional unit of pollution emitted causes a greater level of damage than the unit before. That&#8217;s because nature can often safely handle low levels of pollution but is increasingly harmed as pollution reaches higher levels.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p33" block_type="mn-gl-def">The <strong>marginal social benefit of pollution</strong> is the additional gain to society as a whole from an additional unit of pollution.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p34" block_type="txt">The <strong>marginal social benefit of pollution</strong> is the benefit to society from an additional unit of pollution. This may seem like a confusing concept&#8212;how can there be any benefit to society from pollution? The answer lies in the understanding that pollution can be reduced&#8212;but at a cost. For example, air pollution from coal-fired power plants can be reduced by using more-expensive coal and expensive scrubbing technology; contamination of drinking water due to fracking can be limited with more-expensive drilling techniques; wastewater contamination of rivers and oceans can be reduced by building water treatment facilities.</p>
+<p id="krugmanwellsessentials4e-ch10-p35" block_type="txt">All these methods of reducing pollution have an opportunity cost. That is, avoiding pollution requires using scarce resources that could have been employed to produce other goods and services. So the marginal social benefit of pollution is the goods and services that could be had by society if it tolerated another unit of pollution.</p>
+<p id="krugmanwellsessentials4e-ch10-p36" block_type="txt">Comparisons between the pollution levels tolerated in rich and poor countries illustrate the importance of the level of the marginal social benefit of pollution in deciding how much pollution a society wishes to tolerate. Because poor countries have a higher opportunity cost of resources spent on reducing pollution than richer countries, they tolerate higher levels of pollution. For example, the World Health Organization has estimated that 3.5 million people in poor countries die prematurely from breathing polluted indoor air caused by burning dirty fuels like wood, dung, and coal to heat and cook&#8212;a situation that residents of rich countries can afford to avoid.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p37" block_type="mn-gl-def">The <strong>socially optimal quantity of pollution</strong> is the quantity of pollution that society would choose if all the costs and benefits of pollution were fully accounted for.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p38" block_type="txt">Using hypothetical numbers, <link href="#krugmanwellsessentials4e-ch10-fig-4">Figure 10-1</link> shows how we can determine the <strong>socially optimal quantity of pollution&#8212;</strong>the quantity of pollution society would choose if all the social costs and benefits were fully accounted for. The upward-sloping marginal social cost curve, <em>MSC,</em> shows how the marginal cost to society of an additional unit of pollution varies with the quantity of pollution. As we mentioned, marginal social cost of pollution is typically increasing, as another unit of pollution causes more harm than prior units. The marginal social benefit curve, <em>MSB,</em> is downward sloping. At high levels of pollution, the cost of achieving a reduction in pollution is fairly small. However, as pollution levels drop, it becomes progressively more costly to engineer a further fall in pollution as more expensive techniques must be used, so the <em>MSB</em> is higher at lower levels of pollution.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-4" block_type="figure" numbered="true" number="10-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch10-fig-4"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>10-1</strong></phrase></phrase> <phrase block_type="fig_title">The Socially Optimal Quantity of Pollution</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch10-img-7" alt="image" src="images/KrugESS4e_fig_10_01.jpg"/>
+<caption>Pollution yields both costs and benefits. Here the curve <em>MSC</em> shows how the marginal cost to society as a whole from emitting one more ton of pollution emissions depends on the quantity of emissions. The curve <em>MSB</em> shows how the marginal benefit to society as a whole of emitting an additional ton of pollution emissions depends on the quantity of pollution emissions. The socially optimal quantity of pollution is <em>Q<sub>OPT</sub></em>; at that quantity, the marginal social benefit of pollution is equal to the marginal social cost, corresponding to &#36;200.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p39" block_type="txt">The socially optimal quantity of pollution in this example isn&#8217;t zero. It&#8217;s <em>Q<sub>OPT</sub>,</em> the quantity corresponding to point <em>O,</em> where <em>MSB</em> crosses <em>MSC.</em> At <em>Q<sub>OPT</sub></em>, the marginal social benefit from an additional unit of pollution and its marginal social cost are equalized at &#36;200.</p>
+<p id="krugmanwellsessentials4e_page_289" block_type="page_start">289</p>
+<p id="krugmanwellsessentials4e-ch10-p40" block_type="txt">But will a market economy, left to itself, arrive at the socially optimal quantity of pollution? No, it won&#8217;t.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-3" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="289">
+<section-metadata><section-title>Why a Market Economy Produces Too Much Pollution</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p41" block_type="txt-ni">While pollution yields both benefits and costs to society, in a market economy without government intervention too much pollution will be produced. In that case it is polluters alone&#8212; owners of power plants or gas-drilling companies, for example&#8212;who decide how much pollution is created. And they have no incentive to take into account the cost that pollution imposes on others.</p>
+<p id="krugmanwellsessentials4e-ch10-p42" block_type="txt"><link href="#krugmanwellsessentials4e-ch10-fig-5">Figure 10-2</link> shows the result of this asymmetry between who reaps the benefits and who pays the costs. In a market economy without government intervention, since polluters are the only ones making the decisions, only the benefits of pollution are taken into account when choosing how much pollution to produce. So instead of producing the socially optimal quantity, <em>Q<sub>OPT</sub>,</em> the market economy will generate the amount <em>Q<sub>MKT</sub>.</em> At <em>Q<sub>MKT</sub>,</em> the marginal social benefit of an additional unit of pollution is zero, while the marginal social cost of an additional unit is much higher&#8212;&#36;400.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-5" block_type="figure" numbered="true" number="10-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch10-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>10-2</strong></phrase></phrase> <phrase block_type="fig_title">Why a Market Economy Produces Too Much Pollution</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch10-img-8" alt="image" src="images/KrugESS4e_fig_10_02.jpg"/>
+<caption>In the absence of government intervention, the quantity of pollution will be <em>Q<sub>MKT</sub></em>, the level at which the marginal social benefit of pollution is zero. This is an inefficiently high quantity of pollution: the marginal social cost, &#36;400, greatly exceeds the marginal social benefit, &#36;0. An optimal Pigouvian tax* of &#36;200, the value of the marginal social cost of pollution when it equals the marginal social benefit of pollution, can move the market to the socially optimal quantity of pollution, <em>Q<sub>OPT</sub>.</em></caption>
+<asset_source>*Pigouvian taxes will be covered in the next section on pollution policy.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p43" block_type="txt">Why? Well, take a moment to consider what the polluter would do if he found himself emitting <em>Q<sub>OPT</sub></em> of pollution. Remember that the <em>MSB</em> curve represents the resources made available by tolerating one more unit of pollution. The polluter would notice that if he increases his emission of pollution by moving down the <em>MSB</em> curve from <em>Q<sub>OPT</sub></em> to <em>Q<sub>H</sub>,</em> he would gain &#36;200 &#8211; &#36;100 = &#36;100. That gain of &#36;100 comes from using less-expensive but higher-emission production techniques. Remember, he suffers none of the costs of doing this&#8212;only others do. However, it won&#8217;t stop there. At <em>Q<sub>H</sub>,</em> he notices that if he increases his emissions from <em>Q<sub>H</sub></em> to <em>Q<sub>MKT</sub>,</em> he would gain another &#36;100 as he moves down the <em>MSB</em> curve yet again. This would be achieved by using even cheaper and higher-emission production techniques. He will stop at <em>Q<sub>MKT</sub></em> because at this emission level the marginal social benefit of a unit of pollution is zero. That is, at <em>Q<sub>MKT</sub></em> he gains nothing by using yet cheaper and dirtier production techniques and emitting more pollution.</p>
+<p id="krugmanwellsessentials4e_page_290" block_type="page_start">290</p>
+<p id="krugmanwellsessentials4e-ch10-p44" block_type="txt">The market outcome, <em>Q<sub>MKT</sub></em>, is inefficient. Recall that an outcome is inefficient if someone could be made better off without someone else being made worse off. At an inefficient outcome, a mutually beneficial trade is being missed. At <em>Q<sub>MKT</sub>,</em> the benefit accruing to the polluter of the last unit of pollution is very low&#8212;virtually zero. But the cost imposed on society of that last unit of pollution is quite high&#8212;&#36;400. So by reducing the quantity of pollution at <em>Q<sub>MKT</sub></em> by one unit, the total social cost of pollution falls by &#36;400 but the total social benefit falls by virtually zero.</p>
+<p id="krugmanwellsessentials4e-ch10-p45" block_type="txt">So total surplus rises by approximately &#36;400 if the quantity of pollution at <em>Q<sub>MKT</sub></em> is reduced by one unit. At <em>Q<sub>MKT</sub>,</em> society would be willing to pay the polluter up to &#36;400 not to emit the last unit of pollution, and the polluter would be willing to accept their offer since that last unit gains him virtually nothing. But because there is no means in this market economy for this transaction to take place, an inefficient outcome occurs.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-4" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="290">
+<section-metadata><section-title>Private Solutions to Externalities</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p46" block_type="txt-ni">As we&#8217;ve just seen, externalities in a market economy cause inefficiency: there is a mutually beneficial trade that is being missed. So can the private sector solve the problem of externalities without government intervention? Will individuals be able to make that deal on their own?</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p47" block_type="mn-gl-def">According to the <strong>Coase theorem,</strong> even in the presence of externalities an economy can always reach an efficient solution as long as <strong>transaction costs</strong>&#8212;the costs to individuals of making a deal&#8212;are sufficiently low.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p48" block_type="txt">In an influential 1960 article, the economist and Nobel laureate Ronald Coase pointed out that in an ideal world the private sector could indeed solve the problem of inefficiency caused by externalities. According to the <strong>Coase theorem,</strong> even in the presence of externalities an economy can always reach an efficient solution provided that the costs of making a deal are sufficiently low. The costs of making a deal are known as <strong>transaction costs.</strong></p>
+<p id="krugmanwellsessentials4e-ch10-p49" block_type="txt">For an illustration of how the Coase theorem might work, consider the case of groundwater contamination caused by drilling. There are two ways a private transaction can address this problem. First, landowners whose groundwater is at risk of contamination can pay drillers to use more-expensive, less-polluting technology. Second, the drilling companies can pay landowners the value of damage to their groundwater sources&#8212;say, by buying their properties outright so that the landowners move. If drillers legally have the right to pollute, then the first outcome is more likely. If drillers don&#8217;t legally have the right to pollute, then the second is more likely.</p>
+<p id="krugmanwellsessentials4e_page_291" block_type="page_start">291</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p50" block_type="mn-gl-def">When individuals take external costs or benefits into account, they <strong>internalize the externality.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p51" block_type="txt">What Coase argued is that, either way, if transaction costs are sufficiently low, then drillers and landowners can make a mutually beneficial deal. Regardless of how the transaction is structured, the social cost of the pollution is taken into account in decision making. When individuals take externalities into account when making decisions, economists say that they <strong>internalize the externality.</strong> In that case the outcome is efficient without government intervention.</p>
+<p id="krugmanwellsessentials4e-ch10-p52" block_type="txt">So why don&#8217;t private parties always internalize externalities? The problem is transaction costs in one form or another that prevent an efficient outcome. Here is a sample:</p>
+<list id="krugmanwellsessentials4e-ch10-list-2" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch10-p53" block_type="bl-first"><em>The high cost of communication.</em> Suppose a power plant emits pollution that covers a wide area. The cost of communicating with the many people affected will be very high.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p54" block_type="bl-last"><em>The high cost of making legally binding and timely agreements.</em> What if some landowners band together and pay a driller to reduce groundwater pollution. It can be very expensive to make an effective agreement, requiring lawyers, groundwater tests, engineers, and others. And there is no guarantee that the negotiations will go smoothly or quickly: some landowners may refuse to pay even if their groundwater is protected, while the drillers may hold out for a better deal.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch10-p55" block_type="txt">In some cases, people do find ways to reduce transaction costs, allowing them to internalize externalities. For example, a house with a junk-filled yard and peeling paint imposes a negative externality on the neighboring houses, diminishing their value in the eyes of potential home buyers. So, many people live in private communities that set rules for home maintenance and behavior, making bargaining between neighbors unnecessary. But in many other cases, transaction costs are too high to make it possible to deal with externalities through private action. For example, tens of millions of people are adversely affected by acid rain. It would be prohibitively expensive to try to make a deal among all those people and all those power companies.</p>
+<p id="krugmanwellsessentials4e-ch10-p56" block_type="txt">When transaction costs prevent the private sector from dealing with externalities, it is time to look for government solutions. We turn to public policy next.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch10-p58" block_type="bx-2-t"><strong>How Much Does Your Electricity Really Cost?</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p57" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-9" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p59" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n 2011, three leading economists, Nicholas Z. Muller, Robert Mendelsohn, and William Nordhaus, published a paper drawn from the results of an ambitious study that estimated the external cost of pollution generated by 10,000 pollution sources in the United States, broken down by industry. In it they model the costs to society of emissions of six major pollutants: sulfur dioxide, nitrogen oxides, volatile organic compounds, ammonia, fine particulate matter, and coarse particulate matter. The costs took a variety of forms, from harmful effects on health to reduced agricultural yields. In the case of the electricity-generating sector, the authors also included the cost to society from carbon dioxide emissions&#8212;one of many greenhouse gases, the pollution that causes climate change. For each industry a total external cost of pollution, or TEC, was calculated and then compared to the total value to society, or TVC, created by that industry.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-10" alt="image" src="images/KrugESS4e_10UN02.jpg"/>
+<caption>What is the social cost of carbon?</caption>
+<asset_source>Denis Pepin/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_292" block_type="page_start">292</p>
+<p id="krugmanwellsessentials4e-ch10-p60" block_type="txt">An industry with a TEC/TVC ratio greater than 1 indicates that the external cost of pollution exceeds the value created. In other words, a ratio greater than 1 means that a marginal reduction in both industry output and its ensuing pollution increases total social welfare. But as the authors of the study emphasize, this doesn&#8217;t mean that the industry should be shut down. Rather, it means that the current level of pollution emitted is too high. A contentious issue in any model of the external cost of greenhouse gases&#8212;commonly known as SCC, the social cost of carbon&#8212;is exactly what price to assign to it. That&#8217;s because the negative effects of climate change fall most heavily on future generations.</p>
+<p id="krugmanwellsessentials4e-ch10-p61" block_type="txt">So how do you value today the cost imposed on those not yet born? A difficult question, for sure. Economists address this puzzle by using a range of estimates for SCC. For example, in November 2013, the Environmental Protection Agency, or EPA, the federal agency tasked with protecting the environment, published estimates ranging from &#36;12 to &#36;116 and settled on a cost of &#36;37 per metric ton of carbon dioxide.</p>
+<table id="krugmanwellsessentials4e-ch10-untab-1" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-1" data-target="_pop">
+<layout align="right" width="medium"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"></td>
+<td class="tbl-rborder"><strong>TEC/TVC</strong></td>
+<td><strong>TEC/<br/>kilowatt-hour</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">Coal</td>
+<td class="tbl-lborder">2.83</td>
+<td class="tbl-lborder">&#36;0.039</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Natural gas</td>
+<td class="tbl-lborder">1.30</td>
+<td class="tbl-lborder">0.005</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch10-p62" block_type="txt">Using a relatively conservative estimate of &#36;27 for SCC, Muller, Mendelsohn, and Nordhaus compare the TEC/TVC ratio and the TEC per kilowatt-hour produced for two types of electricity generation&#8212;coal-fired plants and natural gas&#8211;fired plants.</p>
+<p id="krugmanwellsessentials4e-ch10-p63" block_type="txt">As you can see, both modes of electricity generation are under-regulated: with TEC/TVC ratios greater than 1, society would benefit from a reduction in their emissions. And although both emit greenhouse gases, the TEC per kilowatt-hour generated with natural gas is nearly one-eighth the cost of one generated with coal. That&#8217;s because natural gas burns cleaner than coal and produces less-toxic pollutants. With the average kilowatt-hour in the United States costing a little over &#36;0.11 in 2013, a conservative estimate of the external cost of that kilowatt hour is one-third of the retail price when generated by coal, and one-twentieth when generated by natural gas.</p>
+<p id="krugmanwellsessentials4e-ch10-p64" block_type="txt">In response to growing concerns about carbon emissions, in early 2014 the EPA issued rules that limited the amount of carbon emitted by newly constructed coal-fired and natural gas&#8211;fired plants. The rules are unlikely to hinder the construction of new natural gas&#8211;fired plants because the latest technology meets the standard. Under the new rules, however, new coal-fired plants cannot be built unless they use carbon-capture and storage technology, which captures 20&#37; to 40&#37; of their carbon emissions and stores them underground. While coal advocates argue that the new rules will effectively stop construction of new coal-fired plants, market forces have increasingly tilted toward natural gas over coal as the use of fracking has made the cost of natural gas plummet.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch10-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch10-list-3" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch10-p65" block_type="sr1-bl">External costs and benefits are known as <strong>externalities.</strong> Pollution is an example of an <strong>external cost,</strong> or <strong>negative externality;</strong> in contrast, some activities can give rise to <strong>external benefits,</strong> or <strong>positive externalities.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p66" block_type="sr1-bl">There are costs as well as benefits to reducing pollution, so the optimal quantity of pollution isn&#8217;t zero. Instead, the <strong>socially optimal quantity of pollution</strong> is the quantity at which the <strong>marginal social cost of pollution</strong> is equal to the <strong>marginal social benefit of pollution.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p67" block_type="sr1-bl">Left to itself, a market economy will typically generate an inefficiently high level of pollution because polluters have no incentive to take into account the costs they impose on others.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p68" block_type="sr1-bl">According to the <strong>Coase theorem,</strong> the private sector can sometimes resolve externalities on its own: if <strong>transaction costs</strong> aren&#8217;t too high, individuals can reach a deal to <strong>internalize the externality.</strong> When transaction costs are too high, government intervention may be warranted.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">10-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch10-p69" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase>Wastewater runoff from large poultry farms adversely affects their neighbors. Explain the following:</p>
+<list id="krugmanwellsessentials4e-ch10-list-4" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p70" block_type="sr2-nl-lvl2">The nature of the external cost imposed</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p71" block_type="sr2-nl-lvl2">The outcome in the absence of government intervention or a private deal</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p72" block_type="sr2-nl-lvl2">The socially optimal outcome</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch10-p73" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> According to Yasmin, any student who borrows a book from the university library and fails to return it on time imposes a negative externality on other students. She claims that rather than charging a modest fine for late returns, the library should charge a huge fine so that borrowers will never return a book late. Is Yasmin&#8217;s economic reasoning correct?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch10-p74" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_293" block_type="page_start">293</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-2" block_type="h1" title="" chapter="10" numbered="true" level="1" print_page="293">
+<section-metadata><section-title>Policies Toward Pollution</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p75" block_type="txt-ni">Before 1970, there were no rules governing the amount of sulfur dioxide that coal-burning power plants in the United States could emit&#8212;which is why acid rain got to be such a big problem.</p>
+<p id="krugmanwellsessentials4e-ch10-p76" block_type="txt">In 1970, Congress adopted the Clean Air Act, which set rules forcing power plants to reduce their emissions. And it worked&#8212;the acidity of rainfall declined significantly. Economists, however, argued that a more flexible system of rules that exploits the effectiveness of markets could reduce pollution at a lower cost. In 1990 this theory was put into effect with a modified version of the Clean Air Act. And guess what? The economists were right!</p>
+<p id="krugmanwellsessentials4e-ch10-p77" block_type="txt">In this section we&#8217;ll look at the policies governments use to deal with pollution and at how economic analysis has been used to improve those policies.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-5" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="293">
+<section-metadata><section-title>Environmental Standards</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p78" block_type="txt-ni">The most serious external costs in the modern world are surely those associated with actions that damage the environment&#8212;air pollution, water pollution, habitat destruction, and so on. Protection of the environment has become a major role of government in all advanced nations. In the United States, the Environmental Protection Agency is the principal enforcer of environmental policies at the national level, supported by the actions of state and local governments.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p79" block_type="mn-gl-def"><strong>Environmental standards</strong> are rules that protect the environment by specifying actions by producers and consumers.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p80" block_type="txt">How does a country protect its environment? At present the main policy tools are <strong>environmental standards,</strong> rules that protect the environment by specifying actions by producers and consumers. A familiar example is the law that requires almost all vehicles to have catalytic converters, which reduce the emission of chemicals that can cause smog and lead to health problems. Other rules require communities to treat their sewage or factories to avoid or limit certain kinds of pollution.</p>
+<p id="krugmanwellsessentials4e-ch10-p81" block_type="txt">Environmental standards came into widespread use in the 1960s and 1970s, and they have had considerable success in reducing pollution. For example, since the United States passed the Clean Air Act in 1970, overall emission of pollutants into the air has fallen by more than a third, even though the population has grown by a third and the size of the economy has more than doubled. Even in Los Angeles, still famous for its smog, the air has improved dramatically: in 1976 ozone levels in the South Coast Air Basin exceeded federal standards on 194 days; in 2013, on only 5 days.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-6" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="293">
+<section-metadata><section-title>Emissions Taxes</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p82" block_type="mn-gl-def">An <strong>emissions tax</strong> is a tax that depends on the amount of pollution a firm produces.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p83" block_type="txt-ni">Another way to deal with pollution directly is to charge polluters an <strong>emissions tax,</strong> taxes that depend on the amount of pollution a firm emits. As we learned in <link href="krugmanwellsessentials4e-ch05.xml">Chapter 5</link>, a tax imposed on an activity will reduce the level of that activity. Looking again at <link href="#krugmanwellsessentials4e-ch10-fig-5">Figure 10-2</link>, we can find the amount of tax on emissions that moves the market to the socially optimal point. At <em>Q<sub>OPT</sub>,</em> the socially optimal quantity of pollution, the marginal social benefit and marginal social cost of an additional unit of pollution is equal at &#36;200. But in the absence of government intervention, polluters will push pollution up to the quantity <em>Q<sub>MKT</sub>,</em> at which marginal social benefit is zero.</p>
+<p id="krugmanwellsessentials4e-ch10-p84" block_type="txt">It&#8217;s now easy to see how an emissions tax can solve the problem. If polluters are required to pay a tax of &#36;200 per unit of pollution, they now face a marginal cost of &#36;200 per unit and have an incentive to reduce their emissions to <em>Q<sub>OPT</sub>,</em> the socially optimal quantity. This illustrates a general result: an emissions tax equal to the marginal social cost at the socially optimal quantity of pollution induces polluters to internalize the externality&#8212;to take into account the true cost to society of their actions.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p85" block_type="mn-gl-def">Taxes designed to reduce external costs are known as <strong>Pigouvian taxes.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p86" block_type="txt">The term <em>emissions tax</em> may convey the misleading impression that taxes are a solution to only one kind of external cost, pollution. In fact, taxes can be used to discourage any activity that generates negative externalities, such as driving (which inflicts environmental damage greater than the cost of producing gasoline) or smoking (which inflicts health costs on society far greater than the cost of making a cigarette). In general, taxes designed to reduce external costs are known as <strong>Pigouvian taxes,</strong> after the economist A. C. Pigou, who emphasized their usefulness in his classic 1920 book, <em>The Economics of Welfare.</em> In our example, the optimal Pigouvian tax is &#36;200. As you can see from <link href="#krugmanwellsessentials4e-ch10-fig-5">Figure 10-2</link>, this corresponds to the marginal social cost of pollution at the optimal output quantity <em>Q<sub>OPT</sub>.</em></p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx4-1" block_type="bx4-h">
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch10-img-11" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase> <phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch10-p87" block_type="bx4-t"><strong>Economic Growth and Greenhouse Gases in Six Countries</strong></p>
+<p id="krugmanwellsessentials4e_page_294" block_type="page_start">294</p>
+<p id="krugmanwellsessentials4e-ch10-p88" block_type="bx4-txt-ni"><phrase block_type="dropcap">A</phrase>t first glance, a comparison of the per capita greenhouse gas emissions of various countries, shown in panel (a) of the following graph, suggests that Australia, Canada, and the United States are the worst offenders. The average American is responsible for 16.1 tonnes of greenhouse gas emissions (measured in CO<sub>2</sub> equivalents)&#8212;the pollution that causes climate change&#8212;compared to only 3.9 tonnes for the average Uzbek, 6.7 tonnes for the average Chinese, and 1.8 tonnes for the average Indian. (A tonne, also called a metric ton, equals 1.10 ton.)</p>
+<p id="krugmanwellsessentials4e-ch10-p89" block_type="bx4-txt">Such a conclusion, however, ignores an important factor in determining the level of a country&#8217;s greenhouse gas emissions: its gross domestic product, or GDP&#8212;the total value of a country&#8217;s domestic output. Output typically cannot be produced without more energy, and more energy usage typically results in more pollution. In fact, some have argued that criticizing a country&#8217;s level of greenhouse gases without taking account of its level of economic development is misguided. It would be equivalent to faulting a country for being at a more advanced stage of economic development.</p>
+<p id="krugmanwellsessentials4e-ch10-p90" block_type="bx4-txt">A more meaningful way to compare pollution across countries is to measure emissions per &#36;1 million of a country&#8217;s GDP, as shown in panel (b). On this basis, the United States, Canada, and Australia are now &#8220;green&#8221; countries, but China, India, and Uzbekistan are not. What explains the reversal once GDP is accounted for? The answer: both economics and government behavior.</p>
+<p id="krugmanwellsessentials4e-ch10-p91" block_type="bx4-txt">First, there is the issue of economics. Countries that are poor and have begun to industrialize, such as China and Uzbekistan, often view money spent to reduce pollution as better spent on other things. From their perspective, they are still too poor to afford as clean an environment as wealthy advanced countries. They claim that to impose a wealthy country&#8217;s environmental standards on them would jeopardize their economic growth.</p>
+<p id="krugmanwellsessentials4e-ch10-p92" block_type="bx4-txt">Second, there is the issue of government behavior&#8212;or more precisely, whether or not a government possesses the tools necessary to effectively control pollution. China is a good illustration of this problem. The Chinese government lacks sufficient regulatory power to enforce its own environmental rules, promote energy conservation, or encourage pollution reduction. To produce &#36;1 of GDP, China spends three times the world average on energy&#8212;far more than Indonesia, for example, which is also a poor country. The case of China illustrates just how important government intervention is in improving society&#8217;s welfare in the presence of externalities.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-7" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-12" alt="image" src="images/KrugESS4e_10UN03.jpg"/>
+<asset_source><em>Data from:</em> Global Carbon Atlas; IMF&#8212;World Economic Outlook.</asset_source>
+</figure>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p93" block_type="txt">Are there any problems with emissions taxes? The main concern is that in practice government officials usually aren&#8217;t sure how high the tax should be set. If set too low, there won&#8217;t be sufficient reduction in pollution; if set too high, emissions will be reduced by more than is efficient. This uncertainty around the optimal level of the emissions tax can&#8217;t be eliminated, but the nature of the risks can be changed by using an alternative policy, issuing tradable emissions permits.</p>
+<p id="krugmanwellsessentials4e_page_295" block_type="page_start">295</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-7" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="295">
+<section-metadata><section-title>Tradable Emissions Permits</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p94" block_type="mn-gl-def"><strong>Tradable emissions permits</strong> are licenses to emit limited quantities of pollutants that can be bought and sold by polluters.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p95" block_type="txt-ni"><strong>Tradable emissions permits</strong> are licenses to emit limited quantities of pollutants that can be bought and sold by polluters. Firms that pollute typically have different costs of reducing pollution&#8212;for example, it will be more costly for plants using older technology to reduce pollution than plants using newer technology. Regulators begin the system by issuing polluters with permits to pollute based on some formula&#8212;say, for example, equal to 50&#37; of a given firm&#8217;s historical level of emissions. Firms then have the right to trade permits among themselves. Under this system, a market in permits to pollute will emerge. Polluters who place a higher value on the right to pollute&#8212;those with older technology&#8212;will purchase permits from polluters who place a lower value on the right to pollute&#8212;those with newer technology. As a result, a polluter with a higher value for a unit of emissions will pollute more than a polluter with a lower value.</p>
+<p id="krugmanwellsessentials4e-ch10-p96" block_type="txt">In the end, those with the lowest cost of reducing pollution will reduce their pollution the most, while those with the highest cost of reducing pollution will reduce their pollution the least. The total effect is to allocate pollution reduction efficiently&#8212;that is, in the least costly way.</p>
+<p id="krugmanwellsessentials4e-ch10-p97" block_type="txt">Just like emissions taxes, tradable emissions permits provide polluters with an incentive to take the marginal social cost of pollution into account. To see why, suppose that the market price of a permit to emit one unit of pollution is &#36;200. Every polluter now has an incentive to limit its emissions to the point where its marginal benefit of one unit of pollution is &#36;200. Why?</p>
+<p id="krugmanwellsessentials4e-ch10-p98" block_type="txt">If the marginal benefit of one more unit of pollution is greater than &#36;200 then it is cheaper to pollute more than to pollute less. In that case the polluter will buy a permit and emit another unit. And if the marginal benefit of one more unit of pollution is less than &#36;200, then it is cheaper to reduce pollution than to pollute more. In that scenario the polluter will reduce pollution rather than buy the &#36;200 permit.</p>
+<p id="krugmanwellsessentials4e-ch10-p99" block_type="txt">From this example we can see how an emissions permit leads to the same outcome as an emissions tax when they are the same amount: a polluter who pays &#36;200 for the right to emit one unit faces the same incentives as a polluter who faces an emissions tax of &#36;200 per unit. And it&#8217;s equally true for polluters that have received more permits from regulators than they plan to use: by not emitting one unit of pollution, a polluter frees up a permit that it can sell for &#36;200. In other words, the opportunity cost of a unit of pollution to this firm is &#36;200, regardless of whether it is used.</p>
+<p id="krugmanwellsessentials4e-ch10-p100" block_type="txt">Recall that when using emissions taxes to arrive at the optimal level of pollution, the problem arises of finding the right amount of the tax: if the tax is too low, too much pollution is emitted; if the tax is too high, too little pollution is emitted (in other words, too many resources are spent reducing pollution). A similar problem with tradable emissions permits is getting the quantity of permits right, which is much like the flip-side of getting the level of the tax right.</p>
+<p id="krugmanwellsessentials4e-ch10-p101" block_type="txt">Because it is difficult to determine the optimal quantity of pollution, regulators can find themselves either issuing too many permits, so that there is insufficient pollution reduction, or issuing too few, so that there is too much pollution reduction.</p>
+<p id="krugmanwellsessentials4e-ch10-p102" block_type="txt">In the case of sulfur dioxide pollution, the U.S. government first relied on environmental standards, but then turned to a system of tradable emissions permits. Currently the largest emissions permit trading system is the European Union system for controlling emissions of carbon dioxide.</p>
+<p id="krugmanwellsessentials4e_page_296" block_type="page_start">296</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-8" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="296">
+<section-metadata><section-title>Comparing Environmental Policies with an Example</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p103" block_type="txt-ni"><link href="#krugmanwellsessentials4e-ch10-fig-8">Figure 10-3</link> shows a hypothetical industry consisting of only two plants, plant A and plant B. We&#8217;ll assume that plant A uses newer technology, giving it a lower cost of pollution reduction, while plant B uses older technology and has a higher cost of pollution reduction. Reflecting this difference, plant A&#8217;s marginal benefit of pollution curve, <em>MB</em><sub>A</sub><em>,</em> lies below plant B&#8217;s marginal benefit of pollution curve, <em>MB<sub>B</sub>.</em> Because it is more costly for plant B to reduce its pollution at any output quantity, an additional unit of pollution is worth more to plant B than to plant A.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-8" block_type="figure" numbered="true" number="10-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch10-fig-8"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>10-3</strong></phrase></phrase> <phrase block_type="fig_title">Comparing Environmental Policies</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch10-img-13" alt="image" src="images/KrugESS4e_fig_10_03.jpg"/>
+<caption>In both panels, <em>MB<sub>A</sub></em> shows the marginal benefit of pollution to plant <em>A</em> and <em>MB<sub>B</sub></em> shows the marginal benefit of pollution to plant <em>B</em>. In the absence of government intervention, each plant would emit 600 units. However, the cost of reducing emissions is lower for plant <em>A</em>, as shown by the fact that <em>MB<sub>A</sub></em> lies below <em>MB<sub>B</sub></em>. Panel (a) shows the result of an environmental standard that requires both plants to cut emissions in half; this is inefficient, because it leaves the marginal benefit of pollution higher for plant <em>B</em> than for plant <em>A</em>. Panel (b) shows that an emissions tax as well as a system of tradable permits achieves the same quantity of overall pollution efficiently. Faced with either an emissions tax of &#36;200 per unit, or a market price of a permit of &#36;200 per unit, each plant reduces pollution to the point where its marginal benefit is &#36;200.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p104" block_type="txt">In the absence of government action, we know that polluters will pollute until the marginal social benefit of a unit of pollution is equal to zero. As a result, without government intervention each plant will pollute until its own marginal benefit of pollution is equal to zero. This corresponds to an emissions quantity of 600 units for each plant&#8212;the quantities of pollution at which <em>MB<sub>A</sub></em> and <em>MB<sub>B</sub></em> are equal to zero. So although plant A and plant B have different costs of pollution reduction, they will each choose to emit the same amount of pollution.</p>
+<p id="krugmanwellsessentials4e-ch10-p105" block_type="txt">Now suppose that regulators decide that the overall pollution from this industry should be cut in half, from 1,200 units to 600 units. Panel (a) of <link href="#krugmanwellsessentials4e-ch10-fig-8">Figure 10-3</link> shows this might be achieved with an environmental standard that requires each plant to cut its emissions in half, from 600 to 300 units. The standard has the desired effect of reducing overall emissions from 1,200 to 600 units but accomplishes it inefficiently.</p>
+<p id="krugmanwellsessentials4e_page_297" block_type="page_start">297</p>
+<p id="krugmanwellsessentials4e-ch10-p106" block_type="txt">As you can see from panel (a), the environmental standard leads plant A to produce at point <em>S<sub>A</sub>,</em> where its marginal benefit of pollution is &#36;150, but plant B produces at point <em>S<sub>B</sub>,</em> where its marginal benefit of pollution is twice as high, &#36;300.</p>
+<p id="krugmanwellsessentials4e-ch10-p107" block_type="txt">This difference in marginal benefits between the two plants tells us that the same quantity of pollution can be achieved at lower total cost by allowing plant B to pollute more than 300 units but inducing plant A to pollute less. In fact, the efficient way to reduce pollution is to ensure that at the industry-wide outcome, the marginal benefit of pollution is the same for all plants. When each plant values a unit of pollution equally, there is no way to rearrange pollution reduction among the various plants that achieves the optimal quantity of pollution at a lower total cost.</p>
+<p id="krugmanwellsessentials4e-ch10-p108" block_type="txt">We can see from panel (b) how an emissions tax achieves exactly that result. Suppose both plant A and plant B pay an emissions tax of &#36;200 per unit, so that the marginal cost of an additional unit of emissions to each plant is now &#36;200 rather than zero. As a result, plant A produces at <em>T<sub>A</sub></em> and plant B produces at <em>T<sub>B</sub>.</em> So plant A reduces its pollution more than it would under an inflexible environmental standard, cutting its emissions from 600 to 200 units; meanwhile, plant B reduces its pollution less, going from 600 to 400 units.</p>
+<p id="krugmanwellsessentials4e-ch10-p109" block_type="txt">In the end, total pollution&#8212;600 units&#8212;is the same as under the environmental standard, but total surplus is higher. That&#8217;s because the reduction in pollution has been achieved efficiently, allocating most of the reduction to plant A, the plant that can reduce emissions at lower cost. (Remember that producer surplus is the area below the supply curve and above the price line. So there is more total producer surplus in Panel (b) than in Panel (a).)</p>
+<p id="krugmanwellsessentials4e-ch10-p110" block_type="txt">Panel (b) also illustrates why a system of tradable emissions permits also achieves an efficient allocation of pollution among the two plants. Assume that in the market for permits, the market price of a permit is &#36;200 and each plant has 300 permits to start the system. Plant B, with the higher cost of pollution reduction, will buy 200 permits from Plant A, enough to allow it to emit 400 units. Correspondingly, Plant A, with the lower cost, will sell 200 of its permits to Plant B and emit only 200 units. Provided that the market price of a permit is the same as the optimal emissions tax, the two systems arrive at the same outcome.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch10-img-14" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch10-p111" block_type="bx-2-t"><strong>Cap and Trade</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p112" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-15" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p113" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he tradable emissions permit systems for both acid rain in the United States and greenhouse gases in the European Union are examples of <em>cap and trade systems:</em> the government sets a <em>cap</em> (a maximum amount of pollutant that can be emitted), issues tradable emissions permits, and enforces a yearly rule that a polluter must hold a number of permits equal to the amount of pollutant emitted. The goal is to set the cap low enough to generate environmental benefits, while giving polluters flexibility in meeting environmental standards and motivating them to adopt new technologies that will lower the cost of reducing pollution.</p>
+<p id="krugmanwellsessentials4e-ch10-p114" block_type="bx2-txt">In 1994 the United States began a cap and trade system for the sulfur dioxide emissions that cause acid rain by issuing permits to power plants based on their historical consumption of coal. Thanks to the system, air pollutants in the United States decreased by more than 40&#37; from 1990 to 2008, and by 2012 acid rain levels dropped to approximately 70&#37; of their 1980 levels. Economists who have analyzed the sulfur dioxide cap and trade system point to another reason for its success: it would have been a lot more expensive&#8212;80&#37; more to be exact&#8212;to reduce emissions by this much using a non-market-based regulatory policy.</p>
+<p id="krugmanwellsessentials4e_page_298" block_type="page_start">298</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-9" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-16" alt="image" src="images/KrugESS4e_10UN04.jpg"/>
+<caption>Companies like Terrapass help individuals and companies manage their carbon emissions.</caption>
+<asset_source>&#169; 2014 TerraPass, Inc.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p115" block_type="bx2-txt">The EU cap and trade scheme, begun in 2005 and covering all 28 member nations of the European Union, is the world&#8217;s only mandatory trading system for greenhouse gases. Other countries, like Australia and New Zealand, have adopted less comprehensive schemes. China, the world&#8217;s largest carbon emitter&#8212;it burns almost as much coal as the rest of the world&#8217;s countries combined&#8212;is presently considering a national cap and trade system.</p>
+<p id="krugmanwellsessentials4e-ch10-p116" block_type="bx2-txt">Yet cap and trade systems are not silver bullets for the world&#8217;s pollution problems. Although they are appropriate for pollution that&#8217;s geographically dispersed, like sulfur dioxide and greenhouse gases, they don&#8217;t work for pollution that&#8217;s localized, like groundwater contamination. And there must be vigilant monitoring of compliance for the system to work. Finally, the amount of total reduction in pollution depends on the level of the cap, a critical issue illustrated by the troubles of the EU cap and trade scheme.</p>
+<p id="krugmanwellsessentials4e-ch10-p117" block_type="bx2-txt">EU regulators, under industry pressure, allowed too many permits to be handed out when the system was created. By the spring of 2013 the price of a permit for a ton of greenhouse gas had fallen to 2.75 euros (about &#36;3.70), less than a tenth of what experts believe is necessary to induce companies to switch to cleaner fuels like natural gas. The price of a permit was too low to alter polluters&#8217; incentives and, not surprisingly, coal use in Europe boomed in 2012. Alarmed European Union legislators voted in the summer of 2013 to reduce the number of permits issued in future years in the hope of increasing the current price of a permit. There is evidence the reduction in permits has already altered polluters&#8217; incentives. As of mid-2014, pollution throughout the EU is projected to drop by 4.4&#37; as the price of a permit has more than doubled to 5.71 euros (about &#36;7.34).</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch10-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch10-list-5" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch10-p118" block_type="sr1-bl">Governments often limit pollution with <strong>environmental standards.</strong> Generally, such standards are an inefficient way to reduce pollution because they are inflexible.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p119" block_type="sr1-bl">Environmental goals can be achieved efficiently in two ways: <strong>emissions taxes</strong> and <strong>tradable emissions permits.</strong> These methods are efficient because they are flexible, allocating more pollution reduction to those who can do it more cheaply. They also motivate polluters to adopt new pollution-reducing technology.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p120" block_type="sr1-bl">An emissions tax is a form of <strong>Pigouvian tax.</strong> The optimal Pigouvian tax is equal to the marginal social cost of pollution at the socially optimal quantity of pollution.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">10-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch10-p121" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Some opponents of tradable emissions permits object to them on the grounds that polluters that sell their permits benefit monetarily from their contribution to polluting the environment. Assess this argument.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch10-p122" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> Explain the following.</p>
+<list id="krugmanwellsessentials4e-ch10-list-6" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p123" block_type="sr2-nl-lvl2">Why an emissions tax smaller than or greater than the marginal social cost at <em>Q<sub>OPT</sub></em> leads to a smaller total surplus compared to the total surplus generated if the emissions tax had been set optimally</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p124" block_type="sr2-nl-lvl2">Why a system of tradable emissions permits that sets the total quantity of allowable pollution higher or lower than <em>Q<sub>OPT</sub></em> leads to a smaller total surplus compared to the total surplus generated if the number of permits had been set optimally.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch10-p125" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-3" block_type="h1" title="" chapter="10" numbered="true" level="1" print_page="298">
+<section-metadata><section-title>Positive Externalities</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p126" block_type="txt-ni">New Jersey is the most densely populated state in the country, lying along the northeastern corridor, an area of almost continuous development stretching from Washington, D.C., to Boston. Yet a drive through New Jersey reveals a surprising feature: acre upon acre of farmland, growing everything from corn to pumpkins to the famous Jersey tomatoes. This situation is no accident: starting in 1961, New Jerseyans have voted in a series of measures that subsidize farmers to permanently preserve their farmland rather than sell it to developers. By 2013, the Green Acres Program, administered by the state, had preserved over 640,000 acres of open space.</p>
+<p id="krugmanwellsessentials4e_page_299" block_type="page_start">299</p>
+<p id="krugmanwellsessentials4e-ch10-p127" block_type="txt">Why have New Jersey citizens voted to raise their own taxes to subsidize the preservation of farmland? Because they believe that preserved farmland in an already heavily developed state provides external benefits, such as natural beauty, access to fresh food, and the conservation of wild bird populations. In addition, preservation alleviates the external costs that come with more development, such as pressure on roads, water supplies, and municipal services&#8212;and, inevitably, more pollution.</p>
+<p id="krugmanwellsessentials4e-ch10-p128" block_type="txt">In this section we&#8217;ll explore the topics of external benefits and positive externalities. They are, in many ways, the mirror images of external costs and negative externalities. Left to its own, the market will produce too little of a good (in this case, preserved New Jersey farmland) that confers external benefits on others. But society as a whole is better off when policies are adopted that increase the supply of such a good.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-9" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="299">
+<section-metadata><section-title>Preserved Farmland: An External Benefit</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p129" block_type="txt-ni">Preserved farmland yields both benefits and costs to society. In the absence of government intervention, the farmer who wants to sell his land incurs all the costs of preservation&#8212;namely, the forgone profit to be made from selling the farmland to a developer. But the benefits of preserved farmland accrue not to the farmer but to neighboring residents, who have no right to influence how the farmland is disposed of.</p>
+<p id="krugmanwellsessentials4e-ch10-p130" block_type="txt"><link href="#krugmanwellsessentials4e-ch10-fig-10">Figure 10-4</link> illustrates society&#8217;s problem. The marginal social cost of preserved farmland, shown by the <em>MSC</em> curve, is the additional cost imposed on society by an additional acre of such farmland. This represents the forgone profits that would have accrued to farmers if they had sold their land to developers. The line is upward sloping because when very few acres are preserved and there is plenty of land available for development, the profit that could be made from selling an acre to a developer is small. But as the number of preserved acres increases and few are left for development, the amount a developer is willing to pay for them, and therefore the forgone profit, increases as well.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-10" block_type="figure" numbered="true" number="10-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch10-fig-10"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>10-4</strong></phrase></phrase> <phrase block_type="fig_title">Why a Market Economy Preserves Too Little Farmland</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch10-img-17" alt="image" src="images/KrugESS4e_fig_10_04.jpg"/>
+<caption>Without government intervention, the quantity of preserved farmland will be zero, the level at which the marginal social cost of preservation is zero. This is an inefficiently low quantity of preserved farmland: the marginal social benefit is &#36;20,000, but the marginal social cost is zero. An optimal Pigouvian subsidy of &#36;10,000, the value of the marginal social benefit of preservation when it equals the marginal social cost, can move the market to the socially optimal level of preservation, <em>Q<sub>OPT</sub></em>.</caption>
+</figure>
+<p id="krugmanwellsessentials4e_page_300" block_type="page_start">300</p>
+<p id="krugmanwellsessentials4e-ch10-p131" block_type="txt">The <em>MSB</em> curve represents the marginal social benefit of preserved farmland. It is the additional benefit that accrues to society&#8212;in this case, the farmer&#8217;s neighbors&#8212;when an additional acre of farmland is preserved. The curve is downward sloping because as more farmland is preserved, the benefit to society of preserving another acre falls.</p>
+<p id="krugmanwellsessentials4e-ch10-p132" block_type="txt">As <link href="#krugmanwellsessentials4e-ch10-fig-10">Figure 10-4</link> shows, the socially optimal point, <em>O,</em> occurs when the marginal social cost and the marginal social benefit are equalized&#8212;here, at a price of &#36;10,000 per acre. At the socially optimal point, <em>Q<sub>OPT</sub></em> acres of farmland are preserved.</p>
+<p id="krugmanwellsessentials4e-ch10-p133" block_type="txt">The market alone will not provide <em>Q<sub>OPT</sub></em> acres of preserved farmland. Instead, in the market outcome no acres will be preserved; the level of preserved farmland, <em>Q<sub>MKT</sub>,</em> is equal to zero. That&#8217;s because farmers will set the marginal social cost of preservation&#8212;their forgone profits&#8212;at zero and sell all their acres to developers. Because farmers bear the entire cost of preservation but gain none of the benefits, an inefficiently low quantity of acres will be preserved in the market outcome.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p134" block_type="mn-gl-def">A <strong>Pigouvian subsidy</strong> is a payment designed to encourage activities that yield external benefits.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p135" block_type="txt">This is clearly inefficient because at zero acres preserved, the marginal social benefit of preserving an acre of farmland is &#36;20,000. So how can the economy be induced to produce <em>Q<sub>OPT</sub></em> acres of preserved farmland, the socially optimal level? The answer is a <strong>Pigouvian subsidy:</strong> a payment designed to encourage activities that yield external benefits. The optimal Pigouvian subsidy, as shown in <link href="#krugmanwellsessentials4e-ch10-fig-10">Figure 10-4</link>, is equal to the marginal social benefit of preserved farmland at the socially optimal level, <em>Q<sub>OPT</sub></em>&#8212;that is, &#36;10,000 per acre.</p>
+<p id="krugmanwellsessentials4e-ch10-p136" block_type="txt">So New Jersey voters are indeed implementing the right policy to raise their social welfare&#8212;taxing themselves in order to provide subsidies for farmland preservation.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-10" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="300">
+<section-metadata><section-title>Positive Externalities in Today&#8217;s Economy</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p137" block_type="mn-gl-def">A <strong>technology spillover</strong> is an external benefit that results when knowledge spreads among individuals and firms.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p138" block_type="txt-ni">In the overall U.S. economy, the most important single source of external benefits is the creation of knowledge. In high-tech industries such as semiconductors, software design, green technology, and bioengineering, innovations by one firm are quickly emulated and improved upon by rival firms. Such spreading of knowledge across individuals and firms is known as a <strong>technology spillover.</strong> In today&#8217;s economy, the greatest sources of technology spillovers are major universities and research institutes.</p>
+<p id="krugmanwellsessentials4e-ch10-p139" block_type="txt">In technologically advanced countries such as the United States, Japan, the United Kingdom, Germany, France, and Israel, there is an ongoing exchange of people and ideas among private industries, major universities, and research institutes located in close proximity. The dynamic interplay that occurs in these <em>research clusters</em> spurs innovation and competition, theoretical advances, and practical applications.</p>
+<p id="krugmanwellsessentials4e-ch10-p140" block_type="txt">One of the best known and most successful research clusters is the Research Triangle in North Carolina, anchored by Duke University and the University of North Carolina, several other universities and hospitals, and companies such as IBM, Pfizer, and Qualcomm. Ultimately, these areas of technology spillover increase the economy&#8217;s productivity and raise living standards.</p>
+<p id="krugmanwellsessentials4e-ch10-p141" block_type="txt">But research clusters don&#8217;t appear out of thin air. Except in a few instances in which firms have funded basic research on a long-term basis, research clusters have grown up around major universities. And like farmland preservation in New Jersey, major universities and their research activities are subsidized by government. In fact, government policy makers in advanced countries have long understood that the external benefits generated by knowledge, stemming from basic education to high-tech research, are key to the economy&#8217;s growth over time.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch10-p142" block_type="bx-2-t"><strong>The Impeccable Economic Logic of Early-Childhood Intervention Programs</strong></p>
+<p id="krugmanwellsessentials4e_page_301" block_type="page_start">301</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p143" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-18" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p144" block_type="bx2-first"><phrase block_type="dropcap">O</phrase>ne of the most vexing problems facing any society is how to break what researchers call the &#8220;cycle of poverty&#8221;: children who grow up in disadvantaged socioeconomic circumstances are far more likely to remain trapped in poverty as adults, even after we account for differences in ability. They are more likely to be unemployed or underemployed, to engage in crime, and to suffer chronic health problems.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-19" alt="image" src="images/KrugESS4e_10UN05.jpg"/>
+<caption>Early-childhood intervention programs focusing on education and health offer many external benefits to society.</caption>
+<asset_source>fatihhoca/iStockphoto/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p145" block_type="bx2-txt">Early-childhood intervention has offered some hope of breaking the cycle. A study by the RAND Corporation found that high-quality early-childhood programs that focus on education and health care lead to significant social, intellectual, and financial advantages for kids who would otherwise be at risk of dropping out of high school and of engaging in criminal behavior. Children in programs like Head Start were less likely to engage in such destructive behaviors and more likely to end up with a job and to earn a high salary later in life.</p>
+<p id="krugmanwellsessentials4e-ch10-p146" block_type="bx2-txt">Another study by researchers at the University of Pittsburgh looked at early-childhood intervention programs from a dollars-and-cents perspective, finding from &#36;4 to &#36;7 in benefits for every &#36;1 spent on early-childhood intervention programs, while a Rand study put the figure as high as &#36;17 per &#36;1 spent. The Pittsburgh study also pointed to one program whose participants, by age 20, were 26&#37; more likely to have finished high school, 35&#37; less likely to have been charged in juvenile court, and 40&#37; less likely to have repeated a grade compared to individuals of similar socioeconomic background who did not attend preschool.</p>
+<p id="krugmanwellsessentials4e-ch10-p147" block_type="bx2-txt">The observed external benefits to society of these programs are so large that the Brookings Institution predicts that providing high-quality preschool education to every American child would result in an increase in GDP, the total value of a country&#8217;s domestic output, by almost 2&#37;, representing over 3 million more jobs.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch10-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch10-list-7" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch10-p148" block_type="sr1-bl">When there are positive externalities, or external benefits, a market economy, left to itself, will typically produce too little of the good or activity. The socially optimal quantity of the good or activity can be achieved by an optimal <strong>Pigouvian subsidy.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p149" block_type="sr1-bl">The most important example of external benefits in an economy is the creation of knowledge through <strong>technology spillover.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">10-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch10-p150" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> In 2013, the U.S. Department of Education spent almost &#36;36 billion on college student aid. Explain why this can be an optimal policy to encourage the creation of knowledge.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch10-p151" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> In each of the following cases, determine whether an external cost or an external benefit is imposed and what an appropriate policy response would be.</p>
+<list id="krugmanwellsessentials4e-ch10-list-8" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p152" block_type="sr2-nl-lvl2">Trees planted in urban areas improve air quality and lower summer temperatures.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p153" block_type="sr2-nl-lvl2">Water-saving toilets reduce the need to pump water from rivers and aquifers. The cost of a gallon of water to homeowners is virtually zero.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p154" block_type="sr2-nl-lvl2">Old computer monitors contain toxic materials that pollute the environment when improperly disposed of.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch10-p155" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</question>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-4" block_type="h1" title="" chapter="10" numbered="true" level="1" print_page="301">
+<section-metadata><section-title>Public Goods</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p156" block_type="txt-ni">The opening story described the Great Stink of 1858, a negative externality created by individuals dumping waste into the Thames.</p>
+<p id="krugmanwellsessentials4e-ch10-p157" block_type="txt">What the city needed, said reformers at the time, was a sewage system that would carry waste away from the river. Yet no private individual was willing to build such a system, and influential people were opposed to the idea that the government should take responsibility for the problem.</p>
+<p id="krugmanwellsessentials4e_page_302" block_type="page_start">302</p>
+<p id="krugmanwellsessentials4e-ch10-p158" block_type="txt">As we saw in the story, Parliament approved a plan for an immense system of sewers and pumping stations with the result that cholera and typhoid epidemics, which had been regular occurrences, completely disappeared. The Thames was turned from the filthiest to the cleanest metropolitan river in the world, and the sewage system&#8217;s principal engineer, Sir Joseph Bazalgette, was lauded as having &#8220;saved more lives than any single Victorian public official.&#8221; It was estimated at the time that Bazalgette&#8217;s sewer system added 20 years to the life span of the average Londoner.</p>
+<p id="krugmanwellsessentials4e-ch10-p159" block_type="txt">So, what&#8217;s the difference between installing a new bathroom in a house and building a municipal sewage system? What&#8217;s the difference between growing wheat and fishing in the open ocean?</p>
+<p id="krugmanwellsessentials4e-ch10-p160" block_type="txt">These aren&#8217;t trick questions. In each case there is a basic difference in the characteristics of the goods involved. Bathroom fixtures and wheat have the characteristics necessary to allow markets to work efficiently. Public sewage systems and fish in the sea do not.</p>
+<p id="krugmanwellsessentials4e-ch10-p161" block_type="txt">Let&#8217;s look at these crucial characteristics and why they matter.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-11" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="302">
+<section-metadata><section-title>Characteristics of Goods</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p162" block_type="txt-ni">Goods like bathroom fixtures or wheat have two characteristics that, as we&#8217;ll soon see, are essential if a good is to be efficiently provided by a market economy.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p163" block_type="mn-gl-def">A good is <strong>excludable</strong> if the supplier of that good can prevent people who do not pay from consuming it.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p165" block_type="mn-gl-def">A good is <strong>rival in consumption</strong> if the same unit of the good cannot be consumed by more than one person at the same time.</p>
+</box>
+<list id="krugmanwellsessentials4e-ch10-list-9" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch10-p164" block_type="bl-first">They are <strong>excludable:</strong> suppliers of the good can prevent people who don&#8217;t pay from consuming it.</p>
+</li>
+<li><p id="krugmanwellsessentials4e-ch10-p166" block_type="bl-last">They are <strong>rival in consumption:</strong> the same unit of the good cannot be consumed by more than one person at the same time.</p></li>
+</list>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p167" block_type="mn-gl-def">A good that is both excludable and rival in consumption is a <strong>private good.</strong></p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p168" block_type="txt">When a good is both excludable and rival in consumption, it is called a <strong>private good.</strong> Wheat is an example of a private good. It is <em>excludable</em>: the farmer can sell a bushel to one consumer without having to provide wheat to everyone in the county. And it is <em>rival in consumption</em>: if I eat bread baked with a farmer&#8217;s wheat, that wheat cannot be consumed by someone else.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-18" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p169" block_type="mn-gl-def">When a good is <strong>nonexcludable,</strong> the supplier cannot prevent consumption by people who do not pay for it.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p170" block_type="txt">But not all goods possess these two characteristics. Some goods are <strong>nonexcludable&#8212;</strong>the supplier cannot prevent consumption of the good by people who do not pay for it. Fire protection is one example: a fire department that puts out fires before they spread protects the whole city, not just people who have made contributions to the Firemen&#8217;s Benevolent Association. An improved environment is another: the city of London couldn&#8217;t have ended the Great Stink for some residents while leaving the river Thames foul for others.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-19" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p171" block_type="mn-gl-def">A good is <strong>nonrival in consumption</strong> if more than one person can consume the same unit of the good at the same time.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p172" block_type="txt">Nor are all goods rival in consumption. Goods are <strong>nonrival in consumption</strong> if more than one person can consume the same unit of the good at the same time. TV programs are nonrival in consumption: your decision to watch a show does not prevent other people from watching the same show.</p>
+<p id="krugmanwellsessentials4e-ch10-p173" block_type="txt">Because goods can be either excludable or nonexcludable, rival or nonrival in consumption, there are four types of goods, illustrated by <link href="#krugmanwellsessentials4e-ch10-fig-12">Figure 10-5</link>.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-12" block_type="figure" numbered="true" number="10-5" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch10-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>10-5</strong></phrase></phrase> <phrase block_type="fig_title">Four Types of Goods</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch10-img-20" alt="image" src="images/KrugESS4e_fig_10_05.jpg"/>
+<caption>There are four types of goods. The type of a good depends on (1) whether or not it is excludable&#8212;whether a producer can prevent someone from consuming it; and (2) whether or not it is rival in consumption&#8212;whether it is impossible for the same unit of a good to be consumed by more than one person at the same time.</caption>
+</figure>
+<list id="krugmanwellsessentials4e-ch10-list-10" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch10-p174" block_type="bl-first"><em>Private goods,</em> which are excludable and rival in consumption, like wheat</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p175" block_type="bl-mid"><em>Public goods,</em> which are nonexcludable and nonrival in consumption, like a public sewer system</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p176" block_type="bl-mid"><em>Common resources,</em> which are nonexcludable but rival in consumption, like clean water in a river</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p177" block_type="bl-last"><em>Artificially scarce goods,</em> which are excludable but nonrival in consumption, like on-demand movies on DirecTV</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_303" block_type="page_start">303</p>
+<p id="krugmanwellsessentials4e-ch10-p178" block_type="txt">There are, of course, many other characteristics that distinguish between types of goods&#8212;necessities versus luxuries, normal versus inferior, and so on. Why focus on whether goods are excludable and rival in consumption?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-12" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="303">
+<section-metadata><section-title>Why Markets Can Supply Only Private Goods Efficiently</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p179" block_type="txt-ni">As we&#8217;ve learned markets are typically the best means for a society to deliver goods and services to its members; that is, markets are efficient except in the case of the well-defined problems of market power, externalities, or other instances of market failure. But there is yet another condition that must be met, one rooted in the nature of the good itself: markets cannot supply goods and services efficiently unless they are private goods&#8212;excludable and rival in consumption.</p>
+<p id="krugmanwellsessentials4e-ch10-p180" block_type="txt">To see why excludability is crucial, suppose that a farmer had only two choices: either produce no wheat or provide a bushel of wheat to every resident of the county who wants it, whether or not that resident pays for it. It seems unlikely that anyone would grow wheat under those conditions.</p>
+<p id="krugmanwellsessentials4e-ch10-p181" block_type="txt">Yet the operator of a municipal sewage system faces pretty much the same problem as our hypothetical farmer. A sewage system makes the whole city cleaner and healthier&#8212;but that benefit accrues to all the city&#8217;s residents, whether or not they pay the system operator. That&#8217;s why no private entrepreneur came forward with a plan to end London&#8217;s Great Stink.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-20" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p182" block_type="mn-gl-def">Goods that are nonexcludable suffer from the <strong>free-rider problem:</strong> many individuals are unwilling to pay for their own consumption and instead will take a &#8220;free ride&#8221; on anyone who does pay.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p183" block_type="txt">The general point is that if a good is nonexcludable, self-interested consumers won&#8217;t be willing to pay for it&#8212;they will take a &#8220;free ride&#8221; on anyone who <em>does</em> pay. So there is a <strong>free-rider problem.</strong> Examples of the free-rider problem are familiar from daily life. One example you may have encountered happens when students are required to do a group project. There is often a tendency of some group members to shirk, relying on others in the group to get the work done. The shirkers <em>free-ride</em> on someone else&#8217;s effort.</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch10-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch10-p184" block_type="bx1-t"><strong>MARGINAL COST OF WHAT EXACTLY?</strong></p>
+<p id="krugmanwellsessentials4e-ch10-p185" block_type="bx1-txt-ni">In the case of a good that is nonrival in consumption, it&#8217;s easy to confuse the marginal cost of <em>producing</em> a unit of the good with the marginal cost of <em>allowing</em> a unit of the good <em>to be consumed</em>. For example, DirecTV incurs a marginal cost in making a movie available to its subscribers that is equal to the cost of the resources it uses to produce and broadcast that movie. However, <em>once that movie is being broadcast,</em> no marginal cost is incurred by letting an additional family watch it. In other words, no costly resources are &#8220;used up&#8221; when one more family consumes a movie that has already been produced and is being broadcast.</p>
+<p id="krugmanwellsessentials4e-ch10-p186" block_type="bx1-txt">This complication does not arise, however, when a good is rival in consumption. In that case, the resources used to produce a unit of the good are &#8220;used up&#8221; by a person&#8217;s consumption of it&#8212;they are no longer available to satisfy someone else&#8217;s consumption. So when a good is rival in consumption, the marginal cost to society of allowing an individual to consume a unit is equal to the resource cost of producing that unit&#8212;that is, equal to the marginal cost of producing it.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p187" block_type="txt">Because of the free-rider problem, the forces of self-interest alone do not lead to an efficient level of production for a nonexcludable good. Even though consumers would benefit from increased production of the good, no one individual is willing to pay for more, and so no producer is willing to supply it. The result is that nonexcludable goods suffer from <em>inefficiently low production</em> in a market economy. In fact, in the face of the free-rider problem, self-interest may not ensure that any amount of the good&#8212;let alone the efficient quantity&#8212;is produced.</p>
+<p id="krugmanwellsessentials4e-ch10-p188" block_type="txt">Goods that are excludable and nonrival in consumption, like on-demand movies, suffer from a different kind of inefficiency. As long as a good is excludable, it is possible to earn a profit by making it available only to those who pay. Therefore, producers are willing to supply an excludable good. But the marginal cost of letting an additional viewer watch an on-demand movie is zero because it is nonrival in consumption. So the efficient price to the consumer is also zero&#8212;or, to put it another way, individuals should watch movies up to the point where their marginal benefit is zero.</p>
+<p id="krugmanwellsessentials4e-ch10-p189" block_type="txt">But if DirecTV actually charges viewers &#36;4, viewers will consume the good only up to the point where their marginal benefit is &#36;4. When consumers must pay a price greater than zero for a good that is nonrival in consumption, the price they pay is higher than the marginal cost of allowing them to consume that good, which is zero. So in a market economy goods that are nonrival in consumption suffer from <em>inefficiently low consumption.</em></p>
+<p id="krugmanwellsessentials4e-ch10-p190" block_type="txt">Now we can see why private goods are the only goods that can be efficiently produced and consumed in a competitive market. (That is, a private good will be efficiently produced and consumed in a market free of market power, externalities, or other instances of market failure.) Because private goods are excludable, producers can charge for them and so have an incentive to produce them. And because they are also rival in consumption, it is efficient for consumers to pay a positive price&#8212;a price equal to the marginal cost of production. If one or both of these characteristics are lacking, a market economy will not lead to efficient production and consumption of the good.</p>
+<p id="krugmanwellsessentials4e_page_304" block_type="page_start">304</p>
+<p id="krugmanwellsessentials4e-ch10-p191" block_type="txt">Fortunately for the market system, most goods are private goods. Food, clothing, shelter, and most other desirable things in life are excludable and rival in consumption, so markets can provide us with most things. Yet there are crucial goods that don&#8217;t meet these criteria&#8212;and in most cases, that means that the government must step in.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-13" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="304">
+<section-metadata><section-title>Providing Public Goods</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-21" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p192" block_type="mn-gl-def">A <strong>public good</strong> is both nonexcludable and nonrival in consumption.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p193" block_type="txt-ni">A <strong>public good</strong> is the exact opposite of a private good: it is a good that is both nonexcludable and nonrival in consumption. A public sewer system is an example of a public good: you can&#8217;t keep a river clean without making it clean for everyone who lives near its banks, and my protection from great stinks does not come at my neighbor&#8217;s expense.</p>
+<p id="krugmanwellsessentials4e-ch10-p194" block_type="txt">Here are some other examples of public goods:</p>
+<list id="krugmanwellsessentials4e-ch10-list-11" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch10-p195" block_type="bl-first"><em>Disease prevention.</em> When doctors act to stamp out the beginnings of an epidemic before it can spread, they protect people around the world.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p196" block_type="bl-mid"><em>National defense.</em> A strong military protects all citizens.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p197" block_type="bl-last"><em>Scientific research.</em> More knowledge benefits everyone.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch10-p198" block_type="txt">Because these goods are nonexcludable, they suffer from the free-rider problem, so no private firm would be willing to produce them. And because they are nonrival in consumption, it would be inefficient to charge people for consuming them. As a result, society must find nonmarket methods for providing these goods.</p>
+<p id="krugmanwellsessentials4e-ch10-p199" block_type="txt">Public goods are provided through a variety of means. The government doesn&#8217;t always get involved&#8212;in many cases a nongovernmental solution has been found for the free-rider problem. But these solutions are usually imperfect in some way.</p>
+<p id="krugmanwellsessentials4e-ch10-p200" block_type="txt">Some public goods are supplied through voluntary contributions. For example, private donations support a considerable amount of scientific research. But private donations are insufficient to finance huge, socially important projects like basic medical research.</p>
+<p id="krugmanwellsessentials4e-ch10-p201" block_type="txt">Some public goods are supplied by self-interested individuals or firms because those who produce them are able to make money in an indirect way. The classic example is broadcast television, which in the United States is supported entirely by advertising. The downside of such indirect funding is that it skews the nature and quantity of the public goods that are supplied, as well as imposing additional costs on consumers. TV stations show the programs that yield the most advertising revenue (that is, programs best suited for selling prescription drugs, weight-loss strategies, antihistamines, and the like to the segment of the population that buys them), which are not necessarily the programs people most want to see. And viewers must also endure many commercials.</p>
+<p id="krugmanwellsessentials4e-ch10-p202" block_type="txt">Some potentially public goods are deliberately made excludable and therefore subject to charge, like on-demand movies. In the United Kingdom, where most television programming is paid for by a yearly license fee assessed on every television owner (&#163;145.50, or about &#36;245 in 2015), television viewing is made artificially excludable by the use of &#8220;television detection vans&#8221; that roam neighborhoods in an attempt to detect televisions in nonlicensed households and fine them. However, as noted earlier, when suppliers charge a price greater than zero for a nonrival good, consumers will consume an inefficiently low quantity of that good.</p>
+<p id="krugmanwellsessentials4e_page_305" block_type="page_start">305</p>
+<p id="krugmanwellsessentials4e-ch10-p203" block_type="txt">In small communities, a high level of social encouragement or pressure can be brought to bear on people to contribute money or time to provide the efficient level of a public good. Volunteer fire departments, which depend both on the volunteered services of the firefighters themselves and on contributions from local residents, are a good example. But as communities grow larger and more anonymous, social pressure is increasingly difficult to apply, compelling larger towns and cities to tax residents to provide salaried firefighters for fire protection services.</p>
+<p id="krugmanwellsessentials4e-ch10-p204" block_type="txt">As this last example suggests, when these other solutions fail, it is up to the government to provide public goods. Indeed, the most important public goods&#8212;national defense, the legal system, disease control, fire protection in large cities, and so on&#8212;are provided by government and paid for by taxes. Economic theory tells us that the provision of public goods is one of the crucial roles of government.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-14" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="305">
+<section-metadata><section-title>How Much of a Public Good Should Be Provided?</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch10-p205" block_type="txt-ni">In some cases, provision of a public good is an &#8220;either&#8211;or&#8221; decision: London would either have a sewage system&#8212;or not. But in most cases, governments must decide not only whether to provide a public good but also <em>how much</em> of that public good to provide. For example, street cleaning is a public good&#8212;but how often should the streets be cleaned? Once a month? Twice a month? Every other day?</p>
+<p id="krugmanwellsessentials4e-ch10-p206" block_type="txt">Imagine a city in which there are only two residents, Ted and Alice. Assume that the public good in question is street cleaning and that Ted and Alice truthfully tell the government how much they value a unit of the public good, where a unit is equal to one street cleaning per month. Specifically, each of them tells the government <em>his or her willingness to pay for another unit of the public good supplied</em>&#8212;an amount that corresponds to that <em>individual&#8217;s marginal benefit</em> of another unit of the public good.</p>
+<p id="krugmanwellsessentials4e-ch10-p207" block_type="txt">Using this information plus information on the cost of providing the good, the government can use marginal analysis to find the efficient level of providing the public good: the level at which the <em>marginal social benefit</em> of the public good is equal to the marginal cost of producing it. Earlier we explained that the marginal social benefit of a good is the benefit that accrues to society as a whole from the consumption of one additional unit of the good.</p>
+<p id="krugmanwellsessentials4e-ch10-p208" block_type="txt">But what is the marginal social benefit of another unit of a public good&#8212;a unit that generates utility for <em>all</em> consumers, not just one consumer, because it is nonexcludable and nonrival in consumption? This question leads us to an important principle: <em>In the special case of a public good, the marginal social benefit of a unit of the good is equal to the sum of the individual marginal benefits that are enjoyed by all consumers of that unit.</em> Or to consider it from a slightly different angle, if a consumer could be compelled to pay for a unit before consuming it (the good is made excludable), then the marginal social benefit of a unit is equal to the <em>sum</em> of each consumer&#8217;s willingness to pay for that unit. Using this principle, the marginal social benefit of an additional street cleaning per month is equal to Ted&#8217;s individual marginal benefit from that additional cleaning <em>plus</em> Alice&#8217;s individual marginal benefit.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-13" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-21" alt="image" src="images/KrugESS4e_10UN06.jpg"/>
+<caption>We all benefit when someone else does the cleaning up.</caption>
+<asset_source>Telekhovsky/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p209" block_type="txt">Why? Because a public good is nonrival in consumption&#8212;Ted&#8217;s benefit from a cleaner street does not diminish Alice&#8217;s benefit from that same clean street, and vice versa. Because people can all simultaneously consume the same unit of a public good, the marginal social benefit of an additional unit of that good is the <em>sum</em> of the individual marginal benefits of all who enjoy the public good. And the efficient quantity of a public good is the quantity at which the marginal social benefit is equal to the marginal cost of providing it.</p>
+<p id="krugmanwellsessentials4e_page_306" block_type="page_start">306</p>
+<p id="krugmanwellsessentials4e-ch10-p210" block_type="txt"><link href="#krugmanwellsessentials4e-ch10-fig-14">Figure 10-6</link> illustrates the efficient provision of a public good, showing three marginal benefit curves. Panel (a) shows Ted&#8217;s individual marginal benefit curve from street cleaning, <em>MB<sub>T</sub>:</em> he would be willing to pay &#36;25 for the city to clean its streets once a month, an additional &#36;18 to have it done a second time, and so on. Panel (b) shows Alice&#8217;s individual marginal benefit curve from street cleaning, <em>MB<sub>A</sub>.</em> Panel (c) shows the marginal social benefit curve from street cleaning, <em>MSB:</em> it is the vertical sum of Ted&#8217;s and Alice&#8217;s individual marginal benefit curves, <em>MB<sub>T</sub></em> and <em>MB<sub>A</sub>.</em></p>
+<figure id="krugmanwellsessentials4e-ch10-fig-14" block_type="figure" numbered="true" number="10-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch10-fig-14"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>10-6</strong></phrase></phrase> <phrase block_type="fig_title">A Public Good</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch10-img-22" alt="image" src="images/KrugESS4e_fig_10_06abc.jpg"/>
+<caption>Panel (a) shows Ted&#8217;s individual marginal benefit curve of street cleanings per month, <em>MB<sub>T</sub></em>, and panel (b) shows Alice&#8217;s individual marginal benefit curve, <em>MB<sub>A</sub></em>. Panel (c) shows the marginal social benefit of the public good, equal to the sum of the individual marginal benefits to all consumers (in this case, Ted and Alice). The marginal social benefit curve, <em>MS<sub>B</sub></em>, is the vertical sum of the individual marginal benefit curves <em>MB<sub>T</sub></em> and <em>MB<sub>A</sub></em>. At a constant marginal cost of &#36;6, there should be 5 street cleanings per month, because the marginal social benefit of going from 4 to 5 cleanings is &#36;8 (&#36;3 for Ted plus &#36;5 for Alice), but the marginal social benefit of going from 5 to 6 cleanings is only &#36;2.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p211" block_type="txt">To maximize society&#8217;s welfare, the government should clean the street up to the level at which the marginal social benefit of an additional cleaning is no longer greater than the marginal cost. Suppose that the marginal cost of street cleaning is &#36;6 per cleaning. Then the city should clean its streets 5 times per month, because the marginal social benefit of going from 4 to 5 cleanings is &#36;8, but going from 5 to 6 cleanings would yield a marginal social benefit of only &#36;2.</p>
+<p id="krugmanwellsessentials4e_page_307" block_type="page_start">307</p>
+<p id="krugmanwellsessentials4e-ch10-p212" block_type="txt"><link href="#krugmanwellsessentials4e-ch10-fig-14">Figure 10-6</link> can help reinforce our understanding of why we cannot rely on individual self-interest to yield provision of an efficient quantity of public goods. Suppose that the city did one fewer street cleaning than the efficient quantity and that either Ted or Alice was asked to pay for the last cleaning. Neither one would be willing to pay for it! Ted would personally gain only the equivalent of &#36;3 in utility from adding one more street cleaning&#8212;so he wouldn&#8217;t be willing to pay the &#36;6 marginal cost of another cleaning. Alice would personally gain the equivalent of &#36;5 in utility&#8212;so she wouldn&#8217;t be willing to pay either.</p>
+<p id="krugmanwellsessentials4e-ch10-p213" block_type="txt">The point is that the marginal social benefit of one more unit of a public good is always greater than the individual marginal benefit to any one individual. That is why no individual is willing to pay for the efficient quantity of the good.</p>
+<p id="krugmanwellsessentials4e-ch10-p214" block_type="txt">Does this description of the public-good problem, in which the marginal social benefit of an additional unit of the public good is greater than any individual&#8217;s marginal benefit, sound a bit familiar? It should: we encountered a somewhat similar situation in our discussion of <em>positive externalities.</em> Remember that in the case of a positive externality, the marginal social benefit accruing to all consumers of another unit of the good is greater than the price that the producer receives for that unit; as a result, the market produces too little of the good.</p>
+<p id="krugmanwellsessentials4e-ch10-p215" block_type="txt">In the case of a public good, the individual marginal benefit of a consumer plays the same role as the price received by the producer in the case of positive externalities: both cases create insufficient incentive to provide an efficient amount of the good.</p>
+<p id="krugmanwellsessentials4e-ch10-p216" block_type="txt">The problem of providing public goods is very similar to the problem of dealing with positive externalities; in both cases there is a market failure that calls for government intervention. One basic rationale for the existence of government is that it provides a way for citizens to tax themselves in order to provide public goods&#8212;particularly a vital public good like national defense.</p>
+<p id="krugmanwellsessentials4e-ch10-p217" block_type="txt">Of course, if society really consisted of only two individuals, they would probably manage to strike a deal to provide the good. But imagine a city with a million residents, each of whose individual marginal benefit from provision of the good is only a tiny fraction of the marginal social benefit. It would be impossible for people to reach a voluntary agreement to pay for the efficient level of street cleaning&#8212;the potential for free-riding makes it too difficult to make and enforce an agreement among so many people. But they could and would vote to tax themselves to pay for a citywide sanitation department.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec2-15" block_type="h2" title="" chapter="10" numbered="false" level="2" print_page="307">
+<section-metadata><section-title>Cost-Benefit Analysis</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp3-22" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch10-p218" block_type="mn-gl-def"><strong>Cost-benefit analysis</strong> is the estimation and comparison of the social costs and social benefits of providing a public good.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p219" block_type="txt-ni">How do governments decide in practice how much of a public good to provide? Sometimes policy makers just guess&#8212;or do whatever they think will get them reelected. However, responsible governments try to estimate and compare both the social benefits and the social costs of providing a public good, a process known as <strong>cost-benefit analysis.</strong></p>
+<p id="krugmanwellsessentials4e-ch10-p220" block_type="txt">It&#8217;s straightforward to estimate the cost of supplying a public good. Estimating the benefit is harder. In fact, it is a very difficult problem.</p>
+<p id="krugmanwellsessentials4e-ch10-p221" block_type="txt">You might wonder why governments can&#8217;t figure out the marginal social benefit of a public good just by asking people their willingness to pay for it (their individual marginal benefit). But it turns out that it&#8217;s hard to get an honest answer.</p>
+<p id="krugmanwellsessentials4e-ch10-p222" block_type="txt">This is not a problem with private goods: we can determine how much an individual is willing to pay for one more unit of a private good by looking at his or her actual choices. But because people don&#8217;t actually pay for public goods, the question of willingness to pay is always hypothetical.</p>
+<p id="krugmanwellsessentials4e_page_308" block_type="page_start">308</p>
+<p id="krugmanwellsessentials4e-ch10-p223" block_type="txt">Worse yet, it&#8217;s a question that people have an incentive not to answer truthfully. People naturally want more rather than less. Because they cannot be made to pay for whatever quantity of the public good they use, people are apt to overstate their true feelings when asked how much they desire a public good. For example, if street cleaning were scheduled according to the stated wishes of homeowners alone, the streets would be cleaned every day&#8212;an inefficient level of provision.</p>
+<p id="krugmanwellsessentials4e-ch10-p224" block_type="txt">So governments must be aware that they cannot simply rely on the public&#8217;s statements when deciding how much of a public good to provide&#8212;if they do, they are likely to provide too much. In contrast, relying on the public to indicate how much of the public good they want through voting has problems as well&#8212;and is likely to lead to too little of the public good being provided.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx2-4" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch10-p226" block_type="bx-2-t"><strong>Old Man River</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p225" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-24" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p227" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>t just keeps rolling along&#8212;but now and then it decides to roll in a different direction. In fact, the Mississippi River changes its course every few hundred years. Sediment carried downstream gradually clogs the river&#8217;s route to the sea, and eventually the river breaches its banks and opens a new channel. Over the millennia, the mouth of the Mississippi has swung back and forth along an arc some 200 miles wide.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-25" alt="image" src="images/KrugESS4e_10UN07.jpg"/>
+<caption>The Old River Control Structure helps to keep the Mississippi on course.</caption>
+<asset_source>Jim Wark/Air Photo</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p228" block_type="bx2-txt">So when is the Mississippi due to change course again? Oh, about 45 years ago.</p>
+<p id="krugmanwellsessentials4e-ch10-p229" block_type="bx2-txt">The Mississippi currently runs to the sea past New Orleans; but by 1950 it was apparent that the river was about to shift course, taking a new route to the sea. If the Army Corps of Engineers hadn&#8217;t gotten involved, the shift would probably have happened by 1970.</p>
+<p id="krugmanwellsessentials4e-ch10-p230" block_type="bx2-txt">A shift in the Mississippi would have severely damaged the Louisiana economy. A major industrial area would have lost good access to the ocean, and salt water would have contaminated much of its water supply. So the Army Corps of Engineers has kept the Mississippi in its place with a huge complex of dams, walls, and gates known as the Old River Control Structure. At times the amount of water released by this control structure is five times the flow at Niagara Falls.</p>
+<p id="krugmanwellsessentials4e-ch10-p231" block_type="bx2-txt">The Old River Control Structure is a dramatic example of a public good. No individual would have had an incentive to build it, yet it protects many billions of dollars&#8217; worth of private property. The history of the Army Corps of Engineers, which handles water-control projects across the United States, illustrates a persistent problem associated with government provision of public goods: everyone wants a project that benefits his or her own property&#8212;if other people are going to pay for it. So there is a systematic tendency for potential beneficiaries of Corps projects to overstate the benefits. And theCorps has become notorious for undertaking expensive projects that cannot be justified with any reasonable cost-benefit analysis.</p>
+<p id="krugmanwellsessentials4e-ch10-p232" block_type="bx2-txt">The flip-side of the problem of overfunding of public projects is chronic underfunding. A tragic illustration of this problem was the devastation of New Orleans by Hurricane Katrina in 2005.</p>
+<p id="krugmanwellsessentials4e-ch10-p233" block_type="bx2-txt">Although it was well understood from the time of its founding that New Orleans was at risk for severe flooding because it sits below sea level, very little was done to shore up the crucial system of levees and pumps that protects the city. More than 50 years of inadequate funding for construction and maintenance, coupled with inadequate supervision, left the system weakened and unable to cope with the onslaught from Katrina. The catastrophe was compounded by the failure of local and state government to develop an evacuation plan in the event of a hurricane. In the end, because of this neglect of a public good, 1,464 people in and around New Orleans lost their lives and the city suffered economic losses totaling billions of dollars.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_309" block_type="page_start">309</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch10-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch10-list-12" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch10-p234" block_type="sr1-bl">Goods can be classified according to two attributes: whether they are <strong>excludable</strong> and whether they are <strong>rival in consumption.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p235" block_type="sr1-bl">Goods that are both excludable and rival in consumption are <strong>private goods.</strong> Private goods can be efficiently produced and consumed in a competitive market.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p236" block_type="sr1-bl">When goods are <strong>nonexcludable,</strong> there is a <strong>free-rider problem:</strong> consumers will not pay producers, leading to inefficiently low production.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p237" block_type="sr1-bl">When goods are <strong>nonrival in consumption,</strong> the efficient price for consumption is zero.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p238" block_type="sr1-bl">A <strong>public good</strong> is both nonexcludable and nonrival in consumption.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p239" block_type="sr1-bl">Although governments should rely on <strong>cost-benefit analysis</strong> to determine how much of a public good to supply, doing so is problematic because individuals tend to overstate the good&#8217;s value to them.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx6-4" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">10-4</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch10-p240" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> Classify each of the following goods according to whether they are excludable and whether they are rival in consumption. What kind of good is each?</p>
+<list id="krugmanwellsessentials4e-ch10-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p241" block_type="sr2-nl-lvl2">Use of a public space such as a park</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p242" block_type="sr2-nl-lvl2">A cheese burrito</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p243" block_type="sr2-nl-lvl2">Information from a website that is password-protected</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p244" block_type="sr2-nl-lvl2">Publicly announced information on the path of an incoming hurricane</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch10-p245" block_type="cr-que-nl-first"><phrase block_type="qnum">2.</phrase> The town of Centreville, population 16, has two types of residents, Homebodies and Revelers. Using the accompanying table, the town must decide how much to spend on its New Year&#8217;s Eve party. No individual resident expects to directly bear the cost of the party.</p>
+<table id="krugmanwellsessentials4e-ch10-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-2" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td rowspan="2"><strong>Money spent<br/>on party</strong></td>
+<td colspan="2" class="tbl-bborder"><strong>Individual marginal benefit of<br/>additional &#36;1 spent on party</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Homebody</strong></td>
+<td><strong>Reveler</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>&#36;0</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>&#36;0.05</td>
+<td>&#36;0.13</td>
+</tr>
+<tr class="tbl-td-light">
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>0.04</td>
+<td>0.11</td>
+</tr>
+<tr class="tbl-td-light">
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>0.03</td>
+<td>0.09</td>
+</tr>
+<tr class="tbl-td-light">
+<td>3</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>0.02</td>
+<td>0.07</td>
+</tr>
+<tr class="tbl-td-light">
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch10-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p246" block_type="sr2-nl-lvl2">Suppose there are 10 Homebodies and 6 Revelers. Determine the marginal social benefit schedule of money spent on the party. What is the efficient level of spending?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p247" block_type="sr2-nl-lvl2">Suppose there are 6 Homebodies and 10 Revelers. How do your answers to part a change? Explain.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p248" block_type="sr2-nl-lvl2">Suppose that the individual marginal benefit schedules are known but no one knows the true proportion of Homebodies versus Revelers. Individuals are asked their preferences. What is the likely outcome if each person assumes that others will pay for any additional amount of the public good? Why is it likely to result in an inefficiently high level of spending? Explain.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch10-p249" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-5" block_type="solved_problem" title="" chapter="10" numbered="true" level="1" print_page="309">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch10-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">The Not So Sweet Smell of Success</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p250" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-26" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p251" block_type="wio-txt-ni">Americans have become passionate consumers of the Asian hot sauce, Sriracha. This red sauce with a rooster on the label can be found on condiment counters across the country. Fast-food chains like Pizza Hut and Subway have even created Sriracha-infused menu items such as honey Sriracha pizza crust and Sriracha chicken melt.</p>
+<p id="krugmanwellsessentials4e-ch10-p252" block_type="wio-txt">Sriracha is produced by Huy Fong Foods in Irwindale, California. Each year the company processes over 100 million pounds of chili peppers to make their delectable sauce. But roasting all of those chili peppers has had an unintended consequence: pollution. In 2013, local residents began complaining about a pungent odor from the plant that they believed led to heartburn, nosebleeds, and coughing.</p>
+<p id="krugmanwellsessentials4e-ch10-p253" block_type="wio-txt">The hypothetical table shows the estimated marginal social benefit (<em>MSB</em>) and marginal social cost (<em>MSC</em>) of pollution that arises from odor emissions. How can the pollution that results from Sriracha production have a marginal social benefit?</p>
+<p id="krugmanwellsessentials4e-ch10-p254" block_type="wio-txt">As we&#8217;ve seen, avoiding pollution requires using scarce resources that could have been used to produce other goods and services. The more pollution companies are allowed to emit, the lower the extra costs imposed on them. The social benefit from the pollution is the money the company saves by not having to invest in new equipment to reduce the odors that have resulted from Sriracha production. Generally, the costs of reducing pollution decrease with the amount of pollution that is allowed, so the marginal social benefit decreases as pollution increases.</p>
+<p id="krugmanwellsessentials4e_page_310" block_type="page_start">310</p>
+<table id="krugmanwellsessentials4e-ch10-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-3" data-target="_pop">
+<table_caption><strong>Marginal Social Cost and Benefit of Odor</strong></table_caption>
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of odor<br/>emissions (thousands of odor units)</strong></td>
+<td class="tbl-rborder"><strong>Marginal social<br/>benefit<br/>(&#36; per odor unit)</strong></td>
+<td><strong>Marginal<br/>social cost<br/>(&#36; per odor unit)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td class="tbl-rborder">&#36;80</td>
+<td>&#36; 0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td class="tbl-rborder">72</td>
+<td>8</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td class="tbl-rborder">64</td>
+<td>16</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td class="tbl-rborder">56</td>
+<td>24</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td class="tbl-rborder">48</td>
+<td>32</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td class="tbl-rborder">40</td>
+<td>40</td>
+</tr>
+<tr class="tbl-light">
+<td class="tbl-rborder">6</td>
+<td class="tbl-rborder">32</td>
+<td>48</td>
+</tr>
+<tr class="tbl-dark">
+<td class="tbl-rborder">7</td>
+<td class="tbl-rborder">24</td>
+<td>56</td>
+</tr>
+<tr class="tbl-light">
+<td class="tbl-rborder">8</td>
+<td class="tbl-rborder">16</td>
+<td>64</td>
+</tr>
+<tr class="tbl-dark">
+<td class="tbl-rborder">9</td>
+<td class="tbl-rborder">8</td>
+<td>72</td>
+</tr>
+<tr class="tbl-light">
+<td class="tbl-rborder">10</td>
+<td class="tbl-rborder">0</td>
+<td>80</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch10-p255" block_type="wio-txt">Graph the marginal social cost and marginal social benefit of odor. What is the market-determined quantity of odor? What is the social gain from reducing the market-determined quantity of odor by one odor unit?</p>
+<p id="krugmanwellsessentials4e-ch10-p256" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Draw and label marginal social benefit and marginal social cost curves. Find the optimal level of odor units.</strong>
+<phrase block_type="step-subtext">Review pages 288&#8211;289 and <link href="#krugmanwellsessentials4e-ch10-fig-4">Figure 10-1</link></phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch10-p257" block_type="wio-txt-ni">The optimal social quantity of pollution is at the point where the marginal social benefit of polluting equals the marginal social cost of polluting. As shown in the accompanying figure, this occurs at point O, the intersection of the marginal social cost curve and the marginal social benefit curve. At point O, the optimal quantity of odor emissions is 5 thousand odor units and the marginal social benefit of odor emissions, which equals the marginal social cost of odor emissions, is &#36;40 per odor unit.</p>
+<figure id="krugmanwellsessentials4e-ch10-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch10-img-27" alt="image" src="images/KrugESS4e_10UN08.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch10-p258" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Find the market-determined quantity of pollution.</strong>
+<phrase block_type="step-subtext">Review pages 289&#8211;290.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch10-p259" block_type="wio-txt-ni">The market-determined quantity of pollution will be at the point where the marginal benefits to polluters are zero. As there are no marginal social benefits to pollution beyond the cost savings realized by the polluters themselves, the market-determined quantity will be at the point where the marginal social benefit of pollution is zero. This occurs at an odor emissions level of 10 thousand odor units, as shown at point A on the figure.</p>
+<p id="krugmanwellsessentials4e-ch10-p260" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Find the social gain from reducing the quantity of pollution by one odor unit from the market-determined level.</strong>
+<phrase block_type="step-subtext">Review pages 289&#8211;290.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch10-p261" block_type="wio-txt-ni">Moving up from point A to point B in the figure, we can see that the marginal social cost of polluting at the market-determined level of 10 thousand odor units is high at &#36;80 per unit. The marginal social benefit at point A is zero. As the marginal cost per odor unit of polluting at a level of 10 thousand odor units is &#36;80 per unit and the marginal social benefit per unit of polluting at that level is zero, reducing the quantity of pollution by one odor unit leads to a net gain in total surplus of approximately &#36;80 &#8722; 0 = &#36;80.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_311" block_type="page_start">311</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-6" block_type="cr-que-t" title="" chapter="10" numbered="true" level="1" print_page="311">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch10-list-15" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch10-p262" block_type="sum-nl">The costs to society of pollution are an example of an <strong>external cost;</strong> in some cases, however, economic activities yield <strong>external benefits.</strong> External costs and benefits are jointly known as <strong>externalities,</strong> with external costs called <strong>negative externalities</strong> and external benefits called <strong>positive externalities.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p263" block_type="sum-nl">When pollution can be directly observed and controlled, government policies should be geared directly to producing the <strong>socially optimal quantity of pollution,</strong> the quantity at which the <strong>marginal social cost of pollution</strong> is equal to the <strong>marginal social benefit of pollution.</strong> In the absence of government intervention, a market produces too much pollution because polluters take only their benefit from polluting into account, not the costs imposed on others.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p264" block_type="sum-nl">According to the <strong>Coase theorem,</strong> individuals can find a way to <strong>internalize the externality,</strong> making government intervention unnecessary, as long as <strong>transaction costs&#8212;</strong>the costs of making a deal&#8212;are sufficiently low. However, in many cases transaction costs are too high to permit such deals.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p265" block_type="sum-nl">Governments often deal with pollution by imposing <strong>environmental standards,</strong> a method, economists argue, that is usually an inefficient way to reduce pollution. Two efficient (cost-minimizing) methods for reducing pollution are <strong>emissions taxes,</strong> a form of <strong>Pigouvian tax,</strong> and <strong>tradable emissions permits.</strong> The optimal Pigouvian tax on pollution is equal to its marginal social cost at the socially optimal quantity of pollution. These methods also provide incentives for the creation and adoption of production technologies that cause less pollution.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p266" block_type="sum-nl">When a good or activity yields external benefits, or positive externalities, such as <strong>technology spillovers,</strong> then an optimal <strong>Pigouvian subsidy</strong> to producers moves the market to the socially optimal quantity of production.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p267" block_type="sum-nl">Goods may be classified according to whether or not they are <strong>excludable</strong> and whether or not they are <strong>rival in consumption.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p268" block_type="sum-nl">Free markets can deliver efficient levels of production and consumption for <strong>private goods,</strong> which are both excludable and rival in consumption. When goods are nonexcludable or nonrival in consumption, or both, free markets cannot achieve efficient outcomes.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p269" block_type="sum-nl">When goods are <strong>nonexcludable,</strong> there is a <strong>free-rider problem:</strong> some consumers will not pay for the good, consuming what others have paid for and leading to inefficiently low production. When goods are <strong>nonrival in consumption,</strong> they should be free, and any positive price leads to inefficiently low consumption.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p270" block_type="sum-nl">A <strong>public good</strong> is nonexcludable and nonrival in consumption. In most cases a public good must be supplied by the government. The marginal social benefit of a public good is equal to the sum of the individual marginal benefits to each consumer. The efficient quantity of a public good is the quantity at which marginal social benefit equals the marginal cost of providing the good. Like a positive externality, marginal social benefit is greater than any one individual&#8217;s marginal benefit, so no individual is willing to provide the efficient quantity.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p271" block_type="sum-nl">One rationale for the presence of government is that it allows citizens to tax themselves in order to provide public goods. Governments use <strong>cost-benefit analysis</strong> to determine the efficient provision of a public good. Such analysis is difficult, however, because individuals have an incentive to overstate the good&#8217;s value to them.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-7" block_type="cr-kt-t" title="" chapter="10" numbered="true" level="1" print_page="311">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p272" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-28" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch10-p273" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p16">External cost, p. 287</link></p>
+<p id="krugmanwellsessentials4e-ch10-p274" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p18">External benefit, p. 287</link></p>
+<p id="krugmanwellsessentials4e-ch10-p275" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p20">Externalities, p. 287</link></p>
+<p id="krugmanwellsessentials4e-ch10-p276" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p20">Negative externalities, p. 287</link></p>
+<p id="krugmanwellsessentials4e-ch10-p277" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p20">Positive externalities, p. 287</link></p>
+<p id="krugmanwellsessentials4e-ch10-p278" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p31">Marginal social cost of pollution, p. 288</link></p>
+<p id="krugmanwellsessentials4e-ch10-p279" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p34">Marginal social benefit of pollution, p. 288</link></p>
+<p id="krugmanwellsessentials4e-ch10-p280" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p38">Socially optimal quantity of pollution, p. 288</link></p>
+<p id="krugmanwellsessentials4e-ch10-p281" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p48">Coase theorem, p. 290</link></p>
+<p id="krugmanwellsessentials4e-ch10-p282" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p48">Transaction costs, p. 290</link></p>
+<p id="krugmanwellsessentials4e-ch10-p283" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p51">Internalize the externality, p. 291</link></p>
+<p id="krugmanwellsessentials4e-ch10-p284" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p80">Environmental standards, p. 293</link></p>
+<p id="krugmanwellsessentials4e-ch10-p285" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p83">Emissions tax, p. 293</link></p>
+<p id="krugmanwellsessentials4e-ch10-p286" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p86">Pigouvian tax, p. 294</link></p>
+<p id="krugmanwellsessentials4e-ch10-p287" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p95">Tradable emissions permits, p. 295</link></p>
+<p id="krugmanwellsessentials4e-ch10-p288" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p135">Pigouvian subsidy, p. 300</link></p>
+<p id="krugmanwellsessentials4e-ch10-p289" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p138">Technology spillover, p. 300</link></p>
+<p id="krugmanwellsessentials4e-ch10-p290" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p164">Excludable, p. 302</link></p>
+<p id="krugmanwellsessentials4e-ch10-p291" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p166">Rival in consumption, p. 302</link></p>
+<p id="krugmanwellsessentials4e-ch10-p292" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p168">Private good, p. 302</link></p>
+<p id="krugmanwellsessentials4e-ch10-p293" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p170">Nonexcludable, p. 302</link></p>
+<p id="krugmanwellsessentials4e-ch10-p294" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p172">Nonrival in consumption, p. 302</link></p>
+<p id="krugmanwellsessentials4e-ch10-p295" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p183">Free-rider problem, p. 303</link></p>
+<p id="krugmanwellsessentials4e-ch10-p296" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p193">Public good, p. 304</link></p>
+<p id="krugmanwellsessentials4e-ch10-p297" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch10-p219">Cost-benefit analysis, p. 307</link></p>
+<p id="krugmanwellsessentials4e_page_312" block_type="page_start">312</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-8" block_type="cr-que-t" title="" chapter="10" numbered="true" level="1" print_page="312">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch10-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch10-p298" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase>What type of externality (positive or negative) is present in each of the following examples? Is the marginal social benefit of the activity greater than or equal to the marginal benefit to the individual? Is the marginal social cost of the activity greater than or equal to the marginal cost to the individual? Without intervention, will there be too little or too much (relative to what would be socially optimal) of this activity?</p>
+<list id="krugmanwellsessentials4e-ch10-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p299" block_type="cr-que-ans-first">Mr. Chau plants lots of colorful flowers in his front yard.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p300" block_type="cr-que-ans-mid">Your next-door neighbor likes to build bonfires in his backyard, and sparks often drift onto your house.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p301" block_type="cr-que-ans-mid">Maija, who lives next to an apple orchard, decides to keep bees to produce honey.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p302" block_type="cr-que-ans-mid">Justine buys a large SUV that consumes a lot of gasoline.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch10-p303" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> Many dairy farmers in California are adopting a new technology that allows them to produce their own electricity from methane gas captured from animal waste. (One cow can produce up to 2 kilowatts a day.) This practice reduces the amount of methane gas released into the atmosphere. In addition to reducing their own utility bills, the farmers are allowed to sell any electricity they produce at favorable rates.</p>
+<list id="krugmanwellsessentials4e-ch10-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p304" block_type="cr-que-ans-first">Explain how the ability to earn money from capturing and transforming methane gas behaves like a Pigouvian tax on methane gas pollution and can lead dairy farmers to emit the efficient amount of methane gas pollution.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p305" block_type="cr-que-ans-mid">Suppose some dairy farmers have lower costs of transforming methane into electricity than others. Explain how this system of capturing and selling methane gas leads to an efficient allocation of emissions reduction among farmers.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch10-p306" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> According to a report from the U.S. Census Bureau, &#8220;the average [lifetime] earnings of a full-time, year round worker with a high school education are about &#36;1.2 million compared with &#36;2.1 million for a college graduate.&#8221; This indicates that there is a considerable benefit to a graduate from investing in his or her own education. Tuition at most state universities covers only about two-thirds to three-quarters of the cost, so the state applies a Pigouvian subsidy to college education.</p>
+<p id="krugmanwellsessentials4e-ch10-p307" block_type="cr-que-nl-mid">If a Pigouvian subsidy is appropriate, is the externality created by a college education a positive or a negative externality? What does this imply about the differences between the costs and benefits to students compared to social costs and benefits? What are some reasons for the differences?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch10-p308" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> The city of Falls Church, Virginia, subsidizes the planting of trees in homeowners&#8217; front yards when they are within 15 feet of the street.</p>
+<list id="krugmanwellsessentials4e-ch10-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p309" block_type="cr-que-ans-first">Using concepts in the chapter, explain why a municipality would subsidize planting trees on private property, but near the street.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p310" block_type="cr-que-ans-mid">Draw a diagram similar to <link href="#krugmanwellsessentials4e-ch10-fig-10">Figure 10-4</link> that shows the marginal social benefit, the marginal social cost, and the optimal Pigouvian subsidy on planting trees.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch10-p311" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> Fishing for sablefish has been so intensive that sablefish were threatened with extinction. After several years of banning such fishing, the government is now proposing to introduce tradable vouchers, each of which entitles its holder to a catch of a certain size. Explain how uncontrolled fishing generates a negative externality and how the voucher scheme may overcome the inefficiency created by this externality.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch10-p312" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> The two dry-cleaning companies in Collegetown, College Cleaners and Big Green Cleaners, are a major source of air pollution. Together they currently produce 350 units of air pollution, which the town wants to reduce to 200 units. The accompanying table shows the current pollution level produced by each company and each company&#8217;s marginal cost of reducing its pollution. The marginal cost is constant.</p>
+<table id="krugmanwellsessentials4e-ch10-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-4" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-ljust"><strong>Companies</strong></td>
+<td class="tbl-lborder"><strong>Initial pollution level (units)</strong></td>
+<td class="tbl-lborder"><strong>Marginal cost of reducing pollution (per unit)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-ljust">College Cleaners</td>
+<td class="tbl-lborder">230</td>
+<td class="tbl-lborder">&#36;5</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-ljust">Big Green Cleaners</td>
+<td class="tbl-lborder">120</td>
+<td class="tbl-lborder">&#36;2</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch10-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p313" block_type="cr-que-ans-first">Suppose that Collegetown passes an environmental standards law that limits each company to 100 units of pollution. What would be the total cost to the two companies of each reducing its pollution emissions to 100 units?</p>
+<p id="krugmanwellsessentials4e-ch10-p314" block_type="cr-que-nl-mid">Suppose instead that Collegetown issues 100 pollution vouchers to each company, each entitling the company to one unit of pollution, and that these vouchers can be traded.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p315" block_type="cr-que-ans-mid">How much is each pollution voucher worth to College Cleaners? To Big Green Cleaners? (That is, how much would each company, at most, be willing to pay for one more voucher?)</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p316" block_type="cr-que-ans-mid">Who will sell vouchers and who will buy them? How many vouchers will be traded?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p317" block_type="cr-que-ans-mid">What is the total cost to the two companies of the pollution controls under this voucher system?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch10-p318" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> The government is involved in providing many goods and services. For each of the goods or services listed, determine whether it is rival or nonrival in consumption and whether it is excludable or nonexcludable. What type of good is it? Without government involvement, would the quantity provided be efficient, inefficiently low, or inefficiently high?</p>
+<list id="krugmanwellsessentials4e-ch10-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p319" block_type="cr-que-ans-first">Street signs</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p320" block_type="cr-que-ans-mid">Amtrak rail service</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p321" block_type="cr-que-ans-mid">Regulations limiting pollution</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p322" block_type="cr-que-ans-mid">A congested interstate highway without tolls</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p323" block_type="cr-que-ans-mid">A lighthouse on the coast</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_313" block_type="page_start">313</p>
+<question id="krugmanwellsessentials4e-ch10-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch10-p324" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> An economist gives the following advice to a museum director: &#8220;You should introduce &#8216;peak pricing.&#8217; At times when the museum has few visitors, you should admit visitors for free. And at times when the museum has many visitors, you should charge a higher admission fee.&#8221;</p>
+<list id="krugmanwellsessentials4e-ch10-list-21" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p325" block_type="cr-que-ans-first">When the museum is quiet, is it rival or nonrival in consumption? Is it excludable or nonexcludable? What type of good is the museum at those times? What would be the efficient price to charge visitors during that time, and why?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p326" block_type="cr-que-ans-mid">When the museum is busy, is it rival or nonrival in consumption? Is it excludable or nonexcludable? What type of good is the museum at those times? What would be the efficient price to charge visitors during that time, and why?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch10-p327" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> In many planned communities, various aspects of community living are subject to regulation by a homeowners&#8217; association. These rules can regulate house architecture; require snow removal from sidewalks; exclude outdoor equipment, such as backyard swimming pools; require appropriate conduct in shared spaces such as the community clubhouse; and so on. Suppose there has been some conflict in one such community because some homeowners feel that some of the regulations mentioned above are overly intrusive. You have been called in to mediate. Using what you have learned about public goods and common resources, how would you decide what types of regulations are warranted and what types are not?</p>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch10-p328" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> The accompanying table shows Tanisha&#8217;s and Ari&#8217;s individual marginal benefit of different amounts of street cleanings per month. Suppose that the marginal cost of street cleanings is constant at &#36;9 each.</p>
+<table id="krugmanwellsessentials4e-ch10-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-5" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity of<br/>street cleanings<br/>per month</strong></td>
+<td><strong>Tanisha&#8217;s<br/>individual<br/>marginal benefit</strong></td>
+<td><strong>Ari&#8217;s<br/>individual<br/>marginal benefit</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>0</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>&#36;10</td>
+<td>&#36;8</td>
+</tr>
+<tr class="tbl-td-light">
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr class="tbl-td-light">
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="tbl-td-light">
+<td>3</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch10-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p329" block_type="cr-que-ans-first">If Tanisha had to pay for street cleaning on her own, how many street cleanings would there be?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p330" block_type="cr-que-ans-mid">Calculate the marginal social benefit of street cleaning. What is the optimal number of street cleanings?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p331" block_type="cr-que-ans-mid">Consider the optimal number of street cleanings. The last street cleaning of that number costs &#36;9. Is Tanisha willing to pay for that last cleaning on her own? Is Ari willing to pay for that last cleaning on his own?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch10-p332" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> Voluntary environmental programs were extremely popular in the United States, Europe, and Japan in the 1990s. Part of their popularity stems from the fact that these programs do not require legislative authority, which is often hard to obtain. The 33/50 program started by the Environmental Protection Agency (EPA) is an example of such a program. With this program, the EPA attempted to reduce industrial emissions of 17 toxic chemicals by providing information on relatively inexpensive methods of pollution control. Companies were asked to voluntarily commit to reducing emissions from their 1988 levels by 33&#37; by 1992 and by 50&#37; by 1995. The program actually met its second target by 1994.</p>
+<list id="krugmanwellsessentials4e-ch10-list-23" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p333" block_type="cr-que-ans-first">As in <link href="#krugmanwellsessentials4e-ch10-fig-8">Figure 10-3</link>, draw marginal benefit curves for pollution generated by two plants, A and B, in 1988. Assume that without government intervention, each plant emits the same amount of pollution, but that at all levels of pollution less than this amount, plant A&#8217;s marginal benefit of polluting is less than that of plant B. Label the vertical axis &#8220;Marginal benefit to individual polluter&#8221; and the horizontal axis &#8220;Quantity of pollution emissions.&#8221; Mark the quantity of pollution each plant produces without government action.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p334" block_type="cr-que-ans-mid">Do you expect the total quantity of pollution before the program was put in place to have been less than or more than the optimal quantity of pollution? Why?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p335" block_type="cr-que-ans-mid">Suppose the plants whose marginal benefit curves you depicted in part a were participants in the 33/50 program. In a replica of your graph from part a, mark targeted levels of pollution in 1995 for the two plants. Which plant was required to reduce emissions more? Was this solution necessarily efficient?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p336" block_type="cr-que-ans-mid">What kind of environmental policy does the 33/50 program most closely resemble? What is the main shortcoming of such a policy? Compare it to two other types of environmental policies discussed in this chapter.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch10-p337" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> In developing a vaccine for the SARS virus, a pharmaceutical company incurs a very high fixed cost. The marginal cost of delivering the vaccine to patients, however, is negligible (consider it to be equal to zero). The pharmaceutical company holds the exclusive patent to the vaccine. You are a regulator who must decide what price the pharmaceutical company is allowed to charge.</p>
+<list id="krugmanwellsessentials4e-ch10-list-24" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p338" block_type="cr-que-ans-first">Draw a diagram that shows the price for the vaccine that would arise if the company is unregulated, and label it <em>P<sub>M</sub>.</em> What is the efficient price for the vaccine? Show the deadweight loss that arises from the price <em>P<sub>M</sub>.</em></p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p339" block_type="cr-que-ans-mid">On another diagram, show the lowest price that the regulator can enforce that would still induce the pharmaceutical company to develop the vaccine. Label it <em>P</em>*. Show the deadweight loss that arises from this price. How does it compare to the deadweight loss that arises from the price <em>P<sub>M</sub></em>?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p340" block_type="cr-que-ans-mid">Suppose you have accurate information about the pharmaceutical company&#8217;s fixed cost. How could you use price regulation of the pharmaceutical company, combined with a subsidy to the company, to have the efficient quantity of the vaccine provided at the lowest cost to the government?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_314" block_type="page_start">314</p>
+</section>
+<section id="krugmanwellsessentials4e-ch10-sec1-9" block_type="sum-h" title="" chapter="10" numbered="true" level="1" print_page="314">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch10-exp2-8" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch10-p341" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch10-img-29" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch10-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch10-p342" block_type="cr-wio-nl-first"><phrase block_type="qnum">13.</phrase> The loud music coming from the sorority next to your dorm is a negative externality that can be directly quantified. The following table shows the marginal social benefit and the marginal social cost per decibel (dB, a measure of volume) of music.</p>
+<table id="krugmanwellsessentials4e-ch10-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-6" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Volume of<br/>music (dB)</strong></td>
+<td><strong>Marginal social<br/>benefit of dB</strong></td>
+<td><strong>Marginal social<br/>cost of dB</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>90</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>&#36;36</td>
+<td>&#36;0</td>
+</tr>
+<tr class="tbl-td-light">
+<td>91</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>30</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-light">
+<td>92</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>24</td>
+<td>4</td>
+</tr>
+<tr class="tbl-td-light">
+<td>93</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>18</td>
+<td>6</td>
+</tr>
+<tr class="tbl-td-light">
+<td>94</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>12</td>
+<td>8</td>
+</tr>
+<tr class="tbl-td-light">
+<td>95</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>6</td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-light">
+<td>96</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td>0</td>
+<td>12</td>
+</tr>
+<tr class="tbl-td-light">
+<td>97</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch10-list-25" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p343" block_type="cr-wio-ans-first">Draw the marginal social benefit curve and the marginal social cost curve. Use your diagram to determine the socially optimal volume of music.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p344" block_type="cr-wio-ans-mid">Only the members of the sorority benefit from the music, and they bear none of the cost. Which volume of music will they choose?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p345" block_type="cr-wio-ans-mid">The college imposes a Pigouvian tax of &#36;3 per decibel of music played. From your diagram, determine the volume of music the sorority will now choose.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch10-question-14" block_type="q_prob" number="14">
+<p id="krugmanwellsessentials4e-ch10-p346" block_type="cr-wio-nl-first"><phrase block_type="qnum">14.</phrase> A residential community has 100 residents who are concerned about security. This table gives the total cost of hiring a 24-hour security service as well as each individual resident&#8217;s total benefit.</p>
+<table id="krugmanwellsessentials4e-ch10-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch10-untab-7" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of<br/>security guards</strong></td>
+<td class="tbl-rborder"><strong>Total cost</strong></td>
+<td><strong>Total individual benefit<br/>to each resident</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td class="tbl-rborder">&#36;0</td>
+<td>&#36;0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td class="tbl-rborder">150</td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td class="tbl-rborder">300</td>
+<td>16</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td class="tbl-rborder">450</td>
+<td>18</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td class="tbl-rborder">600</td>
+<td>19</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch10-list-26" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch10-p347" block_type="cr-wio-ans-first">Explain why the security service is a public good for the residents of the community.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p348" block_type="cr-wio-ans-mid">Calculate the marginal cost, the individual marginal benefit for each resident, and the marginal social benefit.</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p349" block_type="cr-wio-ans-mid">If an individual resident were to decide about hiring and paying for security guards on his or her own, how many guards would that resident hire?</p></li>
+<li><p id="krugmanwellsessentials4e-ch10-p350" block_type="cr-wio-ans-mid">If the residents act together, how many security guards will they hire?</p></li>
+</list>
+</question>
+</section>
+</chapter>
+</manuscript>

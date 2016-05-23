@@ -1,5 +1,5 @@
 <chapter number="1" id="krugmanwellsessentials4e-ch1-chapter-1" title="CHAPTER 1: First Principles" start-numbering-at="1" numbered="true">
-<section id="krugmanwellsessentials4e-ch1-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="1">
+<section id="krugmanwellsessentials4e-ch1-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="5">
 <p id="krugmanwellsessentials4e_page_1" block_type="page_start">1</p>
 <p id="krugmanwellsessentials4e-ch1-p1" block_type="chapter_title">First Principles</p>
 <p id="krugmanwellsessentials4e-ch1-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">1</phrase></p>
@@ -143,30 +143,26 @@
 <tbody>
 <tr class="tbl-td-dark">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-1a" type="ordered" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p52a" block_type="nl">People must make choices because resources are scarce.</p></li>
-</list>
+<p id="krugmanwellsessentials4e-ch1-p52a" block_type="nl">
+  <phrase block_type="nl-num">1.</phrase>People must make choices because resources are scarce.</p>
 </td>
 </tr>
 <tr class="tbl-td-light">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-1b" type="ordered" start="2" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">The opportunity cost of an item&#8212;what you must give up in order to get it&#8212;is its true cost.</p></li>
-</list>
+<p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">
+  <phrase block_type="nl-num">2.</phrase>The opportunity cost of an item&#8212;what you must give up in order to get it&#8212;is its true cost.</p>
 </td>
 </tr>
 <tr class="tbl-td-dark">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-1c" type="ordered" start="3" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p52c" block_type="nl">&#8220;How much&#8221; decisions require making trade-offs at the margin: comparing the costs and benefits of doing a little bit more of an activity versus doing a little bit less.</p></li>
-</list>
+<p id="krugmanwellsessentials4e-ch1-p52c" block_type="nl">
+  <phrase block_type="nl-num">3.</phrase>&#8220;How much&#8221; decisions require making trade-offs at the margin: comparing the costs and benefits of doing a little bit more of an activity versus doing a little bit less.</p>
 </td>
 </tr>
 <tr class="tbl-td-light">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-1d" type="ordered" start="4" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">People usually respond to incentives, exploiting opportunities to make themselves better off.</p></li>
-</list>
+<p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">
+  <phrase block_type="nl-num">4.</phrase>People usually respond to incentives, exploiting opportunities to make themselves better off.</p>
 </td>
 </tr>
 </tbody>
@@ -248,13 +244,13 @@
   <phrase block_type="inqmind-intro">FOR INQUIRING MINDS</phrase>
   <phrase block_type="inqmind-title">Cashing In at School</phrase>
 </strong></p>
-  <figure id="krugmanwellsessentials4e-ch1-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
-    <layout align="right" width="small" border="true"/>
-    <image asset-id="krugmanwellsessentials4e-ch1-img-6" alt="image" src="asset/ch1/KrugESS4e_1UN05.jpg"/>
-    <caption>Cash incentives have been shown to improve student performance.</caption>
-    <asset_source>Blend Images/Superstock</asset_source>
-  </figure>
-  <p id="krugmanwellsessentials4e-ch1-p89" block_type="bx3-txt-ni">The true reward for learning is, of course, the learning itself. Many students, however, struggle with their motivation to study and work hard. Teachers and policy makers have been particularly challenged to help students from disadvantaged backgrounds, who often have poor school attendance, high dropout rates, and low standardized test scores. </p>
+<figure id="krugmanwellsessentials4e-ch1-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="small" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch1-img-6" alt="image" src="asset/ch1/KrugESS4e_1UN05.jpg"/>
+<caption>Cash incentives have been shown to improve student performance.</caption>
+<asset_source>Blend Images/Superstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch1-p89" block_type="bx3-txt-ni">The true reward for learning is, of course, the learning itself. Many students, however, struggle with their motivation to study and work hard. Teachers and policy makers have been particularly challenged to help students from disadvantaged backgrounds, who often have poor school attendance, high dropout rates, and low standardized test scores. </p>
 <p id="krugmanwellsessentials4e_page_8" block_type="page_start">8</p>
 <p id="krugmanwellsessentials4e-ch1-p90" block_type="bx3-txt">Two studies, a 2009 study by Harvard economist Roland Fryer Jr. and a 2011 study by University of Chicago economist Steve Levitt along with others, found that monetary incentives&#8212;cash rewards&#8212;could improve students&#8217; academic performance in schools in economically disadvantaged areas. How cash incentives work, however, is both surprising and predictable.</p>
 <p id="krugmanwellsessentials4e-ch1-p91" block_type="bx3-txt">In the Fryer study, research was conducted in four different school districts, employing a different set of incentives and a different measure of performance in each. In New York, students were paid according to their scores on standardized tests; in Chicago, they were paid according to their grades; in Washington, D.C., they were paid according to attendance and good behavior as well as their grades; in Dallas, second-graders were paid each time they read a book. </p>
@@ -347,24 +343,23 @@
 <tbody>
 <tr class="tbl-td-dark">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-2a" type="ordered" start="5" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p124a" block_type="nl">There are gains from trade.</p></li>
-</list>
+<p id="krugmanwellsessentials4e-ch1-p124a" block_type="nl">
+  <phrase block_type="nl-num">5.</phrase>There are gains from trade.</p>
 </td>
 </tr>
 <tr class="tbl-td-light">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-2b" type="ordered" start="6" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p124b" block_type="nl">Because people respond to incentives, markets move toward equilibrium.</p></li></list></td></tr>
+<p id="krugmanwellsessentials4e-ch1-p124b" block_type="nl">
+  <phrase block_type="nl-num">6.</phrase>Because people respond to incentives, markets move toward equilibrium.</p></td></tr>
 <tr class="tbl-td-dark">
-<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-2c" type="ordered" start="7" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p124c" block_type="nl">Resources should be used as efficiently as possible to achieve society&#8217;s goals.</p></li></list></td></tr>
+<td class="tbl-ljust"><p id="krugmanwellsessentials4e-ch1-p124c" block_type="nl">
+  <phrase block_type="nl-num">7.</phrase>Resources should be used as efficiently as possible to achieve society&#8217;s goals.</p></td></tr>
 <tr class="tbl-td-light">
-<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-2d" type="ordered" start="8" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p124d" block_type="nl">Because people usually exploit gains from trade, markets usually lead to efficiency.</p></li></list></td></tr>
+<td class="tbl-ljust"><p id="krugmanwellsessentials4e-ch1-p124d" block_type="nl">
+  <phrase block_type="nl-num">8.</phrase>Because people usually exploit gains from trade, markets usually lead to efficiency.</p></td></tr>
 <tr class="tbl-td-dark">
-<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-2e" type="ordered" start="9" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p124e" block_type="nl">When markets don&#8217;t achieve efficiency, government intervention can improve society&#8217;s welfare.</p></li></list></td>
+<td class="tbl-ljust"><p id="krugmanwellsessentials4e-ch1-p124e" block_type="nl">
+  <phrase block_type="nl-num">9.</phrase>When markets don&#8217;t achieve efficiency, government intervention can improve society&#8217;s welfare.</p></td>
 </tr>
 </tbody>
 </table>
@@ -524,16 +519,16 @@
 <tbody>
 <tr class="tbl-td-dark">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-1c" type="ordered" start="10" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p186a" block_type="nl">One person&#8217;s spending is another person&#8217;s income.</p></li></list></td>
+<p id="krugmanwellsessentials4e-ch1-p186a" block_type="nl">
+  <phrase block_type="nl-num">10.</phrase>One person&#8217;s spending is another person&#8217;s income.</p></td>
 </tr>
 <tr class="tbl-td-light">
 <td class="tbl-ljust">
-<list id="krugmanwellsessentials4e-ch1-list-1d" type="ordered" start="11" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p186b" block_type="nl">Overall spending sometimes gets out of line with the economy&#8217;s productive capacity.</p></li></list></td></tr>
+<p id="krugmanwellsessentials4e-ch1-p186b" block_type="nl">
+  <phrase block_type="nl-num">11.</phrase>Overall spending sometimes gets out of line with the economy&#8217;s productive capacity.</p></td></tr>
 <tr class="tbl-td-dark">
-<td class="tbl-ljust"><list id="krugmanwellsessentials4e-ch1-list-1d" type="ordered" start="12" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch1-p186c" block_type="nl">Government policies can change spending.</p></li></list></td>
+<td class="tbl-ljust"><p id="krugmanwellsessentials4e-ch1-p186c" block_type="nl">
+  <phrase block_type="nl-num">12.</phrase>Government policies can change spending.</p></td>
 </tr>
 </tbody>
 </table>

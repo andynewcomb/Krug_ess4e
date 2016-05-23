@@ -11,3 +11,26 @@ Still need to add Show Answers after each list item in the CYU features.
 
 for consistency, ch 2, 4, 5 tables (num and unnum) were numbered from 1..n, with a pool of shared, consecutive numbers
 ch 5, first table (unnum) had no data-href
+
+data-block_type edits
+bx2-h ---> bx-2-h
+bx2-t ---> bx-2-t
+bx1-h ---> bx-1-h
+
+check all questions for IDs and block_types
+should be consecutive accross both question types, and block types are correct: q_cyu, q_prob
+
+check all href="#...". Many have '-' and '_' confused in different ways.
+
+"Numbered lists" in tables need fixing. Change XML (shown below).
+
+<td class="tbl-ljust">
+<list id="krugmanwellsessentials4e-ch1-list-1b" type="ordered" start="2" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl">The opportunity cost of an item&#8212;what you must give up in order to get it&#8212;is its true cost.</p></li>
+</list>
+</td>
+
+<td class="tbl-ljust">
+<p id="krugmanwellsessentials4e-ch1-p52b" block_type="nl"><phrase block_type="nl-num">2.</phrase>The opportunity cost of an item&#8212;what you must give up in order to get it&#8212;is its true cost.</p>
+</td>
+

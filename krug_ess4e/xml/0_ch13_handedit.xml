@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="13" name="" title="KRU_Chapter_13_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="13" id="krugmanwellsessentials4e-ch13-chapter-13" title="CHAPTER 13: GDP and the CPI: Tracking the Macroeconomy" start-numbering-at="13" numbered="true">
+<section id="krugmanwellsessentials4e-ch13-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="true" level="1" print_page="360">
+<p id="krugmanwellsessentials4e_page_360" block_type="page_start">360</p>
+<p id="krugmanwellsessentials4e-ch13-p1" block_type="chapter_title">GDP and the CPI: Tracking the Macroeconomy</p>
+<p id="krugmanwellsessentials4e-ch13-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">13</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch13-p3a" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch13-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong>THE NEW #2</strong></p>
+<figure id="krugmanwellsessentials4e-ch13-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-2" alt="image" src="images/KrugESS4e_CO13.jpg"/>
+<caption>China has become an economic superpower, surpassing Japan.</caption>
+<asset_source>Iain Masterson/Alamy</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch13-p3" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch13-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch13-p4" block_type="obj-bl">How economists use aggregate measures to track the performance of the economy</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p5" block_type="obj-bl">What <strong>gross domestic product,</strong> or <strong>GDP,</strong> is and the three ways of calculating it</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p6" block_type="obj-bl">The difference between <strong>real GDP</strong> and <strong>nominal GDP</strong> and why real GDP is the appropriate measure of real economic activity</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p7" block_type="obj-bl">What a <strong>price index</strong> is and how it is used to calculate the <strong>inflation rate</strong></p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p8" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-3" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p9" block_type="co-txt-ni"><phrase block_type="dropcap">&#8220;C</phrase>HINA PASSES JAPAN AS Second-Largest Economy.&#8221; That was the headline in the <em>New York Times</em> on August 15, 2010. Citing economic data suggesting that Japan&#8217;s economy was weakening while China&#8217;s was roaring ahead, the article predicted&#8212;correctly, as it turned out&#8212;that 2010 would mark the first year in which the surging Chinese economy finally overtook Japan&#8217;s, taking second place to the United States on the world economic stage. &#8220;The milestone,&#8221; wrote the <em>Times, &#8220;</em>though anticipated for some time, is the most striking evidence yet that China&#8217;s ascendance is for real and that the rest of the world will have to reckon with a new economic superpower.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch13-p10" block_type="co-txt">But what does it mean to say that China&#8217;s economy is larger than Japan&#8217;s? The two economies are, after all, producing very different mixes of goods. Despite its rapid advance, China is still a fairly poor country whose greatest strength is in relatively low-tech production. Japan, by contrast, is very much a high-tech nation, and it dominates world output of some sophisticated goods, like electronic sensors for automobiles. That&#8217;s why the 2011 earthquake in northeastern Japan, which put many factories out of action, temporarily caused major production disruptions for auto factories around the world.</p>
+<p id="krugmanwellsessentials4e-ch13-p11" block_type="co-txt">So how can you compare the sizes of two economies when they aren&#8217;t producing the same things?</p>
+<p id="krugmanwellsessentials4e-ch13-p12" block_type="co-txt">The answer is that comparisons of national economies are based on the <em>value</em> of their production. When news reports declared that China&#8217;s economy had overtaken Japan&#8217;s, they meant that China&#8217;s <em>gross domestic product,</em> or <em>GDP&#8212;</em>a measure of the overall value of goods and services produced&#8212;had surpassed Japan&#8217;s GDP.</p>
+<p id="krugmanwellsessentials4e-ch13-p13" block_type="co-txt">GDP is one of the most important measures used to track the macroeconomy&#8212;that is, to quantify movements in the overall level of output and prices. Measures like GDP and <em>price indexes</em> play an important role in formulating economic policy, since policy makers need to know what&#8217;s going on, and anecdotes are no substitute for hard data. They&#8217;re also important for business decisions&#8212;to such an extent that corporations and other players are willing to pay significant sums for early reads on what official economic measurements are likely to find.</p>
+<p id="krugmanwellsessentials4e-ch13-p14" block_type="co-txt">In this chapter, we explain how macroeconomists measure key aspects of the economy. We first explore ways to measure the economy&#8217;s total output and total income. We then turn to the problem of how to measure the level of prices and the change in prices in the economy.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-1" block_type="h1" title="" chapter="ch13" numbered="true" level="1" print_page="361">
+<section-metadata><section-title>Measuring the Macroeconomy</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_361" block_type="page_start">361</p>
+<p id="krugmanwellsessentials4e-ch13-p15" block_type="txt-ni">Almost all countries calculate a set of numbers known as the <em>national income and product accounts</em>. In fact, the accuracy of a country&#8217;s accounts is a remarkably reliable indicator of its state of economic development&#8212;in general, the more reliable the accounts, the more economically advanced the country. When international economic agencies seek to help a less developed country, typically the first order of business is to send a team of experts to audit and improve the country&#8217;s accounts.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p16" block_type="mn-def">The <strong>national income and product accounts,</strong> or <strong>national accounts,</strong> keep track of the flows of money between different sectors of the economy.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p17" block_type="txt">In the United States, these numbers are calculated by the Bureau of Economic Analysis, a division of the U.S. government&#8217;s Department of Commerce. The <strong>national income and product accounts,</strong> often referred to simply as the <strong>national accounts,</strong> keep track of the spending of consumers, sales of producers, business investment spending, government purchases, and a variety of other flows of money between different sectors of the economy.</p>
+<p id="krugmanwellsessentials4e-ch13-p18" block_type="txt">Economists use the national accounts to measure the overall market value of the goods and services the economy produces. That measure has a name: it&#8217;s a country&#8217;s <em>gross domestic product.</em> But before we can formally define gross domestic product, or GDP, we have to examine an important distinction between classes of goods and services: the difference between <em>final goods and services</em> versus <em>intermediate goods and services.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-1" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="361">
+<section-metadata><section-title>Gross Domestic Product</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p19" block_type="mn-gl-def"><strong>Final goods and services</strong> are goods and services sold to the final, or end, user.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p20" block_type="mn-gl-def"><strong>Intermediate goods and services</strong> are goods and services&#8212;bought from one firm by another firm&#8212;that are inputs for production of final goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p21" block_type="txt-ni">A consumer&#8217;s purchase of a new car from a dealer is one example of a sale of <strong>final goods and services:</strong> goods and services sold to the final, or end, user. But an automobile manufacturer&#8217;s purchase of steel from a steel foundry or glass from a glassmaker is an example of purchasing <strong>intermediate goods and services:</strong> goods and services that are inputs for production of final goods and services. In the case of intermediate goods and services, the purchaser&#8212;another firm&#8212;is <em>not</em> the final user.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p22" block_type="mn-gl-def"><strong>Gross domestic product,</strong> or <strong>GDP,</strong> is the total value of all final goods and services produced in the economy during a given year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p23" block_type="txt"><strong>Gross domestic product,</strong> or <strong>GDP,</strong> is the total value of all <em>final goods and services</em> produced in an economy during a given period, usually a year. In 2014 the GDP of the United States was &#36;17,300 billion, or about &#36;54,300 per person. If you are an economist trying to construct a country&#8217;s national accounts, <em>one way to calculate GDP is to calculate it directly: survey firms and add up the total value of their production of final goods and services.</em> We&#8217;ll explain in detail in the next section why intermediate goods, and some other types of goods as well, are not included in the calculation of GDP.</p>
+<p id="krugmanwellsessentials4e-ch13-p24" block_type="txt">But adding up the total value of final goods and services produced is only one of three ways of calculating GDP. A second way is based on total spending on final goods and services. This second method adds aggregate spending on domestically produced final goods and services in the economy. The third way of calculating GDP is based on total income earned in the economy. Firms and the factors of production that they employ are owned by households. So firms must ultimately pay out what they earn to households. And so, a third way of calculating GDP is to sum the total factor income earned by households from firms in the economy.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-2" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="361">
+<section-metadata><section-title>Calculating GDP</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch13-p25" block_type="txt-ni">We&#8217;ve just explained that there are in fact three methods for calculating GDP:</p>
+<list id="krugmanwellsessentials4e-ch13-list-2" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch13-p26" block_type="nl-first">adding up total value of all final goods and services produced</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p27" block_type="nl-mid">adding up spending on all domestically produced goods and services</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p28" block_type="nl-last">adding up total factor income earned by households from firms in the economy</p></li>
+</list>
+<p id="krugmanwellsessentials4e_page_362" block_type="page_start">362</p>
+<p id="krugmanwellsessentials4e-ch13-p29" block_type="txt">Government statisticians use all three methods. To illustrate how these three methods work, we will consider a hypothetical economy, shown in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link>. This economy consists of three firms&#8212;American Motors, Inc., which produces one car per year; American Steel, Inc., which produces the steel that goes into the car; and American Ore, Inc., which mines the iron ore that goes into the steel. So GDP is &#36;21,500, the value of the one car per year the economy produces. Let&#8217;s look at how the three different methods of calculating GDP yield the same result.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-2" block_type="figure" numbered="true" number="13-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>13-1</strong></phrase> <phrase block_type="fig_title">Calculating GDP</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch13-img-4" alt="image" src="images/KrugESS4e_fig_13_01.jpg"/>
+<caption>In this hypothetical economy consisting of three firms, GDP can be calculated in three different ways:</caption>
+<caption><strong>1.</strong> measuring GDP as the value of production of final goods and services, by summing each firm&#8217;s value added</caption>
+<caption><strong>2.</strong> measuring GDP as aggregate spending on domestically produced final goods and services</caption>
+<caption><strong>3.</strong> measuring GDP as factor income earned by households from firms in the economy</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p30" block_type="txt-3"><phrase block_type="h3-ri"><strong>Measuring GDP as the Value of Production of Final Goods and Services</strong></phrase> The first method for calculating GDP is to add up the value of all the final goods and services produced in the economy&#8212;a calculation that excludes the value of intermediate goods and services. Why are intermediate goods and services excluded? After all, don&#8217;t they represent a very large and valuable portion of the economy?</p>
+<p id="krugmanwellsessentials4e-ch13-p31" block_type="txt">To understand why only final goods and services are included in GDP, look at the simplified economy described in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link>. Should we measure the GDP of this economy by adding up the total sales of the iron ore producer, the steel producer, and the auto producer? If we did, we would in effect be counting the value of the steel twice&#8212;once when it is sold by the steel plant to the auto plant, and again when the steel auto body is sold to a consumer as a finished car. And we would be counting the value of the iron ore <em>three</em> times&#8212;once when it is mined and sold to the steel company, a second time when it is made into steel and sold to the auto producer, and a third time when the steel is made into a car and sold to the consumer.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p32" block_type="mn-gl-def">The <strong>value added</strong> of a producer is the value of its sales minus the value of its purchases of intermediate goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p33" block_type="txt">So counting the full value of each producer&#8217;s sales would cause us to count the same items several times and artificially inflate the calculation of GDP. For example, in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link>, the total value of all sales, intermediate and final, is &#36;34,700: &#36;21,500 from the sale of the car, plus &#36;9,000 from the sale of the steel, plus &#36;4,200 from the sale of the iron ore. Yet we know that GDP is only &#36;21,500. The way we avoid double-counting is to count only each producer&#8217;s <strong>value added</strong> in the calculation of GDP: the difference between the value of its sales and the value of the intermediate goods and services it purchases from other businesses. </p>
+<p id="krugmanwellsessentials4e_page_363" block_type="page_start">363</p>
+<p id="krugmanwellsessentials4e-ch13-p34" block_type="txt">That is, we subtract the cost of inputs&#8212;the intermediate goods&#8212;at each stage of the production process. In this case, the value added of the auto producer is the dollar value of the cars it manufactures <em>minus</em> the cost of the steel it buys, or &#36;12,500. The value added of the steel producer is the dollar value of the steel it produces <em>minus</em> the cost of the ore it buys, or &#36;4,800. Only the ore producer, which we have assumed doesn&#8217;t buy any inputs, has value added equal to its total sales, &#36;4,200. The sum of the three producers&#8217; value added is &#36;21,500, equal to GDP.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-5" alt="image" src="images/KrugESS4e_13UN01.jpg"/>
+<caption>Steel is an intermediate good because it is sold to other product manufacturers, and rarely to final buyers such as consumers.</caption>
+<asset_source>Mircea Bezergheanu/Shutterstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p35" block_type="txt-3"><phrase block_type="h3-ri"><strong>Measuring GDP as Spending on Domestically Produced Final Goods and Services</strong></phrase> Another way to calculate GDP is by adding up aggregate spending on domestically produced final goods and services. That is, GDP can be measured by the flow of funds into firms. Like the method that estimates GDP as the value of domestic production of final goods and services, this measurement must be carried out in a way that avoids double-counting. </p>
+<p id="krugmanwellsessentials4e-ch13-p36" block_type="txt">In terms of our steel and auto example, we don&#8217;t want to count both consumer spending on a car (represented in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link> by &#36;12,500, the sales price of the car) and the auto producer&#8217;s spending on steel (represented in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link> by &#36;9,000, the price of a car&#8217;s worth of steel). If we counted both, we would be counting the steel embodied in the car twice. We solve this problem by counting only the value of sales to <em>final buyers</em>, such as consumers, firms that purchase investment goods, the government, or foreign buyers. In other words, in order to avoid double-counting of spending, we omit sales of inputs from one business to another when estimating GDP using spending data. You can see from <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link> that aggregate spending on final goods and services&#8212;the finished car&#8212;is &#36;21,500.</p>
+<p id="krugmanwellsessentials4e-ch13-p37" block_type="txt">As we&#8217;ve pointed out, the national accounts <em>do</em> include investment spending by firms as a part of final spending. That is, an auto company&#8217;s purchase of steel to make a car isn&#8217;t considered a part of final spending, but the company&#8217;s purchase of new machinery for its factory <em>is</em> considered a part of final spending. What&#8217;s the difference? Steel is an input that is used up in production; machinery will last for a number of years. Since purchases of capital goods that will last for a considerable time aren&#8217;t closely tied to current production, the national accounts consider such purchases a form of final sales.</p>
+<p id="krugmanwellsessentials4e-ch13-p38" block_type="txt-3"><phrase block_type="h3-ri"><strong>Measuring GDP as Factor Income Earned from Firms in the Economy</strong></phrase> A final way to calculate GDP is to add up all the income earned by factors of production from firms in the economy&#8212;the wages earned by labor; the interest paid to those who lend their savings to firms and the government; the rent earned by those who lease their land or structures to firms; and dividends, the profits paid to the shareholders, the owners of the firms&#8217; physical capital. This is a valid measure because the money firms earn by selling goods and services must go somewhere; whatever isn&#8217;t paid as wages, interest, or rent is profit. Ultimately, profits are paid out to shareholders as dividends.</p>
+<p id="krugmanwellsessentials4e_page_364" block_type="page_start">364</p>
+<box title="FOR INQUIRING MINDS &#124; Our Imputed Lives" numbered="false" id="krugmanwellsessentials4e-ch13-bx3-2" block_type="bx3-t">
+<p id="krugmanwellsessentials4e-ch13-p39" block_type="bx3-txt-ni">An old line says that when a person marries the household cook, GDP falls. And it&#8217;s true: when someone provides services for pay, those services are counted as a part of GDP. But the services family members provide to each other are not. Some economists have produced alternative measures that try to &#8220;impute&#8221; the value of household work&#8212;that is, assign an estimate of what the market value of that work would have been if it had been paid for. But the standard measure of GDP doesn&#8217;t contain that imputation.</p>
+<p id="krugmanwellsessentials4e-ch13-p40" block_type="bx3-txt">GDP estimates do, however, include an imputation for the value of &#8220;owner-occupied housing.&#8221; That is, if you buy the home you were formerly renting, GDP does not go down. It&#8217;s true that because you no longer pay rent to your landlord, the landlord no longer sells a service to you&#8212;namely, use of the house or apartment. But the statisticians make an estimate of what you would have paid if you rented whatever you live in, whether it&#8217;s an apartment or a house. For the purposes of the statistics, it&#8217;s as if you were renting your dwelling from yourself.</p>
+<p id="krugmanwellsessentials4e-ch13-p41" block_type="bx3-txt">If you think about it, this makes a lot of sense. In a home-owning country like the United States, the pleasure we derive from our houses is an important part of the standard of living. So to be accurate, estimates of GDP must take into account the value of housing that is occupied by owners as well as the value of rental housing. </p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p42" block_type="txt"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link> shows how this calculation works for our simplified economy. The numbers shaded in the column at far right show the total wages, interest, and rent paid by all these firms as well as their total profit. Summing up all of these items yields total factor income of &#36;21,500&#8212;again, equal to GDP.</p>
+<p id="krugmanwellsessentials4e-ch13-p43" block_type="txt">We won&#8217;t emphasize factor income as much as the other two methods of calculating GDP. It&#8217;s important to keep in mind, however, that all the money spent on domestically produced goods and services generates factor income to households.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-3" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="364">
+<section-metadata><section-title>What GDP Tells Us</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch13-p44" block_type="txt-ni">Now we&#8217;ve seen the various ways that gross domestic product is calculated. But what does the measurement of GDP tell us?</p>
+<p id="krugmanwellsessentials4e-ch13-p45" block_type="txt">The most important use of GDP is as a measure of the size of the economy, providing us a scale against which to measure the economic performance of other years or to compare the economic performance of other countries. For example, suppose you want to compare the economies of different nations. A natural approach is to compare their GDPs. In 2014, as we&#8217;ve seen, U.S. GDP was &#36;17,300 billion, China&#8217;s GDP was &#36;10,356 billion, and the combined GDP of the 28 countries that make up the European Union was &#36;18,495 billion. This comparison tells us that China, although it has the world&#8217;s second-largest national economy, carries considerably less economic weight than the United States. When taken in aggregate, Europe is America&#8217;s equal or superior.</p>
+<p id="krugmanwellsessentials4e-ch13-p46" block_type="txt">Still, one must be careful when using GDP numbers, especially when making comparisons over time. That&#8217;s because part of the increase in the value of GDP over time represents increases in the <em>prices</em> of goods and services rather than an increase in output. For example, U.S. GDP was &#36;8,608 billion in 1997 and had approximately doubled to &#36;17,300 billion by 2014. But the U.S. economy didn&#8217;t actually double in size over that period. To measure actual changes in aggregate output, we need a modified version of GDP that is adjusted for price changes, known as <em>real GDP.</em> We&#8217;ll see next how real GDP is calculated.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch13-p47" block_type="bx-2-t"><strong>Creating the National Accounts</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p48" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-6" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p49" block_type="bx2-first"><phrase block_type="dropcap"><strong>T</strong></phrase>he national accounts, like modern macroeconomics, owe their creation to the Great Depression. As the economy plunged into depression, government officials found their ability to respond crippled not only by the lack of adequate economic theories but also by the lack of adequate information. All they had were scattered statistics: railroad freight car loadings, stock prices, and incomplete indexes of industrial production. They could only guess at what was happening to the economy as a whole.</p>
+<p id="krugmanwellsessentials4e-ch13-p50" block_type="bx2-txt">In response to this perceived lack of information, the Department of Commerce commissioned Simon Kuznets, a young Russian-born economist, to develop a set of national income accounts. (Kuznets later won the Nobel Prize in economics for his work.) The first version of these accounts was presented to Congress in 1937 and in a research report titled <em>National Income, 1929&#8211;35.</em></p>
+<p id="krugmanwellsessentials4e-ch13-p51" block_type="bx2-txt">Kuznets&#8217;s initial estimates fell short of the full modern set of accounts because they focused on income, not production. The push to complete the national accounts came during World War II, when policy makers were in even more need of comprehensive measures of the economy&#8217;s performance. The federal government began issuing estimates of gross domestic product and gross national product in 1942.</p>
+<p id="krugmanwellsessentials4e_page_365" block_type="page_start">365</p>
+<p id="krugmanwellsessentials4e-ch13-p52" block_type="bx2-txt">In January 2000, in its publication <em>Survey of Current Business,</em> the Department of Commerce ran an article titled &#8220;GDP: One of the Great Inventions of the 20th Century.&#8221; This may seem a bit over the top, but national income accounting, invented in the United States, has since become a tool of economic analysis and policy making around the world.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch13-bx5-1" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch13-list-3" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch13-p53" block_type="sr1-bl">A country&#8217;s <strong>national income and product accounts,</strong> or <strong>national accounts,</strong> track flows of money among economic sectors.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p54" block_type="sr1-bl"><strong>Gross domestic product,</strong> or <strong>GDP,</strong> can be calculated in three different ways: add up the <strong>value added</strong> by all firms; add up all spending on domestically produced <strong>final goods and services,</strong> or add up all factor income paid by firms. <strong>Intermediate goods and services</strong> are not included in the calculation of GDP.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx6-1" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">13-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch13-p55" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Explain why the three methods of calculating GDP produce the same estimate of GDP.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-2" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch13-p56" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Consider <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-2">Figure 13-1</link> and suppose you mistakenly believed that total value added was &#36;30,500, the sum of the sales price of a car and a car&#8217;s worth of steel. What items would you be counting twice?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch13-p57" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-2" block_type="h1" title="" chapter="ch13" numbered="true" level="1" print_page="365">
+<section-metadata><section-title>Real GDP: A Measure of Aggregate Output</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch13-p58" block_type="txt-ni">In this chapter&#8217;s opening story, we described how China passed Japan as the world&#8217;s second-largest economy in 2010. At the time, Japan&#8217;s economy was weakening: during the second quarter of 2010, output declined by an annual rate of 6.3&#37;. Oddly, however, GDP was up. In fact, Japan&#8217;s GDP measured in yen, its national currency, rose by an annual rate of 4.8&#37; during the quarter. How was that possible? The answer is that Japan was experiencing inflation at the time. As a result, the yen value of Japan&#8217;s GDP rose although output actually fell.</p>
+<p id="krugmanwellsessentials4e-ch13-p59" block_type="txt">The moral of this story is that the commonly cited GDP number is an interesting and useful statistic, one that provides a good way to compare the size of different economies, but it&#8217;s not a good measure of the economy&#8217;s growth over time. GDP can grow because the economy grows, but it can also grow simply because of inflation. Even if an economy&#8217;s output doesn&#8217;t change, GDP will go up if the prices of the goods and services the economy produces have increased. Likewise, GDP can fall either because the economy is producing less or because prices have fallen.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p60" block_type="mn-gl-def"><strong>Aggregate output</strong> is the economy&#8217;s total quantity of output of final goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p61" block_type="txt">To accurately measure the economy&#8217;s growth, we need a measure of <strong>aggregate output:</strong> the total quantity of final goods and services the economy produces. The measure that is used for this purpose is known as <em>real GDP.</em> By tracking real GDP over time, we avoid the problem of changes in prices distorting the value of changes in production of goods and services over time. So, how is real GDP calculated and what does it mean?</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-4" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="365">
+<section-metadata><section-title>Calculating Real GDP</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch13-p62" block_type="txt-ni">To understand how real GDP is calculated, imagine an economy in which only two goods, apples and oranges, are produced and in which both goods are sold only to final consumers. The outputs and prices of the two fruits for two consecutive years are shown in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-tab-1">Table 13-1</link>. We can see from the data that the value of sales increased from year 1 to year 2. In the first year, the total value of sales was (2,000 billion &#215; &#36;0.25) &#43; (1,000 billion &#215; &#36;0.50) = &#36;1,000 billion; in the second it was (2,200 billion &#215; &#36;0.30) &#43; (1,200 billion &#215; &#36;0.70) = &#36;1,500 billion, which is 50&#37; larger. But it is also clear from the table that this increase in the dollar value of GDP overstates the real growth in the economy. Although the quantities of both apples and oranges increased, the prices of both apples and oranges also rose. So part of the 50&#37; increase in the dollar value of GDP from year 1 to year 2 simply reflects higher prices, not higher production of output.</p>
+<table id="krugmanwellsessentials4e-ch13-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch13-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">13-1</phrase></strong> <phrase block_type="tbl_title">Calculating GDP and Real GDP in a Simple Economy</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>Year 1</strong></td>
+<td><strong>Year 2</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Quantity of apples (billions)</td>
+<td class="tabl-rborder">2,000</td>
+<td>2,200</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Price of apple</td>
+<td class="tabl-rborder">&#36;0.25</td>
+<td>&#36;0.30</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Quantity of oranges (billions)</td>
+<td class="tabl-rborder">1,000</td>
+<td>1,200</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Price of orange</td>
+<td class="tabl-rborder">&#36;0.50</td>
+<td>&#36;0.70</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">GDP (billions of dollars)</td>
+<td class="tabl-rborder">&#36;1,000</td>
+<td>&#36;1,500</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Real GDP (billions of year 1 dollars)</td>
+<td class="tabl-rborder">&#36;1,000</td>
+<td>&#36;1,150</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_366" block_type="page_start">366</p>
+<p id="krugmanwellsessentials4e-ch13-p63" block_type="txt">To estimate the true increase in aggregate output produced, we have to ask the following question: how much would GDP have gone up if prices had <em>not</em> changed? To answer this question, we need to find the value of output in year 2 expressed in year 1 prices. In year 1 the price of apples was &#36;0.25 each and the price of oranges &#36;0.50 each. So year 2 output <em>at year 1 prices</em> is (2,200 billion &#215; &#36;0.25) &#43; (1,200 billion &#215; &#36;0.50) = &#36;1,150 billion. And output in year 1 at year 1 prices was &#36;1,000 billion. So in this example GDP measured in year 1 prices rose 15&#37;&#8212;from &#36;1,000 billion to &#36;1,150 billion.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p64" block_type="mn-gl-def"><strong>Real GDP</strong> is the total value of all final goods and services produced in the economy during a given year, calculated using the prices of a selected base year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p65" block_type="txt">Now we can define <strong>real GDP:</strong> it is the total value of final goods and services produced in the economy during a year, calculated as if prices had stayed constant at the level of some given base year. A real GDP number always comes with information about what the base year is.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p66" block_type="mn-gl-def"><strong>Nominal GDP</strong> is the value of all final goods and services produced in the economy during a given year, calculated using the prices current in the year in which the output is produced.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p67" block_type="txt">A GDP number that has not been adjusted for changes in prices is calculated using the prices in the year in which the output is produced. Economists call this measure <strong>nominal GDP,</strong> GDP at current prices. If we had used nominal GDP to measure the true change in output from year 1 to year 2 in our apples and oranges example, we would have overstated the true growth in output: we would have claimed it to be 50&#37;, when in fact it was only 15&#37;. By comparing output in the two years using a common set of prices&#8212;the year 1 prices in this example&#8212;we are able to focus solely on changes in the quantity of output by eliminating the influence of changes in prices.</p>
+<p id="krugmanwellsessentials4e-ch13-p68" block_type="txt"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-tab-2">Table 13-2</link> shows a real-life version of our apples and oranges example. The second column shows nominal GDP in 2005, 2009, and 2013. The third column shows real GDP for each year in 2009 dollars. For 2009 the two numbers are the same. But real GDP in 2005 expressed in 2009 dollars was higher than nominal GDP in 2005, reflecting the fact that prices were in general higher in 2009 than in 2005. Real GDP in 2013 expressed in 2009 dollars, however, was less than nominal GDP in 2013 because prices in 2009 were lower than in 2013. </p>
+<table id="krugmanwellsessentials4e-ch13-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch13-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">13-2</phrase></strong> <phrase block_type="tbl_title">Nominal versus Real GDP in 2005, 2009, and 2013</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>Nominal GDP (billions of current dollars)</strong></td>
+<td><strong>Real GDP (billions of 2009 dollars)</strong></td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2005</td>
+<td class="tabl-rborder">&#36;13,094</td>
+<td>&#36;14,234</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2009</td>
+<td class="tabl-rborder">14,419</td>
+<td>14,419</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2013</td>
+<td class="tabl-rborder">16,768</td>
+<td>15,710</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch13-p69" block_type="txt">There is an alternative way to calculate real GDP using the data in <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-tab-1">Table 13-1</link>. Why not measure it using the prices of year 2 rather than year 1 as the base-year prices? This procedure seems equally valid. According to that calculation, real GDP in year 1 at year 2 prices is (2,000 billion &#215; &#36;0.30) &#43; (1,000 billion &#215; &#36;0.70) = &#36;1,300 billion; real GDP in year 2 at year 2 prices is &#36;1,500 billion, the same as nominal GDP in year 2. So using year 2 prices as the base year, the growth rate of real GDP is equal to (&#36;1,500 billion &#8722; &#36;1,300 billion)/&#36;1,300 billion = 0.154, or 15.4&#37;. This is slightly higher than the figure we got from the previous calculation, in which year 1 prices were the base-year prices. In that calculation, we found that real GDP increased by 15&#37;. Neither answer, 15.4&#37; versus 15&#37;, is more &#8220;correct&#8221; than the other.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p70" block_type="mn-gl-def"><strong>Chained dollars</strong> is the method of calculating changes in real GDP using the average between the growth rate calculated using an early base year and the growth rate calculated using a late base year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p71" block_type="txt">In reality, the government economists who put together the U.S. national accounts have adopted a method to measure the change in real GDP known as chain-linking, which uses the average between the GDP growth rate calculated using an early base year and the GDP growth rate calculated using a late base year. As a result, U.S. statistics on real GDP are always expressed in <strong>chained dollars.</strong></p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-5" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="367">
+<section-metadata><section-title>What Real GDP Doesn&#8217;t Measure</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_367" block_type="page_start">367</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p72" block_type="mn-gl-def"><strong>GDP per capita</strong> is GDP divided by the size of the population; it is equivalent to the average GDP per person.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p73" block_type="txt-ni">GDP, nominal or real, is a measure of a country&#8217;s aggregate output. Other things equal, a country with a larger population will have higher GDP simply because there are more people working. So if we want to compare GDP across countries but want to eliminate the effect of differences in population size, we use the measure <strong>GDP per capita&#8212;</strong>GDP divided by the size of the population, equivalent to the average GDP per person.</p>
+<p id="krugmanwellsessentials4e-ch13-p74" block_type="txt">Real GDP per capita can be a useful measure in some circumstances, such as in a comparison of labor productivity between countries. However, despite the fact that it is a rough measure of the average real output per person, real GDP per capita has well-known limitations as a measure of a country&#8217;s living standards. Every once in a while economists are accused of believing that growth in real GDP per capita is the only thing that matters&#8212;that is, thinking that increasing real GDP per capita is a goal in itself. In fact, economists rarely make that mistake; the idea that economists care only about real GDP per capita is a sort of urban legend. </p>
+<p id="krugmanwellsessentials4e-ch13-p75" block_type="txt">Let&#8217;s take a moment to be clear about why a country&#8217;s real GDP per capita is not a sufficient measure of human welfare in that country and why growth in real GDP per capita is not an appropriate policy goal in itself.</p>
+<p id="krugmanwellsessentials4e-ch13-p76" block_type="txt">One way to think about this issue is to say that an increase in real GDP means an expansion in the economy&#8217;s production possibility frontier. Because the economy has increased its productive capacity, society can achieve more things. But whether society actually makes good use of that increased potential to improve living standards is another matter. To put it in a slightly different way, your income may be higher this year than last year, but whether you use that higher income to improve your quality of life is your choice.</p>
+<p id="krugmanwellsessentials4e-ch13-p77" block_type="txt">So let&#8217;s say it again: real GDP per capita is a measure of an economy&#8217;s average aggregate output per person&#8212;and so of what it <em>can</em> do. It is not a sufficient goal in itself because it doesn&#8217;t address how a country uses that output to affect living standards. A country with a high GDP can afford to be healthy, to be well educated, and in general to have a good quality of life. But there is not a one-to-one match between GDP and the quality of life.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em> <image asset-id="krugmanwellsessentials4e-ch13-img-7" alt="image" src="images/world_view_icon.jpg"/></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch13-p78" block_type="bx-2-t"><strong>Miracle in Venezuela?</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p79" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-8" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p80" block_type="bx2-first"><phrase block_type="dropcap"><strong>T</strong></phrase>he South American nation of Venezuela has a distinction that may surprise you: in recent years, it has had one of the world&#8217;s fastest-growing nominal GDPs. Between 2000 and 2014, Venezuelan nominal GDP grew by an average of 30&#37; each year&#8212;much faster than nominal GDP in the United States or even in booming economies like China.</p>
+<p id="krugmanwellsessentials4e-ch13-p81" block_type="bx2-txt">So is Venezuela experiencing an economic miracle? No, it&#8217;s just suffering from unusually high inflation. <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-4">Figure 13-2</link> shows Venezuela&#8217;s nominal and real GDP from 2000 to 2014, with real GDP measured in 1997 prices. Real GDP did grow over the period, but at an annual rate of only 2.7&#37;. That&#8217;s about twice the U.S. growth rate over the same period, but it is far short of China&#8217;s 10&#37; growth.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-4" block_type="figure" numbered="true" number="13-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-4"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>13-2</strong></phrase> <phrase block_type="fig_title">Real versus Nominal GDP in Venezuela</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch13-img-9" alt="image" src="images/KrugESS4e_fig_13_02.jpg"/>
+</figure>
+</box>
+<p id="krugmanwellsessentials4e_page_368" block_type="page_start">368</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch13-bx5-2" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch13-list-4" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch13-p82" block_type="sr1-bl">To determine the actual growth in <strong>aggregate output,</strong> we calculate <strong>real GDP</strong> using prices from some given base year. In contrast, <strong>nominal GDP</strong> is the value of aggregate output calculated with current prices. U.S. statistics on real GDP are always expressed in <strong>chained dollars.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p83" block_type="sr1-bl">Real <strong>GDP per capita</strong> is a measure of the average aggregate output per person. But it is not a sufficient measure of human welfare, nor is it an appropriate goal in itself, because it does not reflect important aspects of living standards within an economy.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx6-2" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">13-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-3" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch13-p84" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Assume there are only two goods in the economy, french fries and onion rings. In 2013, 1,000,000 servings of french fries were sold at &#36;0.40 each and 800,000 servings of onion rings at &#36;0.60 each. From 2013 to 2014, the price of french fries rose by 25&#37; and the servings sold fell by 10&#37;; the price of onion rings fell by 15&#37; and the servings sold rose by 5&#37;.</p>
+<list id="krugmanwellsessentials4e-ch13-list-5" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p85" block_type="sr2-nl-lvl2">Calculate nominal GDP in 2013 and 2014. Calculate real GDP in 2014 using 2013 prices.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p86" block_type="sr2-nl-lvl2">Why would an assessment of growth using nominal GDP be misguided?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-4" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch13-p87" block_type="sr2-nl-first"><phrase block_type="qnum">2.</phrase> From 2005 to 2010, the price of electronic equipment fell dramatically and the price of housing rose dramatically. What are the implications of this in deciding whether to use 2005 or 2010 as the base year in calculating 2013 real GDP?</p>
+</question>
+<p id="krugmanwellsessentials4e-ch13-p88" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-3" block_type="h1" title="" chapter="ch13" numbered="true" level="1" print_page="368">
+<section-metadata><section-title>Price Indexes and the Aggregate Price Level</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch13-p89" block_type="txt-ni">In 2011 and 2012, Americans were facing sticker shock at the gas pump: the price of a gallon of regular gasoline had risen from an average of &#36;1.61 at the end of December 2008 to close to &#36;4. Many other prices were also up. Some prices, though, were heading down: electronics and some foods, like eggs, were coming down from a run-up in late 2010. Yet practically everyone felt that the overall cost of living was rising. But how fast?</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p90" block_type="mn-gl-def">The <strong>aggregate price level</strong> is a measure of the overall level of prices in the economy.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p91" block_type="txt">Clearly, there was a need for a single number summarizing what was happening to consumer prices. Just as macroeconomists find it useful to have a single number representing the overall level of output, they also find it useful to have a single number representing the overall level of prices: the <strong>aggregate price level.</strong> Yet a huge variety of goods and services are produced and consumed in the economy. How can we summarize the prices of all these goods and services with a single number? The answer lies in the concept of a <em>price index,</em> which we&#8217;ll introduce with an example.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-6" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="368">
+<section-metadata><section-title>Market Baskets and Price Indexes</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch13-p92" block_type="txt-ni">Suppose that a frost in Florida destroys most of the citrus harvest. As a result, the price of an orange rises from &#36;0.20 to &#36;0.40, the price of a grapefruit rises from &#36;0.60 to &#36;1.00, and the price of a lemon rises from &#36;0.25 to &#36;0.45. How much has the price of citrus fruit increased?</p>
+<p id="krugmanwellsessentials4e-ch13-p93" block_type="txt">One way to answer that question is to state three numbers&#8212;the changes in prices for oranges, grapefruit, and lemons. But this is a very cumbersome method. Rather than having to recite three numbers in an effort to track changes in the prices of citrus fruit, we would prefer to have some kind of overall measure of the <em>average</em> price change.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p94" block_type="mn-gl-def">A <strong>market basket</strong> is a hypothetical set of consumer purchases of goods and services.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p95" block_type="txt">To measure average price changes for consumer goods and services, economists track changes in the cost of a typical consumer&#8217;s <em>consumption bundle&#8212;</em>the typical basket of goods and services purchased before the price changes. A hypothetical consumption bundle, used to measure changes in the overall price level, is known as a <strong>market basket.</strong> Suppose that before the frost a typical consumer bought 200 oranges, 50 grapefruit, and 100 lemons over the course of a year, our market basket for this example.</p>
+<p id="krugmanwellsessentials4e-ch13-p96" block_type="txt"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-tab-3">Table 13-3</link> shows the pre-frost and post-frost cost of this market basket. Before the frost, it cost &#36;95; after the frost, the same bundle of goods cost &#36;175. Since &#36;175/&#36;95 = 1.842, the post-frost basket costs 1.842 times the cost of the pre-frost basket, a cost increase of 84.2&#37;. In this example, the average price of citrus fruit has increased 84.2&#37; since the base year as a result of the frost, where the base year is the initial year used in the measurement of the price change.</p>
+<table id="krugmanwellsessentials4e-ch13-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch13-tab-3" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">13-3</phrase></strong> <phrase block_type="tbl_title">Calculating the Cost of a Market Basket</phrase></table_caption>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Pre-frost</strong></td>
+<td><strong>Post-frost</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Price of orange</td>
+<td class="tabl-rborder">&#36;0.20</td>
+<td>&#36;0.40</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Price of grapefruit</td>
+<td class="tabl-rborder">0.60</td>
+<td>1.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Price of lemon</td>
+<td class="tabl-rborder">0.25</td>
+<td>0.45</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Cost of market basket (200 oranges, 50 grapefruit, 100 lemons)</td>
+<td class="tabl-rborder">(200 &#215; &#36;0.20) &#43; (50 &#215; &#36;0.60) &#43; (100 &#215; &#36;0.25) = &#36;95.00</td>
+<td>(200 &#215; &#36;0.40) &#43; (50 &#215; &#36;1.00) &#43; (100 &#215; &#36;0.45) = &#36;175.00</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_369" block_type="page_start">369</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p97" block_type="mn-gl-def">A <strong>price index</strong> measures the cost of purchasing a given market basket in a given year, where that cost is normalized so that it is equal to 100 in the selected base year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p98" block_type="txt">Economists use the same method to measure changes in the overall price level: they track changes in the cost of buying a given market basket. In addition, they perform another simplification in order to avoid having to keep track of the information that the market basket cost&#8212;for example, to avoid saying that the market basket costs &#36;95 in 1997 dollars and &#36;103 in 2001 dollars. They <em>normalize</em> the measure of the aggregate price level, which means that they set the cost of the market basket equal to 100 in the chosen base year. Working with a market basket and a base year, and after performing normalization, we obtain what is known as a <strong>price index,</strong> a normalized measure of the overall price level. It is always cited along with the year for which the aggregate price level is being measured and the base year. A price index can be calculated using the following formula:</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-5" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-10" alt="image" src="images/KrugESS4e_eqn_369_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p99" block_type="txt">In our example, the citrus fruit market basket cost &#36;95 in the base year, the year before the frost. So by Equation 13-1 we define the price index for citrus fruit as (cost of market basket in a given year/&#36;95) &#215; 100, yielding an index of 100 for the period before the frost and 184.2 after the frost. You should note that the price index for the base year always results in a price index equal to 100. This is because the price index in the base year is equal to: (cost of market basket in base year/cost of market basket in base year) &#215; 100 = 100.</p>
+<p id="krugmanwellsessentials4e-ch13-p100" block_type="txt">Thus, the price index makes it clear that the average price of citrus has risen 84.2&#37; as a consequence of the frost. Because of its simplicity and intuitive appeal, the method we&#8217;ve just described is used to calculate a variety of price indexes to track average price changes among a variety of different groups of goods and services. For example, the <em>consumer price index,</em> which we&#8217;ll discuss shortly, is the most widely used measure of the aggregate price level, the overall price level of final consumer goods and services across the economy.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p101" block_type="mn-gl-def">The <strong>inflation rate</strong> is the percent change per year in a price index&#8212;typically the consumer price index.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p102" block_type="txt">Price indexes are also the basis for measuring inflation. The <strong>inflation rate</strong> is the annual percent change in an official price index. The inflation rate from year 1 to year 2 is calculated using the following formula, where we assume that year 1 and year 2 are consecutive years.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-6" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-11" alt="image" src="images/KrugESS4e_eqn_369_02.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p103" block_type="txt">Typically, a news report that cites &#8220;the inflation rate&#8221; is referring to the annual percent change in the consumer price index.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-7" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="369">
+<section-metadata><section-title>The Consumer Price Index</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p104" block_type="mn-gl-def">The <strong>consumer price index,</strong> or <strong>CPI,</strong> measures the cost of the market basket of a typical urban American family.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p105" block_type="txt-ni">The most widely used measure of prices in the United States is the <strong>consumer price index</strong> (often referred to simply as the <strong>CPI</strong>), which is intended to show how the cost of all purchases by a typical urban family has changed over time. It is calculated by surveying market prices for a market basket that is constructed to represent the consumption of a typical family of four living in a typical American city. The base period for the index is currently 1982&#8211;1984; that is, the index is calculated so that the average of consumer prices in 1982&#8211;1984 is 100.</p>
+<p id="krugmanwellsessentials4e_page_370" block_type="page_start">370</p>
+<p id="krugmanwellsessentials4e-ch13-p106" block_type="txt">The market basket used to calculate the CPI is far more complex than the three-fruit market basket we described above. In fact, to calculate the CPI, the Bureau of Labor Statistics sends its employees out to survey supermarkets, gas stations, hardware stores, and so on&#8212;some 23,000 retail outlets in 87 cities. Every month it tabulates about 80,000 prices, on everything from romaine lettuce to a medical check-up. </p>
+<p id="krugmanwellsessentials4e-ch13-p107" block_type="txt"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-7">Figure 13-3</link> shows the weight of major categories in the consumer price index as of December 2014. For example, motor fuel, mainly gasoline, accounted for 4&#37; of the CPI in December 2014. So when gas prices fell nearly 50&#37;, from &#36;3.71 a gallon in the summer of 2014 to &#36;2.04 a gallon in early 2015, the effect was to decrease the CPI by 0.5 times 4&#37;&#8212;that is, around 2&#37;.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-7" block_type="figure" numbered="true" number="13-3" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-7"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>13-3</strong></phrase> <phrase block_type="fig_title">The Makeup of the Consumer Price Index in 2014</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch13-img-12" alt="image" src="images/KrugESS4e_fig_13_03.jpg"/>
+<caption>This chart shows the percentage shares of major types of spending in the CPI as of December 2014. Housing, food, transportation, and motor fuel made up about 75&#37; of the CPI market basket. (Numbers don&#8217;t add to 100&#37; due to rounding.)</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p108" block_type="txt"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-8">Figure 13-4</link> shows how the CPI has changed since measurement began in 1913. Since 1940, the CPI has risen steadily, although its annual percent increases in recent years have been much smaller than those of the 1970s and early 1980s. (A logarithmic scale is used so that equal percent changes in the CPI have the same slope.)</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-8" block_type="figure" numbered="true" number="13-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-8"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>13-4</strong></phrase> <phrase block_type="fig_title">The CPI, 1913&#8211;2016</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch13-img-13" alt="image" src="images/KrugESS4e_fig_13_04.jpg"/>
+<caption>Since 1940, the CPI has risen steadily. But the annual percentage increases in recent years have been much smaller than those of the 1970s and early 1980s. (The vertical axis is measured on a logarithmic scale so that equal percent changes in the CPI have the same slope.)</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p109" block_type="txt">The United States, like nearly every country, calculates a consumer price index. As you might expect, the market baskets that make up these indexes differ quite a lot from country to country. In poor countries, where people must spend a high proportion of their income to feed themselves, food makes up a large share of the price index. Among high-income countries, differences in consumption patterns lead to differences in the price indexes: the Japanese price index puts a larger weight on raw fish and a smaller weight on beef than ours does, and the French price index puts a larger weight on wine.</p>
+<p id="krugmanwellsessentials4e_page_371" block_type="page_start">371</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec2-8" block_type="h2" title="" chapter="ch13" numbered="false" level="2" print_page="371">
+<section-metadata><section-title>Other Price Measures</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p110" block_type="mn-gl-def">The <strong>producer price index,</strong> or <strong>PPI,</strong> measures changes in the prices of goods purchased by producers.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p111" block_type="txt-ni">There are two other price measures that are also widely used to track economy-wide price changes. One is the <strong>producer price index</strong> (or <strong>PPI,</strong> which used to be known as the <em>wholesale price index</em>). As its name suggests, the producer price index measures the cost of a typical basket of goods and services&#8212;containing raw commodities such as steel, electricity, coal, and so on&#8212;purchased by producers. Because commodity producers are relatively quick to change prices when they perceive a change in overall demand for their goods, the PPI often responds to inflationary or deflationary pressures more quickly than the CPI. As a result, the PPI is often regarded as an &#8220;early warning signal&#8221; of changes in the inflation rate.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch13-p112" block_type="mn-gl-def">The <strong>GDP deflator</strong> for a given year is 100 times the ratio of nominal GDP to real GDP in that year.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p113" block_type="txt">The other widely used price measure is the <em>GDP deflator;</em> it isn&#8217;t exactly a price index, although it serves the same purpose. Recall how we distinguished between nominal GDP (GDP in current prices) and real GDP (GDP calculated using the prices of a base year). The <strong>GDP deflator</strong> for a given year is equal to 100 times the ratio of nominal GDP for that year to real GDP for that year. Since real GDP is currently expressed in 2005 dollars, the GDP deflator for 2005 is equal to 100. If nominal GDP doubles but real GDP does not change, the GDP deflator indicates that the aggregate price level doubled.</p>
+<p id="krugmanwellsessentials4e-ch13-p114" block_type="txt">Perhaps the most important point about the different inflation rates generated by these three measures of prices is that they usually move closely together (although the producer price index tends to fluctuate more than either of the other two measures). <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-9">Figure 13-5</link> shows the annual percent changes in the three indexes since 1930. By all three measures, the U.S. economy experienced deflation during the early years of the Great Depression, inflation during World War II, accelerating inflation during the 1970s, and a return to relative price stability in the 1990s. Notice, by the way, the dramatic ups and downs in producer prices from 2000 to 2015 on the graph; this reflects large swings in energy and food prices, which play a much bigger role in the PPI than they do in either the CPI or the GDP deflator.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-9" block_type="figure" numbered="true" number="13-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-9"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>13-5</strong></phrase> <phrase block_type="fig_title">The CPI, the PPI, and the GDP Deflator</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch13-img-14" alt="image" src="images/KrugESS4e_fig_13_05.jpg"/>
+<caption>As the figure shows, the three different measures of inflation, the PPI (orange), the CPI (green), and the GDP deflator (purple), usually move closely together. Each reveals a drastic acceleration of inflation during the 1970s and a return to relative price stability in the 1990s. With the exception of a brief period of deflation in 2009, prices have remained stable from 2000 to 2015.</caption>
+<asset_source><em>Data from:</em> Bureau of Labor Statistics; Bureau of Economic Analysis.</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e_page_372" block_type="page_start">372</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch13-p115" block_type="bx-2-t"><strong>Indexing to the CPI</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p116" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-15" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p117" block_type="bx2-first"><phrase block_type="dropcap"><strong>A</strong></phrase>lthough GDP is a very important number for shaping economic policy, official statistics on GDP don&#8217;t have a direct effect on people&#8217;s lives. The CPI, by contrast, has a direct and immediate impact on millions of Americans because many payments are tied, or &#8220;indexed,&#8221; to the CPI&#8212;the amount paid rises or falls when the CPI rises or falls.</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-16" alt="image" src="images/KrugESS4e_13UN02.jpg"/>
+<caption>A small change in the CPI has large consequences for those dependent on Social Security payments.</caption>
+<asset_source>Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-07216]</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p118" block_type="bx2-txt">The practice of indexing payments to consumer prices goes back to the dawn of the United States as a nation. In 1780 the Massachusetts State Legislature recognized that the pay of its soldiers fighting the British needed to be increased because of inflation that occurred during the Revolutionary War. The legislature adopted a formula that made a soldier&#8217;s pay proportional to the cost of a market basket, consisting of 5 bushels of corn, 68 4/7 pounds of beef, 10 pounds of sheep&#8217;s wool, and 16 pounds of shoe leather.</p>
+<p id="krugmanwellsessentials4e-ch13-p119" block_type="bx2-txt">Today, approximately 56 million people receive payments from Social Security, a national retirement program that accounts for almost a quarter of current total federal spending&#8212;more than the defense budget. The amount of an individual&#8217;s Social Security payment is determined by a formula that reflects his or her previous payments into the system as well as other factors. In addition, all Social Security payments are adjusted each year to offset any increase in consumer prices over the previous year. The CPI is used to calculate the official estimate of the inflation rate used to adjust these payments yearly. So every percentage point added to the official estimate of the rate of inflation adds 1&#37; to the checks received by tens of millions of individuals.</p>
+<p id="krugmanwellsessentials4e-ch13-p120" block_type="bx2-txt">Other government payments are also indexed to the CPI. In addition, income tax brackets, the bands of income levels that determine a taxpayer&#8217;s income tax rate, are also indexed to the CPI. (An individual in a higher income bracket pays a higher income tax rate in a progressive tax system like ours.) Indexing also extends to the private sector, where many private contracts, including some wage settlements, contain cost-of-living allowances (called COLAs) that adjust payments in proportion to changes in the CPI.</p>
+<p id="krugmanwellsessentials4e-ch13-p121" block_type="bx2-txt">Because the CPI plays such an important and direct role in people&#8217;s lives, it&#8217;s a politically sensitive number. The Bureau of Labor Statistics, which calculates the CPI, takes great care in collecting and interpreting price and consumption data. It uses a complex method in which households are surveyed to determine what they buy and where they shop, and a carefully selected sample of stores are surveyed to get representative prices.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch13-bx5-3" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch13-list-6" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch13-p122" block_type="sr1-bl">Changes in the <strong>aggregate price level</strong> are measured by the cost of buying a particular <strong>market basket</strong> during different years. A <strong>price index</strong> for a given year is the cost of the market basket in that year normalized so that the price index equals 100 in a selected base year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p123" block_type="sr1-bl">The <strong>inflation rate</strong> is calculated as the percent change in a price index. The most commonly used price index is the <strong>consumer price index,</strong> or <strong>CPI,</strong> which tracks the cost of a basket of consumer goods and services. The <strong>producer price index,</strong> or <strong>PPI,</strong> does the same for goods and services used as inputs by firms. The <strong>GDP deflator</strong> measures the aggregate price level as the ratio of nominal to real GDP times 100. These three measures normally behave quite similarly.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx6-3" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase><phrase block_type="number">13-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-5" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch13-p124" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Consider <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-tab-3">Table 13-3</link> but suppose that the market basket is composed of 100 oranges, 50 grapefruit, and 200 lemons. How does this change the pre-frost and post-frost price indexes? Explain. Generalize your explanation to how the construction of the market basket affects the price index.</p>
+</question>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-6" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch13-p125" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> For each of the following events, how would an economist using a 10-year-old market basket create a bias in measuring the change in the cost of living today?</p>
+<list id="krugmanwellsessentials4e-ch13-list-7" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p126" block_type="sr2-nl-lvl2">A typical family owns more cars than it would have a decade ago. Over that time, the average price of a car has increased more than the average prices of other goods.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p127" block_type="sr2-nl-lvl2">Virtually no households had broadband internet access a decade ago. Now many households have it, and the price has regularly fallen each year.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-cyuquestion-7" block_type="q_cyu" number="3">
+<p id="krugmanwellsessentials4e-ch13-p128" block_type="sr2-nl-mid"><phrase block_type="qnum">3.</phrase> The consumer price index in the United States (base period 1982&#8211;1984) was 226.229 in 2012 and 229.324 in 2013. Calculate the inflation rate from 2012 to 2013. </p>
+</question>
+<p id="krugmanwellsessentials4e-ch13-p129" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_373" block_type="page_start">373</p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-4" block_type="solved_problem" title="" chapter="ch12" numbered="true" level="1" print_page="373">
+<section-metadata><section-title>SOLVED PROBLEM</section-title></section-metadata>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch13-bx7-1" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase><phrase block_type="gc2">A Change in Fortune?</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p130" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-17" alt="image" src="images/launchpad_logo_cmyk.jpg"/></p>
+<p id="krugmanwellsessentials4e-ch13-p131" block_type="fg1-t">for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p132" block_type="wio-txt-ni">In <link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-fig-4">Figure 13-2</link>, we compare real versus nominal GDP in Venezuela for the period 2000 to 2014. The following table shows the underlying data on nominal GDP (in billions of bolivars), real GDP (in billions of 1997 bolivars), and population (in thousands) for the years 2004, 2006, 2008, 2010, 2012, 2014. For each period, 2004&#8211;2006, 2006&#8211;2008, 2008&#8211;2010, 2010&#8211;2012, and 2012&#8211;2014, calculate the real growth rate in GDP per capita.</p>
+<table id="krugmanwellsessentials4e-ch13-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-4" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Year</strong></td>
+<td><strong>Real GDP (billions of bolivars)</strong></td>
+<td><strong>Nominal GDP (billions of 1997 bolivars)</strong></td>
+<td><strong>Population (millions)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2004</td>
+<td class="tabl-rborder">VEB42.172 </td>
+<td class="tabl-rborder">VEB212.683</td>
+<td>25.987</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2006</td>
+<td class="tabl-rborder">51.117</td>
+<td class="tabl-rborder">393.926</td>
+<td>26.835</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2008</td>
+<td class="tabl-rborder">58.525</td>
+<td class="tabl-rborder">677.594</td>
+<td>27.733</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2010</td>
+<td class="tabl-rborder">55.808</td>
+<td class="tabl-rborder">1,016.840</td>
+<td>28.631</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2012</td>
+<td class="tabl-rborder">61.409</td>
+<td class="tabl-rborder">1,635.450</td>
+<td>29.517</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2014</td>
+<td class="tabl-rborder">59.745</td>
+<td class="tabl-rborder">3,145.420</td>
+<td>30.457</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch13-p133" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Calculate real GDP per capita (in bolivars) for each year in the table.</strong>
+<phrase block_type="step-subtext">Read pages 365&#8211;367.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch13-p134" block_type="wio-txt-ni">Real GDP per capita is GDP divided by the size of the population.</p>
+<p id="krugmanwellsessentials4e-ch13-p135" block_type="wio-txt">Real GDP per capita for each of the years is listed in the accompanying table. Real GDP is expressed in billions of bolivars and population is expressed in millions. To get both variables in the same units we must multiply real GDP by 1,000 to express it in millions. For 2004, real GDP per capita is calculated by multiplying VEB42.172 by 1,000, and then dividing by 25.987: (VEB42.172 &#215; 1,000)/25.987 = VEB1,623).</p>
+<table id="krugmanwellsessentials4e-ch13-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-5" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Year</strong></td>
+<td><strong>Real GDP (billions of bolivars)</strong></td>
+<td><strong>Population (millions)</strong></td>
+<td><strong>Real GDP per capita (1997 bolivars)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2004</td>
+<td class="tabl-rborder">VEB42.172</td>
+<td class="tabl-rborder">25.987</td>
+<td>VEB1,623</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2006</td>
+<td class="tabl-rborder">51.117</td>
+<td class="tabl-rborder">26.835</td>
+<td>1,905</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2008</td>
+<td class="tabl-rborder">58.525</td>
+<td class="tabl-rborder">27.733</td>
+<td>2,110</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2010</td>
+<td class="tabl-rborder">55.808</td>
+<td class="tabl-rborder">28.631</td>
+<td>1,949</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2012</td>
+<td class="tabl-rborder">61.409</td>
+<td class="tabl-rborder">29.517</td>
+<td>2,080</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2014</td>
+<td class="tabl-rborder">59.745</td>
+<td class="tabl-rborder">30.457</td>
+<td>1,962</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch13-p136" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Calculate the percent change in real GDP per capita for the periods 2004&#8211;2006, 2006&#8211;2008, 2008&#8211;2010, 2010&#8211;2012, and 2012&#8211;2014.</strong>
+<phrase block_type="step-subtext">Read pages 365&#8211;367.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch13-p137" block_type="wio-txt-ni">The percent change in real GDP per capita between year 1 and year 2 is calculated using the following formula:</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-11" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-18" alt="image" src="images/KrugESS4e_eqn_373_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch13-p138" block_type="wio-txt-ni">Note the similarity between this equation and Equation 13-2 in the chapter. Both equations measure the rate of change.</p>
+<p id="krugmanwellsessentials4e-ch13-p139" block_type="wio-txt">The percent change in real GDP per capita for each of the periods is presented in the second column of the table. </p>
+<table id="krugmanwellsessentials4e-ch13-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-6" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Year</strong></td>
+<td><strong>&#37; Change in real GDP per capita</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2004&#8211;2006</td>
+<td>17.38&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2006&#8211;2008</td>
+<td>10.76&#37;</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2008&#8211;2010</td>
+<td>&#8722;7.63&#37;</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2010&#8211;2012</td>
+<td>6.72&#37;</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2012&#8211;2014</td>
+<td>&#8722;5.67&#37;</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch13-p140" block_type="wio-txt">The percent change in real GDP per capita for 2004&#8211;2006 is calculated by subtracting real GDP per capita in 2004 from real GDP per capita in 2006, dividing by real GDP per capita in 2004, and then multiplying this expression by 100:</p>
+<figure id="krugmanwellsessentials4e-ch13-fig-12" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch13-img-19" alt="image" src="images/KrugESS4e_eqn_373_02.jpg"/>
+</figure>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-5" block_type="cr-que-t" title="" chapter="ch13" numbered="true" level="1" print_page="374">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_374" block_type="page_start">374</p>
+<list id="krugmanwellsessentials4e-ch13-list-8" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch13-p141" block_type="sum-nl">Economists keep track of the flows of money between sectors with the <strong>national income and product accounts,</strong> or <strong>national accounts.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p142" block_type="sum-nl"><strong>Gross domestic product,</strong> or <strong>GDP,</strong> measures the value of all <strong>final goods and services</strong> produced in the economy. It does not include the value of <strong>intermediate goods and services.</strong> It can be calculated in three ways: add up the <strong>value added</strong> by all producers; add up all spending on domestically produced final goods and services; or add up all the income paid by domestic firms to factors of production. These three methods are equivalent because in the economy as a whole, total income paid by domestic firms to factors of production must equal total spending on domestically produced final goods and services.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p143" block_type="sum-nl"><strong>Real GDP</strong> is the value of the final goods and services produced calculated using the prices of a selected base year. Except in the base year, real GDP is not the same as <strong>nominal GDP,</strong> the value of <strong>aggregate output</strong> calculated using current prices. Analysis of the growth rate of aggregate output must use real GDP because doing so eliminates any change in the value of aggregate output due solely to price changes. Real <strong>GDP per capita</strong> is a measure of average aggregate output per person but is not in itself an appropriate policy. U.S. statistics on real GDP are always expressed in <strong>chained dollars.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p144" block_type="sum-nl">To measure the <strong>aggregate price level,</strong> economists calculate the cost of purchasing a <strong>market basket.</strong> A <strong>price index</strong> is the ratio of the current cost of that market basket to the cost in a selected base year, multiplied by 100.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p145" block_type="sum-nl">The <strong>inflation rate</strong> is the yearly percent change in a price index, typically based on the <strong>consumer price index,</strong> or <strong>CPI,</strong> the most common measure of the aggregate price level. A similar index for goods and services purchased by firms is the <strong>producer price index,</strong> or <strong>PPI.</strong> Finally, economists also use the <strong>GDP deflator,</strong> which measures the price level by calculating the ratio of nominal to real GDP times 100.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-6" block_type="cr-kt-t" title="" chapter="ch13" numbered="true" level="1" print_page="374">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p146" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-20" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch13-p147" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p17">National income and product accounts (national accounts), p. 361</link></p>
+<p id="krugmanwellsessentials4e-ch13-p148" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p21">Final goods and services, p. 361</link></p>
+<p id="krugmanwellsessentials4e-ch13-p149" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p21">Intermediate goods and services, p. 361</link></p>
+<p id="krugmanwellsessentials4e-ch13-p150" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p23">Gross domestic product (GDP), p. 361</link></p>
+<p id="krugmanwellsessentials4e-ch13-p151" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p33">Value added, p. 363</link></p>
+<p id="krugmanwellsessentials4e-ch13-p152" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p61">Aggregate output, p. 365</link></p>
+<p id="krugmanwellsessentials4e-ch13-p153" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p65">Real GDP, p. 366</link></p>
+<p id="krugmanwellsessentials4e-ch13-p154" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p67">Nominal GDP, p. 366</link></p>
+<p id="krugmanwellsessentials4e-ch13-p155" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p71">Chained dollars, p. 366</link></p>
+<p id="krugmanwellsessentials4e-ch13-p156" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p73">GDP per capita, p. 367</link></p>
+<p id="krugmanwellsessentials4e-ch13-p157" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p91">Aggregate price level, p. 368</link></p>
+<p id="krugmanwellsessentials4e-ch13-p158" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p95">Market basket, p. 368</link></p>
+<p id="krugmanwellsessentials4e-ch13-p159" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p98">Price index, p. 369</link></p>
+<p id="krugmanwellsessentials4e-ch13-p160" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p102">Inflation rate, p. 369</link></p>
+<p id="krugmanwellsessentials4e-ch13-p161" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p105">Consumer price index (CPI), p. 369</link></p>
+<p id="krugmanwellsessentials4e-ch13-p162" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p111">Producer price index (PPI), p. 371</link></p>
+<p id="krugmanwellsessentials4e-ch13-p163" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch13.xml#krugmanwellsessentials4e-ch13-p113">GDP deflator, p. 371</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-7" block_type="cr-que-t" title="" chapter="ch13" numbered="true" level="1" print_page="374">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch13-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch13-p164" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> The small economy of Pizzania produces three goods (bread, cheese, and pizza), each produced by a separate company. The bread and cheese companies produce all the inputs they need to make bread and cheese, respectively. The pizza company uses the bread and cheese from the other companies to make its pizzas. All three companies employ labor to help produce their goods, and the difference between the value of goods sold and the sum of labor and input costs is the firm&#8217;s profit. The accompanying table summarizes the activities of the three companies when all the bread and cheese produced are sold to the pizza company as inputs in the production of pizzas.</p>
+<table id="krugmanwellsessentials4e-ch13-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-7" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>Bread company</strong></td>
+<td><strong>Cheese company</strong></td>
+<td><strong>Pizza company</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Cost of inputs</td>
+<td class="tabl-rborder">&#36;0</td>
+<td class="tabl-rborder">&#36;0</td>
+<td>&#36;50 (bread) 35 (cheese)</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Wages</td>
+<td class="tabl-rborder">15</td>
+<td class="tabl-rborder">20</td>
+<td>75</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Value of output</td>
+<td class="tabl-rborder">50</td>
+<td class="tabl-rborder">35</td>
+<td>200</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch13-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p165" block_type="cr-que-ans-first">Calculate GDP as the value added in production.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p166" block_type="cr-que-ans-mid">Calculate GDP as spending on final goods and services.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p167" block_type="cr-que-ans-mid">Calculate GDP as factor income. </p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch13-p168" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> In the economy of Pizzania (from Problem 1), bread and cheese produced are sold both to the pizza company for inputs in the production of pizzas and to consumers as final goods. The accompanying table summarizes the activities of the three companies.</p>
+<table id="krugmanwellsessentials4e-ch13-untab-8" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-8" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Bread company</strong></td>
+<td><strong>Cheese company</strong></td>
+<td><strong>Pizza company</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Cost of inputs</td>
+<td class="tabl-rborder">&#36;0</td>
+<td class="tabl-rborder">&#36;0</td>
+<td>&#36;50 (bread) 35 (cheese)</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Wages</td>
+<td class="tabl-rborder">25</td>
+<td class="tabl-rborder">30</td>
+<td>75</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Value of output</td>
+<td class="tabl-rborder">100</td>
+<td class="tabl-rborder">60</td>
+<td>200</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch13-list-10" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p169" block_type="cr-que-ans-first">Calculate GDP as the value added in production.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p170" block_type="cr-que-ans-mid">Calculate GDP as spending on final goods and services.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p171" block_type="cr-que-ans-mid">Calculate GDP as factor income. </p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_375" block_type="page_start">375</p>
+<question id="krugmanwellsessentials4e-ch13-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch13-p172" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> Which of the following transactions will be included in GDP for the United States?</p>
+<list id="krugmanwellsessentials4e-ch13-list-11" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p173" block_type="cr-que-ans-first">Coca-Cola builds a new bottling plant in the United States.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p174" block_type="cr-que-ans-mid">Delta sells one of its existing airplanes to Korean Air.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p175" block_type="cr-que-ans-mid">Ms. Moneybags buys an existing share of Disney stock.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p176" block_type="cr-que-ans-mid">A California winery produces a bottle of Chardonnay and sells it to a customer in Montreal, Canada.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p177" block_type="cr-que-ans-mid">An American buys a bottle of French perfume in Tulsa. </p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p178" block_type="cr-que-ans-mid">A book publisher produces too many copies of a new book; the books don&#8217;t sell this year, so the publisher adds the surplus books to inventories. </p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch13-p179" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> The accompanying table shows data on nominal GDP (in billions of dollars), real GDP (in billions of 2005 dollars), and population (in thousands) of the United States in 1960, 1970, 1980, 1990, 2000, and 2010. The U.S. price level rose consistently over the period 1960&#8211;2010.</p>
+<table id="krugmanwellsessentials4e-ch13-untab-9" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-9" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Year</strong></td>
+<td><strong>Nominal GDP (billions of dollars)</strong></td>
+<td><strong>Real GDP (billions of 2005 dollars)</strong></td>
+<td><strong>Population (thousands)</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">1960</td>
+<td class="tabl-rborder">&#36;526.4</td>
+<td class="tabl-rborder">&#36;2,828.5</td>
+<td>180,760</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">1970</td>
+<td class="tabl-rborder">1,038.5</td>
+<td class="tabl-rborder">4,266.3</td>
+<td>205,089</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">1980</td>
+<td class="tabl-rborder">2,788.1</td>
+<td class="tabl-rborder">5,834.0</td>
+<td>227,726</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">1990</td>
+<td class="tabl-rborder">5,800.5</td>
+<td class="tabl-rborder">8,027.1</td>
+<td>250,181</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2000</td>
+<td class="tabl-rborder">9,951.5</td>
+<td class="tabl-rborder">11,216.4</td>
+<td>282,418</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2010</td>
+<td class="tabl-rborder">14,526.5</td>
+<td class="tabl-rborder">13,088.0</td>
+<td>310,106</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch13-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p180" block_type="cr-que-ans-mid">Why is real GDP greater than nominal GDP for all years until 2000 and lower for 2010? </p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p181" block_type="cr-que-ans-mid">Calculate the percent change in real GDP from 1960 to 1970, 1970 to 1980, 1980 to 1990, 1990 to 2000, and 2000 to 2010. Which period had the highest growth rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p182" block_type="cr-que-ans-mid">Calculate real GDP per capita for each of the years in the table.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p183" block_type="cr-que-ans-mid">Calculate the percent change in real GDP per capita from 1960 to 1970, 1970 to 1980, 1980 to 1990, 1990 to 2000, and 2000 to 2010. Which period had the highest growth rate?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p184" block_type="cr-que-ans-mid">How do the percent change in real GDP and the percent change in real GDP per capita compare? Which is larger? Do we expect them to have this relationship?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch13-p185" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> Eastland College is concerned about the rising price of textbooks that students must purchase. To better identify the increase in the price of textbooks, the dean asks you, the Economics Department&#8217;s star student, to create an index of textbook prices. The average student purchases three English, two math, and four economics textbooks per year. The prices of these books are given in the accompanying table. </p>
+<table id="krugmanwellsessentials4e-ch13-untab-10" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-10" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>2012</strong></td>
+<td><strong>2013</strong></td>
+<td><strong>2014</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">English textbook</td>
+<td class="tabl-rborder">&#36;100</td>
+<td class="tabl-rborder">&#36;110</td>
+<td>&#36;114</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Math textbook</td>
+<td class="tabl-rborder">140</td>
+<td class="tabl-rborder">144</td>
+<td>148</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Economics textbook</td>
+<td class="tabl-rborder">160</td>
+<td class="tabl-rborder">180</td>
+<td>200</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch13-list-13" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p186" block_type="cr-que-ans-mid">What is the percent change in the price of an English textbook from 2012 to 2014?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p187" block_type="cr-que-ans-mid">What is the percent change in the price of a math textbook from 2012 to 2014?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p188" block_type="cr-que-ans-mid">What is the percent change in the price of an economics textbook from 2012 to 2014?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p189" block_type="cr-que-ans-mid">Using 2013 as a base year, create a price index for these books for all years.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p190" block_type="cr-que-ans-mid">What is the percent change in the price index from 2012 to 2014?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch13-p191" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> The consumer price index, or CPI, measures the cost of living for a typical urban household by multiplying the price for each category of expenditure (housing, food, and so on) times a measure of the importance of that expenditure in the average consumer&#8217;s market basket and summing over all categories. However, using data from the consumer price index, we can see that changes in the cost of living for different types of consumers can vary a great deal. Let&#8217;s compare the cost of living for a hypothetical retired person and a hypothetical college student. Let&#8217;s assume that the market basket of a retired person is allocated in the following way: 10&#37; on housing, 15&#37; on food, 5&#37; on transportation, 60&#37; on medical care, 0&#37; on education, and 10&#37; on recreation. The college student&#8217;s market basket is allocated as follows: 5&#37; on housing, 15&#37; on food, 20&#37; on transportation, 0&#37; on medical care, 40&#37; on education, and 20&#37; on recreation. The accompanying table shows the March 2014 CPI for each of the relevant categories. </p>
+<table id="krugmanwellsessentials4e-ch13-untab-11" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-11" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>CPI March 2014</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>Housing</td>
+<td>228.7</td>
+</tr>
+<tr class="tbl-td-dark">
+<td>Food</td>
+<td>239.7</td>
+</tr>
+<tr class="tbl-td-light">
+<td>Transportation</td>
+<td>219.3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td>Medical care</td>
+<td>436.5</td>
+</tr>
+<tr class="tbl-td-light">
+<td>Education</td>
+<td>229.1</td>
+</tr>
+<tr class="tbl-td-dark">
+<td>Recreation</td>
+<td>115.7</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch13-p192" block_type="cr-que-nl-mid">Calculate the overall CPI for the retired person and for the college student by multiplying the CPI for each of the categories by the relative importance of that category to the individual and then summing each of the categories. The CPI for all items in March 2014 was 235.6. How do your calculations for a CPI for the retired person and the college student compare to the overall CPI? </p>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch13-p193" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> Go to the Bureau of Labor Statistics home page at <link href="http://www.bls.gov">www.bls.gov</link>. Place the cursor over the &#8220;Economic Releases&#8221; tab and then click on &#8220;Major Economic Indicators&#8221; in the drop-down menu that appears. Once on the &#8220;Major Economic Indicators&#8221; page, click on &#8220;Consumer Price Index.&#8221; On that page, under &#8220;Table of Contents,&#8221; click on &#8220;Table 1: Consumer Price Index for All Urban Consumers.&#8221; Using the &#8220;unadjusted&#8221; figures, determine what the CPI was for the previous month. How did it change from the previous month? How does the CPI compare to the same month one year ago?</p>
+</question>
+<p id="krugmanwellsessentials4e_page_376" block_type="page_start">376</p>
+<question id="krugmanwellsessentials4e-ch13-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch13-p194" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> The accompanying table provides the annual real GDP (in billions of 2009 dollars) and nominal GDP (in billions of dollars) for the United States.</p>
+<table id="krugmanwellsessentials4e-ch13-untab-12" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-12" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td><strong>2009</strong></td>
+<td><strong>2010</strong></td>
+<td><strong>2011</strong></td>
+<td><strong>2012</strong></td>
+<td><strong>2013</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Real GDP (billions of 2009 dollars)</td>
+<td class="tabl-rborder">14,417.9</td>
+<td class="tabl-rborder">14,779.4</td>
+<td class="tabl-rborder">15,052.4</td>
+<td class="tabl-rborder">15,470.7</td>
+<td>15,761.3</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Nominal GDP (billions of dollars)</td>
+<td class="tabl-rborder">14,417.9</td>
+<td class="tabl-rborder">14,958.3</td>
+<td class="tabl-rborder">15,533.8</td>
+<td class="tabl-rborder">16,244.6</td>
+<td>16,799.7</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch13-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p195" block_type="cr-que-ans-first">Calculate the GDP deflator for each year.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p196" block_type="cr-que-ans-mid">Use the GDP deflator to calculate the inflation rate for all years except 2009.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch13-p197" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> The accompanying table contains two price indexes for the years 2011, 2012, and 2013: the GDP deflator and the CPI. For each price index, calculate the inflation rate from 2011 to 2012 and from 2012 to 2013.</p>
+<table id="krugmanwellsessentials4e-ch13-untab-13" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-13" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Year</strong></td>
+<td><strong>GDP deflator</strong></td>
+<td><strong>CPI</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2011</td>
+<td class="tabl-rborder">103.199</td>
+<td>224.939</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2012</td>
+<td class="tabl-rborder">105.002</td>
+<td>229.594</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2013</td>
+<td class="tabl-rborder">106.588</td>
+<td>232.957</td>
+</tr>
+</tbody>
+</table>
+</question>
+<question id="krugmanwellsessentials4e-ch13-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch13-p198" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> The cost of a college education in the United States is rising at a rate faster than inflation. The following table shows the average cost of a college education in the United States during the academic year that began in 2011 and the academic year that began in 2012 for public and private colleges. Assume the costs listed in the table are the only costs experienced by the various college students in a single year.</p>
+<list id="krugmanwellsessentials4e-ch13-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p199" block_type="cr-que-ans-first">Calculate the cost of living for an average college student in each category for 2011 and 2012.</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p200" block_type="cr-que-ans-mid">Calculate an inflation rate for each type of college student between 2011 and 2012.</p></li>
+</list>
+<table id="krugmanwellsessentials4e-ch13-untab-14" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-14" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td rowspan="2"></td>
+<td colspan="4"><strong>Cost of college education during academic year beginning 2011 (averages in 2011 dollars)</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Tuition and fees</strong></td>
+<td><strong>Room and board</strong></td>
+<td><strong>Books and supplies</strong></td>
+<td><strong>Other expenses</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Two-year public college: commuter</td>
+<td class="tabl-rborder">&#36;2,970</td>
+<td class="tabl-rborder">&#36;5,552</td>
+<td class="tabl-rborder">&#36;1,314</td>
+<td>&#36;2,988</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Four-year public college: in-state, on-campus</td>
+<td class="tabl-rborder">7,731</td>
+<td class="tabl-rborder">8,831</td>
+<td class="tabl-rborder">1,232</td>
+<td>3,203</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Four-year public college: out-of-state, on-campus</td>
+<td class="tabl-rborder">20,823</td>
+<td class="tabl-rborder">8,831</td>
+<td class="tabl-rborder">1,232</td>
+<td>3,203</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Four-year private college: on-campus</td>
+<td class="tabl-rborder">27,949</td>
+<td class="tabl-rborder">9,853</td>
+<td class="tabl-rborder">1,238</td>
+<td>2,378</td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td rowspan="2"></td>
+<td colspan="4"><strong>Cost of college education during academic year beginning 2012 (averages in 2012 dollars)</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td><strong>Tuition and fees</strong></td>
+<td><strong>Room and board</strong></td>
+<td><strong>Books and supplies</strong></td>
+<td><strong>Other expenses</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Two-year public college: commuter</td>
+<td class="tabl-rborder">&#36;3,080</td>
+<td class="tabl-rborder">&#36;5,817</td>
+<td class="tabl-rborder">&#36;1,341</td>
+<td>&#36;3,040</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Four-year public college: in-state, on-campus</td>
+<td class="tabl-rborder">8,805</td>
+<td class="tabl-rborder">9,183</td>
+<td class="tabl-rborder">1,243</td>
+<td>3,253</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">Four-year public college: out-of-state, on-campus</td>
+<td class="tabl-rborder">21,706</td>
+<td class="tabl-rborder">9,183</td>
+<td class="tabl-rborder">1,243</td>
+<td>3,253</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">Four-year private college: on-campus</td>
+<td class="tabl-rborder">29,115</td>
+<td class="tabl-rborder">10,181</td>
+<td class="tabl-rborder">1,243</td>
+<td>2,423</td>
+</tr>
+</tbody>
+</table>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch13-sec1-8" block_type="sum-h" title="" chapter="ch13" numbered="true" level="1" print_page="376">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch13-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch13-p201" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch13-img-21" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch13-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch13-p202" block_type="cr-que-nl-first"><phrase block_type="qnum">11.</phrase> The economy of Britannica produces three goods: computers, DVDs, and pizza. The accompanying table shows the prices and output of the three goods for the years 2012, 2013, and 2014. </p>
+<table id="krugmanwellsessentials4e-ch13-untab-15" block_type="un_table" data-href="#krugmanwellsessentials4e-ch13-untab-15" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td></td>
+<td colspan="2"><strong>Computers</strong></td>
+<td colspan="2"><strong>DVDs</strong></td>
+<td colspan="2"><strong>Pizzas</strong></td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td class="tabl-rborder"><strong>Year</strong></td>
+<td class="tabl-rborder"><strong>Price</strong></td>
+<td class="tabl-rborder"><strong>Quantity</strong></td>
+<td class="tabl-rborder"><strong>Price</strong></td>
+<td class="tabl-rborder"><strong>Quantity</strong></td>
+<td class="tabl-rborder"><strong>Price</strong></td>
+<td><strong>Quantity</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2012</td>
+<td class="tabl-rborder">&#36;900</td>
+<td class="tabl-rborder">10</td>
+<td class="tabl-rborder">&#36;10</td>
+<td class="tabl-rborder">100</td>
+<td class="tabl-rborder">&#36;15</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tabl-rborder">2013</td>
+<td class="tabl-rborder">1,000</td>
+<td class="tabl-rborder">10.5</td>
+<td class="tabl-rborder">12</td>
+<td class="tabl-rborder">105</td>
+<td class="tabl-rborder">16</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tabl-rborder">2014</td>
+<td class="tabl-rborder">1,050</td>
+<td class="tabl-rborder">12</td>
+<td class="tabl-rborder">14</td>
+<td class="tabl-rborder">110</td>
+<td class="tabl-rborder">17</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch13-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch13-p203" block_type="cr-que-ans-first">What is the percent change in production of each of the goods from 2012 to 2013 and from 2013 to 2014? </p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p204" block_type="cr-que-ans-mid">What is the percent change in prices of each of the goods from 2012 to 2013 and from 2013 to 2014?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p205" block_type="cr-que-ans-mid">Calculate nominal GDP in Britannica for each of the three years. What is the percent change in nominal GDP from 2012 to 2013 and from 2013 to 2014?</p></li>
+<li><p id="krugmanwellsessentials4e-ch13-p206" block_type="cr-que-ans-mid">Calculate real GDP in Britannica using 2012 prices for each of the three years. What is the percent change in real GDP from 2012 to 2013 and from 2013 to 2014?</p></li>
+</list>
+</question>
+</section>
+</chapter>
+</manuscript>

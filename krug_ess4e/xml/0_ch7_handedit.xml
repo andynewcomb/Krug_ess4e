@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="07" name="" title="KRU_Chapter_07_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
+<chapter number="7" id="krugmanwellsessentials4e-ch7-chapter-7" title="CHAPTER 7: Perfect Competition and the Supply Curve" start-numbering-at="7" numbered="true">
+<section id="krugmanwellsessentials4e-ch7-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="202">
+<p id="krugmanwellsessentials4e_page_202" block_type="page_start">202</p>
+<p id="krugmanwellsessentials4e-ch7-p1" block_type="chapter_title">Perfect Competition and the Supply Curve</p>
+<p id="krugmanwellsessentials4e-ch7-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">7</phrase></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-bx3-1" block_type="bx3">
+<p id="krugmanwellsessentials4e-ch7-p3" block_type="co-t"><strong>DECK THE HALLS</strong></p>
+<figure id="krugmanwellsessentials4e-ch7-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-1" alt="image" src="images/KrugESS4e_CO07.jpg"/>
+<caption>Whether Christmas trees or smartphones, how a good is produced determines its cost of production.</caption>
+<asset_source>Stockbyte/Exactostock/Superstock</asset_source>
+</figure>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp1-1" block_type="mn1">
+<p id="krugmanwellsessentials4e-ch7-p4" block_type="obj-h"><strong>What You Will Learn in This Chapter</strong></p>
+<list id="krugmanwellsessentials4e-ch7-list-1" type="unordered" block_type="greensquare">
+<li><p id="krugmanwellsessentials4e-ch7-p5" block_type="obj-bl">What a <strong>perfectly competitive market</strong> is and the characteristics of a <strong>perfectly competitive industry</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p6" block_type="obj-bl">How a <strong>price-taking producer</strong> determines its profit-maximizing quantity of output</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p7" block_type="obj-bl">How to assess whether or not a producer is profitable and why an unprofitable producer may continue to operate in the short run</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p8" block_type="obj-bl">Why industries behave differently in the short run and the long run</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p9" block_type="obj-bl">What determines the <strong>industry supply curve</strong> in both the short run and the long run</p></li>
+</list>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-1" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-2" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p11" block_type="co-txt-ni"><phrase block_type="dropcap">O</phrase>NE SURE SIGN THAT IT&#8217;S THE holiday season is the sudden appearance of Christmas tree sellers, who set up shop in vacant lots, parking lots, and garden centers all across the country. Until the 1950s, virtually all Christmas trees were obtained by individuals going to local forests to cut down their own. But that changed as increased demand from population growth and diminished supply from the loss of forests created a market opportunity. Seeing an ability to profit by growing and selling Christmas trees, farmers responded. Rather than venturing into the forest for a tree, you now have a wide range of tree sizes and varieties to choose from&#8212;all available close to home. In 2013, nearly 25 million farmed trees were sold in the United States for a total of over &#36;1 billion.</p>
+<p id="krugmanwellsessentials4e-ch7-p12" block_type="co-txt">Note that the supply of Christmas trees is relatively price inelastic for two reasons: it takes time to acquire land for planting, and it takes time for the trees to grow. However, these limits apply only in the short run. Over time, farms that are already in operation can increase their capacity and new tree farmers can enter the business. And, over time, the trees will mature and be ready to harvest. So the increase in the quantity supplied in response to an increase in price will be much larger in the long run than in the short run.</p>
+<p id="krugmanwellsessentials4e-ch7-p13" block_type="co-txt">Where does the supply curve come from? Why is there a difference between the short-run and the long-run supply curve? In this chapter we will use our understanding of costs, developed in <link href="krugmanwellsessentials4e-ch06.xml">Chapter 6</link>, as the basis for an analysis of the supply curve. As we&#8217;ll see, this will require that we understand the behavior both of individual firms and of an entire industry, composed of these many individual firms.</p>
+<p id="krugmanwellsessentials4e-ch7-p14" block_type="co-txt">Our analysis in this chapter assumes that the industry in question is characterized by <em>perfect competition.</em> We begin by explaining the concept of perfect competition, providing a brief introduction to the conditions that give rise to a perfectly competitive industry. We then show how a producer under perfect competition decides how much to produce. Finally, we use the cost curves of the individual producers to derive the <em>industry supply curve</em> under perfect competition.</p>
+<p id="krugmanwellsessentials4e-ch7-p15" block_type="co-txt">By analyzing the way a competitive industry evolves over time, we will come to understand the distinction between the short-run and long-run effects of changes in demand on a competitive industry&#8212;for example, how America&#8217;s preference for readily available trees for the holidays affected the Christmas tree farming industry. We will conclude with a deeper discussion of the conditions necessary for an industry to be perfectly competitive.</p>
+<p id="krugmanwellsessentials4e_page_203" block_type="page_start">203</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-1" block_type="h1" title="" chapter="7" numbered="true" level="1" print_page="203">
+<section-metadata><section-title>Perfect Competition</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p16" block_type="txt-ni">Suppose that Yves and Zoe are neighboring farmers, both of whom grow Christmas trees. Both sell their output to the same set of Christmas tree consumers so, in a real sense, Yves and Zoe compete with each other.</p>
+<p id="krugmanwellsessentials4e-ch7-p17" block_type="txt">Does this mean that Yves should try to stop Zoe from growing Christmas trees or that Yves and Zoe should form an agreement to grow less? Almost certainly not: there are thousands of Christmas tree farmers, and Yves and Zoe are competing with all those other growers as well as with each other. Because so many farmers sell Christmas trees, if any one of them produced more or less, there would be no measurable effect on market prices.</p>
+<p id="krugmanwellsessentials4e-ch7-p18" block_type="txt">When people talk about business competition, the image they often have in mind is a situation in which two or three rival firms are intensely struggling for advantage. But economists know that when an industry consists of a few main competitors, it&#8217;s actually a sign that competition is fairly limited. As the example of Christmas trees suggests, when there is enough competition, it doesn&#8217;t even make sense to identify your rivals: there are so many competitors that you cannot single out any one of them as a rival.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-1" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p19" block_type="mn-gl-def">A <strong>price-taking producer</strong> is a producer whose actions have no effect on the market price of the good or service it sells.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p20" block_type="txt">We can put it another way: Yves and Zoe are <strong>price-taking producers.</strong> A producer is a price-taker when its actions cannot affect the market price of the good or service it sells. As a result, a price-taking producer considers the market price as given. When there is enough competition&#8212;when competition is what economists call &#8220;perfect&#8221;&#8212;then every producer is a price-taker.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-2" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p21" block_type="mn-gl-def">A <strong>price-taking consumer</strong> is a consumer whose actions have no effect on the market price of the good or service he or she buys.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p22" block_type="txt">And there is a similar definition for consumers: a <strong>price-taking consumer</strong> is a consumer who cannot influence the market price of the good or service by his or her actions. That is, the market price is unaffected by how much or how little of the good the consumer buys.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-1" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="203">
+<section-metadata><section-title>Defining Perfect Competition</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-3" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p23" block_type="mn-gl-def">A <strong>perfectly competitive market</strong> is a market in which all market participants are price-takers.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p24" block_type="txt-ni">In a <strong>perfectly competitive market,</strong> all market participants, both consumers and producers, are price-takers. That is, neither consumption decisions by individual consumers nor production decisions by individual producers affect the market price of the good.</p>
+<p id="krugmanwellsessentials4e-ch7-p25" block_type="txt">The supply and demand model, which we introduced in <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link> and have used repeatedly since then, is a model of a perfectly competitive market. It depends fundamentally on the assumption that no individual buyer or seller of a good, such as coffee beans or Christmas trees, believes that it is possible to affect the price at which he or she can buy or sell the good.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-4" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p26" block_type="mn-gl-def">A <strong>perfectly competitive industry</strong> is an industry in which producers are price-takers.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p27" block_type="txt">As a general rule, consumers are indeed price-takers. Instances in which consumers are able to affect the prices they pay are rare. It is, however, quite common for producers to have a significant ability to affect the prices they receive, a phenomenon we&#8217;ll address in the next chapter. So the model of perfect competition is appropriate for some but not all markets. An industry in which producers are price-takers is called a <strong>perfectly competitive industry.</strong> Clearly, some industries aren&#8217;t perfectly competitive; in later chapters we&#8217;ll learn how to analyze industries that don&#8217;t fit the perfectly competitive model.</p>
+<p id="krugmanwellsessentials4e-ch7-p28" block_type="txt">Under what circumstances will all producers be price-takers? In the next section we will find that there are two necessary conditions for a perfectly competitive industry and that a third condition is often present as well.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-2" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="203">
+<section-metadata><section-title>Two Necessary Conditions for Perfect Competition</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p29" block_type="txt-ni">The markets for major grains, like wheat and corn, are perfectly competitive: individual wheat and corn farmers, as well as individual buyers of wheat and corn, take market prices as given. In contrast, the markets for some of the food items made from these grains&#8212;in particular, breakfast cereals&#8212;are by no means perfectly competitive. There is intense competition among cereal brands, but not <em>perfect</em> competition. To understand the difference between the market for wheat and the market for shredded wheat cereal is to understand the importance of the two necessary conditions for perfect competition.</p>
+<p id="krugmanwellsessentials4e_page_204" block_type="page_start">204</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-5" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p30" block_type="mn-gl-def">A producer&#8217;s <strong>market share</strong> is the fraction of the total industry output accounted for by that producer&#8217;s output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p31" block_type="txt"><em>First, for an industry to be perfectly competitive, it must contain many producers, none of whom have a large</em> <strong>market share.</strong> A producer&#8217;s market share is the fraction of the total industry output accounted for by that producer&#8217;s output. The distribution of market share constitutes a major difference between the grain industry and the breakfast cereal industry. There are thousands of wheat farmers, none of whom account for more than a tiny fraction of total wheat sales.</p>
+<p id="krugmanwellsessentials4e-ch7-p32" block_type="txt">The breakfast cereal industry, however, is dominated by four producers: Kellogg&#8217;s, General Mills, Post Foods, and the Quaker Oats Company. Kellogg&#8217;s alone accounts for about one-third of all cereal sales. Kellogg&#8217;s executives know that if they try to sell more cornflakes, they are likely to drive down the market price of cornflakes. That is, they know that their actions influence market prices, simply because they are such a large part of the market that changes in their production will significantly affect the overall quantity supplied. It makes sense to assume that producers are price-takers only when an industry does <em>not</em> contain any large producers like Kellogg&#8217;s.</p>
+<p id="krugmanwellsessentials4e-ch7-p33" block_type="txt">Second, an industry can be perfectly competitive only if consumers regard the products of all producers as equivalent. This clearly isn&#8217;t true in the breakfast cereal market: consumers don&#8217;t consider Cap&#8217;n Crunch to be a good substitute for Wheaties. As a result, the maker of Wheaties has some ability to increase its price without fear that it will lose all its customers to the maker of Cap&#8217;n Crunch.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-6" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p34" block_type="mn-gl-def">A good is a <strong>standardized product,</strong> also known as a <strong>commodity,</strong> when consumers regard the products of different producers as the same good.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p35" block_type="txt">Contrast this with the case of a <strong>standardized product,</strong> which is a product that consumers regard as the same good even when it comes from different producers, sometimes known as a <strong>commodity.</strong> Because wheat is a standardized product, consumers regard the output of one wheat producer as a perfect substitute for that of another producer. Consequently, one farmer cannot increase the price for his or her wheat without losing all sales to other wheat farmers. <em>So the second necessary condition for a competitive industry is that the industry output is a standardized product</em> (see the upcoming For Inquiring Minds).</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-3" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="204">
+<section-metadata><section-title>Free Entry and Exit</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p36" block_type="txt-ni">All perfectly competitive industries have many producers with small market shares, producing a standardized product. Most perfectly competitive industries are also characterized by one more feature: it is easy for new firms to enter the industry or for firms that are currently in the industry to leave. That is, no obstacles in the form of government regulations or limited access to key resources prevent new producers from entering the market. And no additional costs are associated with shutting down a company and leaving the industry.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-7" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p37" block_type="mn-gl-def">An industry has <strong>free entry and exit</strong> when new producers can easily enter into an industry and existing producers can easily leave that industry.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p38" block_type="txt">Economists refer to the arrival of new firms into an industry as <em>entry;</em> they refer to the departure of firms from an industry as <em>exit.</em> When there are no obstacles to entry into or exit from an industry, we say that the industry has <strong>free entry and exit.</strong></p>
+<p id="krugmanwellsessentials4e-ch7-p39" block_type="txt">Free entry and exit is not strictly necessary for perfect competition. In <link href="krugmanwellsessentials4e-ch04.xml">Chapter 4</link> we described the case of Alaskan crab fishing, where regulations place a quota on the amount of Alaskan crab that can be caught during a season, so entry is limited to established boat owners that have been given quotas. Despite this, there are enough boats operating that the crab fisherman are price-takers. But free entry and exit is a key factor in most competitive industries. It ensures that the number of producers in an industry can adjust to changing market conditions. And, in particular, it ensures that producers in an industry cannot act to keep new firms out.</p>
+<p id="krugmanwellsessentials4e-ch7-p40" block_type="txt">To sum up, then, perfect competition depends on two necessary conditions. First, the industry must contain many producers, each having a small market share. Second, the industry must produce a standardized product. In addition, perfectly competitive industries are normally characterized by free entry and exit.</p>
+<p id="krugmanwellsessentials4e_page_205" block_type="page_start">205</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx3-2" block_type="bx3-h">
+<box-metadata><box-title><phrase block_type="title">FOR INQUIRING MINDS</phrase> &#124; <strong>What&#8217;s a Standardized Product?</strong> <image asset-id="krugmanwellsessentials4e-ch7-img-3" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch7-p41" block_type="bx3-txt-ni">A perfectly competitive industry must produce a standardized product. But is it enough for the products of different firms actually to be the same? No: people must also <em>think</em> that they are the same. And producers often go to great lengths to convince consumers that they have a distinctive, or <em>differentiated,</em> product, even when they don&#8217;t.</p>
+<p id="krugmanwellsessentials4e-ch7-p42" block_type="bx3-txt">Consider, for example, champagne&#8212;not the superexpensive premium champagnes but the more ordinary stuff. Most people cannot tell the difference between champagne actually produced in the Champagne region of France, where the product originated, and similar products from Spain or California. But the French government has sought and obtained legal protection for the winemakers of Champagne, ensuring that around the world only bubbly wine from that region can be called champagne. If it&#8217;s from someplace else, all the seller can do is say that it was produced using the <em>m&#233;thode Champenoise.</em> This creates a differentiation in the minds of consumers and lets the champagne producers of Champagne charge higher prices.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-4" alt="image" src="images/KrugESS4e_7UN01.jpg"/>
+<caption>In the end, only <em>kimchi</em> eaters can tell you if there is truly a difference between Korean-produced <em>kimchi</em> and the Japanese-produced variety.</caption>
+<asset_source>&#169; Jonnyreb/Dreamstime.com</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p43" block_type="bx3-txt">Similarly, Korean producers of <em>kimchi,</em> the spicy fermented cabbage that is the Korean national side dish, are doing their best to convince consumers that the same product packaged by Japanese firms is just not the real thing. The purpose is, of course, to ensure higher prices for Korean <em>kimchi.</em></p>
+<p id="krugmanwellsessentials4e-ch7-p44" block_type="bx3-txt">So is an industry perfectly competitive if it sells products that are indistinguishable except in name but that consumers, for whatever reason, don&#8217;t think are standardized? No. When it comes to defining the nature of competition, the consumer is always right.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p45" block_type="txt">How does an industry that meets these three criteria behave? As a first step toward answering that question, let&#8217;s look at how an individual producer in a perfectly competitive industry maximizes profit.</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx2-1" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch7-p46" block_type="bx-2-t"><strong>Paid to Delay</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-2" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p47" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-5" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p48" block_type="bx2-first"><phrase block_type="dropcap">S</phrase>ometimes it is possible to see an industry become perfectly competitive. In fact, it happens frequently in the case of pharmaceuticals when the patent on a popular drug expires.</p>
+<p id="krugmanwellsessentials4e-ch7-p49" block_type="bx2-txt">When a company develops a new drug, it is usually able to receive a patent, which gives it a <em>legal monopoly&#8212;</em>the exclusive right to sell the drug&#8212;for 20 years from the date of filing. Legally, no one else can sell that drug without the patent owner&#8217;s permission.</p>
+<p id="krugmanwellsessentials4e-ch7-p50" block_type="bx2-txt">When the patent expires, the market is open for other companies to sell their own versions of the drug, known collectively as <em>generics.</em> Generics are standardized products, much like aspirin, and are often sold by many producers. On average, a generic drug costs about 15&#37; of the price of the equivalent patent-protected drug and quickly causes the patent-protected drug to lose up to 90&#37; of its market share.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-6" alt="image" src="images/KrugESS4e_7UN02.jpg"/>
+<caption>Patents allow drug makers to have a legal monopoly on new medications for 20 years.</caption>
+<asset_source>Jose Luis Pelaez/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p51" block_type="txt">Not surprisingly, the makers of patent-protected drugs are eager to forestall the entry of generic competitors and have tried a variety of strategies. One especially successful tactic, called &#8220;pay-to-delay,&#8221; is an agreement between the original drug maker and a potential generic competitor to delay the introduction of the generic drug for a specific period of time in return for compensation. As a result, the original drug maker continues to charge high prices and reap high profits. These agreements have been fiercely contested by government regulators, who view them as anti-competitive practices that hurt consumers. According to the Federal Trade Commission, the federal agency tasked with implementing antitrust law (laws regulating monopolies), between 2005 and 2015 pay-for-delay deals cost consumers &#36;3.5 billion annually.</p>
+<p id="krugmanwellsessentials4e_page_206" block_type="page_start">206</p>
+<p id="krugmanwellsessentials4e-ch7-p52" block_type="txt">The defenders of pay-for-delay agreements argue that the deals are not anti-competitive and that they allow generics to come to market without their makers having to face the threat of costly patent litigation battles. In 2013 the Supreme Court ruled that pay-for-delay deals could in fact be anti-competitive, thus giving the Federal Trade Commission the green light to challenge the deals on a case-by-case basis.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch7-bx5-4" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch7-list-2" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch7-p53" block_type="sr1-bl">Neither the actions of a <strong>price-taking producer</strong> nor those of a <strong>price-taking consumer</strong> can influence the market price of a good.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p54" block_type="sr1-bl">In a <strong>perfectly competitive market</strong> all producers and consumers are price-takers. Consumers are almost always price-takers, but this is often not true of producers. An industry in which producers are price-takers is a <strong>perfectly competitive industry.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p55" block_type="sr1-bl">A perfectly competitive industry contains many producers, each of which produces a <strong>standardized product</strong> (also known as a <strong>commodity</strong>) but none of which has a large <strong>market share.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p56" block_type="sr1-bl">Most perfectly competitive industries are also characterized by <strong>free entry and exit.</strong></p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx6-5" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">7-1</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch7-cyuquestion-1" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch7-p57" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> In each of the following situations, do you think the industry described will be perfectly competitive or not? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch7-list-3" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p58" block_type="sr2-nl-lvl2">There are two producers of aluminum in the world, a good sold in many places.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p59" block_type="sr2-nl-lvl2">The price of natural gas is determined by global supply and demand. A small share of that global supply is produced by a handful of companies located in the North Sea.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p60" block_type="sr2-nl-lvl2">Dozens of designers sell high-fashion clothes. Each designer has a distinctive style and a loyal clientele.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p61" block_type="sr2-nl-lvl2">There are many baseball teams in the United States, one or two in each major city and each selling tickets to its hometown events.</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e-ch7-p62" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-2" block_type="h1" title="" chapter="7" numbered="true" level="1" print_page="206">
+<section-metadata><section-title>Production and Profits</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p63" block_type="txt-ni">Consider Noelle, who runs a Christmas tree farm. Suppose that the market price of Christmas trees is &#36;18 per tree and that Noelle is a price-taker&#8212;she can sell as many as she likes at that price. Then we can use the data in <link href="#krugmanwellsessentials4e-ch7-tab-1">Table 7-1</link> to find her profit-maximizing level of output by direct calculation.</p>
+<table id="krugmanwellsessentials4e-ch7-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch7-tab-1" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">7-1</phrase></strong> <phrase block_type="tbl_title">Profit for Noelle&#8217;s Farm When Market Price Is &#36;18</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of trees<br/><em>Q</em></strong></td>
+<td class="tbl-rborder"><strong>Total revenue<br/><em>TR</em></strong></td>
+<td class="tbl-rborder"><strong>Total cost<br/><em>TC</em></strong></td>
+<td><strong>Profit<br/><em>TR</em> &#8211; <em>TC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td class="tbl-rborder">&#36;0</td>
+<td class="tbl-rborder">&#36;140</td>
+<td>&#8722;&#36;140</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td class="tbl-rborder">180</td>
+<td class="tbl-rborder">300</td>
+<td>&#8722;120</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">20</td>
+<td class="tbl-rborder">360</td>
+<td class="tbl-rborder">360</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">30</td>
+<td class="tbl-rborder">540</td>
+<td class="tbl-rborder">440</td>
+<td>100</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">40</td>
+<td class="tbl-rborder">720</td>
+<td class="tbl-rborder">560</td>
+<td>160</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-violet-bg">50</td>
+<td class="tbl-rborder">900</td>
+<td class="tbl-rborder">720</td>
+<td class="tbl-violet-bg">180</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">60</td>
+<td class="tbl-rborder">1,080</td>
+<td class="tbl-rborder">920</td>
+<td>160</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">70</td>
+<td class="tbl-rborder">1,260</td>
+<td class="tbl-rborder">1,160</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch7-p64" block_type="txt">The first column shows the quantity of output in number of trees, and the second column shows Noelle&#8217;s total revenue from her output: the market value of trees she produced. Total revenue, <em>TR,</em> is equal to the market price multiplied by the quantity of output:</p>
+<p id="krugmanwellsessentials4e-ch7-p65" block_type="eq-a"><strong>(7-1)</strong> <em>TR</em> = <em>P</em> &#215; <em>Q</em></p>
+<p id="krugmanwellsessentials4e-ch7-p66" block_type="txt-ni">In this example, total revenue is equal to &#36;18 per tree times the quantity of output in trees.</p>
+<p id="krugmanwellsessentials4e-ch7-p67" block_type="txt">The third column of <link href="#krugmanwellsessentials4e-ch7-tab-1">Table 7-1</link> shows Noelle&#8217;s total cost. The fourth column shows her profit, equal to total revenue minus total cost:</p>
+<p id="krugmanwellsessentials4e-ch7-p68" block_type="eq-a"><strong>(7-2)</strong> Profit = <em>TR</em> &#8722; <em>TC</em></p>
+<p id="krugmanwellsessentials4e-ch7-p69" block_type="txt-ni">As indicated by the numbers in the table, profit is maximized at an output of 50 trees, where profit is equal to &#36;180. But we can gain more insight into the profit-maximizing choice of output by viewing it as a problem of marginal analysis, a task we&#8217;ll do next.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-4" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="206">
+<section-metadata><section-title>Using Marginal Analysis to Choose the Profit-Maximizing Quantity of Output</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-8" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p70" block_type="mn-gl-def">The <strong>marginal benefit</strong> of a good or service is the additional benefit derived from producing one more unit of that good or service.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-9" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p71" block_type="mn-gl-def">The <strong>principle of marginal analysis</strong> says that the optimal amount of an activity is the quantity at which marginal benefit equals marginal cost.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p72" block_type="txt-ni">Recall the definition of <em>marginal cost</em> from <link href="krugmanwellsessentials4e-ch06.xml">Chapter 6</link>: the additional cost incurred by producing one more unit of that good or service. Similarly, the <strong>marginal benefit</strong> of a good or service is the additional benefit gained from producing one more unit of a good or service. We are now ready to use the <strong>principle of marginal analysis,</strong> which says that the optimal amount of an activity is the level at which marginal benefit is equal to marginal cost.</p>
+<p id="krugmanwellsessentials4e_page_207" block_type="page_start">207</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-10" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p73" block_type="mn-gl-def"><strong>Marginal revenue</strong> is the change in total revenue generated by an additional unit of output.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p74" block_type="txt">To apply this principle, consider the effect on a producer&#8217;s profit of increasing output by one unit. The marginal benefit of that unit is the additional revenue generated by selling it; this measure has a name&#8212;it is called the <strong>marginal revenue</strong> of that unit of output. The general formula for marginal revenue is:</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-4" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-7" alt="image" src="images/KrugESS4e_eqn_207_01.jpg"/>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p75" block_type="txt-ni">or</p>
+<p id="krugmanwellsessentials4e-ch7-p76" block_type="eq"><em>MR</em> = &#916;<em>TR/</em>&#916;<em>Q</em></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-11" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p77" block_type="mn-gl-def">According to the <strong>optimal output rule,</strong> profit is maximized by producing the quantity of output at which the marginal revenue of the last unit produced is equal to its marginal cost.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p78" block_type="txt-ni">So Noelle maximizes her profit by producing trees up to the point at which the marginal revenue is equal to marginal cost. We can summarize this as the producer&#8217;s <strong>optimal output rule:</strong> profit is maximized by producing the quantity at which the marginal revenue of the last unit produced is equal to its marginal cost. That is, <em>MR</em> = <em>MC</em> at the optimal quantity of output.</p>
+<p id="krugmanwellsessentials4e-ch7-p79" block_type="txt">We can learn how to apply the optimal output rule with the help of <link href="#krugmanwellsessentials4e-ch7-tab-2">Table 7-2</link>, which provides various short-run cost measures for Noelle&#8217;s farm. The second column contains the farm&#8217;s variable cost, and the third column shows its total cost of output based on the assumption that the farm incurs a fixed cost of &#36;140. The fourth column shows marginal cost. Notice that, in this example, the marginal cost initially falls as output rises but then begins to increase. This gives the marginal cost curve the &#8220;swoosh&#8221; shape described in the Selena&#8217;s Gourmet Salsas example in <link href="krugmanwellsessentials4e-ch06.xml">Chapter 6</link>. Shortly it will become clear that this shape has important implications for short-run production decisions.</p>
+<table id="krugmanwellsessentials4e-ch7-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch7-tab-2" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">7-2</phrase></strong> <phrase block_type="tbl_title">Short-Run Costs for Noelle&#8217;s Farm</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity of<br/>trees <em>Q</em></strong></td>
+<td><strong>Variable cost<br/><em>VC</em></strong></td>
+<td><strong>Total cost<br/><em>TC</em></strong></td>
+<td><strong>Marginal cost<br/>of tree<br/><em>MC</em> = &#916;<em>TC</em>/&#916;<em>Q</em></strong></td>
+<td><strong>Marginal<br/>revenue<br/>of tree<br/><em>MR</em></strong></td>
+<td><strong>Net gain<br/>of tree =<br/><em>MR</em> &#8211; <em>MC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>0</td>
+<td>&#36;0</td>
+<td>&#36;140</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#36;16</td>
+<td>&#36;18</td>
+<td>&#36;2</td>
+</tr>
+<tr class="tbl-td-light">
+<td>10</td>
+<td>160</td>
+<td>300</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>18</td>
+<td>12</td>
+</tr>
+<tr class="tbl-td-light">
+<td>20</td>
+<td>220</td>
+<td>360</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>18</td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-light">
+<td>30</td>
+<td>300</td>
+<td>440</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td>18</td>
+<td>6</td>
+</tr>
+<tr class="tbl-td-light">
+<td>40</td>
+<td>420</td>
+<td>560</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td class="tbl-violet-bg">16</td>
+<td class="tbl-violet-bg">18</td>
+<td>2</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-violet-bg">50</td>
+<td>580</td>
+<td>720</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td class="tbl-violet-bg">20</td>
+<td class="tbl-violet-bg">18</td>
+<td>&#8722;2</td>
+</tr>
+<tr class="tbl-td-light">
+<td>60</td>
+<td>780</td>
+<td>920</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>24</td>
+<td>18</td>
+<td>&#8722;6</td>
+</tr>
+<tr class="tbl-td-light">
+<td>70</td>
+<td>1,020</td>
+<td>1,160</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch7-p80" block_type="txt">The fifth column contains the farm&#8217;s marginal revenue, which has an important feature: Noelle&#8217;s marginal revenue equal to price is constant at &#36;18 for every output level. The sixth and final column shows the calculation of the net gain per tree, which is equal to marginal revenue minus marginal cost&#8212;or, equivalently in this case, market price minus marginal cost. As you can see, it is positive for the 10th through 50th trees; producing each of these trees raises Noelle&#8217;s profit. For the 60th through 70th trees, however, net gain is negative: producing them would decrease, not increase, profit. (You can verify this by examining <link href="#krugmanwellsessentials4e-ch7-tab-1">Table 7-1</link>.) So a quantity of 50 trees is Noelle&#8217;s profit-maximizing output; it is the level of output at which marginal cost is equal to the market price, &#36;18.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-12" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p81" block_type="mn-gl-def">According to the <strong>price-taking firm&#8217;s optimal output rule,</strong> a price-taking firm&#8217;s profit is maximized by producing the quantity of output at which the market price is equal to the marginal cost of the last unit produced.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p82" block_type="txt">This example, in fact, illustrates another general rule derived from marginal analysis&#8212;the <strong>price-taking firm&#8217;s optimal output rule,</strong> which says that a price-taking firm&#8217;s profit is maximized by producing the quantity of output at which the market price is equal to the marginal cost of the last unit produced. That is, <em>P</em> = <em>MC at the price-taking firm&#8217;s optimal quantity of output.</em> In fact, the price-taking firm&#8217;s optimal output rule is just an application of the optimal output rule to the particular case of a price-taking firm. Why? Because <em>in the case of a price-taking firm, marginal revenue is equal to the market price.</em></p>
+<p id="krugmanwellsessentials4e_page_208" block_type="page_start">208</p>
+<p id="krugmanwellsessentials4e-ch7-p83" block_type="txt">A price-taking firm cannot influence the market price by its actions. It always takes the market price as given because it cannot lower the market price by selling more or raise the market price by selling less. So, for a price-taking firm, the additional revenue generated by producing one more unit is always the market price. We will need to keep this fact in mind in future chapters, where we will learn that marginal revenue is not equal to the market price if the industry is not perfectly competitive. As a result, firms are not price-takers when an industry is not perfectly competitive.</p>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch7-bx1-1" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch7-p84" block_type="bx1-t"><strong>WHAT IF MARGINAL REVENUE AND MARGINAL COST AREN&#8217;T EXACTLY EQUAL?</strong></p>
+<p id="krugmanwellsessentials4e-ch7-p85" block_type="bx1-txt-ni">The optimal output rule says that to maximize profit, you should produce the quantity at which marginal revenue is equal to marginal cost. But what do you do if there is no output level at which marginal revenue equals marginal cost? In that case, you produce the largest quantity for which marginal revenue exceeds marginal cost. This is the case in <link href="#krugmanwellsessentials4e-ch7-tab-2">Table 7-2</link> at an output of 50 trees. The simpler version of the optimal output rule applies when production involves large numbers, such as hundreds or thousands of units. In such cases marginal cost comes in small increments, and there is always a level of output at which marginal cost almost exactly equals marginal revenue.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-13" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p86" block_type="mn-gl-def">The <strong>marginal revenue curve</strong> shows how marginal revenue varies as output varies.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p87" block_type="txt">For the remainder of this chapter, we will assume that the industry in question is like Christmas tree farming, perfectly competitive. <link href="#krugmanwellsessentials4e-ch7-fig-5">Figure 7-1</link> shows that Noelle&#8217;s profit-maximizing quantity of output is, indeed, the number of trees at which the marginal cost of production is equal to price. The figure shows the marginal cost curve, <em>MC,</em> drawn from the data in the fourth column of <link href="#krugmanwellsessentials4e-ch7-tab-2">Table 7-2</link>. We plot the marginal cost of increasing output from 10 to 20 trees halfway between 10 and 20, and so on. The horizontal line at &#36;18 is Noelle&#8217;s <strong>marginal revenue curve.</strong></p>
+<figure id="krugmanwellsessentials4e-ch7-fig-5" block_type="figure" numbered="true" number="7-1" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>7-1</strong></phrase> <phrase block_type="fig_title">The Price-Taking Firm&#8217;s Profit-Maximizing Quantity of Output</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-8" alt="image" src="images/KrugESS4e_fig_7_01.jpg"/>
+<caption>At the profit-maximizing quantity of output, the market price is equal to marginal cost. It is located at the point where the marginal cost curve crosses the marginal revenue curve, which is a horizontal line at the market price. Here, the profit-maximizing point is at an output of 50 trees, the output quantity at point <em>E.</em></caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p88" block_type="txt">Note that whenever a firm is a price-taker, its marginal revenue curve is a horizontal line at the market price: it can sell as much as it likes at the market price. Regardless of whether it sells more or less, the market price is unaffected. <em>In effect, the individual firm faces a horizontal, perfectly elastic demand curve for its output&#8212;an individual demand curve for its output that is equivalent to its marginal revenue curve.</em> The marginal cost curve crosses the marginal revenue curve at point <em>E</em> where <em>MC</em> = <em>MR.</em> Sure enough, the quantity of output at <em>E</em> is 50 trees.</p>
+<p id="krugmanwellsessentials4e-ch7-p89" block_type="txt">Does this mean that the price-taking firm&#8217;s production decision can be entirely summed up as &#8220;produce up to the point where the marginal cost of production is equal to the price&#8221;? No, not quite. Before applying the profit-maximizing principle of marginal analysis to determine how much to produce, a potential producer must as a first step answer an &#8220;either&#8211;or&#8221; question: should it produce at all? If the answer to that question is yes, it then proceeds to the second step&#8212;a &#8220;how much&#8221; decision: maximizing profit by choosing the quantity of output at which marginal cost is equal to price.</p>
+<p id="krugmanwellsessentials4e_page_209" block_type="page_start">209</p>
+<p id="krugmanwellsessentials4e-ch7-p90" block_type="txt">To understand why the first step in the production decision involves an &#8220;either&#8211;or&#8221; question, we need to ask how we determine whether it is profitable or unprofitable to produce at all.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-5" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="209">
+<section-metadata><section-title>When Is Production Profitable?</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-14" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p91" block_type="mn-gl-def"><strong>Economic profit</strong> is equal to revenue minus the opportunity cost of resources used.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-15" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p92" block_type="mn-gl-def">An <strong>explicit cost</strong> is a cost that requires an outlay of money.</p>
+</box>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-16" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p93" block_type="mn-gl-def">An <strong>implicit cost</strong> does not require an outlay of money; it is measured by the value, in dollar terms, of benefits that are forgone.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p94" block_type="txt-ni">A firm&#8217;s decision whether or not to stay in a given business depends on its <strong>economic profit</strong>&#8212;the firm&#8217;s revenue minus the opportunity cost of its resources. To put it a slightly different way: in the calculation of economic profit, a firm&#8217;s total cost incorporates <em>explicit cost</em> and <em>implicit cost</em>. An <strong>explicit cost</strong> is a cost that involves actually laying out money. An <strong>implicit cost</strong> does not require an outlay of money; it is measured by the value, in dollar terms, of benefits that are forgone.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-17" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p95" block_type="mn-gl-def"><strong>Accounting profit</strong> is equal to revenue minus explicit cost. It is usually larger than economic profit.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p96" block_type="txt">In contrast, <strong>accounting profit</strong> is profit calculated using only the explicit costs incurred by the firm. This means that economic profit incorporates the opportunity cost of resources owned by the firm and used in the production of output, while accounting profit does not.</p>
+<p id="krugmanwellsessentials4e-ch7-p97" block_type="txt">A firm may make positive accounting profit while making zero or even negative economic profit. It&#8217;s important to understand clearly that a firm&#8217;s decision to produce or not, to stay in business or to close down permanently, should be based on economic profit, not accounting profit.</p>
+<p id="krugmanwellsessentials4e-ch7-p98" block_type="txt">So we will assume, as we always do, that the cost numbers given in <link href="#krugmanwellsessentials4e-ch7-tab-1">Tables 7-1</link> and 7-2 include all costs, implicit as well as explicit, and that the profit numbers in <link href="#krugmanwellsessentials4e-ch7-tab-1">Table 7-1</link> are therefore economic profit. So what determines whether Noelle&#8217;s farm earns a profit or generates a loss? The answer is that, <em>given the farm&#8217;s cost curves, whether or not it is profitable depends on the market price of trees&#8212;specifically, whether the market price is more or less than the farm&#8217;s minimum average total cost.</em></p>
+<p id="krugmanwellsessentials4e-ch7-p99" block_type="txt">In <link href="#krugmanwellsessentials4e-ch7-tab-3">Table 7-3</link> we calculate short-run average variable cost and short-run average total cost for Noelle&#8217;s farm. These are short-run values because we take fixed cost as given. (We&#8217;ll turn to the effects of changing fixed cost shortly.) The short-run average total cost curve, <em>ATC,</em> is shown in <link href="#krugmanwellsessentials4e-ch7-fig-6">Figure 7-2</link>, along with the marginal cost curve, <em>MC,</em> from <link href="#krugmanwellsessentials4e-ch7-fig-5">Figure 7-1</link>. As you can see, average total cost is minimized at point <em>C,</em> corresponding to an output of 40 trees&#8212;the <em>minimum-cost output</em>&#8212;and an average total cost of &#36;14 per tree.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-6" block_type="figure" numbered="true" number="7-2" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-6"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>7-2</strong></phrase> <phrase block_type="fig_title">Costs and Production in the Short Run</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-9" alt="image" src="images/KrugESS4e_fig_7_02.jpg"/>
+<caption>This figure shows the marginal cost curve, <em>MC,</em> and the short-run average total cost curve, <em>ATC.</em> When the market price is &#36;14, output will be 40 trees (the minimum-cost output), represented by point <em>C.</em> The price of &#36;14, equal to the firm&#8217;s minimum average total cost, is the firm&#8217;s <em>break-even price.</em></caption>
+</figure>
+<table id="krugmanwellsessentials4e-ch7-tab-3" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch7-tab-3" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">7-3</phrase></strong> <phrase block_type="tbl_title">Short-Run Average Costs for Noelle&#8217;s Farm</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of trees <em>Q</em></strong></td>
+<td class="tbl-rborder"><strong>Variable cost <em>VC</em></strong></td>
+<td class="tbl-rborder"><strong>Total cost <em>TC</em></strong></td>
+<td class="tbl-rborder"><strong>Short-run average variable cost of tree <em>AVC</em> = <em>VC/Q</em></strong></td>
+<td class="tbl-rborder"><strong>Short-run average total cost of tree <em>ATC</em> = <em>TC/Q</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">10</td>
+<td class="tbl-rborder">&#36;160.00</td>
+<td class="tbl-rborder">&#36;300.00</td>
+<td class="tbl-rborder">&#36;16.00</td>
+<td>&#36;30.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">20</td>
+<td class="tbl-rborder">220.00</td>
+<td class="tbl-rborder">360.00</td>
+<td class="tbl-rborder">11.00</td>
+<td>18.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">30</td>
+<td class="tbl-rborder">300.00</td>
+<td class="tbl-rborder">440.00</td>
+<td class="tbl-rborder">10.00</td>
+<td>14.67</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">40</td>
+<td class="tbl-rborder">420.00</td>
+<td class="tbl-rborder">560.00</td>
+<td class="tbl-rborder">10.50</td>
+<td>14.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">50</td>
+<td class="tbl-rborder">580.00</td>
+<td class="tbl-rborder">720.00</td>
+<td class="tbl-rborder">11.60</td>
+<td>14.40</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">60</td>
+<td class="tbl-rborder">780.00</td>
+<td class="tbl-rborder">920.00</td>
+<td class="tbl-rborder">13.00</td>
+<td>15.33</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">70</td>
+<td class="tbl-rborder">1,020.00</td>
+<td class="tbl-rborder">1,160.00</td>
+<td class="tbl-rborder">14.57</td>
+<td>16.57</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch7-p100" block_type="txt">To see how these curves can be used to decide whether production is profitable or unprofitable, recall that profit is equal to total revenue minus total cost, <em>TR</em> &#8722; <em>TC.</em> This means:</p>
+<list id="krugmanwellsessentials4e-ch7-list-4" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch7-p101" block_type="bl-first">If the firm produces a quantity at which <em>TR</em> &#62; <em>TC,</em> the firm is profitable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p102" block_type="bl-mid">If the firm produces a quantity at which <em>TR</em> = <em>TC,</em> the firm breaks even.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p103" block_type="bl-last">If the firm produces a quantity at which <em>TR</em> &#60; <em>TC,</em> the firm incurs a loss.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch7-p104" block_type="txt">We can also express this idea in terms of revenue and cost per unit of output. If we divide profit by the number of units of output, <em>Q,</em> we obtain the following expression for profit per unit of output:</p>
+<p id="krugmanwellsessentials4e-ch7-p105" block_type="eq"><strong>(7-4)</strong> Profit/<em>Q</em> = <em>TR</em>/<em>Q</em> &#8722; <em>TC</em>/<em>Q</em></p>
+<p id="krugmanwellsessentials4e_page_210" block_type="page_start">210</p>
+<p id="krugmanwellsessentials4e-ch7-p106" block_type="txt-ni"><em>TR/Q</em> is average revenue, which is the market price. <em>TC/Q</em> is average total cost. So a firm is profitable if the market price for its product is more than the average total cost of the quantity the firm produces; a firm loses money if the market price is less than average total cost of the quantity the firm produces. This means:</p>
+<list id="krugmanwellsessentials4e-ch7-list-5" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch7-p107" block_type="bl-first">If the firm produces a quantity at which <em>P</em> &#62; <em>ATC,</em> the firm is profitable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p108" block_type="bl-mid">If the firm produces a quantity at which <em>P</em> = <em>ATC,</em> the firm breaks even.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p109" block_type="bl-last">If the firm produces a quantity at which <em>P</em> &#60; <em>ATC,</em> the firm incurs a loss.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch7-p110" block_type="txt-ni"><link href="#krugmanwellsessentials4e-ch7-fig-7">Figure 7-3</link> illustrates this result, showing how the market price determines whether a firm is profitable. It also shows how profits are depicted graphically. Each panel shows the marginal cost curve, <em>MC,</em> and the short-run average total cost curve, <em>ATC.</em> Average total cost is minimized at point <em>C.</em> Panel (a) shows the case we have already analyzed, in which the market price of trees is &#36;18 per tree. Panel (b) shows the case in which the market price of trees is lower, &#36;10 per tree.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-7" block_type="figure" numbered="true" number="7-3" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-7"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>7-3</strong></phrase></phrase> <phrase block_type="fig_title">Profitability and the Market Price</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-10" alt="image" src="images/KrugESS4e_fig_7_03ab.jpg"/>
+<caption>In panel (a) the market price is &#36;18.00. The farm is profitable because price exceeds minimum average total cost, the break-even price, &#36;14.00. The farm&#8217;s optimal output choice is indicated by point <em>E,</em> corresponding to an output of 50 trees. The average total cost of producing 50 trees is indicated by point <em>Z</em> on the <em>ATC</em> curve, corresponding to an amount of &#36;14.40. The vertical distance between <em>E</em> and <em>Z</em> corresponds to the farm&#8217;s per-unit profit, &#36;18.00 &#8722; &#36;14.40 = &#36;3.60. Total profit is given by the area of the shaded rectangle, 50 &#215; &#36;3.60 = &#36;180.00. In panel (b) the market price is &#36;10; the farm is unprofitable because the price falls below the minimum average total cost, &#36;14.00. The farm&#8217;s optimal output choice when producing is indicated by point <em>A,</em> corresponding to an output of 30 trees. The farm&#8217;s per-unit loss, &#36;14.67 &#8722; &#36;10.00 = &#36;4.67, is represented by the vertical distance between <em>A</em> and <em>Y</em>. The farm&#8217;s total loss is represented by the shaded rectangle, 30 &#215; &#36;4.67 = &#36;140.00 (adjusted for rounding error).</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p111" block_type="txt">In panel (a), we see that at a price of &#36;18 per tree the profit-maximizing quantity of output is 50 trees, indicated by point <em>E,</em> where the marginal cost curve, <em>MC,</em> intersects the marginal revenue curve&#8212;which for a price-taking firm is a horizontal line at the market price. At that quantity of output, average total cost is &#36;14.40 per tree, indicated by point <em>Z.</em> Since the price per tree exceeds average total cost per tree, Noelle&#8217;s farm is profitable.</p>
+<p id="krugmanwellsessentials4e-ch7-p112" block_type="txt">Noelle&#8217;s total profit when the market price is &#36;18 is represented by the area of the shaded rectangle in panel (a). To see why, notice that total profit can be expressed in terms of profit per unit:</p>
+<p id="krugmanwellsessentials4e-ch7-p113" block_type="eq"><strong>(7-5)</strong> Profit = <em>TR</em> &#8722; <em>TC</em> = (<em>TR</em>/<em>Q</em> &#8722; <em>TC</em>/<em>Q</em>) &#215; <em>Q</em></p>
+<p id="krugmanwellsessentials4e-ch7-p114" block_type="txt-ni">or, equivalently,</p>
+<p id="krugmanwellsessentials4e-ch7-p115" block_type="eq">Profit = (<em>P</em> &#8722; <em>ATC</em>) &#215; <em>Q</em></p>
+<p id="krugmanwellsessentials4e_page_211" block_type="page_start">211</p>
+<p id="krugmanwellsessentials4e-ch7-p116" block_type="txt-ni">since <em>P</em> is equal to <em>TR/Q</em> and <em>ATC</em> is equal to <em>TC/Q.</em> The height of the shaded rectangle in panel (a) corresponds to the vertical distance between points <em>E</em> and <em>Z.</em> It is equal to <em>P</em> &#8722; <em>ATC</em> = &#36;18.00 &#8722; &#36;14.40 = &#36;3.60 per tree. The shaded rectangle has a width equal to the output: <em>Q</em> = 50 trees. So the area of that rectangle is equal to Noelle&#8217;s profit: 50 trees &#215; &#36;3.60 profit per tree = &#36;180&#8212;the same number we calculated in <link href="#krugmanwellsessentials4e-ch7-tab-1">Table 7-1</link>.</p>
+<p id="krugmanwellsessentials4e-ch7-p117" block_type="txt">What about the situation illustrated in panel (b)? Here the market price of trees is &#36;10 per tree. Setting price equal to marginal cost leads to a profit-maximizing output of 30 trees, indicated by point <em>A.</em> At this output, Noelle has an average total cost of &#36;14.67 per tree, indicated by point <em>Y.</em> At the profit-maximizing output quantity&#8212;30 trees&#8212;average total cost exceeds the market price. This means that Noelle&#8217;s farm generates a loss, not a profit.</p>
+<p id="krugmanwellsessentials4e_page_212" block_type="page_start">212</p>
+<p id="krugmanwellsessentials4e-ch7-p118" block_type="txt">How much does she lose by producing when the market price is &#36;10? On each tree she loses <em>ATC</em> &#8722; <em>P</em> = &#36;14.67 &#8722; &#36;10.00 = &#36;4.67, an amount corresponding to the vertical distance between points <em>A</em> and <em>Y.</em> And she would produce 30 trees, which corresponds to the width of the shaded rectangle. So the total value of the losses is &#36;4.67 &#215; 30 = &#36;140.00 (adjusted for rounding error), an amount that corresponds to the area of the shaded rectangle in panel (b).</p>
+<p id="krugmanwellsessentials4e-ch7-p119" block_type="txt">But how does a producer know, in general, whether or not its business will be profitable? It turns out that the crucial test lies in a comparison of the market price to the producer&#8217;s <em>minimum average total cost.</em> On Noelle&#8217;s farm, minimum average total cost, which is equal to &#36;14, occurs at an output quantity of 40 trees, indicated by point <em>C.</em></p>
+<p id="krugmanwellsessentials4e-ch7-p120" block_type="txt">Whenever the market price exceeds minimum average total cost, the producer can find some output level for which the average total cost is less than the market price. In other words, the producer can find a level of output at which the firm makes a profit. So Noelle&#8217;s farm will be profitable whenever the market price exceeds &#36;14. And she will achieve the highest possible profit by producing the quantity at which marginal cost equals the market price.</p>
+<p id="krugmanwellsessentials4e-ch7-p121" block_type="txt">Conversely, if the market price is less than minimum average total cost, there is no output level at which price exceeds average total cost. As a result, the firm will be unprofitable at any quantity of output. As we saw, at a price of &#36;10&#8212;an amount less than minimum average total cost&#8212;Noelle did indeed lose money. By producing the quantity at which marginal cost equals the market price, Noelle did the best she could, but the best that she could do was a loss of &#36;140. Any other quantity would have increased the size of her loss.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-18" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p122" block_type="mn-gl-def">The <strong>break-even price</strong> of a price-taking firm is the market price at which it earns zero profit.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p123" block_type="txt">The minimum average total cost of a price-taking firm is called its <strong>break-even price,</strong> the price at which it earns zero profit. (Recall that&#8217;s <em>economic profit.</em>) A firm will earn positive profit when the market price is above the break-even price, and it will suffer losses when the market price is below the break-even price. Noelle&#8217;s break-even price of &#36;14 is the price at point <em>C</em> in <link href="#krugmanwellsessentials4e-ch7-fig-6">Figures 7-2</link> and <link href="#krugmanwellsessentials4e-ch7-fig-7">7-3</link>.</p>
+<p id="krugmanwellsessentials4e-ch7-p124" block_type="txt">So the rule for determining whether a producer of a good is profitable depends on a comparison of the market price of the good to the producer&#8217;s breakeven price&#8212;its minimum average total cost:</p>
+<list id="krugmanwellsessentials4e-ch7-list-6" type="unordered" block_type="bullet">
+<li><p id="krugmanwellsessentials4e-ch7-p125" block_type="bl-first">Whenever the market price exceeds minimum average total cost, the producer is profitable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p126" block_type="bl-mid">Whenever the market price equals minimum average total cost, the producer breaks even.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p127" block_type="bl-last">Whenever the market price is less than minimum average total cost, the producer is unprofitable.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-6" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="212">
+<section-metadata><section-title>The Short-Run Production Decision</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p128" block_type="txt-ni">You might be tempted to say that if a firm is unprofitable because the market price is below its minimum average total cost, it shouldn&#8217;t produce any output. In the short run, however, this conclusion isn&#8217;t right.</p>
+<p id="krugmanwellsessentials4e-ch7-p129" block_type="txt">In the short run, sometimes the firm should produce even if price falls below minimum average total cost. The reason is that total cost includes <em>fixed cost</em>&#8212;cost that does not depend on the amount of output produced and can only be altered in the long run.</p>
+<p id="krugmanwellsessentials4e-ch7-p130" block_type="txt">In the short run, fixed cost must still be paid, regardless of whether or not a firm produces. For example, if Noelle rents a refrigerated truck for the year, she has to pay the rent on the truck regardless of whether she produces any trees. <em>Since it cannot be changed in the short run, her fixed cost is irrelevant to her decision about whether to produce or shut down in the short run.</em></p>
+<p id="krugmanwellsessentials4e_page_213" block_type="page_start">213</p>
+<p id="krugmanwellsessentials4e-ch7-p131" block_type="txt">Although fixed cost should play no role in the decision about whether to produce in the short run, other costs&#8212;variable costs&#8212;do matter. An example of variable costs is the wages of workers who must be hired to help with planting and harvesting. Variable costs can be saved by <em>not</em> producing; so they should play a role in determining whether or not to produce in the short run.</p>
+<p id="krugmanwellsessentials4e-ch7-p132" block_type="txt">Let&#8217;s turn to <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link>: it shows both the short-run average total cost curve, <em>ATC,</em> and the short-run average variable cost curve, <em>AVC,</em> drawn from the information in <link href="#krugmanwellsessentials4e-ch7-tab-3">Table 7-3</link>. Recall that the difference between the two curves&#8212;the vertical distance between them&#8212;represents average fixed cost, the fixed cost per unit of output, <em>FC/Q.</em></p>
+<figure id="krugmanwellsessentials4e-ch7-fig-8" block_type="figure" numbered="true" number="7-4" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-8"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>7-4</strong></phrase></phrase> <phrase block_type="fig_title">The Short-Run Individual Supply Curve</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-11" alt="image" src="images/KrugESS4e_fig_7_04.jpg"/>
+<caption>When the market price equals or exceeds Noelle&#8217;s <em>shut-down price</em> of &#36;10, the minimum average variable cost indicated by point <em>A</em>, she will produce the output quantity at which marginal cost is equal to price. So at any price equal to or above the minimum average variable cost, the short-run individual supply curve is the firm&#8217;s marginal cost curve; this corresponds to the upward-sloping segment of the individual supply curve. When market price falls below minimum average variable cost, the firm ceases operation in the short run. This corresponds to the vertical segment of the individual supply curve along the vertical axis.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p133" block_type="txt">Because the marginal cost curve has a &#8220;swoosh&#8221; shape&#8212;falling at first before rising&#8212;the short-run average variable cost curve is U-shaped: the initial fall in marginal cost causes average variable cost to fall as well, before rising marginal cost eventually pulls it up again. The short-run average variable cost curve reaches its minimum value of &#36;10 at point <em>A,</em> at an output of 30 trees.</p>
+<p id="krugmanwellsessentials4e-ch7-p134" block_type="txt">We are now prepared to fully analyze the optimal production decision in the short run. We need to consider two cases:</p>
+<list id="krugmanwellsessentials4e-ch7-list-7" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch7-p135" block_type="nl-first">When the market price is below minimum average <em>variable</em> cost</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p136" block_type="nl-last">When the market price is greater than or equal to minimum average <em>variable</em> cost</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch7-p137" block_type="txt">When the market price is below minimum average variable cost, the price the firm receives per unit is not covering its variable cost per unit. A firm in this situation should cease production immediately. Why? Because there is no level of output at which the firm&#8217;s total revenue covers its variable costs&#8212;the costs it can avoid by not operating.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-19" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p138" block_type="mn-gl-def">A firm will cease production in the short run if the market price falls below the <strong>shut-down price,</strong> which is equal to minimum average variable cost.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p139" block_type="txt">In this case the firm maximizes its profits by not producing at all&#8212;by, in effect, minimizing its losses. It will still incur a fixed cost in the short run, but it will no longer incur any variable cost. This means that the minimum average variable cost is equal to the <strong>shut-down price,</strong> the price at which the firm ceases production in the short run. In the example of Noelle&#8217;s tree farm, she will cease production in the short run by laying off workers and halting all planting and harvesting of trees.</p>
+<p id="krugmanwellsessentials4e_page_214" block_type="page_start">214</p>
+<p id="krugmanwellsessentials4e-ch7-p140" block_type="txt">When price is greater than minimum average variable cost, however, the firm should produce in the short run. In this case, the firm maximizes profit&#8212;or minimizes loss&#8212;by choosing the output quantity at which its marginal cost is equal to the market price. For example, if the market price of each tree is &#36;18, Noelle should produce at point <em>E</em> in <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link>, corresponding to an output of 50 trees. Note that point <em>C</em> in <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link> corresponds to the farm&#8217;s break-even price of &#36;14 per tree. Since <em>E</em> lies above <em>C,</em> Noelle&#8217;s farm will be profitable; she will generate a per-tree profit of &#36;18.00 &#8722; &#36;14.40 = &#36;3.60 when the market price is &#36;18.</p>
+<p id="krugmanwellsessentials4e-ch7-p141" block_type="txt">But what if the market price lies between the shut-down price and the break-even price&#8212;that is, between minimum average <em>variable</em> cost and minimum average <em>total</em> cost? In the case of Noelle&#8217;s farm, this corresponds to prices anywhere between &#36;10 and &#36;14&#8212;say, a market price of &#36;12. At &#36;12, Noelle&#8217;s farm is not profitable; since the market price is below minimum average total cost, the farm is losing the difference between price and average total cost per unit produced.</p>
+<p id="krugmanwellsessentials4e-ch7-p142" block_type="txt">Yet even if it isn&#8217;t covering its total cost per unit, it is covering its variable cost per unit and some&#8212;but not all&#8212;of the fixed cost per unit. If a firm in this situation shuts down, it would incur no variable cost but would incur the <em>full</em> fixed cost. As a result, shutting down generates an even greater loss than continuing to operate.</p>
+<p id="krugmanwellsessentials4e-ch7-p143" block_type="txt">This means that whenever price lies between minimum average total cost and minimum average variable cost, the firm is better off producing some output in the short run. The reason is that by producing, it can cover its variable cost per unit and at least some of its fixed cost, even though it is incurring a loss. In this case, the firm maximizes profit&#8212;that is, minimizes loss&#8212;by choosing the quantity of output at which its marginal cost is equal to the market price. So if Noelle faces a market price of &#36;12 per tree, her profit-maximizing output is given by point <em>B</em> in <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link>, corresponding to an output of 35 trees.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-20" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p144" block_type="mn-gl-def">A <strong>sunk cost</strong> is a cost that has already been incurred and is nonrecoverable. A sunk cost should be ignored in decisions about future actions.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p145" block_type="txt">It&#8217;s worth noting that the decision to produce when the firm is covering its variable costs but not all of its fixed cost is similar to the decision to ignore <em>sunk costs.</em> A <strong>sunk cost</strong> is a cost that has already been incurred and cannot be recouped; and because it cannot be changed, it should have no effect on any current decision.</p>
+<p id="krugmanwellsessentials4e-ch7-p146" block_type="txt">In the short-run production decision, fixed cost is, in effect, like a sunk cost&#8212;it has been spent, and it can&#8217;t be recovered in the short run. This comparison also illustrates why variable cost does indeed matter in the short run: it can be avoided by not producing.</p>
+<p id="krugmanwellsessentials4e-ch7-p147" block_type="txt">And what happens if market price is exactly equal to the shut-down price, minimum average variable cost? In this instance, the firm is indifferent between producing 30 units or 0 units. As we&#8217;ll see shortly, this is an important point when looking at the behavior of an industry as a whole. For the sake of clarity, we&#8217;ll assume that the firm, although indifferent, does indeed produce output when price is equal to the shut-down price.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-21" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p148" block_type="mn-gl-def">The <strong>short-run individual supply curve</strong> shows how an individual producer&#8217;s profit-maximizing output quantity depends on the market price, taking fixed cost as given.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p149" block_type="txt">Putting everything together, we can now draw the <strong>short-run individual supply curve</strong> of Noelle&#8217;s farm, the red line in <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link>; it shows how the profit-maximizing quantity of output in the short run depends on the price. As you can see, the curve is in two segments. The upward-sloping red segment starting at point <em>A</em> shows the short-run profit-maximizing output when market price is equal to or above the shut-down price of &#36;10 per tree.</p>
+<p id="krugmanwellsessentials4e-ch7-p150" block_type="txt">As long as the market price is equal to or above the shut-down price, Noelle produces the quantity of output at which marginal cost is equal to the market price. That is, at market prices equal to or above the shut-down price, the firm&#8217;s short-run supply curve corresponds to its marginal cost curve. But at any market price below minimum average variable cost&#8212;in this case, &#36;10 per tree&#8212;the firm shuts down and output drops to zero in the short run. This corresponds to the vertical segment of the curve that lies on top of the vertical axis.</p>
+<p id="krugmanwellsessentials4e-ch7-p151" block_type="txt">Do firms really shut down temporarily without going out of business? Yes. In fact, in some businesses temporary shut-downs are routine. The most common examples are industries in which demand is highly seasonal, like outdoor amusement parks in climates with cold winters. Such parks would have to offer very low prices to entice customers during the colder months&#8212;prices so low that the owners would not cover their variable costs (principally wages and electricity). The wiser choice economically is to shut down until warm weather brings enough customers who are willing to pay a higher price.</p>
+<p id="krugmanwellsessentials4e_page_215" block_type="page_start">215</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-7" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="215">
+<section-metadata><section-title>Changing Fixed Cost</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p152" block_type="txt-ni">Although fixed cost cannot be altered in the short run, in the long run firms can acquire or get rid of machines, buildings, and so on. As we learned in <link href="krugmanwellsessentials4e-ch06.xml">Chapter 6</link>, in the long run the level of fixed cost is a matter of choice. There we saw that a firm will choose the level of fixed cost that minimizes the average total cost for its desired output quantity. Now we will focus on an even bigger question facing a firm when choosing its fixed cost: whether to incur <em>any</em> fixed cost at all by remaining in its current business.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-9" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-12" alt="image" src="images/KrugESS4e_7UN03.jpg"/>
+<caption>Buying or selling equipment allows a firm to change its fixed cost.</caption>
+<asset_source>iStockphoto.com</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p153" block_type="txt">In the long run, a producer can always eliminate fixed cost by selling off its plant and equipment. If it does so, of course, it can&#8217;t ever produce&#8212;it has exited the industry. In contrast, a potential producer can take on some fixed cost by acquiring machines and other resources, which puts it in a position to produce&#8212;it can enter the industry. In most perfectly competitive industries the set of producers, although fixed in the short run, changes in the long run as firms enter or exit the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p154" block_type="txt">Consider Noelle&#8217;s farm once again. To simplify our analysis, we will sidestep the problem of choosing among several possible levels of fixed cost. Instead, we will assume from now on that Noelle has only one possible choice of fixed cost if she operates, the amount of &#36;140, her minimum average total cost, that was the basis for the calculations in <link href="#krugmanwellsessentials4e-ch7-tab-1">Tables 7-1</link>, <link href="#krugmanwellsessentials4e-ch7-tab-2">7-2</link>, and <link href="#krugmanwellsessentials4e-ch7-tab-3">7-3</link>. (With this assumption, Noelle&#8217;s short-run average total cost curve and long-run average total cost curve are one and the same.) Alternatively, she can choose a fixed cost of zero if she exits the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p155" block_type="txt">Suppose that the market price of trees is consistently less than &#36;14 over an extended period of time. In that case, Noelle never fully covers her fixed cost: her business runs at a persistent loss. In the long run, then, she can do better by closing her business and leaving the industry. In other words, <em>in the long run</em> firms will exit an industry if the market price is consistently less than their break-even price&#8212;their minimum average total cost.</p>
+<p id="krugmanwellsessentials4e-ch7-p156" block_type="txt">Conversely, suppose that the price of Christmas trees is consistently above the break-even price, &#36;14, for an extended period of time. Because her farm is profitable, Noelle will remain in the industry and continue producing.</p>
+<p id="krugmanwellsessentials4e-ch7-p157" block_type="txt">But things won&#8217;t stop there. The Christmas tree industry meets the criterion of <em>free entry:</em> there are many potential tree producers because the necessary inputs are easy to obtain. And the cost curves of those potential producers are likely to be similar to those of Noelle, since the technology used by other producers is likely to be very similar to that used by Noelle. If the price is high enough to generate profits for existing producers, it will also attract some of these potential producers into the industry. So <em>in the long run</em> a price in excess of &#36;14 should lead to entry: new producers will come into the Christmas tree industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p158" block_type="txt">As we will see next, exit and entry lead to an important distinction between the <em>short-run industry supply curve</em> and the <em>long-run industry supply curve.</em></p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-8" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="215">
+<section-metadata><section-title>Summing Up: The Perfectly Competitive Firm&#8217;s Profitability and Production Conditions</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p159" block_type="txt-ni">In this chapter, we&#8217;ve studied where the supply curve for a perfectly competitive, price-taking firm comes from. Every perfectly competitive firm makes its production decisions by maximizing profit, and these decisions determine the supply curve. <link href="#krugmanwellsessentials4e-ch7-tab-4">Table 7-4</link> summarizes the perfectly competitive firm&#8217;s profitability and production conditions. It also relates them to entry into and exit from the industry.</p>
+<table id="krugmanwellsessentials4e-ch7-tab-4" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch7-tab-4" data-target="_pop">
+<table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">7-4</phrase></strong> <phrase block_type="tbl_title">Summary of the Perfectly Competitive Firm&#8217;s Profitability and Production Conditions</phrase></table_caption>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Profitability condition<br/>(minimum <em>ATC</em> = break-even price)</strong></td>
+<td class="tbl-ljust"><strong>Result</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder"><em>P</em> &#62; minimum <em>ATC</em></td>
+<td class="tbl-ljust">Firm profitable. Entry into industry in the long run.</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder"><em>P</em> = minimum <em>ATC</em></td>
+<td class="tbl-ljust">Firm breaks even. No entry into or exit from industry in the long run.</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder"><em>P</em> &#60; minimum <em>ATC</em></td>
+<td class="tbl-ljust">Firm unprofitable. Exit from industry in the long run.</td>
+</tr>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Production condition<br/>(minimum <em>AVC</em> = shut-down price)</strong></td>
+<td class="tbl-ljust"><strong>Result</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder"><em>P</em> &#62; minimum <em>AVC</em></td>
+<td class="tbl-ljust">Firm produces in the short run. If <em>P</em> &#60; minimum <em>ATC</em>, firm covers variable cost and some but not all of fixed cost. If <em>P</em> &#62; minimum <em>ATC</em>, firm covers all variable cost and fixed cost.</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder"><em>P</em> = minimum <em>AVC</em></td>
+<td class="tbl-ljust">Firm indifferent between producing in the short run or not. Just covers variable cost.</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder"><em>P</em> &#60; minimum <em>AVC</em></td>
+<td class="tbl-ljust">Firm shuts down in the short run. Does not cover variable cost.</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e_page_216" block_type="page_start">216</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx2-2" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch7-p160" block_type="bx-2-t"><strong>Farmers Move Up Their Supply Curves</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-3" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p161" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-13" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p162" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>o reduce gasoline consumption, Congress mandated that the amount of biofuel&#8212;mostly corn-based ethanol&#8212;in the U.S. fuel supply be increased from 4 billion gallons in 2006 to 14 billion gallons in 2013. Unsurprisingly, the demand for corn skyrocketed, along with its price. In 2012, American farmers received an average price per bushel of about &#36;7 to &#36;8, compared to less than &#36;2 in 2005. Being smart profit-maximizers, these farmers responded by planting more corn and less of other crops such as cotton. By 2013, they delivered five straight years of increases in acreage planted in corn.</p>
+<p id="krugmanwellsessentials4e-ch7-p163" block_type="bx2-txt">If this sounds like a sure way to make a profit, think again. Corn farmers were taking a considerable gamble by planting more corn as their costs went up. Consider fertilizer, an important input. Corn requires more fertilizer than other crops, and with more farmers planting corn, the increased demand for fertilizer led to a price increase. In 2006 and 2007, fertilizer prices surged to five times their 2005 level; by 2013 prices were twice as high.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-14" alt="image" src="images/KrugESS4e_7UN04.jpg"/>
+<caption>Although farmers took a big risk by cutting the size of their other crops to plant more corn, their decision made good economic sense.</caption>
+<asset_source>Dave Reede/All Canada Photos/Superstock</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p164" block_type="bx2-txt">The pull of higher corn prices also lifted the price of farmland so high that by 2013 there was talk of a bubble in farmland prices. Remember that even if a farmer owns land outright, that farmer still incurs an opportunity cost when planting rather than leasing or selling it. In the decade preceding 2013, the average price of an acre of farmland rose almost 300&#37;.</p>
+<p id="krugmanwellsessentials4e-ch7-p165" block_type="bx2-txt">Despite the risk and increase in costs, what corn farmers did made complete economic sense. By planting more corn, each farmer moved up his or her individual supply curve. And because the individual supply curve is the marginal cost curve, each farmer&#8217;s costs also went up because of the need to use more inputs that had become more expensive to obtain.</p>
+<p id="krugmanwellsessentials4e-ch7-p166" block_type="bx2-txt">So the moral of the story is that farmers will increase their corn acreage until the marginal cost of producing corn is approximately equal to the market price of corn&#8212;which shouldn&#8217;t come as a surprise, because corn production satisfies all the requirements of a perfectly competitive industry.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_217" block_type="page_start">217</p>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch7-bx5-8" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch7-list-8" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch7-p167" block_type="sr1-bl">Per the <strong>principle of marginal analysis</strong>, the optimal amount of an activity is the quantity at which <strong>marginal benefit</strong> equals marginal cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p168" block_type="sr1-bl">A producer chooses output according to the <strong>optimal output rule.</strong> For a price-taking firm, <strong>marginal revenue</strong> is equal to price and it chooses output according to the <strong>price-taking firm&#8217;s optimal output rule <em>P = MC</em>.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p169" block_type="sr1-bl">The <strong>economic profit</strong> of a company includes <strong>explicit costs</strong> and <strong>implicit costs</strong>. It isn&#8217;t necessarily equal to the <strong>accounting profit.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p170" block_type="sr1-bl">A firm is profitable whenever price exceeds its <strong>break-even price,</strong> equal to its minimum average total cost. Below that price it is unprofitable. It breaks even when price is equal to its break-even price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p171" block_type="sr1-bl">Like <strong>sunk cost</strong>, fixed cost is irrelevant to the firm&#8217;s optimal short-run production decision. When price exceeds its <strong>shut-down price,</strong> minimum average variable cost, the price-taking firm produces the quantity of output at which marginal cost equals price. When price is lower than its shut-down price, it ceases production in the short run. This defines the firm&#8217;s <strong>short-run individual supply curve.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p172" block_type="sr1-bl">Over time, fixed cost matters. If price consistently falls below minimum average total cost, a firm will exit the industry. If price exceeds minimum average total cost, the firm is profitable and will remain in the industry; other firms will enter the industry in the long run.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx6-9" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">7-2</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch7-cyuquestion-2" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch7-p173" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Draw a short-run diagram showing a U-shaped average total cost curve, a U-shaped average variable cost curve, and a &#8220;swoosh&#8221;-shaped marginal cost curve. On it, indicate the range of output and the range of price for which the following actions are optimal.</p>
+<list id="krugmanwellsessentials4e-ch7-list-9" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p174" block_type="sr2-nl-lvl2">The firm shuts down immediately.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p175" block_type="sr2-nl-lvl2">The firm operates in the short run despite sustaining a loss.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p176" block_type="sr2-nl-lvl2">The firm operates while making a profit.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-cyuquestion-3" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch7-p177" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> The state of Maine has a very active lobster industry, which harvests lobsters during the summer months. During the rest of the year, lobsters can be obtained from other parts of the world but at a much higher price. Maine is also full of &#8220;lobster shacks,&#8221; roadside restaurants serving lobster dishes that are open only during the summer. Explain why it is optimal for lobster shacks to operate only during the summer.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch7-p178" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-3" block_type="h1" title="" chapter="7" numbered="true" level="1" print_page="217">
+<section-metadata><section-title>The Industry Supply Curve</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-22" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p179" block_type="mn-gl-def">The <strong>industry supply curve</strong> shows the relationship between the price of a good and the total output of the industry as a whole.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p180" block_type="txt-ni">Why will an increase in the demand for Christmas trees lead to a large price increase at first but a much smaller increase in the long run? The answer lies in the behavior of the <strong>industry supply curve&#8212;</strong>the relationship between the price and the total output of an industry as a whole. The industry supply curve is what we referred to in earlier chapters as <em>the</em> supply curve or the market supply curve. But here we take some extra care to distinguish between the <em>individual supply curve</em> of a single firm and the supply curve of the industry as a whole.</p>
+<p id="krugmanwellsessentials4e-ch7-p181" block_type="txt">As you might guess from the previous section, the industry supply curve must be analyzed in somewhat different ways for the short run and the long run. Let&#8217;s start with the short run.</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-9" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="217">
+<section-metadata><section-title>The Short-Run Industry Supply Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p182" block_type="txt-ni">Recall that in the short run the number of producers in an industry is fixed&#8212;there is no entry or exit. And you may also remember from <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link> that the market supply curve is the horizontal sum of the individual supply curves of all producers&#8212;you find it by summing the total output across all suppliers at every given price. We will do that exercise here under the assumption that all the producers are alike&#8212;an assumption that makes the derivation particularly simple. So let&#8217;s assume that there are 100 Christmas tree farms, each with the same costs as Noelle&#8217;s farm.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-23" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p183" block_type="mn-gl-def">The <strong>short-run industry supply curve</strong> shows how the quantity supplied by an industry depends on the market price given a fixed number of producers.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p184" block_type="txt">Each of these 100 farms will have an individual short-run supply curve like the one in <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link>. At a price below &#36;10, no farms will produce. At a price of &#36;10 or more, each farm will produce the quantity of output at which its marginal cost is equal to the market price. As you can see from <link href="#krugmanwellsessentials4e-ch7-fig-8">Figure 7-4</link>, this will lead each farm to produce 40 trees if the price is &#36;14 per tree, 50 trees if the price is &#36;18, and so on. So if there are 100 tree farms and the price of Christmas trees is &#36;18 per tree, the industry as a whole will produce 5,000 trees, corresponding to 100 farms &#215; 50 trees per farm, and so on. The result is the <strong>short-run industry supply curve,</strong> shown as <em>S</em> in <link href="#krugmanwellsessentials4e-ch7-fig-11">Figure 7-5</link>. This curve shows the quantity that producers will supply at each price, <em>taking the number of producers as given.</em></p>
+<figure id="krugmanwellsessentials4e-ch7-fig-11" block_type="figure" numbered="true" number="7-5" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>7-5</strong></phrase></phrase> <phrase block_type="fig_title">The Short-Run Market Equilibrium</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-15" alt="image" src="images/KrugESS4e_fig_7_05.jpg"/>
+<caption>The short-run industry supply curve, <em>S,</em> is the industry supply curve taking the number of producers&#8212;here, 100&#8212;as given. It is generated by adding together the individual supply curves of the 100 producers. Below the shut-down price of &#36;10, no producer wants to produce in the short run. Above &#36;10, the short-run industry supply curve slopes upward, as each producer increases output as price increases. It intersects the demand curve, <em>D,</em> at point <em>E<sub>MKT</sub>,</em> the point of short-run market equilibrium, corresponding to a market price of &#36;18 and a quantity of 5,000 trees.</caption>
+</figure>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-24" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p185" block_type="mn-gl-def">There is a <strong>short-run market equilibrium</strong> when the quantity supplied equals the quantity demanded, taking the number of producers as given.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p186" block_type="txt">The demand curve <em>D</em> in <link href="#krugmanwellsessentials4e-ch7-fig-11">Figure 7-5</link> crosses the short-run industry supply curve at <em>E<sub>MKT</sub></em>, corresponding to a price of &#36;18 and a quantity of 5,000 trees. Point <em>E<sub>MKT</sub></em> is a <strong>short-run market equilibrium:</strong> the quantity supplied equals the quantity demanded, taking the number of producers as given. But the long run may look quite different, because in the long run farms may enter or exit the industry.</p>
+<p id="krugmanwellsessentials4e_page_218" block_type="page_start">218</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-10" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="218">
+<section-metadata><section-title>The Long-Run Industry Supply Curve</section-title></section-metadata>
+<p id="krugmanwellsessentials4e-ch7-p187" block_type="txt-ni">Suppose that in addition to the 100 farms currently in the Christmas tree business, there are many other potential producers. Suppose also that each of these potential producers would have the same cost curves as existing producers like Noelle if it entered the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p188" block_type="txt">When will additional producers enter the industry? Whenever existing producers are making a profit&#8212;that is, whenever the market price is above the break-even price of &#36;14 per tree, the minimum average total cost of production. For example, at a price of &#36;18 per tree, new firms will enter the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p189" block_type="txt">What will happen as additional producers enter the industry? Clearly, the quantity supplied at any given price will increase. The short-run industry supply curve will shift to the right. This will, in turn, alter the market equilibrium and result in a lower market price. Existing firms will respond to the lower market price by reducing their output, but the total industry output will increase because of the larger number of firms in the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p190" block_type="txt"><link href="#krugmanwellsessentials4e-ch7-fig-12">Figure 7-6</link> illustrates the effects of this chain of events on an existing firm and on the market; panel (a) shows how the market responds to entry, and panel (b) shows how an individual existing firm responds to entry. (Note that these two graphs have been rescaled in comparison to <link href="#krugmanwellsessentials4e-ch7-fig-8">Figures 7-4</link> and <link href="#krugmanwellsessentials4e-ch7-fig-11">7-5</link> to better illustrate how profit changes in response to price.) In panel (a), <em>S</em><sub>1</sub> is the initial short-run industry supply curve, based on the existence of 100 producers. The initial short-run market equilibrium is at <em>E<sub>MKT</sub>,</em> with an equilibrium market price of &#36;18 and a quantity of 5,000 trees. At this price existing producers are profitable, which is reflected in panel (b): an existing firm makes a total profit represented by the green-shaded rectangle labeled <em>A</em> when market price is &#36;18.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-12" block_type="figure" numbered="true" number="7-6" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>7-6</strong></phrase></phrase> <phrase block_type="fig_title">The Long-Run Market Equilibrium</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-16" alt="image" src="images/KrugESS4e_fig_7_06ab.jpg"/>
+<caption>Point <em>E<sub>MKT</sub></em> of panel (a) shows the initial short-run market equilibrium. Each of the 100 existing producers makes an economic profit, illustrated in panel (b) by the green rectangle labeled <em>A,</em> the profit of an existing firm. Profits induce entry by additional producers, shifting the short-run industry supply curve outward from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub> in panel (a), resulting in a new short-run equilibrium at point <em>D<sub>MKT</sub>,</em> at a lower market price of &#36;16 and higher industry output. Existing firms reduce output and profit falls to the area given by the striped rectangle labeled <em>B</em> in panel (b). Entry continues to shift out the short-run industry supply curve, as price falls and industry output increases yet again. Entry of new firms ceases at point <em>C</em><sub>MKT</sub> on supply curve <em>S</em><sub>3</sub> in panel (a). Here market price is equal to the break-even price; existing producers make zero economic profits, and there is no incentive for entry or exit. So <em>C<sub>MKT</sub></em> is also a long-run market equilibrium.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p191" block_type="txt">These profits will induce new producers to enter the industry, shifting the short-run industry supply curve to the right. For example, the short-run industry supply curve when the number of producers has increased to 167 is <em>S</em><sub>2</sub>. Corresponding to this supply curve is a new short-run market equilibrium labeled <em>D<sub>MKT</sub>,</em> with a market price of &#36;16 and a quantity of 7,500 trees. At &#36;16, each firm produces 45 trees, so that industry output is 167 &#215; 45 = 7,500 trees (rounded).</p>
+<p id="krugmanwellsessentials4e_page_219" block_type="page_start">219</p>
+<p id="krugmanwellsessentials4e-ch7-p192" block_type="txt">From panel (b) you can see the effect of the entry of 67 new producers on an existing firm: the fall in price causes it to reduce its output, and its profit falls to the area represented by the striped rectangle labeled <em>B.</em></p>
+<p id="krugmanwellsessentials4e-ch7-p193" block_type="txt">Although diminished, the profit of existing firms at <em>D<sub>MKT</sub></em> means that entry will continue and the number of firms will continue to rise. If the number of producers rises to 250, the short-run industry supply curve shifts out again to S<sub>3</sub>, and the market equilibrium is at <em>C<sub>MKT</sub>,</em> with a quantity supplied and demanded of 10,000 trees and a market price of &#36;14 per tree.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-25" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p194a" block_type="mn-gl-def">A market is in <strong>long-run market equilibrium</strong> when the quantity supplied equals the quantity demanded, given that sufficient time has elapsed for entry into and exit from the industry to occur.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p194" block_type="txt">Like <em>E<sub>MKT</sub></em> and <em>D<sub>MKT</sub>, C<sub>MKT</sub></em> is a short-run equilibrium. But it is also something more. Because the price of &#36;14 is each firm&#8217;s break-even price, an existing producer makes zero economic profit&#8212;neither a profit nor a loss, earning only the opportunity cost of the resources used in production&#8212;when producing its profit-maximizing output of 40 trees. At this price there is no incentive either for potential producers to enter or for existing producers to exit the industry. So <em>C<sub>MKT</sub></em> corresponds to a <strong>long-run market equilibrium&#8212;</strong>a situation in which the quantity supplied equals the quantity demanded given that sufficient time has elapsed for producers to either enter or exit the industry. In a long-run market equilibrium, all existing and potential producers have fully adjusted to their optimal long-run choices; as a result, no producer has an incentive to either enter or exit the industry.</p>
+<p id="krugmanwellsessentials4e_page_220" block_type="page_start">220</p>
+<p id="krugmanwellsessentials4e-ch7-p195" block_type="txt">To explore further the significance of the difference between short-run and long-run equilibrium, consider the effect of an increase in demand on an industry with free entry that is initially in long-run equilibrium. Panel (b) in <link href="#krugmanwellsessentials4e-ch7-fig-13">Figure 7-7</link> shows the market adjustment; panels (a) and (c) show how an existing individual firm behaves during the process.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-13" block_type="figure" numbered="true" number="7-7" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-13"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>7-7</strong></phrase></phrase> <phrase block_type="fig_title">The Effect of an Increase in Demand in the Short Run and the Long Run</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-17" alt="image" src="images/KrugESS4e_fig_7_07abc.jpg"/>
+<caption>Panel (b) shows how an industry adjusts in the short and long run to an increase in demand; panels (a) and (c) show the corresponding adjustments by an existing firm. Initially the market is at point <em>X<sub>MKT</sub></em> in panel (b), a short-run and long-run equilibrium at a price of &#36;14 and industry output of <em>Q<sub>X</sub></em>. An existing firm makes zero economic profit, operating at point <em>X</em> in panel (a) at minimum average total cost. Demand increases as <em>D</em><sub>1</sub> shifts rightward to <em>D</em><sub>2</sub> in panel (b), raising the market price to &#36;18. Existing firms increase their output, and industry output moves along the short-run industry supply curve <em>S</em><sub>1</sub> to a short-run equilibrium at <em>Y<sub>MKT</sub>.</em> Correspondingly, the existing firm in panel (a) moves from point <em>X</em> to point <em>Y.</em> But at a price of &#36;18 existing firms are profitable. As shown in panel (b), in the long run new entrants arrive and the short-run industry supply curve shifts rightward, from <em>S</em><sub>1</sub> to <em>S</em><sub>2</sub>. There is a new equilibrium at point <em>Z<sub>MKT</sub>,</em> at a lower price of &#36;14 and higher industry output of <em>Q<sub>Z</sub></em>. An existing firm responds by moving from <em>Y</em> to <em>Z</em> in panel (c), returning to its initial output level and zero economic profit. Production by new entrants accounts for the total increase in industry output, <em>Q<sub>Z</sub></em> &#8722; <em>Q<sub>X</sub></em>. Like <em>X<sub>MKT</sub>, Z<sub>MKT</sub></em> is also a short-run and long-run equilibrium: with existing firms earning zero economic profit, there is no incentive for any firms to enter or exit the industry. The horizontal line passing through <em>X<sub>MKT</sub></em> and <em>Z<sub>MKT</sub>, LRS,</em> is the long-run industry supply curve: at the break-even price of &#36;14, producers will produce any amount that consumers demand in the long run.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p196" block_type="txt">In panel (b) of <link href="#krugmanwellsessentials4e-ch7-fig-13">Figure 7-7</link>, <em>D</em><sub>1</sub> is the initial demand curve and <em>S</em><sub>1</sub> is the initial short-run industry supply curve. Their intersection at point <em>X<sub>MKT</sub></em> is both a short-run and a long-run market equilibrium because the equilibrium price of &#36;14 leads to zero economic profit&#8212;and therefore neither entry nor exit. It corresponds to point <em>X</em> in panel (a), where an individual existing firm is operating at the minimum of its average total cost curve.</p>
+<p id="krugmanwellsessentials4e-ch7-p197" block_type="txt">Now suppose that the demand curve shifts out for some reason to <em>D</em><sub>2</sub>. As shown in panel (b), in the short run, industry output moves along the short-run industry supply curve <em>S</em><sub>1</sub> to the new short-run market equilibrium at <em>Y<sub>MKT</sub>,</em> the intersection of <em>S</em><sub>1</sub> and <em>D</em><sub>2</sub>. The market price rises to &#36;18 per tree, and industry output increases from <em>Q<sub>X</sub></em> to <em>Q<sub>Y</sub>.</em> This corresponds to an existing firm&#8217;s movement from <em>X</em> to <em>Y</em> in panel (a) as the firm increases its output in response to the rise in the market price.</p>
+<p id="krugmanwellsessentials4e-ch7-p198" block_type="txt">But we know that <em>Y<sub>MKT</sub></em> is not a long-run equilibrium, because &#36;18 is higher than minimum average total cost, so existing producers are making economic profits. This will lead additional firms to enter the industry.</p>
+<p id="krugmanwellsessentials4e_page_221" block_type="page_start">221</p>
+<p id="krugmanwellsessentials4e-ch7-p199" block_type="txt">Over time entry will cause the short-run industry supply curve to shift to the right. In the long run, the short-run industry supply curve will have shifted out to <em>S</em><sub>2</sub>, and the equilibrium will be at <em>Z<sub>MKT</sub></em>&#8212;with the price falling back to &#36;14 per tree and industry output increasing yet again, from <em>Q<sub>Y</sub></em> to <em>Q<sub>Z</sub>.</em> Like <em>X<sub>MKT</sub></em> before the increase in demand, <em>Z<sub>MKT</sub></em> is both a short-run and a long-run market equilibrium.</p>
+<p id="krugmanwellsessentials4e-ch7-p200" block_type="txt">The effect of entry on an existing firm is illustrated in panel (c), in the movement from <em>Y</em> to <em>Z</em> along the firm&#8217;s individual supply curve. The firm reduces its output in response to the fall in the market price, ultimately arriving back at its original output quantity, corresponding to the minimum of its average total cost curve. In fact, every firm that is now in the industry&#8212;the initial set of firms and the new entrants&#8212;will operate at the minimum of its average total cost curve, at point <em>Z.</em> This means that the entire increase in industry output, from <em>Q<sub>X</sub></em> to <em>Q<sub>Z</sub>,</em> comes from production by new entrants.</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp3-26" block_type="mn3">
+<p id="krugmanwellsessentials4e-ch7-p201" block_type="mn-gl-def">The <strong>long-run industry supply curve</strong> shows how the quantity supplied responds to the price once producers have had time to enter or exit the industry.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p202" block_type="txt">The line <em>LRS</em> that passes through <em>X<sub>MKT</sub></em> and <em>Z<sub>MKT</sub></em> in panel (b) is the <strong>long-run industry supply curve.</strong> It shows how the quantity supplied by an industry responds to the price given that producers have had time to enter or exit the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p203" block_type="txt">In this particular case, the long-run industry supply curve is horizontal at &#36;14. In other words, in this industry supply is <em>perfectly elastic</em> in the long run: given time to enter or exit, producers will supply any quantity that consumers demand at a price of &#36;14. Perfectly elastic long-run supply is actually a good assumption for many industries. In this case we speak of there being <em>constant costs across the industry</em>: each firm, regardless of whether it is an incumbent or a new entrant, faces the same cost structure (that is, they each have the same cost curves). Industries that satisfy this condition are industries in which there is a perfectly elastic supply of inputs&#8212;industries like agriculture or bakeries.</p>
+<p id="krugmanwellsessentials4e-ch7-p204" block_type="txt">In other industries, however, even the long-run industry supply curve slopes upward. The usual reason for this is that producers must use some input that is in limited supply (that is, inelastically supplied). As the industry expands, the price of that input is driven up. Consequently, later entrants in the industry find that they have a higher cost structure than early entrants. An example is beachfront resort hotels, which must compete for a limited quantity of prime beachfront property. Industries that behave like this are said to have <em>increasing costs across the industry.</em></p>
+<p id="krugmanwellsessentials4e-ch7-p205" block_type="txt">It is possible for the long-run industry supply curve to slope downward. This can occur when an industry faces increasing returns to scale, in which average costs fall as output rises. Notice we said that the <em>industry</em> faces increasing returns. However, when increasing returns apply at the level of the individual firm, the industry usually ends up dominated by a small number of firms (an <em>oligopoly</em>) or a single firm (a <em>monopoly</em>).</p>
+<p id="krugmanwellsessentials4e-ch7-p206" block_type="txt">In some cases, the advantages of large scale for an entire industry accrue to all firms in that industry. For example, the costs of new technologies such as solar panels tend to fall as the industry grows because that growth leads to improved knowledge, a larger pool of workers with the right skills, and so on.</p>
+<p id="krugmanwellsessentials4e-ch7-p207" block_type="txt">Regardless of whether the long-run industry supply curve is horizontal or upward sloping or even downward sloping, the long-run price elasticity of supply is <em>higher</em> than the short-run price elasticity whenever there is free entry and exit. As shown in <link href="#krugmanwellsessentials4e-ch7-fig-14">Figure 7-8</link>, the long-run industry supply curve is always flatter than the short-run industry supply curve. The reason is entry and exit: a high price caused by an increase in demand attracts entry by new producers, resulting in a rise in industry output and an eventual fall in price; a low price caused by a decrease in demand induces existing firms to exit, leading to a fall in industry output and an eventual increase in price.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-14" block_type="figure" numbered="true" number="7-8" mmtype="image" mmsrc="" attr="">
+<layout align="center" width="large" border="true"/>
+<caption><link href="#krugmanwellsessentials4e-ch7-fig-14"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>7-8</strong></phrase> <phrase block_type="fig_title">Comparing the Short-Run and Long-Run Industry Supply Curves</phrase></link></caption>
+<image asset-id="krugmanwellsessentials4e-ch7-img-18" alt="image" src="images/KrugESS4e_fig_7_08.jpg"/>
+<caption>The long-run industry supply curve may slope upward, but it is always flatter&#8212;more elastic&#8212;than the short-run industry supply curve. This is because of entry and exit: a higher price attracts new entrants in the long run, resulting in a rise in industry output and a fall in price; a lower price induces existing producers to exit in the long run, generating a fall in industry output and an eventual rise in price.</caption>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p208" block_type="txt">The distinction between the short-run industry supply curve and the long-run industry supply curve is very important in practice. We often see a sequence of events like that shown in <link href="#krugmanwellsessentials4e-ch7-fig-13">Figure 7-7</link>: an increase in demand initially leads to a large price increase, but prices return to their initial level once new firms have entered the industry. Or we see the sequence in reverse: a fall in demand reduces prices in the short run, but they return to their initial level as producers exit the industry.</p>
+<p id="krugmanwellsessentials4e_page_222" block_type="page_start">222</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec2-11" block_type="h2" title="" chapter="7" numbered="false" level="2" print_page="222">
+<section-metadata><section-title>The Cost of Production and Efficiency in Long-Run Equilibrium</section-title></section-metadata>
+<box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch7-bx1-2" block_type="bx-1-h">
+<p id="krugmanwellsessentials4e-ch7-p209a" block_type="bx1-t"><strong>ECONOMIC PROFIT, AGAIN</strong></p>
+<p id="krugmanwellsessentials4e-ch7-p209" block_type="bx1-txt-ni">Some readers may wonder why a firm would want to enter an industry if the market price is only slightly greater than the break-even price. Wouldn&#8217;t a firm prefer to go into another business that yields a higher profit?</p>
+<p id="krugmanwellsessentials4e-ch7-p210" block_type="bx1-txt">The answer is that here, as always, when we calculate cost, we mean <em>opportunity cost&#8212;</em>that is, cost that includes the return a firm could get by using its resources elsewhere. And so the profit that we calculate is <em>economic profit;</em> if the market price is above the break-even level, no matter how slightly, the firm can earn more in this industry than they could elsewhere.</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p211" block_type="txt-ni">Our analysis leads us to three conclusions about the cost of production and efficiency in the long-run equilibrium of a perfectly competitive industry. These results will be important in our discussion in <link href="krugmanwellsessentials4e-ch08.xml">Chapter 8</link> of how monopoly gives rise to inefficiency.</p>
+<list id="krugmanwellsessentials4e-ch7-list-10" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch7-p212" block_type="nl-first">In a perfectly competitive industry in equilibrium, the value of marginal cost is the same for all firms. That&#8217;s because all firms produce the quantity of output at which marginal cost equals the market price, and as price-takers they all face the same market price.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p213" block_type="nl-mid">In a perfectly competitive industry with free entry and exit, each firm will have zero economic profit in long-run equilibrium. Each firm produces the quantity of output that minimizes its average total cost&#8212;corresponding to point <em>Z</em> in panel (c) of <link href="#krugmanwellsessentials4e-ch7-fig-13">Figure 7-7</link>. So the total cost of production of the industry&#8217;s output is minimized in a perfectly competitive industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p214" block_type="nl-mid">The exception is an industry with increasing costs across the industry. Given a sufficiently high market price, early entrants make positive economic profits, but the last entrants do not as the market price falls. Costs are minimized for later entrants, as the industry reaches long-run equilibrium, but not necessarily for the early ones.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p215" block_type="nl-last">The long-run market equilibrium of a perfectly competitive industry is efficient: no mutually beneficial transactions go unexploited. To understand this, recall a fundamental requirement for efficiency: all consumers who have a willingness to pay greater than or equal to sellers&#8217; costs actually get the good. We also learned that when a market is efficient (except under certain, well-defined conditions), the market price matches all consumers with a willingness to pay greater than or equal to the market price to all sellers who have a cost of producing the good less than or equal to the market price.</p></li>
+</list>
+<p id="krugmanwellsessentials4e-ch7-p216" block_type="txt">So in the long-run equilibrium of a perfectly competitive industry, production is efficient: costs are minimized and no resources are wasted. In addition, the allocation of goods to consumers is efficient: every consumer willing to pay the cost of producing a unit of the good gets it. Indeed, no mutually beneficial transaction is left unexploited. Moreover, this condition tends to persist over time as the environment changes: the force of competition makes producers responsive to changes in consumers&#8217; desires and to changes in technology.</p>
+<p id="krugmanwellsessentials4e_page_223" block_type="page_start">223</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx2-3" block_type="bx-2-h">
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch7-img-19" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch7-p217" block_type="bx-2-t"><strong>From Global Wine Glut to Shortage</strong></p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-4" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p218" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-20" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p219" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>f you were a wine producer still in business in 2012, you were probably breathing a big sigh of relief. Why? Because that is when the global wine market went from glut to shortage. This was a big change from the years 2004 to 2010, when the wine industry battled with an oversupply of product and plunging prices, driven first by a series of large global harvests and then by declining demand due to the global recession of 2008. After years of losses, many wine producers finally decided to exit the industry.</p>
+<p id="krugmanwellsessentials4e-ch7-p220" block_type="bx2-txt">By 2012, wine production capacity was down significantly in Europe, South America, Africa, and Australia, and inventories were at their lowest point in over a decade. Moreover, 2012 was a year of bad weather for wine producers. And that same year, American wine consumption started growing again, while China&#8217;s wine consumption was surging, quadrupling over the previous five years. So combine a significant drop in capacity, a weather-induced fall in supply, and an increase in demand and&#8212;<em>voil&#224;!</em>&#8212;a wine shortage appears.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-21" alt="image" src="images/KrugESS4e_7UN05.jpg"/>
+<caption>A wine shortage may soon become a wine glut as growers respond by planting more vineyards.</caption>
+<asset_source>Thinkstock/Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p221" block_type="bx2-txt">But as industry analysts noted, many vintners are cheering. The lack of production in other parts of the world and surging demand in China have opened opportunities for expansion. As the CEO of Washington State&#8217;s Chateau Ste. Michelle winery, Ted Bessler, commented, &#8220;Right now, we have about 50,000 acres in the state. I can foresee that we could have as much as 150,000 or more.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch7-p222" block_type="bx2-txt">Hold onto your wine glasses&#8212;the present shortage could turn into a glut once again.</p>
+</box>
+<box title="Quick Review" numbered="false" id="krugmanwellsessentials4e-ch7-bx5-12" block_type="sr-1-h">
+<list id="krugmanwellsessentials4e-ch7-list-11" type="unordered" block_type="redbullet">
+<li><p id="krugmanwellsessentials4e-ch7-p223" block_type="sr1-bl">The <strong>industry supply curve</strong> corresponds to the supply curve of earlier chapters. In the short run, the time period over which the number of producers is fixed, the <strong>short-run market equilibrium</strong> is given by the intersection of the <strong>short-run industry supply curve</strong> and the demand curve. In the long run, the time period over which producers can enter or exit the industry, the <strong>long-run market equilibrium</strong> is given by the intersection of the <strong>long-run industry supply curve</strong> and the demand curve. In the long-run market equilibrium, no producer has an incentive to enter or exit the industry.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p224" block_type="sr1-bl">The long-run industry supply curve is often horizontal, although it may slope upward when a necessary input is in limited supply. It is always more elastic than the short-run industry supply curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p225" block_type="sr1-bl">In the long-run market equilibrium of a perfectly competitive industry, each firm produces at the same marginal cost, which is equal to the market price, and the total cost of production of the industry&#8217;s output is minimized. It is also efficient.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx6-13" block_type="sr2-h">
+<box-metadata><box-title><phrase block_type="title">Check Your Understanding</phrase> <phrase block_type="number">7-3</phrase></box-title></box-metadata>
+<question id="krugmanwellsessentials4e-ch7-cyuquestion-4" block_type="q_cyu" number="1">
+<p id="krugmanwellsessentials4e-ch7-p226" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Which of the following events will induce firms to enter an industry? Which will induce firms to exit? When will entry or exit cease? Explain your answer.</p>
+<list id="krugmanwellsessentials4e-ch7-list-12" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p227" block_type="sr2-nl-lvl2">A technological advance lowers the fixed cost of production of every firm in the industry.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p228" block_type="sr2-nl-lvl2">The wages paid to workers in the industry go up for an extended period of time.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p229" block_type="sr2-nl-lvl2">A permanent change in consumer tastes increases demand for the good.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p230" block_type="sr2-nl-lvl2">The price of a key input rises due to a long-term shortage of that input.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-cyuquestion-5" block_type="q_cyu" number="2">
+<p id="krugmanwellsessentials4e-ch7-p231" block_type="sr2-nl-mid"><phrase block_type="qnum">2.</phrase> Assume that the egg industry is perfectly competitive and is in long-run equilibrium with a perfectly elastic long-run industry supply curve. Health concerns about cholesterol then lead to a decrease in demand. Construct a figure similar to <link href="#krugmanwellsessentials4e-ch7-fig-13">Figure 7-7</link>, showing the short-run behavior of the industry and how long-run equilibrium is reestablished.</p>
+</question>
+<p id="krugmanwellsessentials4e-ch7-p232" block_type="sr2-nl-fn">Solutions appear at back of book.</p>
+</box>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-6" block_type="solved_problem" title="" chapter="7" numbered="true" level="1" print_page="224">
+<section-metadata><section-title>Solved Problem</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_224" block_type="page_start">224</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx7-14" block_type="sum-h">
+<box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">Is There a Catch?</phrase></box-title></box-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-5" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p233" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p234" block_type="wio-txt-ni">Seattle&#8217;s Pike Place Fish Market is well known for its freshly caught salmon, halibut, and Alaskan King Crab and for its entertaining staff who hurl a fish into the air on its way to wrapping and checkout.</p>
+<p id="krugmanwellsessentials4e-ch7-p235" block_type="tbn-txt"><strong>QUERY:</strong> We have fixed LaunchPad and reduced the Rule. Please check.</p>
+<table id="krugmanwellsessentials4e-ch7-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-5" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of fish<br/><em>Q</em></strong></td>
+<td class="tbl-rborder"><strong>Variable cost<br/><em>VC</em></strong></td>
+<td><strong>Total cost<br/><em>TC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">30</td>
+<td class="tbl-rborder">&#36;280</td>
+<td>&#36;680</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">40</td>
+<td class="tbl-rborder">320</td>
+<td>720</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">50</td>
+<td class="tbl-rborder">440</td>
+<td>840</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">60</td>
+<td class="tbl-rborder">600</td>
+<td>1,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">70</td>
+<td class="tbl-rborder">840</td>
+<td>1,240</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">80</td>
+<td class="tbl-rborder">1,160</td>
+<td>1,560</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">90</td>
+<td class="tbl-rborder">1,560</td>
+<td>1,960</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">100</td>
+<td class="tbl-rborder">2,040</td>
+<td>2,440</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch7-p236" block_type="wio-txt">Consider the following hypothetical daily costs for one of the market&#8217;s suppliers, a fisherman who runs a boat that fishes primarily for Chinook Salmon. Each day begins with the decision of whether to take out the boat, given the price he expects to receive at the fish market. Whether he goes out or not, he incurs fixed costs such as dockage, licensing, and mortgage on the boat. In addition to fixed costs, he incurs a variable cost for each fish brought back to port. So, he must also decide how much to catch.</p>
+<p id="krugmanwellsessentials4e-ch7-p237" block_type="wio-txt">Using the table at right, calculate average variable cost, average total cost, and marginal cost to find the break-even price per fish. If the market price falls to &#36;14.00 per fish, in the short run, how many fish will the fisherman bring to market?</p>
+<p id="krugmanwellsessentials4e-ch7-p238" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Find the average variable cost, average total cost, and marginal cost of a box of fish.</strong>
+<phrase block_type="step-subtext">Review pages 183&#8211;188 in <link href="krugmanwellsessentials4e-ch06.xml">Chapter 6</link>, and equations 6-3, 6-4, and 6-5.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch7-p239" block_type="wio-txt-ni">The average variable cost is equal to the variable cost divided by the quantity (<em>VC</em>/<em>Q</em>), the average total cost is equal to the total cost divided by the quantity (<em>TC</em>/<em>Q</em>), and the marginal cost is the change in the total cost divided by the change in the quantity (&#916;<em>TC</em>/&#916;<em>Q</em>). These costs are calculated for each box in the following table.</p>
+<table id="krugmanwellsessentials4e-ch7-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-6" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Quantity of fish<br/><em>Q</em></strong></td>
+<td><strong>Variable cost<br/><em>VC</em></strong></td>
+<td><strong>Total cost<br/><em>TC</em></strong></td>
+<td><strong>Marginal cost <em>MC</em> = &#916;<em>TC</em>/&#916;<em>Q</em></strong></td>
+<td><strong>Average variable cost <em>AVC</em> = <em>VC</em>/<em>Q</em></strong></td>
+<td><strong>Average total cost <em>ATC</em> = <em>TQ</em>/<em>Q</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>30</td>
+<td>&#36;280</td>
+<td>&#36;680</td>
+<td></td>
+<td>&#36;9.33</td>
+<td>&#36;22.67</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#36;4.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>40</td>
+<td>320</td>
+<td>720</td>
+<td></td>
+<td>8.00</td>
+<td>18.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>12.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>50</td>
+<td>440</td>
+<td>840</td>
+<td></td>
+<td>8.80</td>
+<td>16.80</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>16.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>60</td>
+<td>600</td>
+<td>1,000</td>
+<td></td>
+<td>10.00</td>
+<td>16.67</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>24.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>70</td>
+<td>840</td>
+<td>1,240</td>
+<td></td>
+<td>12.00</td>
+<td>17.71</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>32.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>80</td>
+<td>1,160</td>
+<td>1,560</td>
+<td></td>
+<td>14.50</td>
+<td>19.50</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>40.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>90</td>
+<td>1,560</td>
+<td>1,960</td>
+<td></td>
+<td>17.33</td>
+<td>21.78</td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>48.00</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td>100</td>
+<td>2,040</td>
+<td>2,440</td>
+<td></td>
+<td>20.40</td>
+<td>24.40</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch7-p240" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Find the break-even price per fish.</strong>
+<phrase block_type="step-subtext">Review pages 209&#8211;212 and <link href="#krugmanwellsessentials4e-ch7-fig-6">Figure 7-2</link>.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch7-p241" block_type="wio-txt-ni">To find the break-even price, we need to find the minimum average total cost of production. In the table, the minimum average total cost occurs at 60 fish. Thus, the break-even price is &#36;16.67 per fish.</p>
+<p id="krugmanwellsessentials4e-ch7-p242" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>If the market price falls to &#36;14.00 per fish, in the short run how many fish will be brought to market?</strong>
+<phrase block_type="step-subtext">Review pages 206&#8211;209 and the Pitfalls on page 208.</phrase></phrase></p>
+<p id="krugmanwellsessentials4e-ch7-p243" block_type="wio-txt-ni">In the case of the price-taking firm, the marginal revenue is equal to the market price. So, to find the optimal quantity, we need to find the point where <em>P</em> = <em>MC</em>. If there is not a point on the table at which <em>P</em> = <em>MC</em>, then the fisherman will want to produce the largest quantity for which <em>P</em> exceeds <em>MC</em>. Going from 40 to 50 fish, the <em>MC</em> is &#36;12.00, but going from 50 to 60 fish, the <em>MC</em> is &#36;16.00. Hence, the largest quantity for which <em>P</em> exceeds <em>MC</em> is 50 fish. Although price is less than average total cost, he will still fish because the price is greater than his average variable cost.</p>
+</box>
+<p id="krugmanwellsessentials4e_page_225" block_type="page_start">225</p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-4" block_type="cr-que-t" title="" chapter="7" numbered="true" level="1" print_page="225">
+<section-metadata><section-title>SUMMARY</section-title></section-metadata>
+<list id="krugmanwellsessentials4e-ch7-list-13" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch7-p244" block_type="sum-nl">In a <strong>perfectly competitive market</strong> all producers are <strong>price-taking producers</strong> and all consumers are <strong>price-taking consumers&#8212;</strong>no one&#8217;s actions can influence the market price. Consumers are normally price-takers, but producers often are not. In a <strong>perfectly competitive industry,</strong> all producers are price-takers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p245" block_type="sum-nl">There are two necessary conditions for a perfectly competitive industry: there are many producers, none of whom have a large <strong>market share,</strong> and the industry produces a <strong>standardized product</strong> or <strong>commodity&#8212;</strong>goods that consumers regard as equivalent. A third condition is often satisfied as well: <strong>free entry and exit</strong> into and from the industry.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p246" block_type="sum-nl">The <strong>marginal benefit</strong> of a good or service is the additional benefit derived from producing one more unit of that good or service. The <strong>principle of marginal analysis</strong> says that the optimal amount of an activity is the level at which marginal benefit equals marginal cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p247" block_type="sum-nl">A producer chooses output according to the <strong>optimal output rule:</strong> produce the quantity at which <strong>marginal revenue</strong> equals marginal cost. For a price-taking firm, marginal revenue is equal to price and its <strong>marginal revenue curve</strong> is a horizontal line at the market price. It chooses output according to the <strong>price-taking firm&#8217;s optimal output rule:</strong> produce the quantity at which price equals marginal cost. However, a firm that produces the optimal quantity may not be profitable.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p248" block_type="sum-nl">Companies should base decisions on <strong>economic profit,</strong> which takes into account <strong>explicit costs</strong> that involve an actual outlay of cash as well as <strong>implicit costs</strong> that do not require an outlay of cash, but are measured by the value, in dollar terms, of benefits that are forgone. The <strong>accounting profit</strong> is often considerably larger than the economic profit because it includes only explicit costs and depreciation, not implicit costs.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p249" block_type="sum-nl">A firm is profitable if total revenue exceeds total cost or, equivalently, if the market price exceeds its <strong>break-even price&#8212;</strong>minimum average total cost. If market price exceeds the break-even price, the firm is profitable; if it is less, the firm is unprofitable; if it is equal, the firm breaks even. When profitable, the firm&#8217;s perunit profit is <em>P</em> &#8722; <em>ATC;</em> when unprofitable, its per-unit loss is <em>ATC</em> &#8722; <em>P.</em></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p250" block_type="sum-nl">Like <strong>sunk cost,</strong> fixed cost is irrelevant to the firm&#8217;s optimal short-run production decision, which depends on its <strong>shut-down price&#8212;</strong>its minimum average variable cost&#8212;and the market price. When the market price is equal to or exceeds the shut-down price, the firm produces the output quantity where marginal cost equals the market price. When the market price falls below the shut-down price, the firm ceases production in the short run. This generates the firm&#8217;s <strong>short-run individual supply curve.</strong></p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p251" block_type="sum-nl">Fixed cost matters over time. If the market price is below minimum average total cost for an extended period of time, firms will exit the industry in the long run. If above, existing firms are profitable and new firms will enter the industry in the long run.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p252" block_type="sum-nl">The <strong>industry supply curve</strong> depends on the time period. The <strong>short-run industry supply curve</strong> is the industry supply curve given that the number of firms is fixed. The <strong>short-run market equilibrium</strong> is given by the intersection of the short-run industry supply curve and the demand curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p253" block_type="sum-nl">The <strong>long-run industry supply curve</strong> is the industry supply curve given sufficient time for entry into and exit from the industry. In the <strong>long-run market equilibrium&#8212;</strong>given by the intersection of the long-run industry supply curve and the demand curve&#8212;no producer has an incentive to enter or exit. The long-run industry supply curve is often horizontal. It may slope upward if there is limited supply of an input, resulting in increasing costs across the industry. It may even slope downward, the case of decreasing costs across the industry. But it is always more elastic than the short-run industry supply curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p254" block_type="sum-nl">In the long-run market equilibrium of a competitive industry, profit maximization leads each firm to produce at the same marginal cost, which is equal to market price. Free entry and exit means that each firm earns zero economic profit&#8212;producing the output corresponding to its minimum average total cost. So the total cost of production of an industry&#8217;s output is minimized. The outcome is efficient because every consumer with a willingness to pay greater than or equal to marginal cost gets the good.</p></li>
+</list>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-5" block_type="cr-kt-t" title="" chapter="7" numbered="true" level="1" print_page="226">
+<section-metadata><section-title>KEY TERMS</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_226" block_type="page_start">226</p>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-6" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p255" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-23" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<p id="krugmanwellsessentials4e-ch7-p256" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p20">Price-taking producer, p. 203</link></p>
+<p id="krugmanwellsessentials4e-ch7-p257" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p22">Price-taking consumer, p. 203</link></p>
+<p id="krugmanwellsessentials4e-ch7-p258" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p24">Perfectly competitive market, p. 203</link></p>
+<p id="krugmanwellsessentials4e-ch7-p259" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p27">Perfectly competitive industry, p. 203</link></p>
+<p id="krugmanwellsessentials4e-ch7-p260" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p31">Market share, p. 204</link></p>
+<p id="krugmanwellsessentials4e-ch7-p261" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p35">Standardized product, p. 204</link></p>
+<p id="krugmanwellsessentials4e-ch7-p262" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p35">Commodity, p. 204</link></p>
+<p id="krugmanwellsessentials4e-ch7-p263" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p38">Free entry and exit, p. 204</link></p>
+<p id="krugmanwellsessentials4e-ch7-p264" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p72">Marginal benefit, 207</link></p>
+<p id="krugmanwellsessentials4e-ch7-p265" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p72">Principle of marginal analysis, 207</link></p>
+<p id="krugmanwellsessentials4e-ch7-p266" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p74">Marginal revenue, p. 207</link></p>
+<p id="krugmanwellsessentials4e-ch7-p267" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p78">Optimal output rule, p. 207</link></p>
+<p id="krugmanwellsessentials4e-ch7-p268" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p82">Price-taking firm&#8217;s optimal output rule, p. 207</link></p>
+<p id="krugmanwellsessentials4e-ch7-p269" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p87">Marginal revenue curve, p. 208</link></p>
+<p id="krugmanwellsessentials4e-ch7-p270" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p94">Economic profit, 209</link></p>
+<p id="krugmanwellsessentials4e-ch7-p271" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p94">Explicit cost, 209</link></p>
+<p id="krugmanwellsessentials4e-ch7-p272" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p94">Implicit cost, 209</link></p>
+<p id="krugmanwellsessentials4e-ch7-p273" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p96">Accounting profit, 209</link></p>
+<p id="krugmanwellsessentials4e-ch7-p274" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p123">Break-even price, 212</link></p>
+<p id="krugmanwellsessentials4e-ch7-p275" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p139">Shut-down price, p. 213</link></p>
+<p id="krugmanwellsessentials4e-ch7-p276" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p145">Sunk cost, 214</link></p>
+<p id="krugmanwellsessentials4e-ch7-p277" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p149">Short-run individual supply curve, p. 214</link></p>
+<p id="krugmanwellsessentials4e-ch7-p278" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p180">Industry supply curve, p. 217</link></p>
+<p id="krugmanwellsessentials4e-ch7-p279" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p184">Short-run industry supply curve, p. 217</link></p>
+<p id="krugmanwellsessentials4e-ch7-p280" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p186">Short-run market equilibrium, p. 218</link></p>
+<p id="krugmanwellsessentials4e-ch7-p281" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p194">Long-run market equilibrium, p. 219</link></p>
+<p id="krugmanwellsessentials4e-ch7-p282" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch7-p202">Long-run industry supply curve, p. 221</link></p>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-6" block_type="cr-que-t" title="" chapter="7" numbered="true" level="1" print_page="226">
+<section-metadata><section-title>PROBLEMS</section-title></section-metadata>
+<question id="krugmanwellsessentials4e-ch7-question-1" block_type="q_prob" number="1">
+<p id="krugmanwellsessentials4e-ch7-p283" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> For each of the following, is the business a price-taking producer? Explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch7-list-14" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p284" block_type="cr-que-ans-first">A cappuccino caf&#233; in a university town where there are dozens of very similar cappuccino caf&#233;s</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p285" block_type="cr-que-ans-mid">The makers of Pepsi-Cola</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p286" block_type="cr-que-ans-mid">One of many sellers of zucchini at a local farmers&#8217; market</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-2" block_type="q_prob" number="2">
+<p id="krugmanwellsessentials4e-ch7-p287" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> For each of the following, is the industry perfectly competitive? Referring to market share, standardization of the product, and/or free entry and exit, explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch7-list-15" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p288" block_type="cr-que-ans-first">Aspirin</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p289" block_type="cr-que-ans-mid">Adele concerts</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p290" block_type="cr-que-ans-mid">SUVs</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-3" block_type="q_prob" number="3">
+<p id="krugmanwellsessentials4e-ch7-p291" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> Bob produces Blu-ray movies for sale, which requires a building and a machine that copies the original movie onto a Blu-ray. Bob rents a building for &#36;30,000 per month and rents a machine for &#36;20,000 a month. Those are his fixed costs. His variable cost per month is given in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch7-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-7" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of Blu-rays</strong></td>
+<td><strong><em>VC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>&#36;0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1,000</td>
+<td>5,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2,000</td>
+<td>8,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3,000</td>
+<td>9,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4,000</td>
+<td>14,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5,000</td>
+<td>20,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6,000</td>
+<td>33,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">7,000</td>
+<td>49,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">8,000</td>
+<td>72,000</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">9,000</td>
+<td>99,000</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">10,000</td>
+<td>150,000</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch7-list-16" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p292" block_type="cr-que-ans-first">Calculate Bob&#8217;s average variable cost, average total cost, and marginal cost for each quantity of output.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p293" block_type="cr-que-ans-mid">There is free entry into the industry, and anyone who enters will face the same costs as Bob. Suppose that currently the price of a Blu-ray is &#36;25. What will Bob&#8217;s profit be? Is this a long-run equilibrium? If not, what will the price of Blu-ray movies be in the long run?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-4" block_type="q_prob" number="4">
+<p id="krugmanwellsessentials4e-ch7-p294" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> Consider Bob&#8217;s Blu-ray company described in Problem 3. Assume that Blu-ray production is a perfectly competitive industry. For each of the following questions, explain your answers.</p>
+<list id="krugmanwellsessentials4e-ch7-list-17" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p295" block_type="cr-que-ans-first">What is Bob&#8217;s break-even price? What is his shut-down price?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p296" block_type="cr-que-ans-mid">Suppose the price of a Blu-ray is &#36;2. What should Bob do in the short run?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p297" block_type="cr-que-ans-mid">Suppose the price of a Blu-ray is &#36;7. What is the profit-maximizing quantity of Blu-rays that Bob should produce? What will his total profit be? Will he produce or shut down in the short run? Will he stay in the industry or exit in the long run?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p298" block_type="cr-que-ans-mid">Suppose instead that the price of Blu-rays is &#36;20. Now what is the profit-maximizing quantity of Blu-rays that Bob should produce? What will his total profit be now? Will he produce or shut down in the short run? Will he stay in the industry or exit in the long run?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-5" block_type="q_prob" number="5">
+<p id="krugmanwellsessentials4e-ch7-p299" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> Consider again Bob&#8217;s Blu-ray company described in Problem 3.</p>
+<list id="krugmanwellsessentials4e-ch7-list-18" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p300" block_type="cr-que-ans-first">Draw Bob&#8217;s marginal cost curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p301" block_type="cr-que-ans-mid">Over what range of prices will Bob produce no Blu-rays in the short run?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p302" block_type="cr-que-ans-mid">Draw Bob&#8217;s individual supply curve. In your graph, plot the price range from &#36;0 to &#36;60 in increments of &#36;10.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-6" block_type="q_prob" number="6">
+<p id="krugmanwellsessentials4e-ch7-p303" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase></p>
+<list id="krugmanwellsessentials4e-ch7-list-19" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p303" block_type="cr-que-nl-mid">A profit-maximizing business incurs an economic loss of &#36;10,000 per year. Its fixed cost is &#36;15,000 per year. Should it produce or shut down in the short run? Should it stay in the industry or exit in the long run?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p304" block_type="cr-que-ans-mid">Suppose instead that this business has a fixed cost of &#36;6,000 per year. Should it produce or shut down in the short run? Should it stay in the industry or exit in the long run?</p></li>
+</list>
+</question>
+<p id="krugmanwellsessentials4e_page_227" block_type="page_start">227</p>
+<question id="krugmanwellsessentials4e-ch7-question-7" block_type="q_prob" number="7">
+<p id="krugmanwellsessentials4e-ch7-p305" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> The first sushi restaurant opens in town. Initially people are very cautious about eating tiny portions of raw fish, as this is a town where large portions of grilled meat have always been popular. Soon, however, an influential health report warns consumers against grilled meat and suggests that they increase their consumption of fish, especially raw fish. The sushi restaurant becomes very popular and its profit increases.</p>
+<list id="krugmanwellsessentials4e-ch7-list-20" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p306" block_type="cr-que-ans-first">What will happen to the short-run profit of the sushi restaurant? What will happen to the number of sushi restaurants in town in the long run? Will the first sushi restaurant be able to sustain its short-run profit over the long run? Explain your answers.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p307" block_type="cr-que-ans-mid">Local steakhouses suffer from the popularity of sushi and start incurring losses. What will happen to the number of steakhouses in town in the long run? Explain your answer.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-8" block_type="q_prob" number="8">
+<p id="krugmanwellsessentials4e-ch7-p308" block_type="cr-que-nl-mid"><phrase block_type="qnum">8.</phrase> A perfectly competitive firm has the following short-run total cost:</p>
+<table id="krugmanwellsessentials4e-ch7-untab-8" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-8" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity</strong></td>
+<td><strong><em>TC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>&#36;5</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">1</td>
+<td>10</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">2</td>
+<td>13</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">3</td>
+<td>18</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>25</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">5</td>
+<td>34</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">6</td>
+<td>45</td>
+</tr>
+</tbody>
+</table>
+<p id="krugmanwellsessentials4e-ch7-p309" block_type="cr-que-txt">Market demand for the firm&#8217;s product is given by the following market demand schedule:</p>
+<table id="krugmanwellsessentials4e-ch7-untab-9" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-9" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Price</strong></td>
+<td><strong>Quantity demanded</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">&#36;12</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>500</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">8</td>
+<td>800</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">6</td>
+<td>1,200</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">4</td>
+<td>1,800</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch7-list-21" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p310" block_type="cr-que-ans-first">Calculate this firm&#8217;s marginal cost and, for all output levels except zero, the firm&#8217;s average variable cost and average total cost.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p311" block_type="cr-que-ans-mid">There are 100 firms in this industry that all have costs identical to those of this firm. Draw the short-run industry supply curve. In the same diagram, draw the market demand curve.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p312" block_type="cr-que-ans-mid">What is the market price, and how much profit will each firm make?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-9" block_type="q_prob" number="9">
+<p id="krugmanwellsessentials4e-ch7-p313" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> A new vaccine against a deadly disease has just been discovered. Presently, 55 people die from the disease each year. The new vaccine will save lives, but it is not completely safe. Some recipients of the shots will die from adverse reactions. The projected effects of the inoculation are given in the accompanying table:</p>
+<table id="krugmanwellsessentials4e-ch7-untab-10" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-10" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td><strong>Percent of population inoculated</strong></td>
+<td><strong>Total deaths due to disease</strong></td>
+<td><strong>Total deaths due to inoculation</strong></td>
+<td><strong>Marginal benefit of inoculation</strong></td>
+<td><strong>Marginal cost of inoculation</strong></td>
+<td><strong>&#8220;Profit&#8221; of inoculation</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td>0</td>
+<td>55</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>10</td>
+<td>45</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>20</td>
+<td>36</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>30</td>
+<td>28</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>40</td>
+<td>21</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>50</td>
+<td>15</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>60</td>
+<td>10</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>70</td>
+<td>6</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>80</td>
+<td>3</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>90</td>
+<td>1</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="tbl-td-light">
+<td></td>
+<td></td>
+<td></td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+<td>&#8212;</td>
+</tr>
+<tr class="tbl-td-light">
+<td>100</td>
+<td>0</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch7-list-22" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p314" block_type="cr-que-ans-first">What are the interpretations of &#8220;marginal benefit&#8221; and &#8220;marginal cost&#8221; here? Calculate marginal benefit and marginal cost per each 10&#37; increase in the rate of inoculation. Write your answers in the table.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p315" block_type="cr-que-ans-mid">What proportion of the population should optimally be inoculated?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p316" block_type="cr-que-ans-mid">What is the interpretation of &#8220;profit&#8221; here? Calculate the profit for all levels of inoculation.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-10" block_type="q_prob" number="10">
+<p id="krugmanwellsessentials4e-ch7-p317" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> Evaluate each of the following statements. If a statement is true, explain why; if it is false, identify the mistake and try to correct it.</p>
+<list id="krugmanwellsessentials4e-ch7-list-23" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p318" block_type="cr-que-ans-first">A profit-maximizing firm in a perfectly competitive industry should select the output level at which the difference between the market price and marginal cost is greatest.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p319" block_type="cr-que-ans-mid">An increase in fixed cost lowers the profit-maximizing quantity of output produced in the short run.</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-11" block_type="q_prob" number="11">
+<p id="krugmanwellsessentials4e-ch7-p320" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> The production of agricultural products like wheat is one of the few examples of a perfectly competitive industry. In this question, we analyze results from a study released by the U.S. Department of Agriculture about wheat production in the United States back in 2013.</p>
+<list id="krugmanwellsessentials4e-ch7-list-24" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p321" block_type="cr-que-ans-first">The average variable cost per acre planted with wheat was &#36;127 per acre. Assuming a yield of 44 bushels per acre, calculate the average variable cost per bushel of wheat.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p322" block_type="cr-que-ans-mid">The average price of wheat received by a farmer in 2013 was &#36;7.58 per bushel. Do you think the average farm would have exited the industry in the short run? Explain.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p323" block_type="cr-que-ans-mid">With a yield of 44 bushels of wheat per acre, the average total cost per farm was &#36;4.80 per bushel. The harvested acreage for rye (a type of wheat) in the United States increased from 242,000 in 2010 to 306,000 in 2013. Using the information on prices and costs here and in parts a and b, explain why this might have happened.</p>
+<p id="krugmanwellsessentials4e_page_228" block_type="page_start">228</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p324" block_type="cr-que-ans-mid">Using the above information, what do you think will happen to wheat production and prices after 2013?</p></li>
+</list>
+</question>
+<question id="krugmanwellsessentials4e-ch7-question-12" block_type="q_prob" number="12">
+<p id="krugmanwellsessentials4e-ch7-p325" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> The accompanying table presents prices for washing and ironing a man&#8217;s shirt taken from a survey of California dry cleaners.</p>
+<table id="krugmanwellsessentials4e-ch7-untab-11" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-11" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder tbl-ljust"><strong>Dry cleaner</strong></td>
+<td class="tbl-ljust"><strong>City</strong></td>
+<td><strong>Price</strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">A-1 Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>&#36;1.50</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Regal Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>1.95</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">St. Paul Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>1.95</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Zip Kleen Dry Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>1.95</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Effie the Tailor</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>2.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">Magnolia Too</td>
+<td class="tbl-ljust">Goleta</td>
+<td>2.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Master Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>2.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Santa Barbara Cleaners</td>
+<td class="tbl-ljust">Goleta</td>
+<td>2.00</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">Sunny Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>2.00</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Casitas Cleaners</td>
+<td class="tbl-ljust">Carpinteria</td>
+<td>2.10</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Rockwell Cleaners</td>
+<td class="tbl-ljust">Carpinteria</td>
+<td>2.10</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">Norvelle Bass Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>2.15</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Ablitt&#8217;s Fine Cleaners</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>2.25</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">California Cleaners</td>
+<td class="tbl-ljust">Goleta</td>
+<td>2.25</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">Justo the Tailor</td>
+<td class="tbl-ljust">Santa Barbara</td>
+<td>2.25</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder tbl-ljust">Pressed 4 Time</td>
+<td class="tbl-ljust">Goleta</td>
+<td>2.50</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder tbl-ljust">King&#8217;s Cleaners</td>
+<td class="tbl-ljust">Goleta</td>
+<td>2.50</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch7-list-25" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p326" block_type="cr-que-ans-first">What is the average price per shirt washed and ironed in Goleta? In Santa Barbara?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p327" block_type="cr-que-ans-mid">Draw typical marginal cost and average total cost curves for California Cleaners in Goleta, assuming it is a perfectly competitive firm but is making a profit on each shirt in the short run. Mark the short-run equilibrium point and shade the area that corresponds to the profit made by the dry cleaner.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p328" block_type="cr-que-ans-mid">Assume &#36;2.25 is the short-run equilibrium price in Goleta. Draw a typical short-run demand and supply curve for the market. Label the equilibrium point.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p329" block_type="cr-que-ans-mid">Observing profits in the Goleta area, another dry cleaning service, Diamond Cleaners, enters the market. It charges &#36;1.95 per shirt. What is the new average price of washing and ironing a shirt in Goleta? Illustrate the effect of entry on the average Goleta price by a shift of the short-run supply curve, the demand curve, or both.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p330" block_type="cr-que-ans-mid">Assume that California Cleaners now charges the new average price and just breaks even (that is, makes zero economic profit) at this price. Show the likely effect of the entry on your diagram in part b.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p331" block_type="cr-que-ans-mid">If the dry cleaning industry is perfectly competitive, what does the average difference in price between Goleta and Santa Barbara imply about costs in the two areas?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-7" block_type="sum-h" title="" chapter="7" numbered="true" level="1" print_page="227">
+<section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
+<box numbered="false" id="krugmanwellsessentials4e-ch7-exp2-7" block_type="mn2">
+<p id="krugmanwellsessentials4e-ch7-p332" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch7-img-24" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+</box>
+<question id="krugmanwellsessentials4e-ch7-question-13" block_type="q_prob" number="13">
+<p id="krugmanwellsessentials4e-ch7-p333" block_type="cr-wio-nl-first"><phrase block_type="qnum">13.</phrase> Kate&#8217;s Katering provides catered meals, and the catered meals industry is perfectly competitive. Kate&#8217;s machinery costs &#36;100 per day and is the only fixed input. Her variable cost consists of the wages paid to the cooks and the food ingredients. The variable cost per day associated with each level of output is given in the accompanying table.</p>
+<table id="krugmanwellsessentials4e-ch7-untab-12" block_type="un_table" data-href="#krugmanwellsessentials4e-ch7-untab-12" data-target="_pop">
+<layout align="center" width="large"/>
+<tbody>
+<tr class="tbl-hdr-bg">
+<td class="tbl-rborder"><strong>Quantity of meals</strong></td>
+<td><strong><em>VC</em></strong></td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">0</td>
+<td>0</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">10</td>
+<td>200</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">20</td>
+<td>300</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">30</td>
+<td>480</td>
+</tr>
+<tr class="tbl-td-light">
+<td class="tbl-rborder">40</td>
+<td>700</td>
+</tr>
+<tr class="tbl-td-dark">
+<td class="tbl-rborder">50</td>
+<td>1,000</td>
+</tr>
+</tbody>
+</table>
+<list id="krugmanwellsessentials4e-ch7-list-26" type="ordered" block_type="loweralpha">
+<li><p id="krugmanwellsessentials4e-ch7-p334" block_type="cr-wio-ans-first">Calculate the total cost, the average variable cost, the average total cost, and the marginal cost for each quantity of output.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p335" block_type="cr-wio-ans-mid">What is the break-even price and quantity? What is the shut-down price and quantity?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p336" block_type="cr-wio-ans-mid">Suppose that the price at which Kate can sell catered meals is &#36;21 per meal. In the short run, will Kate earn a profit? In the short run, should she produce or shut down?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p337" block_type="cr-wio-ans-mid">Suppose that the price at which Kate can sell catered meals is &#36;17 per meal. In the short run, will Kate earn a profit? In the short run, should she produce or shut down?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p338" block_type="cr-wio-ans-mid">Suppose that the price at which Kate can sell catered meals is &#36;13 per meal. In the short run, will Kate earn a profit? In the short run, should she produce or shut down?</p></li>
+</list>
+</question>
+</section>
+<section id="krugmanwellsessentials4e-ch7-sec1-7a" block_type="business_case" title="" chapter="7" numbered="true" level="1" print_page="229">
+<section-metadata><section-title>Business Case</section-title></section-metadata>
+<p id="krugmanwellsessentials4e_page_229" block_type="page_start">229</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx5-15" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch7-p339" block_type="bx5-t"><strong>Kiva Systems&#8217; Robots versus Humans: The Challenge of Holiday Order Fulfillment</strong></p>
+<p id="krugmanwellsessentials4e-ch7-p340" block_type="bx5-txt-ni"><phrase block_type="dropcap">F</phrase>or those who tend to procrastinate when it comes to holiday shopping, the rise of e-commerce has been a welcome phenomenon, with some retailers offering same-day delivery for orders placed on the day before Christmas.</p>
+<p id="krugmanwellsessentials4e-ch7-p341" block_type="bx5-txt">E-commerce retailers like Amazon and <link href="http://CrateandBarrel.com">CrateandBarrel.com</link> can see their sales quadruple for the holidays. With advances in order fulfillment technology that get customers&#8217; orders to them quickly, e-commerce sellers have been able to capture an ever-greater share of sales from brick-and-mortar retailers. Holiday sales at e-commerce sites have grown by 40&#37; from 2012 to 2015.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-25" alt="image" src="images/KrugESS4e_6UN05.jpg"/>
+<asset_source>Beth Hail/Bloomberg via Getty Images</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p342" block_type="bx5-txt">Behind these technological advances, however, lies an intense debate: people versus robots. Amazon has relied on a large staff of temporary human workers to get it through the previous holiday seasons, often quadrupling its staff and operating 24 hours a day. In contrast, <link href="http://CrateandBarrel.com">CrateandBarrel.com</link> only doubled its workforce, thanks to a cadre of orange robots that allows each worker to do the work of six people.</p>
+<p id="krugmanwellsessentials4e-ch7-p343" block_type="bx5-txt">But Amazon is set to increase its robotic work force in the future. In 2012, Amazon bought Kiva Systems, the leader in order fulfillment robotics, for &#36;775 million, with the hope of tailoring Kiva&#8217;s systems to fit Amazon&#8217;s warehouse and fulfillment needs.</p>
+<p id="krugmanwellsessentials4e-ch7-p344" block_type="bx5-txt">Although many retailers&#8212;Staples, Gap, Saks Fifth Avenue, and Walgreens, for example&#8212;also use Kiva equipment, installation of a robotic system can be expensive, with some costing as much as &#36;20 million. Yet hiring workers has a cost, too: during the 2013 holiday season, before it had installed an extensive robotic system, Amazon hired some 70,000 temporary workers at its 94 distribution centers around the United States.</p>
+<p id="krugmanwellsessentials4e-ch7-p345" block_type="bx5-txt">As one industry analyst noted, an obstacle to the purchase of a robotic system for many e-commerce retailers is that it often doesn&#8217;t make economic sense: it&#8217;s too expensive to buy sufficient robots for the busiest time of the year because they would be idle at other times. Before Amazon&#8217;s purchase, Kiva was testing a program to rent out its robots seasonally so that retailers could &#8220;hire&#8221; enough robots to handle their holiday orders just as Amazon used to hire more humans.</p>
+<p id="krugmanwellsessentials4e-ch7-p346" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch7-list-27" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch7-p347" block_type="bx5-nl">Assume that a firm can sell a robot, but that the sale takes time and the firm is likely to get less than what it paid. Other things equal, which system, human-based or robotic, will have a higher fixed cost? Which will have a higher variable cost? Explain.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p348" block_type="bx5-nl">Predict the pattern of off-holiday sales versus holiday sales that would induce a retailer to keep a human-based system. Predict the pattern that would induce a retailer to move to a robotic system.</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p349" block_type="bx5-nl">How would a &#8220;robot-for-hire&#8221; program affect your answer to Question 2? Explain.</p></li>
+</list>
+</box>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch7-bx5-16" block_type="bcbx5-h">
+<box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase></box-title></box-metadata>
+<p id="krugmanwellsessentials4e-ch7-p350" block_type="bx5-t"><strong>Shopping Apps, Showrooming, and the Challenges Facing Brick-and-Mortar Retailers</strong></p>
+<p id="krugmanwellsessentials4e_page_230" block_type="page_start">230</p>
+<p id="krugmanwellsessentials4e-ch7-p351" block_type="bx5-txt-ni"><phrase block_type="dropcap">I</phrase>n a Sunnyvale, California Best Buy, Tri Trang found the perfect gift for his girlfriend, a &#36;184.85 Garmin GPS. Before mobile shopping apps appeared, he would have purchased it there. Instead, Trang whipped out his smartphone to do a price comparison. Finding the same item on Amazon for &#36;106.75 with free shipping, he bought it from Amazon on the spot.</p>
+<p id="krugmanwellsessentials4e-ch7-p352" block_type="bx5-txt">For brick-and-mortar retailers like Best Buy, customers who &#8220;showroom&#8221;&#8212;examine the merchandise in-store and then buy it online&#8212;threaten their very survival. The explosive growth of shopping apps that allow you to immediately compare prices and make a purchase (TheFind), give you access to thousands of coupons (Coupons.com), and alert you to discount sales at nearby stores (SaleSorter), has struck terror in the corporate offices of traditional retailers.</p>
+<figure id="krugmanwellsessentials4e-ch7-fig-17" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
+<layout align="right" width="medium" border="true"/>
+<image asset-id="krugmanwellsessentials4e-ch7-img-26" alt="image" src="images/KrugESS4e_7UN06.jpg"/>
+<asset_source>The Photo Works</asset_source>
+</figure>
+<p id="krugmanwellsessentials4e-ch7-p353" block_type="bx5-txt">Before shopping apps, a traditional retailer could lure customers into its store with enticing specials and reasonably expect them to buy more profitable items with prompting from a salesperson. But those days are fast disappearing. The consulting firm Accenture found that 73&#37; of customers with mobile devices preferred to shop with their phones rather than talk to a salesperson. In just four years, from 2010 to 2014, the use of mobile coupons has quadrupled from 12.3 million to 53.2 million.</p>
+<p id="krugmanwellsessentials4e-ch7-p354" block_type="bx5-txt">But brick-and-mortar retailers are now fighting back. To combat showrooming, Target stocks products that manufacturers have slightly modified for them alone. Like other retailers, Target has been building its online presence, quadrupling the number of items on its website, sending coupons and discount alerts to customers&#8217; mobile phones, and offering loyalty rewards. Walmart offers free in-store delivery for online purchases so customers can avoid shipping charges. And Staples will give you a discount on a new printer if you trade in your old one.</p>
+<p id="krugmanwellsessentials4e-ch7-p355" block_type="bx5-txt">However, traditional retailers know that their survival rests on pricing. While prices on their websites tend to be lower than in the stores, these retailers are still struggling to compete with online sellers like Amazon. A recent study showed Amazon&#8217;s prices were about 9&#37; lower than Walmart.com&#8217;s and 14&#37; lower than Target.com&#8217;s. Best Buy now offers to match online prices for its best customers.</p>
+<p id="krugmanwellsessentials4e-ch7-p356" block_type="bx5-txt">It&#8217;s clearly a race for survival. As one analyst said, &#8220;Only a couple of retailers can play the lowest-price game. This is going to accelerate the demise of retailers who do not have either competitive pricing or standout store experience.&#8221;</p>
+<p id="krugmanwellsessentials4e-ch7-p357" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
+<list id="krugmanwellsessentials4e-ch7-list-28" type="ordered" block_type="numbered">
+<li><p id="krugmanwellsessentials4e-ch7-p358" block_type="bx5-nl">From the evidence in the case, what can you infer about whether or not the retail market for electronics satisfied the conditions for perfect competition before the advent of mobile-device comparison price shopping? What was the most important impediment to competition?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p359" block_type="bx5-nl">What effect is the introduction of mobile shopping apps having on competition in the retail market for electronics? On the profitability of brick-and-mortar retailers like Best Buy? What, on average, will be the effect on the consumer surplus of purchasers of these items?</p></li>
+<li><p id="krugmanwellsessentials4e-ch7-p360" block_type="bx5-nl">Why are some retailers responding by having manufacturers make exclusive versions of products for them? Is this trend likely to increase or diminish?</p></li>
+</list>
+</box>
+</section>
+</chapter>
+</manuscript>
