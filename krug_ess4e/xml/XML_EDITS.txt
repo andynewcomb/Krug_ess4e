@@ -1,5 +1,5 @@
 Hand edits for KrugmanWellsEssentials4e
-edit src="images" to src="asset/ch3" (or whatever chapter number)
+*** in fix_links.pl *** edit src="images" to src="asset/ch3" (or whatever chapter number)
 *** use fix_links.pl *** resolves href="#kaufman... to URLs, either for chapters or figures 
 run keyterms scripts
 check data-href for numbered tables

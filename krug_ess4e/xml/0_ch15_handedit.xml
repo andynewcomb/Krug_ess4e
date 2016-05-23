@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="15" name="" title="KRU_Chapter_15_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
 <chapter number="15" id="krugmanwellsessentials4e-ch15-chapter-15" title="CHAPTER 15: Long-Run Economic Growth" start-numbering-at="15" numbered="true">
 <section id="krugmanwellsessentials4e-ch15-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="true" level="1" print_page="407">
 <p id="krugmanwellsessentials4e_page_407" block_type="page_start">407</p>
 <p id="krugmanwellsessentials4e-ch15-p1" block_type="chapter_title">Long-Run Economic Growth</p>
 <p id="krugmanwellsessentials4e-ch15-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">15</phrase></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-bx3-1" block_type="bx3">
-<p id="krugmanwellsessentials4e-ch15-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch15-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong><em>AIRPOCALYPSE NOW</em></strong></p>
+<p id="krugmanwellsessentials4e-ch15-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch15-img-1" alt="image" src="asset/images/world_view_icon.jpg"/> <strong><em>AIRPOCALYPSE NOW</em></strong></p>
 <figure id="krugmanwellsessentials4e-ch15-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-2" alt="image" src="images/KrugESS4e_CO15.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-2" alt="image" src="asset/ch15/KrugESS4e_CO15.jpg"/>
 <caption>Rapid, uncontrolled economic growth has resulted in much higher living standards in China but at the cost of very high levels of pollution.</caption>
 <asset_source>epa european pressphoto agency b.v./Alamy</asset_source>
 </figure>
@@ -25,7 +23,7 @@
 </list>
 </box>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-1" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-3" alt="image" src="asset/images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p11" block_type="co-txt-ni"><phrase block_type="dropcap">O</phrase>N JANUARY 16, 2014, REPORTED the <em>New York Times,</em> &#8220;Some residents of Beijing woke up with splitting headaches. A curtain of haze had fallen across the city of more than 20 million. It was the first &#8216;airpocalypse&#8217; of the year in the Chinese capital and nearby provinces.&#8221; </p>
 <p id="krugmanwellsessentials4e-ch15-p12" block_type="co-txt">As the article suggested, severe air pollution&#8212;at levels that make the once-famous smog of Los Angeles (mostly gone now thanks to pollution regulations) seem mild by comparison&#8212;has become commonplace in China&#8217;s cities. This is, it goes without saying, a bad thing, and must be dealt with. But it is a byproduct of a very good thing: China&#8217;s extraordinary economic growth in the past few decades, which has raised literally hundreds of millions of people out of abject poverty. These newly enriched masses want what everyone wants if they can afford it: better food, better housing, and consumer goods&#8212;including, in many cases, cars. As recently as 1999 there were fewer than 15 million motor vehicles in China, barely 1 for every 100 people. By 2012 that number had risen to 240 million, and was still rising fast.</p>
@@ -41,17 +39,17 @@
 <section id="krugmanwellsessentials4e-ch15-sec2-1" block_type="h2" title="" chapter="ch15" numbered="false" level="2" print_page="408">
 <section-metadata><section-title>Real GDP per Capita</section-title></section-metadata>
 <p id="krugmanwellsessentials4e-ch15-p17" block_type="txt-ni">The key statistic used to track economic growth is <em>real GDP per capita&#8212;</em>real GDP divided by the population size.</p>
-<p id="krugmanwellsessentials4e-ch15-p18" block_type="txt">We focus on GDP because, as we learned in <link href="krugmanwellsessentials4e-ch13.xml">Chapter 13</link>, GDP measures the total value of an economy&#8217;s production of final goods and services as well as the income earned in that economy in a given year. We use <em>real</em> GDP because we want to separate changes in the quantity of goods and services from the effects of a rising price level. We focus on real GDP <em>per capita</em> because we want to isolate the effect of changes in the population. For example, other things equal, an increase in the population lowers the standard of living for the average person&#8212;there are now more people to share a given amount of real GDP. An increase in real GDP that only matches an increase in population leaves the average standard of living unchanged.</p>
+<p id="krugmanwellsessentials4e-ch15-p18" block_type="txt">We focus on GDP because, as we learned in <link href="krugmanwellsessentials4e_ch13_1.html">Chapter 13</link>, GDP measures the total value of an economy&#8217;s production of final goods and services as well as the income earned in that economy in a given year. We use <em>real</em> GDP because we want to separate changes in the quantity of goods and services from the effects of a rising price level. We focus on real GDP <em>per capita</em> because we want to isolate the effect of changes in the population. For example, other things equal, an increase in the population lowers the standard of living for the average person&#8212;there are now more people to share a given amount of real GDP. An increase in real GDP that only matches an increase in population leaves the average standard of living unchanged.</p>
 <p id="krugmanwellsessentials4e-ch15-p19" block_type="txt">Although we also learned that growth in real GDP per capita should not be a policy goal in and of itself, it does serve as a very useful summary measure of a country&#8217;s economic progress over time. <link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-2">Figure 15-1</link> shows real GDP per capita for the United States, India, and China, measured in 1990 dollars, from 1900 to 2010. (We&#8217;ll talk about India and China in a moment.) The vertical axis is drawn on a logarithmic scale so that equal percent changes in real GDP per capita across countries are the same size in the graph.</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-2" block_type="figure" numbered="true" number="15-1" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-2"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-1</strong></phrase></phrase> <phrase block_type="fig_title">Economic Growth in the United States, India, and China over the Past Century</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-4" alt="image" src="images/KrugESS4e_fig_15_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-4" alt="image" src="asset/ch15/KrugESS4e_fig_15_01.jpg"/>
 <caption>Real GDP per capita from 1900 to 2010, measured in 1990 dollars, is shown for the United States, India, and China. Equal percent changes in real GDP per capita are drawn the same size. As the steeper slopes of the lines representing China and India show, since 1980 India and China had a much higher growth rate than the United States. In 2000, China attained the standard of living achieved in the United States in 1900. In 2010, India was still poorer than the United States was in 1900. (The break in China data from 1940 to 1950 is due to war.)</caption>
 <asset_source><em>Data from</em>: Angus Maddison, <em>Statistics on World Population, GDP, and Per Capita GDP, 1&#8211;2008AD,</em> <link href="http://www.ggdc.net/maddison">http://www.ggdc.net/maddison</link>; The Conference Board Total Economy Database&#8482;, January 2014, <link href="http://www.conference-board.org/data/economydatabase/">http://www.conference-board.org/data/economydatabase/</link>.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p20" block_type="txt">To give a sense of how much the U.S. economy grew during the last century, <link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-tab-1">Table 15-1</link> shows real GDP per capita at selected years, expressed two ways: as a percentage of the 1900 level and as a percentage of the 2010 level. In 1920, the U.S. economy already produced 136&#37; as much per person as it did in 1900. In 2010, it produced 758&#37; as much per person as it did in 1900, an almost eightfold increase. Alternatively, in 1900 the U.S. economy produced only 13&#37; as much per person as it did in 2010.</p>
-<table id="krugmanwellsessentials4e-ch15-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch15-tab-1" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch15/table_15_1.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">15-1</phrase></strong> <phrase block_type="tbl_title">U.S. Real GDP per Capita</phrase></table_caption>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -99,7 +97,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-3" block_type="map" numbered="true" number="15-2" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-3"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-2</strong></phrase></phrase> <phrase block_type="fig_title">Incomes Around the World, 2013</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-5" alt="image" src="images/KrugESS4e_fig_15_02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-5" alt="image" src="asset/ch15/KrugESS4e_fig_15_02.jpg"/>
 <caption>Although the countries of Europe and North America&#8212;along with a few in the Pacific&#8212;have high incomes, much of the world is still very poor. Today, about 50&#37; of the world&#8217;s population lives in countries with a lower standard of living than the United States had a century ago.</caption>
 <asset_source><em>Data from:</em> International Monetary Fund.</asset_source>
 </figure>
@@ -120,7 +118,7 @@
 <p id="krugmanwellsessentials4e-ch15-p30" block_type="txt">For a sense of the relationship between the annual growth rate of real GDP per capita and the long-run change in real GDP per capita, it&#8217;s helpful to keep in mind the <strong>Rule of 70,</strong> a mathematical formula that tells us how long it takes real GDP per capita, or any other variable that grows gradually over time, to double. The approximate answer is:</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-4" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-6" alt="image" src="images/KrugESS4e_eqn_410_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-6" alt="image" src="asset/ch15/KrugESS4e_eqn_410_01.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p31" block_type="txt-ni">(Note that the Rule of 70 can only be applied to a positive growth rate.) So if real GDP per capita grows at 1&#37; per year, it will take 70 years to double. If it grows at 2&#37; per year, it will take only 35 years to double. In fact, U.S. real GDP per capita rose on average 1.9&#37; per year over the last century. </p>
 <p id="krugmanwellsessentials4e-ch15-p32" block_type="txt">Applying the Rule of 70 to this information implies that it should have taken 37 years for real GDP per capita to double; it would have taken 111 years&#8212;three periods of 37 years each&#8212;for U.S. real GDP per capita to double three times. That is, the Rule of 70 implies that over the course of 111 years, U.S. real GDP per capita should have increased by a factor of 2 &#215; 2 &#215; 2 = 8. And this does turn out to be a pretty good approximation of reality. Between 1899 and 2010&#8212;a period of 111 years&#8212;real GDP per capita rose just about eightfold.</p>
@@ -128,7 +126,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-5" block_type="figure" numbered="true" number="15-3" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-5"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-3</strong></phrase></phrase> <phrase block_type="fig_title">Comparing Recent Growth Rates</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-7" alt="image" src="images/KrugESS4e_fig_15_03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-7" alt="image" src="asset/ch15/KrugESS4e_fig_15_03.jpg"/>
 <caption>The average annual rate of growth of real GDP per capita from 1980 to 2013 is shown here for selected countries. China and, to a lesser extent, India and Ireland achieved impressive growth. The United States and France had moderate growth. Once considered an economically advanced country, Argentina had more sluggish growth. Still others, such as Zimbabwe, slid backward.</caption>
 <asset_source><em>Data from:</em> The Conference Board Total Economy Database&#8482;, January 2014, <link href="http://www.conference-board.org/data/economydatabase/">http://www.conference-board.org/data/economydatabase/</link>.</asset_source>
 </figure>
@@ -136,17 +134,17 @@
 <p id="krugmanwellsessentials4e-ch15-p35" block_type="txt">To understand these differences in growth rates, we need to examine the sources of long-run economic growth.</p>
 <p id="krugmanwellsessentials4e_page_411" block_type="page_start">411</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx2-1" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-8" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-8" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch15-p36" block_type="bx-2-t"><strong>India Takes Off</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-2" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p37" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-9" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p37" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-9" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p38" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>ndia achieved independence from Great Britain in 1947, becoming the world&#8217;s most populous democracy&#8212;a status it has maintained to this day. For more than three decades after independence, however, this happy political story was partly overshadowed by economic disappointment. Despite ambitious economic development plans, India&#8217;s performance was consistently sluggish. In 1980, India&#8217;s real GDP per capita was only about 50&#37; higher than it had been in 1947. The gap between Indian living standards and those in wealthy countries like the United States had been growing rather than shrinking.</p>
 <p id="krugmanwellsessentials4e-ch15-p39" block_type="bx2-txt">Since then, however, India has done much better. As <link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-5">Figure 15-3</link> shows, real GDP per capita has grown at an average rate of 4.3&#37; a year, more than tripling between 1980 and 2013. India now has a large and rapidly growing middle class. </p>
 <p id="krugmanwellsessentials4e-ch15-p40" block_type="bx2-txt">What went right in India after 1980? Many economists point to policy reforms. For decades after independence, India had a tightly controlled, highly regulated economy. Today, things are very different: a series of reforms opened the economy to international trade and freed up domestic competition. Some economists, however, argue that this can&#8217;t be the main story because the big policy reforms weren&#8217;t adopted until 1991, yet growth accelerated around 1980.</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-6" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-10" alt="image" src="images/KrugESS4e_15UN01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-10" alt="image" src="asset/ch15/KrugESS4e_15UN01.jpg"/>
 <caption>India&#8217;s high rate of economic growth since 1980 has raised living standards and led to the emergence of a rapidly growing middle class.</caption>
 <asset_source>Spira Das/The India Today Group/Getty Images</asset_source>
 </figure>
@@ -232,7 +230,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-7" block_type="figure" numbered="true" number="15-4" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-7"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-4</strong></phrase></phrase> <phrase block_type="fig_title">Physical Capital and Productivity</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-11" alt="image" src="images/KrugESS4e_fig_15_04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-11" alt="image" src="asset/ch15/KrugESS4e_fig_15_04.jpg"/>
 <caption>The aggregate production function shows how, in this case, holding human capital per worker and technology fixed, productivity increases as physical capital per worker rises. Other things equal, a greater quantity of physical capital per worker leads to higher real GDP per worker but is subject to diminishing returns: each successive addition to physical capital per worker produces a smaller increase in productivity. Starting at the origin, 0, a &#36;20,000 increase in physical capital per worker leads to an increase in real GDP per worker of &#36;30,000, indicated by point <em>A</em>. Starting from point <em>A</em>, another &#36;20,000 increase in physical capital per worker leads to an increase in real GDP per worker but only of &#36;20,000, indicated by point <em>B</em>. Finally, a third &#36;20,000 increase in physical capital per worker leads to only a &#36;10,000 increase in real GDP per worker, indicated by point <em>C</em>.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_415" block_type="page_start">415</p>
@@ -257,7 +255,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-8" block_type="figure" numbered="true" number="15-5" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-8"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-5</strong></phrase></phrase> <phrase block_type="fig_title">Technological Progress and Productivity Growth</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-12" alt="image" src="images/KrugESS4e_fig_15_05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-12" alt="image" src="asset/ch15/KrugESS4e_fig_15_05.jpg"/>
 <caption>Technological progress raises productivity at any given level of physical capital per worker, and therefore shifts the aggregate production function upward. Here we hold human capital per worker fixed. We assume that the lower curve (the same curve as in <link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-7">Figure 15-4</link>) reflects technology in 1940 and the upper curve reflects technology in 2010. Holding technology and human capital fixed, tripling physical capital per worker from &#36;20,000 to &#36;60,000 leads to a doubling of real GDP per worker, from &#36;30,000 to &#36;60,000. This is shown by the movement from point <em>A</em> to point <em>C</em>, reflecting an approximately 1&#37; per year rise in real GDP per worker. In reality, technological progress raised productivity at any given level of physical capital&#8212;shown here by the upward shift of the curve&#8212;and the actual rise in real GDP per worker is shown by the movement from point <em>A</em> to point <em>D</em>. Real GDP per worker grew 2&#37; per year, leading to a quadrupling during the period. The extra 1&#37; in growth of real GDP per worker is due to higher total factor productivity.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p92" block_type="txt">Let&#8217;s assume that between 1940 and 2010 the amount of physical capital per worker rose from &#36;20,000 to &#36;60,000. If this increase in physical capital per worker had taken place without any technological progress, the economy would have moved from <em>A</em> to <em>C:</em> output per worker would have risen, but only from &#36;30,000 to &#36;60,000, or 1&#37; per year (using the Rule of 70 tells us that a 1&#37; growth rate over 70 years doubles output). In fact, however, the economy moved from <em>A</em> to <em>D:</em> output rose from &#36;30,000 to &#36;120,000, or 2&#37; per year. There was an increase in both physical capital per worker and technological progress, which shifted the aggregate production function.</p>
@@ -280,10 +278,10 @@
 <p id="krugmanwellsessentials4e_page_418" block_type="page_start">418</p>
 <p id="krugmanwellsessentials4e-ch15-p103" block_type="txt">It remains true, however, that we live on a finite planet, with limited supplies of resources such as oil and limited ability to absorb environmental damage. We address the concerns these limitations pose for economic growth in the final section of this chapter.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx2-2" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-13" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-13" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch15-p104" block_type="bx-2-t"><strong>Is the End of Economic Growth in Sight?</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-3" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p105" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-14" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p105" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-14" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p106" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n 2012 Robert Gordon of Northwestern University, an influential macroeconomist and economic historian, created a stir with a paper suggesting that the best days of long-run economic growth are behind us. Technological innovation continues, of course. But Gordon made the case that the payoff from recent innovations will be limited, especially compared with the great innovations of the past.</p>
 <p id="krugmanwellsessentials4e-ch15-p107" block_type="bx2-txt">Gordon made his case, in part, by contrasting recent innovations&#8212;which have mainly centered around information technology, from computers and smartphones to the internet&#8212;with the great innovations that took place in the late-nineteenth century. He argued that these late-nineteenth-century innovations, often described as the &#8220;Second Industrial Revolution,&#8221; continued to drive growth for most of the twentieth century. According to Gordon, there were five big innovations:</p>
@@ -300,7 +298,7 @@
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-9"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-6</strong></phrase></phrase> 
 <phrase block_type="fig_title">Is the End of Economic Growth Near? A Look at Growth of Real GDP per Capita, 1300&#8211;2100</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-15" alt="image" src="images/KrugESS4e_fig_15_06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-15" alt="image" src="asset/ch15/KrugESS4e_fig_15_06.jpg"/>
 <asset_source><em>Data from:</em> Robert J. Gordon.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p115" block_type="bx2-txt">Is Gordon right? The most persuasive counterargument says that we have only just begun to see the payoff of modern technologies. As a recent book by MIT&#8217;s Eric Brynjolfsson and Andrew McAfee, <em>Race Against the Machine,</em> points out, in the past few years innovative technologies addressing a number of seemingly intractable problems have reached the state where they&#8217;re either already on the market or ready to go&#8212;these include useful speech recognition, machine translation, self-driving vehicles, and more. So you can make the case that we are on the cusp of truly transformative technological change right now.</p>
@@ -358,7 +356,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-10" block_type="figure" numbered="true" number="15-7" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-10"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-7</strong></phrase></phrase> <phrase block_type="fig_title">China&#8217;s Students Are Catching Up</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-16" alt="image" src="images/KrugESS4e_fig_15_07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-16" alt="image" src="asset/ch15/KrugESS4e_fig_15_07.jpg"/>
 <caption>In both China and Argentina, the average educational level&#8212;measured by the number of years the average adult aged 25 or older has spent in school&#8212;has risen over time. Although China is still lagging behind Argentina, it is catching up&#8212;and China&#8217;s success at adding human capital is one key to its spectacular long-run growth.</caption>
 <asset_source><em>Data from:</em> Robert Barro and Jong-Wha Lee, &#8220;A New Data Set of Educational Attainment in the World, 1950&#8211;2010,&#8221; NBER Working Paper No. 15902 (April 2010), <link href="http://www.barrolee.com">http://www.barrolee.com</link>.</asset_source>
 </figure>
@@ -366,7 +364,7 @@
 <p id="krugmanwellsessentials4e-ch15-p142" block_type="txt">Scientific advances make new technologies possible. To take the most spectacular example in today&#8217;s world, the semiconductor chip&#8212;which is the basis for all modern information technology&#8212;could not have been developed without the theory of quantum mechanics in physics.</p>
 <p id="krugmanwellsessentials4e_page_421" block_type="page_start">421</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx4-1" block_type="bx4-h">
-<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch15-img-17" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch15-img-17" alt="image" src="asset/images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch15-p143" block_type="bx4-t"><strong>What&#8217;s the Matter with Italy?</strong></p>
 <p id="krugmanwellsessentials4e-ch15-p144" block_type="bx4-txt-ni"><phrase block_type="dropcap">S</phrase>ome countries have been much more successful at making use of new technologies than others.</p>
 <p id="krugmanwellsessentials4e-ch15-p145" block_type="bx4-txt">In the early stages of the information technology, or IT, revolution, it seemed that the United States was pulling ahead of Europe. That&#8217;s less clear now: some European countries have moved forward rapidly in broadband, the wireless internet, and more. But one major European nation is clearly lagging on all fronts: Italy.</p>
@@ -375,7 +373,7 @@
 <p id="krugmanwellsessentials4e-ch15-p148" block_type="bx4-txt">It&#8217;s a troubling picture, and one that surely should be addressed with a variety of economic reforms. Unfortunately, Italy&#8217;s troubles aren&#8217;t just economic: it also suffers from chronic political weakness, which has left successive governments with little ability to take strong action on any front.</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-18" alt="image" src="images/KrugESS4e_15UN02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-18" alt="image" src="asset/ch15/KrugESS4e_15UN02.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p149" block_type="bx-4-sc"><em>Data from:</em> The Conference Board Total Economy Database&#8482;, January 2014, <link href="http://www.conference-board.org/data/economydatabase/">http://www.conference-board.org/data/economydatabase/</link>. </p>
 </box>
@@ -409,17 +407,17 @@
 <p id="krugmanwellsessentials4e-ch15-p168" block_type="txt">Americans take these preconditions for granted, but they are by no means guaranteed. Aside from the disruption caused by war or revolution, many countries find that their economic growth suffers due to corruption among the government officials who should be enforcing the law. For example, until 1991 the Indian government imposed many bureaucratic restrictions on businesses, which often had to bribe government officials to get approval for even routine activities&#8212;a tax on business, in effect. Economists have argued that a reduction in this burden of corruption is one reason Indian growth has been much faster in recent years.</p>
 <p id="krugmanwellsessentials4e-ch15-p169" block_type="txt">Even when the government isn&#8217;t corrupt, excessive government intervention can be a brake on economic growth. If large parts of the economy are supported by government subsidies, protected from imports, subject to unnecessary monopolization, or otherwise insulated from competition, productivity tends to suffer because of a lack of incentives. As we&#8217;ll see in the next section, excessive government intervention is one often-cited explanation for slow growth in Latin America.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx2-3" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-19" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-19" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch15-p170" block_type="bx-2-t"><strong>Why Did Britain Fall Behind?</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-4" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p171" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-20" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p171" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-20" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p172" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>t&#8217;s one of the classic questions in economic history: Why did Britain, the home of the Industrial Revolution, by far the world&#8217;s leading economy for much of the nineteenth century, end up falling behind other nations at the start of a new century? It&#8217;s not a tragic story: the British economy continued to grow, and it remained a rich country by international standards. Still, by the early twentieth century it was obvious that British industry was no longer at the cutting edge. Instead, the United States and Germany had come to supplant Britain as the new economic frontier. What happened?</p>
 <p id="krugmanwellsessentials4e-ch15-p173" block_type="bx2-txt">That&#8217;s not an easy question to answer. Robert Solow, an MIT economics professor and Nobel laureate who pioneered the theory of economic growth, once memorably declared that all efforts to explain Britain&#8217;s lag end in &#8220;a blaze of amateur sociology.&#8221; Indeed, among the reasons often given for the lag are such things as the excessive influence of the landed aristocracy, social barriers that prevented talented individuals from the wrong class from rising, and a cult of amateurism that was good enough for people running small family firms but not for the managers of large modern corporations.</p>
 <p id="krugmanwellsessentials4e_page_424" block_type="page_start">424</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-21" alt="image" src="images/KrugESS4e_15UN03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-21" alt="image" src="asset/ch15/KrugESS4e_15UN03.jpg"/>
 <caption>Now catching up, Britain fell behind the United States and Germany largely due to barriers to education.</caption>
 <asset_source>don jon red/Alamy</asset_source>
 </figure>
@@ -455,7 +453,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-13" block_type="figure" numbered="true" number="15-8" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-13"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-8</strong></phrase></phrase> <phrase block_type="fig_title">Success and Disappointment</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-22" alt="image" src="images/KrugESS4e_fig_15_08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-22" alt="image" src="asset/ch15/KrugESS4e_fig_15_08.jpg"/>
 <caption>Real GDP per capita from 1960 to 2013, measured in 2000 dollars, is shown for Argentina, South Korea, and Nigeria, using a logarithmic scale. South Korea and some other East Asian countries have been highly successful at achieving economic growth. Argentina, like much of Latin America, has had several setbacks, slowing its growth. Nigeria&#8217;s standard of living in 2013 was only barely higher than it had been in 1960, an experience shared by many African countries. Neither Argentina nor Nigeria exhibited much growth over the 50-year period, although both have had significantly higher growth in recent years.</caption>
 <asset_source><em>Data from:</em> The Conference Board Total Economy Database&#8482;, January 2014, <link href="http://www.conference-board.org/data/economydatabase/">http://www.conference-board.org/data/economydatabase/</link>.</asset_source>
 </figure>
@@ -494,10 +492,10 @@
 <p id="krugmanwellsessentials4e-ch15-p204" block_type="txt">Although the example of African countries represents a warning that long-run economic growth cannot be taken for granted, there are some signs of hope. As we saw in <link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-13">Figure 15-8</link>, Nigeria&#8217;s per capita GDP, after decades of stagnation, turned upward after 2000, and it has achieved an average annual growth rate of 6&#37; from 2008 through 2014. </p>
 <p id="krugmanwellsessentials4e-ch15-p205" block_type="txt">The same is true for sub-Saharan African economies as a whole. In 2014, real GDP per capita growth rates averaged around 4.4&#37; across sub-Saharan African countries, and they are projected to be near 5&#37; in 2015. Rising prices for their exports are part of the reason for recent success, but there is growing optimism among development experts that a period of relative peace and better governments is ushering in a new era for Africa&#8217;s economies.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx2-4" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-23" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-23" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch15-p206" block_type="bx-2-t"><strong>Are Economies Converging?</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-5" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p207" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-24" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p207" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-24" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p208" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n the 1950s, much of Europe seemed quaint and backward to American visitors, and Japan seemed very poor. Today, a visitor to Paris or Tokyo sees a city that looks about as rich as New York. Although real GDP per capita is still somewhat higher in the United States, the differences in the standards of living among the United States, Europe, and Japan are relatively small.</p>
 <p id="krugmanwellsessentials4e-ch15-p209" block_type="bx2-txt">Many economists have argued that this convergence in living standards is normal; the convergence hypothesis says that relatively poor countries should have higher rates of growth of real GDP per capita than relatively rich countries. And if we look at today&#8217;s relatively well-off countries, the convergence hypothesis seems to be true. </p>
@@ -505,7 +503,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-14" block_type="figure" numbered="true" number="15-9" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-14"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-9</strong></phrase></phrase> <phrase block_type="fig_title">Do Economies Converge?</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-25" alt="image" src="images/KrugESS4e_fig_15_09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-25" alt="image" src="asset/ch15/KrugESS4e_fig_15_09.jpg"/>
 <asset_source><em>Data from:</em> Angus Maddison, <em>Statistics on World Population, GDP, and Per Capita GDP, 1?2008AD,</em> <link href="http://www.ggdc.net/maddison">http://www.ggdc.net/maddison</link>; The Conference Board Total Economy Database&#8482;, January 2014, <link href="http://www.conference-board.org/data/economydatabase/">http://www.conference-board.org/data/economydatabase/</link>.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p211" block_type="bx2-txt">But economists who looked at similar data realized that these results depend on the countries selected. If you look at successful economies that have a high standard of living today, you find that real GDP per capita has converged. But looking across the world as a whole, including countries that remain poor, there is little evidence of convergence. </p>
@@ -552,7 +550,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-15" block_type="figure" numbered="true" number="15-10" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-15"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-10</strong></phrase></phrase> <phrase block_type="fig_title">The Real Price of Oil, 1949&#8211;2014</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-26" alt="image" src="images/KrugESS4e_fig_15_10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-26" alt="image" src="asset/ch15/KrugESS4e_fig_15_10.jpg"/>
 <caption>The real price of natural resources, like oil, rose dramatically in the 1970s and then fell just as dramatically in the 1980s. Since 2005, however, the real prices of natural resources have soared.</caption>
 <asset_source><em>Data from:</em> Energy Information Administration.</asset_source>
 </figure>
@@ -570,7 +568,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-16" block_type="figure" numbered="true" number="15-11" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-16"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>15-11</strong></phrase> <phrase block_type="fig_title">U.S. Oil Consumption and Growth over Time</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-27" alt="image" src="images/KrugESS4e_fig_15_11.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-27" alt="image" src="asset/ch15/KrugESS4e_fig_15_11.jpg"/>
 <caption>Until 1973, the real price of oil was relatively cheap and there was a more or less one-to-one relationship between economic growth and oil consumption. Conservation efforts increased sharply after the spike in the real price of oil in the mid-1970s. Yet the U.S. economy was still able to deliver growth despite cutting back on oil consumption.</caption>
 <asset_source><em>Data from:</em> Energy Information Administration; FRED; Bureau of Economic Analysis.</asset_source>
 </figure>
@@ -588,7 +586,7 @@
 <figure id="krugmanwellsessentials4e-ch15-fig-17" block_type="figure" numbered="true" number="15-12" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-17"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>15-12</strong></phrase></phrase> <phrase block_type="fig_title">Climate Change and Growth</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch15-img-28" alt="image" src="images/KrugESS4e_fig_15_12.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-28" alt="image" src="asset/ch15/KrugESS4e_fig_15_12.jpg"/>
 <caption>Greenhouse gas emissions are positively related to growth. As shown here by the United States and Europe, wealthy countries have historically been responsible for the great bulk of greenhouse gas emissions because of their richer and faster-growing economies. As China and other emerging economies have grown, they have begun to emit much more carbon dioxide.</caption>
 <asset_source><em>Data from:</em> Energy Information Administration; FRED; Bureau of Economic Analysis.</asset_source>
 </figure>
@@ -600,15 +598,15 @@
 <p id="krugmanwellsessentials4e-ch15-p247" block_type="txt">There is also a difficult problem of international burden sharing. As <link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-fig-17">Figure 15-12</link> shows, today&#8217;s rich economies have historically been responsible for most greenhouse gas emissions, but newly emerging economies like China are responsible for most of the recent growth. Inevitably, rich countries are reluctant to pay the price of reducing emissions only to have their efforts frustrated by rapidly growing emissions from new players. On the other hand, countries like China, which are still relatively poor, consider it unfair that they should be expected to bear the burden of protecting an environment threatened by the past actions of rich nations.</p>
 <p id="krugmanwellsessentials4e-ch15-p248" block_type="txt">The general moral of this story is that it is possible to reconcile long-run economic growth with environmental protection. The main question is one of getting political consensus around the necessary policies.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx2-5" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-29" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch15-img-29" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch15-p249" block_type="bx-2-t"><strong>The Cost of Limiting Carbon</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-6" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p250" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-30" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p250" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-30" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p251" block_type="bx2-first"><phrase block_type="dropcap">O</phrase>ver the years several bills have been introduced in Congress that would greatly reduce U.S. emissions of greenhouse gases over the next few decades. By 2014, however, it was clear that given the depth of the U.S. political divide, such bills were unlikely to pass for the foreseeable future. However, the U.S. Environmental Protection Agency (EPA) is already required by the Clean Air Act to regulate pollutants that endanger public health, and in 2007 the Supreme Court ruled that carbon dioxide emissions meet that criterion.</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-18" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-31" alt="image" src="images/KrugESS4e_15UN04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-31" alt="image" src="asset/ch15/KrugESS4e_15UN04.jpg"/>
 <caption>The answer is blowing in the wind.</caption>
 <asset_source>Shutterstock</asset_source>
 </figure>
@@ -641,11 +639,11 @@
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch15-bx7-1" block_type="sum-h">
 <box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase><phrase block_type="gc2">Tracking India&#8217;s Economic Growth</phrase></box-title></box-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-7" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p262" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-32" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; for interactive tutorials with step-by-step guidance on how to solve problems</p>
+<p id="krugmanwellsessentials4e-ch15-p262" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-32" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; for interactive tutorials with step-by-step guidance on how to solve problems</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p263" block_type="wio-txt-ni">In the early 1980s, India adopted a series of governmental reforms with two main goals: promoting industrial production and opening the economy to international trade. These policies led to a 300&#37; increase in real GDP per capita in India, and over the last thirty-five years, India has ranked as one of the fastest growing economies in the world.</p>
 <p id="krugmanwellsessentials4e-ch15-p264" block_type="wio-txt">By comparing the economy in India from 1981 to 1985 and then from 2006 to 2010, show that changes in the economic environment from the early 1980s contributed to the overall economic growth experienced throughout India. What was India&#8217;s long-run growth rate during each of these five-year periods? Use real GDP per capita to measure growth. At the current long-run growth rate, approximately how long should it take for GDP to double in India?</p>
-<table id="krugmanwellsessentials4e-ch15-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-2" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-2" block_type="un_table" data-href="asset/ch15/un_table_15_2.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -700,7 +698,7 @@
 <p id="krugmanwellsessentials4e_page_434" block_type="page_start">434</p>
 <p id="krugmanwellsessentials4e-ch15-p267" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">2</phrase></phrase> <phrase block_type="step-title"><strong>Using the numbers in the table at right, find the growth rate in real GDP in India over the same periods, and discuss the difference in growth rates in the early 1980s with those of the late 2000s.</strong>
 <phrase block_type="step-subtext">Read the Pitfalls on page 410.</phrase></phrase></p>
-<table id="krugmanwellsessentials4e-ch15-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-3" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-3" block_type="un_table" data-href="asset/ch15/un_table_15_3.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-td-light">
@@ -744,12 +742,12 @@
 <p id="krugmanwellsessentials4e-ch15-p268" block_type="wio-txt-ni">The rate of change, or growth rate, in real GDP per capita between year 1 and year 2 is calculated using the following formula:</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-19" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-33" alt="image" src="images/KrugESS4e_eqn_434_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-33" alt="image" src="asset/ch15/KrugESS4e_eqn_434_01.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p269" block_type="wio-txt-ni">Thus, the growth rate below between 1981 and 1982 is calculated as follows:</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-20" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-34" alt="image" src="images/KrugESS4e_eqn_434_02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-34" alt="image" src="asset/ch15/KrugESS4e_eqn_434_02.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch15-p270" block_type="wio-txt-ni">As you can see from the numbers in this table, India experienced modest growth from 1981 through 1985 but significant growth from 2006 through 2010.</p>
 <p id="krugmanwellsessentials4e-ch15-p271" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>What was the average long-run growth during each five-year period? How long will it take India&#8217;s GDP to double if the economy continues to grow at the long-run average from 2006&#8211;2010?</strong>
@@ -775,7 +773,7 @@
 <section id="krugmanwellsessentials4e-ch15-sec1-7" block_type="cr-kt-t" title="" chapter="ch15" numbered="true" level="1" print_page="435">
 <section-metadata><section-title>KEY TERMS</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-8" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p282" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-35" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p282" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-35" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch15-p283" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-p30">Rule of 70, p. 410</link></p>
 <p id="krugmanwellsessentials4e-ch15-p284" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch15.xml#krugmanwellsessentials4e-ch15-p54">Labor productivity, p. 412</link></p>
@@ -800,7 +798,7 @@
 <li><p id="krugmanwellsessentials4e-ch15-p298" block_type="cr-que-ans-first">Complete the table by expressing each year&#8217;s real GDP per capita as a percentage of its 1960 and 2011 levels. </p></li>
 <li><p id="krugmanwellsessentials4e-ch15-p299" block_type="cr-que-ans-mid">How does the growth in living standards from 1960 to 2011 compare across these four nations? What might account for these differences?</p></li>
 </list>
-<table id="krugmanwellsessentials4e-ch15-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-4" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-4" block_type="un_table" data-href="asset/ch15/un_table_15_4.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr>
@@ -926,7 +924,7 @@
 <p id="krugmanwellsessentials4e_page_436" block_type="page_start">436</p>
 <question id="krugmanwellsessentials4e-ch15-question-2" block_type="q_prob" number="2">
 <p id="krugmanwellsessentials4e-ch15-p300" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> The accompanying table shows the average annual growth rate in real GDP per capita for Argentina, Ghana, and South Korea using data from the Penn World Table, Version 8.0, for the past few decades.</p>
-<table id="krugmanwellsessentials4e-ch15-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-5" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-5" block_type="un_table" data-href="asset/ch15/un_table_15_5.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -978,7 +976,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch15-question-3" block_type="q_prob" number="3">
 <p id="krugmanwellsessentials4e-ch15-p303" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> The accompanying table provides approximate statistics on per capita income levels and growth rates for regions defined by income levels. According to the Rule of 70, starting in 2012 the high-income countries are projected to double their per capita GDP in approximately 78 years, in 2088. Throughout this question, assume constant growth rates for each of the regions that are equal to their average value between 2000 and 2012.</p>
-<table id="krugmanwellsessentials4e-ch15-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-6" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-6" block_type="un_table" data-href="asset/ch15/un_table_15_6.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -1019,7 +1017,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch15-question-4" block_type="q_prob" number="4">
 <p id="krugmanwellsessentials4e-ch15-p313" block_type="cr-que-nl-mid"><phrase block_type="qnum">4.</phrase> The country of Androde is currently using Method 1 for its production function. By chance, scientists stumble onto a technological breakthrough that will enhance Androde&#8217;s productivity. This technological breakthrough is reflected in another production function, Method 2. The accompanying table shows combinations of physical capital per worker and output per worker for both methods, assuming that human capital per worker is fixed.</p>
-<table id="krugmanwellsessentials4e-ch15-untab-7" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-7" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-7" block_type="un_table" data-href="asset/ch15/un_table_15_7.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -1122,7 +1120,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch15-question-9" block_type="q_prob" number="9">
 <p id="krugmanwellsessentials4e-ch15-p322" block_type="cr-que-nl-mid"><phrase block_type="qnum">9.</phrase> The accompanying table shows data from the Penn World Table, Version 8.0, for real GDP per capita (2005 U.S. dollars) in France, Japan, the United Kingdom, and the United States in 1950 and 2011. Complete the table. Have these countries converged economically?</p>
-<table id="krugmanwellsessentials4e-ch15-untab-8" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-8" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-8" block_type="un_table" data-href="asset/ch15/un_table_15_8.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -1169,7 +1167,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch15-question-10" block_type="q_prob" number="10">
 <p id="krugmanwellsessentials4e-ch15-p323" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> The accompanying table shows data from the Penn World Table, Version 8.0, for real GDP per capita (2005 U.S. dollars) for Argentina, Ghana, South Korea, and the United States in 1960 and 2011. Complete the table. Have these countries converged economically?</p>
-<table id="krugmanwellsessentials4e-ch15-untab-9" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-9" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-9" block_type="un_table" data-href="asset/ch15/un_table_15_9.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -1227,7 +1225,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch15-question-13" block_type="q_prob" number="13">
 <p id="krugmanwellsessentials4e-ch15-p329" block_type="cr-que-nl-mid"><phrase block_type="qnum">13.</phrase> The accompanying table shows the annual growth rate for the years 2000&#8211;2011 in per capita emissions of carbon dioxide (CO<sub>2</sub>) and the annual growth rate in real GDP per capita for selected countries.</p>
-<table id="krugmanwellsessentials4e-ch15-untab-10" block_type="un_table" data-href="#krugmanwellsessentials4e-ch15-untab-10" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch15-untab-10" block_type="un_table" data-href="asset/ch15/un_table_15_10.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -1323,13 +1321,13 @@
 <section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
 <p id="krugmanwellsessentials4e_page_438" block_type="page_start">438</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch15-exp2-9" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch15-p335" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-36" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch15-p335" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch15-img-36" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <question id="krugmanwellsessentials4e-ch15-question-14" block_type="q_prob" number="14">
 <p id="krugmanwellsessentials4e-ch15-p336" block_type="cr-wio-nl-first"><phrase block_type="qnum">14.</phrase> You are hired as an economic consultant to the countries of Albernia and Brittania. Each country&#8217;s current relationship between physical capital per worker and output per worker is given by the curve labeled &#8220;Productivity<sub>1</sub>&#8221; in the accompanying diagram. Albernia is at point <em>A</em> and Brittania is at point <em>B</em>.</p>
 <figure id="krugmanwellsessentials4e-ch15-fig-21" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch15-img-37" alt="image" src="images/KrugESS4e_15UN05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch15-img-37" alt="image" src="asset/ch15/KrugESS4e_15UN05.jpg"/>
 </figure>
 <list id="krugmanwellsessentials4e-ch15-list-20" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch15-p337" block_type="cr-wio-ans-first">In the relationship depicted by the curve Productivity<sub>1</sub>, what factors are held fixed? Do these countries experience diminishing returns to physical capital per worker?</p></li>
@@ -1339,4 +1337,3 @@
 </question>
 </section>
 </chapter>
-</manuscript>

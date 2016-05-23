@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="16" name="" title="KRU_Chapter_16_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
 <chapter number="16" id="krugmanwellsessentials4e-ch16-chapter-16" title="CHAPTER 16: Aggregate Demand and Aggregate Supply" start-numbering-at="16" numbered="true">
 <section id="krugmanwellsessentials4e-ch16-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="true" level="1" print_page="439">
 <p id="krugmanwellsessentials4e-ch16-p1" block_type="chapter_title">Aggregate Demand and Aggregate Supply</p>
@@ -9,7 +7,7 @@
 <p id="krugmanwellsessentials4e-ch16-p3" block_type="co-t"> <strong>WHAT KIND OF SHOCK?</strong></p>
 <figure id="krugmanwellsessentials4e-ch16-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-1" alt="image" src="images/KrugESS4e_CO16.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-1" alt="image" src="asset/ch16/KrugESS4e_CO16.jpg"/>
 <caption> The Federal Open Market Committee, which decides whether to pump cash into the economy to fight unemployment or pull cash out of the economy to fight inflation, got its priorities wrong in 2008.</caption>
 <asset_source>United States government work</asset_source>
 </figure>
@@ -25,7 +23,7 @@
 </list>
 </box>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-1" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-2" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p10" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-2" alt="image" src="asset/images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p11" block_type="co-txt-ni"><phrase block_type="dropcap">T</phrase>HE FEDERAL OPEN MARKET Committee, or FOMC, is the branch of the Federal Reserve System that sets U.S. monetary policy and arguably has much more power over the economy than anyone else&#8212;including the president. It held one of its regular meetings on September 16, 2008. That was, it turned out, a very important day. Simmering problems in the financial industry had just boiled over with the failure of the investment bank Lehman Brothers, and the U.S. economy, already in recession, was about to go into free fall. Not surprisingly, the officials around the table were worried.</p>
 <p id="krugmanwellsessentials4e-ch16-p12" block_type="co-txt">But many committee members, it turns out, were worried about the wrong thing. When the committee released transcripts of its 2008 meetings&#8212;which it didn&#8217;t do until 2014&#8212;we learned that during the summer of 2008 most of the people around the table were much more worried about inflation than they were about the financial crisis or the prospect of a sharp rise in unemployment from a crisis-caused recession&#8212;an attitude that persisted into September. In the June and August 2008 meetings the word <em>inflation</em> came up more than ten times as often as the word <em>unemployment.</em> Even in that fateful September meeting, inflation mentions outnumbered unemployment mentions five to one. </p>
@@ -45,12 +43,12 @@
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp3-1" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch16-p22" block_type="mn-gl-def">The <strong>aggregate demand curve</strong> shows the relationship between the aggregate price level and the quantity of aggregate output demanded by households, businesses, the government, and the rest of the world.</p>
 </box>
-<p id="krugmanwellsessentials4e-ch16-p23" block_type="txt-ni">The Great Depression, the great majority of economists agree, was the result of a massive negative demand shock. What does that mean? In <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link> we explained that when economists talk about a fall in the demand for a particular good or service, they&#8217;re referring to a leftward shift of the demand curve. Similarly, when economists talk about a negative demand shock to the economy as a whole, they&#8217;re referring to a leftward shift of the <strong>aggregate demand curve,</strong> a curve that shows the relationship between the aggregate price level and the quantity of aggregate output demanded by households, firms, the government, and the rest of the world.</p>
+<p id="krugmanwellsessentials4e-ch16-p23" block_type="txt-ni">The Great Depression, the great majority of economists agree, was the result of a massive negative demand shock. What does that mean? In <link href="krugmanwellsessentials4e_ch3_1.html">Chapter 3</link> we explained that when economists talk about a fall in the demand for a particular good or service, they&#8217;re referring to a leftward shift of the demand curve. Similarly, when economists talk about a negative demand shock to the economy as a whole, they&#8217;re referring to a leftward shift of the <strong>aggregate demand curve,</strong> a curve that shows the relationship between the aggregate price level and the quantity of aggregate output demanded by households, firms, the government, and the rest of the world.</p>
 <p id="krugmanwellsessentials4e-ch16-p24" block_type="txt"><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-2">Figure 16-1</link> shows what the aggregate demand curve may have looked like in 1933, at the end of the 1929&#8211;1933 recession. The horizontal axis shows the total quantity of domestic goods and services demanded, measured in 2009 dollars. We use real GDP to measure aggregate output and will often use the two terms interchangeably. The vertical axis shows the aggregate price level, measured by the GDP deflator. With these variables on the axes, we can draw a curve, <em>AD,</em> showing how much aggregate output would have been demanded at any given aggregate price level. Since <em>AD</em> is meant to illustrate aggregate demand in 1933, one point on the curve corresponds to actual data for 1933, when the aggregate price level was 7.3 and the total quantity of domestic final goods and services purchased was &#36;778 billion in 2009 dollars.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-2" block_type="figure" numbered="true" number="16-1" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-2"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-1</strong></phrase> <phrase block_type="fig_title">The Aggregate Demand Curve</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-3" alt="image" src="images/KrugESS4e_fig_16_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-3" alt="image" src="asset/ch16/KrugESS4e_fig_16_01.jpg"/>
 <caption>The aggregate demand curve shows the relationship between the aggregate price level and the quantity of aggregate output demanded. The curve is downward sloping due to the wealth effect of a change in the aggregate price level and the interest rate effect of a change in the aggregate price level. Corresponding to the actual 1933 data, here the total quantity of goods and services demanded at an aggregate price level of 7.3 is &#36;778 billion in 2009 dollars. According to our hypothetical curve, however, if the aggregate price level had been only 4.2, the quantity of aggregate output demanded would have risen to &#36;1,000 billion.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_441" block_type="page_start">441</p>
@@ -62,7 +60,7 @@
 <p id="krugmanwellsessentials4e-ch16-p27" block_type="txt-ni">In <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-2">Figure 16-1</link>, the curve <em>AD</em> is downward sloping. To understand why, you&#8217;ll need to learn the basic equation of national income accounting:</p>
 <p id="krugmanwellsessentials4e-ch16-p28" block_type="eq"><strong>(16-1)</strong> GDP = <em>C</em> &#43; <em>I</em> &#43; <em>G</em> &#43; <em>X</em> &#8722; <em>IM</em></p>
 <p id="krugmanwellsessentials4e-ch16-p29" block_type="txt-ni">where <em>C</em> is consumer spending, <em>I</em> is investment spending, <em>G</em> is government purchases of goods and services, <em>X</em> is exports to other countries, and <em>IM</em> is imports. If we measure these variables in constant dollars&#8212;that is, in prices of a base year&#8212;then <em>C</em> &#43; <em>I</em> &#43; <em>G</em> &#43; <em>X</em> &#8722; <em>IM</em> is the quantity of domestically produced final goods and services demanded during a given period. <em>G</em> is decided by the government, but the other variables are private-sector decisions. To understand why the aggregate demand curve slopes downward, we need to understand why a rise in the aggregate price level reduces <em>C, I,</em> and <em>X</em> &#8722; <em>IM.</em></p>
-<p id="krugmanwellsessentials4e-ch16-p30" block_type="txt">You might think that the downward slope of the aggregate demand curve is a natural consequence of the <em>law of demand</em> we defined back in <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link>. That is, since the demand curve for any one good is downward sloping, isn&#8217;t it natural that the demand curve for aggregate output is also downward sloping? This turns out, however, to be a misleading parallel. The demand curve for any individual good shows how the quantity demanded depends on the price of that good, <em>holding the prices of other goods and services constant.</em> The main reason the quantity of a good demanded falls when the price of that good rises&#8212;that is, the quantity of a good demanded falls as we move up the demand curve&#8212;is that people switch their consumption to other goods and services.</p>
+<p id="krugmanwellsessentials4e-ch16-p30" block_type="txt">You might think that the downward slope of the aggregate demand curve is a natural consequence of the <em>law of demand</em> we defined back in <link href="krugmanwellsessentials4e_ch3_1.html">Chapter 3</link>. That is, since the demand curve for any one good is downward sloping, isn&#8217;t it natural that the demand curve for aggregate output is also downward sloping? This turns out, however, to be a misleading parallel. The demand curve for any individual good shows how the quantity demanded depends on the price of that good, <em>holding the prices of other goods and services constant.</em> The main reason the quantity of a good demanded falls when the price of that good rises&#8212;that is, the quantity of a good demanded falls as we move up the demand curve&#8212;is that people switch their consumption to other goods and services.</p>
 <p id="krugmanwellsessentials4e-ch16-p31" block_type="txt">But when we consider movements up or down the aggregate demand curve, we&#8217;re considering <em>a simultaneous change in the prices of all final goods and services.</em> Furthermore, changes in the composition of goods and services in consumer spending aren&#8217;t relevant to the aggregate demand curve: if consumers decide to buy fewer clothes but more cars, this doesn&#8217;t necessarily change the total quantity of final goods and services they demand.</p>
 <p id="krugmanwellsessentials4e-ch16-p32" block_type="txt">Why, then, does a rise in the aggregate price level lead to a fall in the quantity of all domestically produced final goods and services demanded? There are two main reasons: the <em>wealth effect</em> and the <em>interest rate effect</em> of a change in the aggregate price level.</p>
 <p id="krugmanwellsessentials4e-ch16-p33" block_type="txt-3"><phrase block_type="h3"><strong>The Wealth Effect</strong></phrase> An increase in the aggregate price level, other things equal, reduces the purchasing power of many assets. Consider, for example, someone who has &#36;5,000 in a bank account. If the aggregate price level were to rise by 25&#37;, what used to cost &#36;5,000 would now cost &#36;6,250, and would no longer be affordable. And what used to cost &#36;4,000 would now cost &#36;5,000, so that the &#36;5,000 in the bank account would now buy only as much as &#36;4,000 would have bought previously. With the loss in purchasing power, the owner of that bank account would probably scale back his or her consumption plans. Millions of other people would respond the same way, leading to a fall in spending on final goods and services, because a rise in the aggregate price level reduces the purchasing power of everyone&#8217;s bank account.</p>
@@ -82,21 +80,21 @@
 <p id="krugmanwellsessentials4e-ch16-p41" block_type="mn-gl-def">The <strong>interest rate effect of a change in the aggregate price level</strong> is the effect on consumer spending and investment spending caused by the effect of a change in the aggregate price level on the purchasing power of consumers&#8217; and firms&#8217; money holdings.</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p42" block_type="txt">A rise in the interest rate reduces investment spending because it makes the cost of borrowing higher. It also reduces consumer spending because households save more of their disposable income. So a rise in the aggregate price level depresses investment spending, <em>I,</em> and consumer spending, <em>C,</em> through its effect on the purchasing power of money holdings, an effect known as the <strong>interest rate effect of a change in the aggregate price level.</strong> This also leads to a downward-sloping aggregate demand curve.</p>
-<p id="krugmanwellsessentials4e-ch16-p43" block_type="txt">We&#8217;ll have a lot more to say about money and interest rates in <link href="krugmanwellsessentials4e-ch19.xml">Chapter 19</link> on monetary policy. For now, the important point is that the aggregate demand curve is downward sloping due to both the wealth effect and the interest rate effect of a change in the aggregate price level.</p>
+<p id="krugmanwellsessentials4e-ch16-p43" block_type="txt">We&#8217;ll have a lot more to say about money and interest rates in <link href="krugmanwellsessentials4e_ch19_1.html">Chapter 19</link> on monetary policy. For now, the important point is that the aggregate demand curve is downward sloping due to both the wealth effect and the interest rate effect of a change in the aggregate price level.</p>
 </section>
 <section id="krugmanwellsessentials4e-ch16-sec2-002" block_type="h2" title="" chapter="ch16" numbered="false" level="2" print_page="442">
 <section-metadata><section-title>Shifts of the Aggregate Demand Curve</section-title></section-metadata>
-<p id="krugmanwellsessentials4e-ch16-p44" block_type="txt-ni">In <link href="krugmanwellsessentials4e-ch03.xml">Chapter 3</link>, where we introduced the analysis of supply and demand in the market for an individual good, we stressed the importance of the distinction between <em>movements along</em> the demand curve and <em>shifts of</em> the demand curve. The same distinction applies to the aggregate demand curve. <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-2">Figure 16-1</link> shows a <em>movement along</em> the aggregate demand curve, a change in the aggregate quantity of goods and services demanded as the aggregate price level changes.</p>
+<p id="krugmanwellsessentials4e-ch16-p44" block_type="txt-ni">In <link href="krugmanwellsessentials4e_ch3_1.html">Chapter 3</link>, where we introduced the analysis of supply and demand in the market for an individual good, we stressed the importance of the distinction between <em>movements along</em> the demand curve and <em>shifts of</em> the demand curve. The same distinction applies to the aggregate demand curve. <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-2">Figure 16-1</link> shows a <em>movement along</em> the aggregate demand curve, a change in the aggregate quantity of goods and services demanded as the aggregate price level changes.</p>
 <p id="krugmanwellsessentials4e-ch16-p45" block_type="txt">But there can also be <em>shifts of</em> the aggregate demand curve, changes in the quantity of goods and services demanded at any given price level, as shown in <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-3">Figure 16-2</link>. When we talk about an increase in aggregate demand, we mean a shift of the aggregate demand curve to the right, as shown in panel (a) by the shift from <em>AD</em><sub>1</sub> to <em>AD</em><sub>2</sub>. A rightward shift occurs when the quantity of aggregate output demanded increases at any given aggregate price level. A decrease in aggregate demand means that the <em>AD</em> curve shifts to the left, as in panel (b). A leftward shift implies that the quantity of aggregate output demanded falls at any given aggregate price level.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-3" block_type="figure" numbered="true" number="16-2" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-3"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-2</strong></phrase> <phrase block_type="fig_title">Shifts of the Aggregate Demand Curve</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-4" alt="image" src="images/KrugESS4e_fig_16_02ab.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-4" alt="image" src="asset/ch16/KrugESS4e_fig_16_02ab.jpg"/>
 <caption>Panel (a) shows the effect of events that increase the quantity of aggregate output demanded at any given aggregate price level, such as improvements in business and consumer expectations or increased government spending. Such changes shift the aggregate demand curve to the right, from <em>AD</em><sub>1</sub> to <em>AD</em><sub>2</sub>. Panel (b) shows the effect of events that decrease the quantity of aggregate output demanded at any given aggregate price level, such as a fall in wealth caused by a stock market decline. This shifts the aggregate demand curve leftward from <em>AD</em><sub>1</sub> to <em>AD</em><sub>2</sub>.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_443" block_type="page_start">443</p>
 <p id="krugmanwellsessentials4e-ch16-p46" block_type="txt">A number of factors can shift the aggregate demand curve. Among the most important are changes in expectations, changes in wealth, and the size of the existing stock of physical capital. In addition, both fiscal and monetary policy can shift the aggregate demand curve. We&#8217;ll now examine each of the factors that shift the aggregate demand curve. For an overview of them, see <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-tab-1">Table 16-1</link>.</p>
-<table id="krugmanwellsessentials4e-ch16-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch16-tab-1" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch16-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch16/table_16_1.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">16-1</phrase></strong> <phrase block_type="tbl_title">Factors That Shift Aggregate Demand</phrase></table_caption>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -110,45 +108,45 @@
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="images/KrugESS4e_T_16_01a.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="asset/ch16/KrugESS4e_T_16_01a.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="images/KrugESS4e_T_16_01f.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="asset/ch16/KrugESS4e_T_16_01f.jpg"/></td>
 </tr>
 <tr class="tbl-hdr-bg">
 <td colspan="4" class="tbl-ljust"><strong>Changes in wealth:</strong></td>
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="images/KrugESS4e_T_16_01b.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="asset/ch16/KrugESS4e_T_16_01b.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="images/KrugESS4e_T_16_01g.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="asset/ch16/KrugESS4e_T_16_01g.jpg"/></td>
 </tr>
 <tr class="tbl-hdr-bg">
 <td colspan="4" class="tbl-ljust"><strong>Size of the existing stock of physical capital:</strong></td>
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-13" alt="image" src="images/KrugESS4e_T_16_01c.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-13" alt="image" src="asset/ch16/KrugESS4e_T_16_01c.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-14" alt="image" src="images/KrugESS4e_T_16_01h.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-14" alt="image" src="asset/ch16/KrugESS4e_T_16_01h.jpg"/></td>
 </tr>
 <tr class="tbl-hdr-bg">
 <td colspan="4" class="tbl-ljust"><strong>Fiscal policy:</strong></td>
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-15" alt="image" src="images/KrugESS4e_T_16_01d.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-15" alt="image" src="asset/ch16/KrugESS4e_T_16_01d.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-16" alt="image" src="images/KrugESS4e_T_16_01i.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-16" alt="image" src="asset/ch16/KrugESS4e_T_16_01i.jpg"/></td>
 </tr>
 <tr class="tbl-hdr-bg">
 <td colspan="4" class="tbl-ljust"><strong>Monetary policy:</strong></td>
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="images/KrugESS4e_T_16_01e.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="asset/ch16/KrugESS4e_T_16_01e.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="images/KrugESS4e_T_16_01j.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="asset/ch16/KrugESS4e_T_16_01j.jpg"/></td>
 </tr>
 </tbody>
 </table>
@@ -168,19 +166,19 @@
 <p id="krugmanwellsessentials4e-ch16-p55" block_type="txt">Because of the war, U.S. federal purchases surged 400&#37;. This increase in purchases is usually credited with ending the Great Depression. In the 1990s Japan used large public works projects&#8212;such as government-financed construction of roads, bridges, and dams&#8212;in an effort to increase aggregate demand in the face of a slumping economy. Similarly, in 2009, in the wake of the Great Recession, the United States began spending more than &#36;100 billion on infrastructure projects such as improving highways, bridges, public transportation, and more, to stimulate overall spending.</p>
 <p id="krugmanwellsessentials4e-ch16-p56" block_type="txt">In contrast, changes in either tax rates or government transfers influence the economy <em>indirectly</em> through their effect on disposable income. A lower tax rate means that consumers get to keep more of what they earn, increasing their disposable income. An increase in government transfers also increases consumers&#8217; disposable income. In either case, this increases consumer spending and shifts the aggregate demand curve to the right. A higher tax rate or a reduction in transfers reduces the amount of disposable income received by consumers. This reduces consumer spending and shifts the aggregate demand curve to the left.</p>
 <p id="krugmanwellsessentials4e-ch16-p57" block_type="txt-3"><phrase block_type="h3"><strong>Monetary Policy</strong></phrase> Earlier we talked about the problems faced by the FOMC, the branch of the Federal Reserve that controls monetary policy&#8212;the use of changes in the quantity of money or the interest rate to stabilize the economy. We&#8217;ve just discussed how a rise in the aggregate price level, by reducing the purchasing power of money holdings, causes a rise in the interest rate. That, in turn, reduces both investment spending and consumer spending. </p>
-<p id="krugmanwellsessentials4e-ch16-p58" block_type="txt">But what happens if the quantity of money in the hands of households and firms changes? In modern economies, the quantity of money in circulation is largely determined by the decisions of a <em>central bank</em> created by the government. As we&#8217;ll learn in <link href="krugmanwellsessentials4e-ch18.xml">Chapter 18</link>, the Federal Reserve, the U.S. central bank, is a special institution that is neither exactly part of the government nor exactly a private institution. When the central bank increases the quantity of money in circulation, households and firms have more money, which they are willing to lend out. The effect is to drive the interest rate down at any given aggregate price level, leading to higher investment spending and higher consumer spending. </p>
+<p id="krugmanwellsessentials4e-ch16-p58" block_type="txt">But what happens if the quantity of money in the hands of households and firms changes? In modern economies, the quantity of money in circulation is largely determined by the decisions of a <em>central bank</em> created by the government. As we&#8217;ll learn in <link href="krugmanwellsessentials4e_ch18_1.html">Chapter 18</link>, the Federal Reserve, the U.S. central bank, is a special institution that is neither exactly part of the government nor exactly a private institution. When the central bank increases the quantity of money in circulation, households and firms have more money, which they are willing to lend out. The effect is to drive the interest rate down at any given aggregate price level, leading to higher investment spending and higher consumer spending. </p>
 <p id="krugmanwellsessentials4e_page_446" block_type="page_start">446</p>
 <p id="krugmanwellsessentials4e-ch16-p59" block_type="txt">That is, increasing the quantity of money shifts the aggregate demand curve to the right. Reducing the quantity of money has the opposite effect: households and firms have less money holdings than before, leading them to borrow more and lend less. This raises the interest rate, reduces investment spending and consumer spending, and shifts the aggregate demand curve to the left.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx2-1" block_type="bx-2-h">
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p60" block_type="bx-2-t"><strong>Moving Along the Aggregrate Demand Curve, 1979&#8211;1980</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-2" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p61" block_type="txt"><image asset-id="krugmanwellsessentials4e-ch16-img-5" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p61" block_type="txt"><image asset-id="krugmanwellsessentials4e-ch16-img-5" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p62" block_type="bx2-first"><phrase block_type="dropcap">W</phrase>hen looking at data, it&#8217;s often hard to distinguish between changes in spending that represent <em>movements along</em> the aggregate demand curve and <em>shift</em>s <em>of</em> the aggregate demand curve. One telling exception, however, is what happened right after the oil crisis of 1979, which we mentioned in this chapter&#8217;s opening story. Faced with a sharp increase in the aggregate price level&#8212;the rate of consumer price inflation reached 14.8&#37; in March of 1980&#8212;the Federal Reserve stuck to a policy of increasing the quantity of money slowly. The aggregate price level was rising steeply, but the quantity of money circulating in the economy was growing slowly. The net result was that the purchasing power of the quantity of money in circulation fell.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-4" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-6" alt="image" src="images/KrugESS4e_16UN01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-6" alt="image" src="asset/ch16/KrugESS4e_16UN01.jpg"/>
 <caption>The interest rate effect of a rise in the aggregate price level leads to a drop in consumer and investment spending.</caption>
 <asset_source>Glow Images/SuperStock</asset_source>
 </figure>
@@ -213,7 +211,7 @@
 </section>
 <section id="krugmanwellsessentials4e-ch16-sec1-002" block_type="h1" title="" chapter="ch16" numbered="true" level="1" print_page="447">
 <section-metadata><section-title>Aggregate Supply</section-title></section-metadata>
-<p id="krugmanwellsessentials4e-ch16-p76" block_type="txt-ni">Between 1929 and 1933 there was a sharp fall in aggregate demand&#8212;a reduction in the quantity of goods and services demanded at any given price level. One consequence of the economy-wide decline in demand was a fall in the prices of most goods and services. By 1933, the GDP deflator (one of the price indexes we defined in <link href="krugmanwellsessentials4e-ch13.xml">Chapter 13</link>) was 26&#37; below its 1929 level, and other indexes were down by similar amounts. A second consequence was a decline in the output of most goods and services: by 1933, real GDP was 27&#37; below its 1929 level. A third consequence, closely tied to the fall in real GDP, was a surge in the unemployment rate from 3&#37; to 25&#37;.</p>
+<p id="krugmanwellsessentials4e-ch16-p76" block_type="txt-ni">Between 1929 and 1933 there was a sharp fall in aggregate demand&#8212;a reduction in the quantity of goods and services demanded at any given price level. One consequence of the economy-wide decline in demand was a fall in the prices of most goods and services. By 1933, the GDP deflator (one of the price indexes we defined in <link href="krugmanwellsessentials4e_ch13_1.html">Chapter 13</link>) was 26&#37; below its 1929 level, and other indexes were down by similar amounts. A second consequence was a decline in the output of most goods and services: by 1933, real GDP was 27&#37; below its 1929 level. A third consequence, closely tied to the fall in real GDP, was a surge in the unemployment rate from 3&#37; to 25&#37;.</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp3-4" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch16-p77" block_type="mn-gl-def">The <strong>aggregate supply curve</strong> shows the relationship between the aggregate price level and the quantity of aggregate output supplied in the economy. </p>
 </box>
@@ -249,7 +247,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-5" block_type="figure" numbered="true" number="16-3" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-3</strong></phrase> <phrase block_type="fig_title">Short-Run Aggregate Supply Curve</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-7" alt="image" src="images/KrugESS4e_fig_16_03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-7" alt="image" src="asset/ch16/KrugESS4e_fig_16_03.jpg"/>
 <caption>The short-run aggregate supply curve shows the relationship between the aggregate price level and the quantity of aggregate output supplied in the short run, the period in which many production costs such as nominal wages are fixed. It is upward sloping because a higher aggregate price level leads to higher profit per unit of output and higher aggregate output given fixed nominal wages. Here we show numbers corresponding to the Great Depression, from 1929 to 1933: when deflation occurred and the aggregate price level fell from 9.9 (in 1929) to 7.3 (in 1933), firms responded by reducing the quantity of aggregate output supplied from &#36;1,057 billion to &#36;778 billion measured in 2009 dollars.</caption>
 </figure>
 </section>
@@ -259,7 +257,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-6" block_type="figure" numbered="true" number="16-4" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-6"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-4</strong></phrase> <phrase block_type="fig_title">Shifts of the Short-Run Aggregate Supply Curve</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-8" alt="image" src="images/KrugESS4e_fig_16_04ab.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-8" alt="image" src="asset/ch16/KrugESS4e_fig_16_04ab.jpg"/>
 <caption>Panel (a) shows a decrease in short-run aggregate supply: the short-run aggregate supply curve shifts leftward from <em>SRAS</em><sub>1</sub> to <em>SRAS</em><sub>2</sub>, and the quantity of aggregate output supplied at any given aggregate price level falls. Panel (b) shows an increase in short-run aggregate supply: the short-run aggregate supply curve shifts rightward from <em>SRAS</em><sub>1</sub> to <em>SRAS</em><sub>2</sub>, and the quantity of aggregate output supplied at any given aggregate price level rises.</caption>
 </figure>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx3-2" block_type="bx3-t">
@@ -283,7 +281,7 @@
 <p id="krugmanwellsessentials4e-ch16-p110" block_type="txt-3"><phrase block_type="h3"><strong>Changes in Productivity</strong></phrase> An increase in productivity means that a worker can produce more units of output with the same quantity of inputs. For example, the introduction of bar-code scanners in retail stores greatly increased the ability of a single worker to stock, inventory, and resupply store shelves. As a result, the cost to a store of &#8220;producing&#8221; a dollar of sales fell and profit rose. And, correspondingly, the quantity supplied increased. (Think of Walmart and the increase in the number of its stores as an increase in aggregate supply.) So a rise in productivity, whatever the source, increases producers&#8217; profits and shifts the short-run aggregate supply curve to the right. </p>
 <p id="krugmanwellsessentials4e-ch16-p111" block_type="txt">Conversely, a fall in productivity&#8212;say, due to new regulations that require workers to spend more time filling out forms&#8212;reduces the number of units of output a worker can produce with the same quantity of inputs. Consequently, the cost per unit of output rises, profit falls, and quantity supplied falls. This shifts the short-run aggregate supply curve to the left.</p>
 <p id="krugmanwellsessentials4e-ch16-p112" block_type="txt">A summary of the factors that shift the short-run aggregate supply curve appears in <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-tab-2">Table 16-2</link>.</p>
-<table id="krugmanwellsessentials4e-ch16-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch16-tab-2" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch16-tab-2" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch16/table_16_2.html" data-target="_pop">
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">16-2</phrase></strong> <phrase block_type="tbl_title">Factors That Shift Aggregate Supply</phrase></table_caption>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -297,27 +295,27 @@
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="images/KrugESS4e_T_16_02a.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="asset/ch16/KrugESS4e_T_16_02a.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="images/KrugESS4e_T_16_02d.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="asset/ch16/KrugESS4e_T_16_02d.jpg"/></td>
 </tr>
 <tr class="tbl-hdr-bg">
 <td colspan="4" class="tbl-ljust"><strong>Changes in nominal wages:</strong></td>
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="images/KrugESS4e_T_16_02b.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="asset/ch16/KrugESS4e_T_16_02b.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="images/KrugESS4e_T_16_02e.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="asset/ch16/KrugESS4e_T_16_02e.jpg"/></td>
 </tr>
 <tr class="tbl-hdr-bg">
 <td colspan="4" class="tbl-ljust"><strong>Changes in productivity:</strong></td>
 </tr>
 <tr>
 <td colspan="2" class="tbl-td-light">
-<image asset-id="krugmanwellsessentials4e-ch16-img-13" alt="image" src="images/KrugESS4e_T_16_02c.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-13" alt="image" src="asset/ch16/KrugESS4e_T_16_02c.jpg"/></td>
 <td colspan="2" class="tbl-td-dark">
-<image asset-id="krugmanwellsessentials4e-ch16-img-14" alt="image" src="images/KrugESS4e_T_16_02f.jpg"/></td>
+<image asset-id="krugmanwellsessentials4e-ch16-img-14" alt="image" src="asset/ch16/KrugESS4e_T_16_02f.jpg"/></td>
 </tr>
 </tbody>
 </table>
@@ -336,7 +334,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-7" block_type="figure" numbered="true" number="16-5" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-7"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-5</strong></phrase> <phrase block_type="fig_title">The Long-Run Aggregate Supply Curve</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-9" alt="image" src="images/KrugESS4e_fig_16_05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-9" alt="image" src="asset/ch16/KrugESS4e_fig_16_05.jpg"/>
 <caption>The long-run aggregate supply curve shows the quantity of aggregate output supplied when all prices, including nominal wages, are flexible. It is vertical at potential output, <em>Y<sub>P</sub></em>, because in the long run a change in the aggregate price level has no effect on the quantity of aggregate output supplied.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_453" block_type="page_start">453</p>
@@ -349,11 +347,11 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-8" block_type="figure" numbered="true" number="16-6" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-8"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-6</strong></phrase> <phrase block_type="fig_title">Actual and Potential Output from 1990 to 2014</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-10" alt="image" src="images/KrugESS4e_fig_16_06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-10" alt="image" src="asset/ch16/KrugESS4e_fig_16_06.jpg"/>
 <caption>This figure shows the performance of actual and potential output in the United States from 1990 to 2014. The orange line shows estimates of U.S. potential output, produced by the Congressional Budget Office, and the blue line shows actual aggregate output. The purple-shaded years are periods in which actual aggregate output fell below potential output, and the green-shaded years are periods in which actual aggregate output exceeded potential output. As shown, significant shortfalls occurred in the recessions of the early 1990s and after 2000. Actual aggregate output was significantly above potential output in the boom of the late 1990s, and a huge shortfall occurred after the recession of 2007&#8211;2009.</caption>
 <asset_source><em>Data from:</em> Congressional Budget Office; Bureau of Economic Analysis.</asset_source>
 </figure>
-<p id="krugmanwellsessentials4e-ch16-p123" block_type="txt">As you can see, U.S. potential output has risen steadily over time&#8212;implying a series of rightward shifts of the <em>LRAS</em> curve. What has caused these rightward shifts? The answer lies in the factors related to long-run growth that we discussed in <link href="krugmanwellsessentials4e-ch15.xml">Chapter 15</link>, such as increases in physical capital and human capital as well as technological progress. Over the long run, as the size of the labor force and the productivity of labor both rise, the level of real GDP that the economy is capable of producing also rises. Indeed, one way to think about long-run economic growth is that it is the growth in the economy&#8217;s potential output. We generally think of the long-run aggregate supply curve as shifting to the right over time as an economy experiences long-run growth.</p>
+<p id="krugmanwellsessentials4e-ch16-p123" block_type="txt">As you can see, U.S. potential output has risen steadily over time&#8212;implying a series of rightward shifts of the <em>LRAS</em> curve. What has caused these rightward shifts? The answer lies in the factors related to long-run growth that we discussed in <link href="krugmanwellsessentials4e_ch15_1.html">Chapter 15</link>, such as increases in physical capital and human capital as well as technological progress. Over the long run, as the size of the labor force and the productivity of labor both rise, the level of real GDP that the economy is capable of producing also rises. Indeed, one way to think about long-run economic growth is that it is the growth in the economy&#8217;s potential output. We generally think of the long-run aggregate supply curve as shifting to the right over time as an economy experiences long-run growth.</p>
 </section>
 <section id="krugmanwellsessentials4e-ch16-sec2-007" block_type="h2" title="" chapter="ch16" numbered="false" level="2" print_page="453">
 <section-metadata><section-title>From the Short Run to the Long Run</section-title></section-metadata>
@@ -374,7 +372,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-9" block_type="figure" numbered="true" number="16-7" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-9"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-7</strong></phrase> <phrase block_type="fig_title">From the Short Run to the Long Run</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="images/KrugESS4e_fig_16_07ab.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-11" alt="image" src="asset/ch16/KrugESS4e_fig_16_07ab.jpg"/>
 <caption>In panel (a), the initial short-run aggregate supply curve is <em>SRAS</em><sub>1</sub>. At the aggregate price level, <em>P</em><sub>1</sub>, the quantity of aggregate output supplied, <em>Y</em><sub>1</sub>, exceeds potential output, <em>Y</em><sub>P</sub>. Eventually, low unemployment will cause nominal wages to rise, leading to a leftward shift of the short-run aggregate supply curve from <em>SRAS</em><sub>1</sub> to <em>SRAS</em><sub>2</sub>. In panel (b), the reverse happens: at the aggregate price level, <em>P</em><sub>1</sub>, the quantity of aggregate output supplied is less than potential output. High unemployment eventually leads to a fall in nominal wages over time and a rightward shift of the short-run aggregate supply curve.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_455" block_type="page_start">455</p>
@@ -382,10 +380,10 @@
 <p id="krugmanwellsessentials4e-ch16-p134" block_type="txt">In panel (b), the initial production point, <em>A</em><sub>1</sub>, corresponds to an aggregate output level, <em>Y</em><sub>1</sub>, that is lower than potential output, <em>Y<sub>P</sub></em>. Producing an aggregate output level (such as <em>Y</em><sub>1</sub>) that is lower than potential output (<em>Y<sub>P</sub></em>) is possible only because nominal wages haven&#8217;t yet fully adjusted downward. Until this downward adjustment occurs, producers are earning low (or negative) profits and producing a low level of output. An aggregate output level lower than potential output means high unemployment. Because workers are abundant and jobs are scarce, nominal wages will fall over time, shifting the short-run aggregate supply curve gradually to the right. Eventually it will be in a new position, such as <em>SRAS</em><sub>2</sub>.</p>
 <p id="krugmanwellsessentials4e-ch16-p135" block_type="txt">We&#8217;ll see shortly that these shifts of the short-run aggregate supply curve will return the economy to potential output in the long run. </p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx2-2" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch16-img-12" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p136" block_type="bx-2-t"><strong>Sticky Wages in the Great Recession</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-3" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p137" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-13" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p137" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-13" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p138" block_type="bx2-first"><phrase block_type="dropcap">W</phrase>e&#8217;ve asserted that the aggregate supply curve is upward-sloping in the short run mainly because of <em>sticky wages&#8212;</em>in particular, because employers are reluctant to cut nominal wages (and workers are unwilling to accept wage cuts) even when labor is in excess supply. But what is the evidence for wage stickiness?</p>
 <p id="krugmanwellsessentials4e_page_456" block_type="page_start">456</p>
@@ -394,7 +392,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-10" block_type="figure" numbered="true" number="16-8" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-10"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-8</strong></phrase> <phrase block_type="fig_title">Sticky Wages in the Great Recession</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-14" alt="image" src="images/KrugESS4e_fig_16_08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-14" alt="image" src="asset/ch16/KrugESS4e_fig_16_08.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p141" block_type="bx2-txt">Similar results can be found in European nations facing high unemployment, such as Spain. The Great Recession provided strong confirmation that wages are indeed sticky.</p>
 <p id="krugmanwellsessentials4e-ch16-p142" block_type="bx2-txt">When unemployment soared in the face of the economic slump following the 2008 financial crisis, you might have expected to see widespread wage cuts. But employers are reluctant to cut wages. So what we saw instead was a sharp rise in the number of workers whose wages were flat&#8212;neither rising nor falling. </p>
@@ -448,7 +446,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-11" block_type="figure" numbered="true" number="16-9" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-9</strong></phrase> <phrase block_type="fig_title">The <em>AD&#8211;AS</em> Model</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-15" alt="image" src="images/KrugESS4e_fig_16_09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-15" alt="image" src="asset/ch16/KrugESS4e_fig_16_09.jpg"/>
 <caption>The <em>AD&#8211;AS</em> model combines the aggregate demand curve and the short-run aggregate supply curve. Their point of intersection, <em>E<sub>SR</sub></em>, is the point of short-run macroeconomic equilibrium where the quantity of aggregate output demanded is equal to the quantity of aggregate output supplied. <em>P<sub>E</sub></em> is the short-run equilibrium aggregate price level, and <em>Y<sub>E</sub></em> is the short-run equilibrium level of aggregate output.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p161" block_type="txt">In the supply and demand model we saw that a shortage of any individual good causes its market price to rise but a surplus of the good causes its market price to fall. These forces ensure that the market reaches equilibrium. The same logic applies to short-run macroeconomic equilibrium. If the aggregate price level is above its equilibrium level, the quantity of aggregate output supplied exceeds the quantity of aggregate output demanded. This leads to a fall in the aggregate price level and pushes it toward its equilibrium level. </p>
@@ -468,7 +466,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-12" block_type="figure" numbered="true" number="16-10" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-10</strong></phrase> <phrase block_type="fig_title">Demand Shocks</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-16" alt="image" src="images/KrugESS4e_fig_16_10ab.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-16" alt="image" src="asset/ch16/KrugESS4e_fig_16_10ab.jpg"/>
 <caption>A demand shock shifts the aggregate demand curve, moving the aggregate price level and aggregate output in the same direction. In panel (a), a negative demand shock shifts the aggregate demand curve leftward from <em>AD</em><sub>1</sub> to <em>AD</em><sub>2</sub>, reducing the aggregate price level from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub> and aggregate output from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>. In panel (b), a positive demand shock shifts the aggregate demand curve rightward, increasing the aggregate price level from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub> and aggregate output from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>. </caption>
 </figure>
 </section>
@@ -484,7 +482,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-13" block_type="figure" numbered="true" number="16-11" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-13"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-11</strong></phrase> <phrase block_type="fig_title">Supply Shocks</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-17" alt="image" src="images/KrugESS4e_fig_16_11ab.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-17" alt="image" src="asset/ch16/KrugESS4e_fig_16_11ab.jpg"/>
 <caption>A supply shock shifts the short-run aggregate supply curve, moving the aggregate price level and aggregate output in opposite directions. Panel (a) shows a negative supply shock, which shifts the short-run aggregate supply curve leftward and causes stagflation&#8212;lower aggregate output and a higher aggregate price level. Here the short-run aggregate supply curve shifts from <em>SRAS</em><sub>1</sub> to <em>SRAS</em><sub>2</sub>, and the economy moves from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. The aggregate price level rises from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>, and aggregate output falls from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>. Panel (b) shows a positive supply shock, which shifts the short-run aggregate supply curve rightward, generating higher aggregate output and a lower aggregate price level. The short-run aggregate supply curve shifts from <em>SRAS</em><sub>1</sub> to <em>SRAS</em><sub>2</sub>, and the economy moves from <em>E</em><sub>1</sub> to <em>E</em><sub>2</sub>. The aggregate price level falls from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>, and aggregate output rises from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>.</caption>
 </figure>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp3-16" block_type="mn3">
@@ -494,12 +492,12 @@
 <p id="krugmanwellsessentials4e-ch16-p175" block_type="txt">A positive supply shock, shown in panel (b), has exactly the opposite effects. A rightward shift of the <em>SRAS</em> curve from <em>SRAS</em><sub>1</sub> to <em>SRAS</em><sub>2 </sub>results in a rise in aggregate output and a fall in the aggregate price level, a downward movement along the <em>AD</em> curve. The favorable supply shocks of the late 1990s led to a combination of full employment and declining inflation. That is, the aggregate price level fell compared with the long-run trend. This combination produced, for a time, a great wave of national optimism.</p>
 <p id="krugmanwellsessentials4e_page_460" block_type="page_start">460</p>
 <box title="GLOBAL COMPARISION " numbered="false" id="krugmanwellsessentials4e-ch16-bx4-1" block_type="bx4-h">
-<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch16-img-18" alt="image" src="images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch16-img-18" alt="image" src="asset/images/World_icon_no_type.jpg"/> <phrase block_type="gc1">GLOBAL</phrase><phrase block_type="gc2">COMPARISON</phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p176" block_type="bx4-t"><strong>Supply Shocks of the Twenty-first Century</strong></p>
 <p id="krugmanwellsessentials4e-ch16-p177" block_type="bx4-txt-ni"><phrase block_type="dropcap">T</phrase>he price of oil and other raw materials has been highly unstable in recent years, with surging prices in 2007&#8211;2008, plunging prices in 2008&#8211;2009, and another surge starting in the second half of 2010. The reasons for these wild swings are somewhat controversial, but their macroeconomic implications are clear: much of the world has been subjected to a series of supply shocks. There was a negative shock in 2007&#8211;2008, a positive shock in 2008&#8211;2009, and another negative shock in 2010&#8211;2011.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-19" alt="image" src="images/KrugESS4e_16UN02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-19" alt="image" src="asset/ch16/KrugESS4e_16UN02.jpg"/>
 <asset_source><em>Data from:</em> Federal Reserve Bank of St. Louis.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p178" block_type="bx4-txt">You can see the effect of these shocks in the accompanying figure, which shows the rate of inflation, as measured by the percentage change in consumer prices over the previous year, in three large economies. Economic policies have been quite different in the United States, Germany (which shares a currency with many other European countries), and China. Yet in all three, inflation rose sharply in 2007&#8211;2008, fell dramatically thereafter, and rose sharply again in 2011.</p>
@@ -516,14 +514,14 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-15" block_type="figure" numbered="true" number="16-12" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-15"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-12</strong></phrase> <phrase block_type="fig_title">Long-Run Macroeconomic Equilibrium</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-20" alt="image" src="images/KrugESS4e_fig_16_12.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-20" alt="image" src="asset/ch16/KrugESS4e_fig_16_12.jpg"/>
 <caption>Here the point of short-run macroeconomic equilibrium also lies on the long-run aggregate supply curve, <em>LRAS</em>. As a result, short-run equilibrium aggregate output is equal to potential output, <em>Y<sub>P</sub></em>. The economy is in long-run macroeconomic equilibrium at <em>E<sub>LR</sub></em>.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p184" block_type="txt">To see the significance of long-run macroeconomic equilibrium, let&#8217;s consider what happens if a demand shock moves the economy away from long-run macroeconomic equilibrium. In <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">Figure 16-13</link>, we assume that the initial aggregate demand curve is <em>AD</em><sub>1</sub> and the initial short-run aggregate supply curve is <em>SRAS</em><sub>1</sub>. So the initial macroeconomic equilibrium is at <em>E</em><sub>1</sub>, which lies on the long-run aggregate supply curve, <em>LRAS.</em> The economy, then, starts from a point of short-run and long-run macroeconomic equilibrium, and short-run equilibrium aggregate output equals potential output at <em>Y</em><sub>1</sub>.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-16" block_type="figure" numbered="true" number="16-3" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-13</strong></phrase> <phrase block_type="fig_title">Short-Run versus Long-Run Effects of a Negative Demand Shock</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-21" alt="image" src="images/KrugESS4e_fig_16_14.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-21" alt="image" src="asset/ch16/KrugESS4e_fig_16_14.jpg"/>
 <caption>In the long run the economy is self-correcting: demand shocks have only a short-run effect on aggregate output. Starting at <em>E</em><sub>1</sub>, a negative demand shock shifts <em>AD</em><sub>1</sub> leftward to <em>AD</em><sub>2</sub>. In the short run the economy moves to <em>E</em><sub>2</sub> and a recessionary gap arises: the aggregate price level declines from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>, aggregate output declines from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>, and unemployment rises. But in the long run nominal wages fall in response to high unemployment at <em>Y</em><sub>2</sub>, and <em>SRAS</em><sub>1</sub> shifts rightward to <em>SRAS</em><sub>2</sub>. Aggregate output rises from <em>Y</em><sub>2</sub> to <em>Y</em><sub>1</sub>, and the aggregate price level declines again, from <em>P</em><sub>2</sub> to <em>P</em><sub>3</sub>. Long-run macroeconomic equilibrium is eventually restored at <em>E</em><sub>3</sub>.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_461" block_type="page_start">461</p>
@@ -538,7 +536,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-17" block_type="figure" numbered="true" number="16-14" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-17"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-14</strong></phrase> <phrase block_type="fig_title">Short-Run versus Long-Run Effects of a Positive Demand Shock</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-22" alt="image" src="images/KrugESS4e_fig_16_13.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-22" alt="image" src="asset/ch16/KrugESS4e_fig_16_13.jpg"/>
 <caption>Starting at <em>E</em><sub>1</sub>, a positive demand shock shifts <em>AD</em><sub>1</sub> rightward to <em>AD</em><sub>2</sub>, and the economy moves to <em>E</em><sub>2</sub> in the short run. This results in an inflationary gap as aggregate output rises from <em>Y</em><sub>1</sub> to <em>Y</em><sub>2</sub>, the aggregate price level rises from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>, and unemployment falls to a low level. In the long run, <em>SRAS</em><sub>1</sub> shifts leftward to <em>SRAS</em><sub>2</sub> as nominal wages rise in response to low unemployment at <em>Y</em><sub>2</sub>. Aggregate output falls back to <em>Y</em><sub>1</sub>, the aggregate price level rises again to <em>P</em><sub>3</sub>, and the economy self-corrects as it returns to long-run macroeconomic equilibrium at <em>E</em><sub>3</sub>.</caption>
 </figure>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp3-19" block_type="mn3">
@@ -547,7 +545,7 @@
 <p id="krugmanwellsessentials4e-ch16-p191" block_type="txt">Now suppose that aggregate demand rises, and the <em>AD</em> curve shifts rightward to <em>AD</em><sub>2</sub>. This results in a higher aggregate price level, at <em>P</em><sub>2</sub>, and a higher aggregate output level, at <em>Y</em><sub>2</sub>, as the economy settles in the short run at <em>E</em><sub>2</sub>. Aggregate output in this new short-run equilibrium is above potential output, and unemployment is low in order to produce this higher level of aggregate output. When this happens, the economy experiences an <strong>inflationary gap.</strong></p>
 <p id="krugmanwellsessentials4e_page_463" block_type="page_start">463</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx3-3" block_type="bx3-t">
-<box-metadata><box-title><strong>FOR INQUIRING MINDS</strong> &#124; Where&#8217;s the Deflation?<image asset-id="krugmanwellsessentials4e-ch16-img-7a2" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><strong>FOR INQUIRING MINDS</strong> &#124; Where&#8217;s the Deflation?<image asset-id="krugmanwellsessentials4e-ch16-img-7a2" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p192" block_type="bx3-txt-ni">The <em>AD&#8211;AS</em> model says that either a negative demand shock or a positive supply shock should lead to a fall in the aggregate price level&#8212;that is, deflation. However, since 1949, an actual fall in the aggregate price level has been a rare occurrence in the United States. Similarly, most other countries have had little or no experience with deflation. Japan, which experienced sustained mild deflation in the late 1990s and the early part of the next decade, is the big (and much discussed) exception. What happened to deflation?</p>
 <p id="krugmanwellsessentials4e-ch16-p193" block_type="bx3-txt">The basic answer is that since World War II economic fluctuations have largely taken place around a long-run inflationary trend. Before the war, it was common for prices to fall during recessions, but since then negative demand shocks have largely been reflected in a <em>decline in the rate of inflation</em> rather than an actual fall in prices. For example, the rate of consumer price inflation fell from more than 3&#37; at the beginning of the 2001 recession to 1.1&#37; a year later, but it never went below zero.</p>
 <p id="krugmanwellsessentials4e-ch16-p194" block_type="bx3-txt">All of this changed during the recession of 2007&#8211;2009. The negative demand shock that followed the 2008 financial crisis was so severe that, for most of 2009, consumer prices in the United States indeed fell. But the deflationary period didn&#8217;t last long: beginning in 2010, prices again rose, at a rate of between 1&#37; and 4&#37; per year.</p>
@@ -559,7 +557,7 @@
 <p id="krugmanwellsessentials4e-ch16-p197" block_type="txt">To summarize the analysis of how the economy responds to recessionary and inflationary gaps, we can focus on the <strong>output gap,</strong> the percentage difference between actual aggregate output and potential output. The output gap is calculated as follows:</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-18" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-23" alt="image" src="images/KrugESS4e_eqn_463_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-23" alt="image" src="asset/ch16/KrugESS4e_eqn_463_01.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p198" block_type="txt-ni">Our analysis says that the output gap always tends toward zero.</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp3-45" block_type="mn3">
@@ -567,10 +565,10 @@
 </box>
 <p id="krugmanwellsessentials4e-ch16-p200" block_type="txt">If there is a recessionary gap, so that the output gap is negative, nominal wages eventually fall, moving the economy back to potential output and bringing the output gap back to zero. If there is an inflationary gap, so that the output gap is positive, nominal wages eventually rise, also moving the economy back to potential output and again bringing the output gap back to zero. So in the long run the economy is <strong>self-correcting:</strong> shocks to aggregate demand affect aggregate output in the short run but not in the long run.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx2-3" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch16-img-24" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch16-img-24" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p201" block_type="bx-2-t"><strong>Supply Shocks versus Demand Shocks in Practice</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-4" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p202" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-25" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p202" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-25" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p203" block_type="bx2-first"><phrase block_type="dropcap">H</phrase>ow often do supply shocks and demand shocks, respectively, cause recessions? The verdict of most, though not all, macroeconomists is that recessions are mainly caused by demand shocks. But when a negative supply shock does happen, the resulting recession tends to be particularly severe.</p>
 <p id="krugmanwellsessentials4e-ch16-p204" block_type="bx2-txt">Let&#8217;s get specific. Officially there have been twelve recessions in the United States since World War II. However, two of these, in 1979&#8211;1980 and 1981&#8211;1982, are often treated as a single &#8220;double-dip&#8221; recession, bringing the total number down to eleven. Of these eleven recessions, only two&#8212;the recession of 1973&#8211;1975 and the double-dip recession of 1979&#8211;1982&#8212;showed the distinctive combination of falling aggregate output and a surge in the price level that we call stagflation. </p>
@@ -580,7 +578,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-19" block_type="figure" numbered="true" number="16-15" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-19"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-15</strong></phrase> <phrase block_type="fig_title">Negative Supply Shocks Are Relatively Rare But Nasty</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-26" alt="image" src="images/KrugESS4e_fig_16_15.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-26" alt="image" src="asset/ch16/KrugESS4e_fig_16_15.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p207" block_type="bx2-txt">There&#8217;s a reason the aftermath of a supply shock tends to be particularly severe for the economy: macroeconomic policy has a much harder time dealing with supply shocks than with demand shocks. Indeed, the reason the Federal Reserve was having a hard time in 2008, as described in the opening story, was the fact that in early 2008 the U.S. economy was in a recession partially caused by a supply shock (although it was also facing a demand shock). Next we&#8217;ll see why supply shocks present such a problem. </p>
 </box>
@@ -616,10 +614,10 @@
 <p id="krugmanwellsessentials4e-ch16-p221" block_type="txt">This belief is the background to one of the most famous quotations in economics: John Maynard Keynes&#8217;s declaration, &#8220;In the long run we are all dead&#8221; (the remark is explained in the accompanying For Inquiring Minds).</p>
 <p id="krugmanwellsessentials4e_page_465" block_type="page_start">465</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx3-4" block_type="bx3-t">
-<box-metadata><box-title><strong>FOR INQUIRING MINDS</strong> &#124; Keynes and the Long Run<image asset-id="krugmanwellsessentials4e-ch16-img-7a2" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><strong>FOR INQUIRING MINDS</strong> &#124; Keynes and the Long Run<image asset-id="krugmanwellsessentials4e-ch16-img-7a2" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <figure id="krugmanwellsessentials4e-ch16-fig-20" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-27" alt="image" src="images/KrugESS4e_16UN03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-27" alt="image" src="asset/ch16/KrugESS4e_16UN03.jpg"/>
 <caption>Keynes focused the attention of economists of his day on the short run.</caption>
 <asset_source>Bettmann/Corbis</asset_source>
 </figure>
@@ -636,10 +634,10 @@
 <section id="krugmanwellsessentials4e-ch16-sec2-012" block_type="h2" title="" chapter="ch16" numbered="false" level="2" print_page="465">
 <section-metadata><section-title>Policy in the Face of Demand Shocks</section-title></section-metadata>
 <p id="krugmanwellsessentials4e-ch16-p228" block_type="txt-ni">Imagine that the economy experiences a negative demand shock, like the one shown in <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">Figure 16-13</link>. As we&#8217;ve discussed, monetary and fiscal policy shift the aggregate demand curve. If policy makers react quickly to the fall in aggregate demand, they can use monetary or fiscal policy to shift the aggregate demand curve back to the right. And if policy were able to perfectly anticipate shifts of the aggregate demand curve, it could short-circuit the whole process shown in <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">Figure 16-13</link>. Instead of going through a period of low aggregate output and falling prices, the government could manage the economy so that it would stay at <em>E</em><sub>1</sub>.</p>
-<p id="krugmanwellsessentials4e-ch16-p229" block_type="txt">Why might a policy that short-circuits the adjustment shown in <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">Figure 16-13</link> and maintains the economy at its original equilibrium be desirable? For two reasons. First, the temporary fall in aggregate output that would happen without policy intervention is a bad thing, particularly because such a decline is associated with high unemployment. Second, as we explained in <link href="krugmanwellsessentials4e-ch14.xml">Chapter 14</link>, <em>price stability</em> is generally regarded as a desirable goal. So preventing deflation&#8212;a fall in the aggregate price level&#8212;is a good thing.</p>
+<p id="krugmanwellsessentials4e-ch16-p229" block_type="txt">Why might a policy that short-circuits the adjustment shown in <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">Figure 16-13</link> and maintains the economy at its original equilibrium be desirable? For two reasons. First, the temporary fall in aggregate output that would happen without policy intervention is a bad thing, particularly because such a decline is associated with high unemployment. Second, as we explained in <link href="krugmanwellsessentials4e_ch14_1.html">Chapter 14</link>, <em>price stability</em> is generally regarded as a desirable goal. So preventing deflation&#8212;a fall in the aggregate price level&#8212;is a good thing.</p>
 <p id="krugmanwellsessentials4e-ch16-p230" block_type="txt">Does this mean that policy makers should always act to offset declines in aggregate demand? Not necessarily. Some policy measures to increase aggregate demand, especially those that increase budget deficits, may have long-term costs in terms of lower long-run growth. Furthermore, in the real world policy makers aren&#8217;t perfectly informed, and the effects of their policies aren&#8217;t perfectly predictable. This creates the danger that stabilization policy will do more harm than good; that is, attempts to stabilize the economy may end up creating more instability. Despite these qualifications, most economists believe that a good case can be made for using macroeconomic policy to offset major negative shocks to the <em>AD</em> curve.</p>
 <p id="krugmanwellsessentials4e_page_466" block_type="page_start">466</p>
-<p id="krugmanwellsessentials4e-ch16-p231" block_type="txt">Should policy makers also try to offset positive shocks to aggregate demand? It may not seem obvious that they should. After all, even though inflation may be a bad thing, isn&#8217;t more output and lower unemployment a good thing? Not necessarily. Most economists now believe that any short-run gains from an inflationary gap must be paid back later. So policy makers today usually try to offset positive as well as negative demand shocks. For reasons we&#8217;ll explain in <link href="krugmanwellsessentials4e-ch19.xml">Chapter 19</link>, attempts to eliminate recessionary gaps and inflationary gaps usually rely on monetary rather than fiscal policy. In 2007 and 2008 the Federal Reserve sharply cut interest rates in an attempt to head off a rising recessionary gap; earlier in the decade, when the U.S. economy seemed headed for an inflationary gap, it raised interest rates to generate the opposite effect.</p>
+<p id="krugmanwellsessentials4e-ch16-p231" block_type="txt">Should policy makers also try to offset positive shocks to aggregate demand? It may not seem obvious that they should. After all, even though inflation may be a bad thing, isn&#8217;t more output and lower unemployment a good thing? Not necessarily. Most economists now believe that any short-run gains from an inflationary gap must be paid back later. So policy makers today usually try to offset positive as well as negative demand shocks. For reasons we&#8217;ll explain in <link href="krugmanwellsessentials4e_ch19_1.html">Chapter 19</link>, attempts to eliminate recessionary gaps and inflationary gaps usually rely on monetary rather than fiscal policy. In 2007 and 2008 the Federal Reserve sharply cut interest rates in an attempt to head off a rising recessionary gap; earlier in the decade, when the U.S. economy seemed headed for an inflationary gap, it raised interest rates to generate the opposite effect.</p>
 <p id="krugmanwellsessentials4e-ch16-p232" block_type="txt">But how should macroeconomic policy respond to supply shocks?</p>
 </section>
 <section id="krugmanwellsessentials4e-ch16-sec2-013" block_type="h2" title="" chapter="ch16" numbered="false" level="2" print_page="466">
@@ -653,7 +651,7 @@
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase><phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p238" block_type="bx-2-t"><strong>Is Stabilization Policy Stabilizing?</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-5" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p239" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-28" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p239" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-28" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p240" block_type="bx2-first"><phrase block_type="dropcap">W</phrase>e&#8217;ve described the theoretical rationale for stabilization policy as a way of responding to demand shocks. But does stabilization policy actually stabilize the economy? One way we might try to answer this question is to look at the long-term historical record. Before World War II, the U.S. government didn&#8217;t really have a stabilization policy, largely because macroeconomics as we know it didn&#8217;t exist, and there was no consensus about what to do. Since World War II, and especially since 1960, active stabilization policy has become standard practice.</p>
 <p id="krugmanwellsessentials4e_page_467" block_type="page_start">467</p>
@@ -662,7 +660,7 @@
 <figure id="krugmanwellsessentials4e-ch16-fig-21" block_type="figure" numbered="true" number="16-16" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-21"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>16-16</strong></phrase> <phrase block_type="fig_title">Has Stabilization Policy Been Stabilizing? </phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch16-img-29" alt="image" src="images/KrugESS4e_fig_16_16.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-29" alt="image" src="asset/ch16/KrugESS4e_fig_16_16.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p243" block_type="bx2-txt">It&#8217;s possible that the greater stability of the economy reflects good luck rather than policy. But on the face of it, the evidence suggests that stabilization policy is indeed stabilizing.</p>
 </box>
@@ -692,7 +690,7 @@
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx7-1" block_type="sum-h">
 <box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">A Shocking Analysis</phrase></box-title></box-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-6" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p251" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-solution-img-1" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+<p id="krugmanwellsessentials4e-ch16-p251" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-solution-img-1" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p252" block_type="wio-txt-ni">During the financial crisis in autumn 2008, the financial system delivered a sobering shock to the economy when the stock market lost about half of its value. Soon afterward, consumer spending came to a screeching halt. Within six months of the crash, GDP fell by 2.5&#37; and the price level fell by 2.8&#37;. Show how an analysis of aggregate demand and aggregate supply could have predicted this short-run effect on aggregate output and the aggregate price level. Assuming no government intervention, what would you have predicted in the long run?</p>
 <p id="krugmanwellsessentials4e_page_468" block_type="page_start">468</p>
@@ -701,28 +699,28 @@
 <p id="krugmanwellsessentials4e-ch16-p254" block_type="wio-txt-ni">The aggregate demand curve and the short-run aggregate supply curve are shown in the following diagram. The initial equilibrium point is labeled <em>E</em><sub>1</sub>, the initial price level is labeled <em>P</em><sub>1</sub>, and the initial output level is labeled <em>Y</em><sub>1</sub>.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-22" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-30" alt="image" src="images/KrugESS4e_16UN04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-30" alt="image" src="asset/ch16/KrugESS4e_16UN04.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p255" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase></phrase> &#124; <phrase block_type="step-green">2</phrase> <phrase block_type="step-title"><strong>Using your graph from Step 1, analyze the short-run effect of the stock market fall on aggregate demand and aggregate supply by drawing a new curve representing aggregate demand after the stock market fall.</strong>
 <phrase block_type="step-subtext">Read page 458 and review <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-12">Figure 16-10</link>, panel (a).</phrase></phrase></p>
 <p id="krugmanwellsessentials4e-ch16-p256" block_type="wio-txt-ni">A decrease in household wealth will reduce consumer spending. Beginning at the equilibrium point, <em>E</em><sub>1</sub> in the diagram below, the aggregate demand curve will shift from <em>AD</em><sub>1</sub> to <em>AD</em><sub>2</sub>. The economy will be in short-run macroeconomic equilibrium at point <em>E</em><sub>2</sub>. The aggregate price level will be lower than at <em>P</em><sub>1</sub>, and aggregate output will be lower than output at the original equilibrium point.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-31" alt="image" src="images/KrugESS4e_16UN05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-31" alt="image" src="asset/ch16/KrugESS4e_16UN05.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p257" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">3</phrase></phrase> <phrase block_type="step-title"><strong>Draw the long-run aggregate supply curve through the initial equilibrium point <em>E</em><sub>1</sub>, and label the recessionary gap.</strong>
 <phrase block_type="step-subtext">Read pages 460&#8211;462 and review <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-15">Figures 16-12</link> and <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">16-13</link>.</phrase></phrase></p>
 <p id="krugmanwellsessentials4e-ch16-p258" block_type="wio-txt-ni">The long-run aggregate supply curve is drawn in the following diagram. The economy now faces a recessionary gap between <em>Y</em><sub>1</sub> and <em>Y</em><sub>2</sub>.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-24" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-32" alt="image" src="images/KrugESS4e_16UN06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-32" alt="image" src="asset/ch16/KrugESS4e_16UN06.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p259" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase></phrase> &#124; <phrase block_type="step-green">4</phrase> <phrase block_type="step-title"><strong>What would you predict in the long run?</strong>
 <phrase block_type="step-subtext">Read pages 460&#8211;462 and review <link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-fig-16">Figure 16-13</link>.</phrase></phrase></p>
 <p id="krugmanwellsessentials4e-ch16-p260" block_type="wio-txt-ni">As wage contracts are renegotiated, nominal wages will fall and the short-run aggregate supply curve will shift gradually to the right over time until it reaches <em>SRAS</em><sub>2</sub> and intersects <em>AD</em><sub>2</sub> at point <em>E</em><sub>3</sub>. At <em>E</em><sub>3</sub>, the economy is back at its potential output but at a much lower aggregate price level, as shown in the following diagram.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-25" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-33" alt="image" src="images/KrugESS4e_16UN07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-33" alt="image" src="asset/ch16/KrugESS4e_16UN07.jpg"/>
 </figure>
 </box>
 <p id="krugmanwellsessentials4e_page_469" block_type="page_start">469</p>
@@ -747,7 +745,7 @@
 <section id="krugmanwellsessentials4e-ch16-sec1-006" block_type="cr-kt-t" title="" chapter="ch16" numbered="true" level="1" print_page="469">
 <section-metadata><section-title>KEY TERMS</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-7" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-34" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p273" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-34" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch16-p274" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-p23">Aggregate demand curve, p. 440</link></p>
 <p id="krugmanwellsessentials4e-ch16-p275" block_type="cr-kt-mcl"><link href="krugmanwellsessentials4e-ch16.xml#krugmanwellsessentials4e-ch16-p35">Wealth effect of a change in the aggregate price level, p. 442</link></p>
@@ -792,7 +790,7 @@
 <p id="krugmanwellsessentials4e-ch16-p301" block_type="cr-que-nl-first"><phrase block_type="qnum">4.</phrase> The economy is at point <em>A</em> in the accompanying diagram. Suppose that the aggregate price level rises from <em>P</em><sub>1</sub> to <em>P</em><sub>2</sub>. How will aggregate supply adjust in the short run and in the long run to the increase in the aggregate price level? Illustrate with a diagram.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-26" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-35" alt="image" src="images/KrugESS4e_16UN08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-35" alt="image" src="asset/ch16/KrugESS4e_16UN08.jpg"/>
 </figure>
 </question>
 <question id="krugmanwellsessentials4e-ch16-question-5" block_type="q_prob" number="5">
@@ -850,7 +848,7 @@
 <p id="krugmanwellsessentials4e-ch16-p326" block_type="cr-que-nl-mid"><phrase block_type="qnum">13.</phrase> The economy is in short-run macroeconomic equilibrium at point <em>E</em><sub>1</sub> in the accompanying diagram. Based on the diagram, answer the following questions.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-27" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-36" alt="image" src="images/KrugESS4e_16UN09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-36" alt="image" src="asset/ch16/KrugESS4e_16UN09.jpg"/>
 </figure>
 <list id="krugmanwellsessentials4e-ch16-list-13" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch16-p327" block_type="cr-que-ans-first">Is the economy facing an inflationary or a recessionary gap?</p></li>
@@ -863,7 +861,7 @@
 <p id="krugmanwellsessentials4e-ch16-p331" block_type="cr-que-nl-mid"><phrase block_type="qnum">14.</phrase> In the accompanying diagram, the economy is in long-run macroeconomic equilibrium at point <em>E</em><sub>1</sub> when an oil shock shifts the short-run aggregate supply curve to <em>SRAS</em><sub>2</sub>. Based on the diagram, answer the following questions.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-28" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-37" alt="image" src="images/KrugESS4e_16UN10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-37" alt="image" src="asset/ch16/KrugESS4e_16UN10.jpg"/>
 </figure>
 <list id="krugmanwellsessentials4e-ch16-list-14" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch16-p332" block_type="cr-que-ans-first">How do the aggregate price level and aggregate output change in the short run as a result of the oil shock? What is this phenomenon known as?</p></li>
@@ -879,7 +877,7 @@
 <section id="krugmanwellsessentials4e-ch16-sec1-008" block_type="sum-h" title="" chapter="ch16" numbered="true" level="1" print_page="472">
 <section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch16-exp2-8" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch16-p336" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-38" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch16-p336" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch16-img-38" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <question id="krugmanwellsessentials4e-ch16-question-16" block_type="q_prob" number="16">
 <p id="krugmanwellsessentials4e-ch16-p337" block_type="cr-wio-nl-first"><phrase block_type="qnum">16.</phrase> In each of the following cases, in the short run, determine whether the events cause a shift of a curve or a movement along a curve. Determine which curve is involved and the direction of the change.</p>
@@ -899,7 +897,7 @@
 <p id="krugmanwellsessentials4e-ch16-p343" block_type="bx5-txt-ni"><phrase block_type="dropcap">W</phrase>hen we think about innovation and technological progress, we tend to focus on the big, dramatic changes: cars replacing horses and buggies, electric lightbulbs replacing gaslights, computers replacing adding machines and typewriters. A lot of progress, however, is incremental and almost invisible to most people&#8212;yet such unglamorous change can have huge effects over time. Consider, for example, the progress of jet travel, as illustrated by the history of Boeing Corporation.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-29" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-39" alt="image" src="images/KrugESS4e_16UN11.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-39" alt="image" src="asset/ch16/KrugESS4e_16UN11.jpg"/>
 <asset_source>Chris Edwards/Woodys Aero Images</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p344" block_type="bx5-txt">The Boeing 707, introduced in 1957, was the first commercially successful jetliner, and for a number of years it ruled the skies. When the Beatles made their famous 1964 arrival in America, it was a 707 that brought them there. So what did the 707 look like? What&#8217;s striking about it, from a modern perspective, is how ordinary it appears. Basically, it looks like a jet airliner. If you walked past one today, and nobody told you it was an antique, you probably wouldn&#8217;t notice; 50-year old jets aren&#8217;t nearly as different on the outside from their contemporary descendants.</p>
@@ -916,18 +914,18 @@
 </box>
 <p id="krugmanwellsessentials4e_page_474" block_type="page_start">474</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch16-bx5-6" block_type="bcbx5-h">
-<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch16-img-7a2" alt="image" src="images/world_view_icon.jpg"/><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>Slow Steaming</strong></box-title></box-metadata>
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch16-img-7a2" alt="image" src="asset/images/world_view_icon.jpg"/><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>Slow Steaming</strong></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch16-p353" block_type="bx5-txt-ni"><phrase block_type="dropcap">T</phrase>he global economic slump of 2008&#8211;2009 took a toll on almost everyone. By 2011, however, the acute crisis was receding in the rearview mirror. Unemployment remained high in wealthy countries, but the world economy as a whole was growing fairly fast, and so were corporate profits.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-30" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-40" alt="image" src="images/KrugESS4e_16UN12.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-40" alt="image" src="asset/ch16/KrugESS4e_16UN12.jpg"/>
 <asset_source>Peter Titmuss/Alamy</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p354" block_type="bx5-txt">One industry that wasn&#8217;t doing well, however, was shipping. A 2012 report from the Boston Consulting Group declared that executives in the container-shipping industry&#8212;which moves the ubiquitous standard-sized boxes of cargo that are transferred between ships and trucks by the giant cranes visible at every major port&#8212;&#8220;would probably like to forget 2011.&#8221; The world&#8217;s largest shipping company, the Danish firm Maersk, saw its profits fall more than 30&#37;, even though world trade was growing at a fairly rapid clip and it was carrying more cargo than it did the year before.</p>
 <p id="krugmanwellsessentials4e-ch16-p355" block_type="bx5-txt">Why was 2011 a bad year to be in the shipping business? The answer is that while world trade and hence the overall demand for shipping were rising, there was a surge in oil prices. This was bad news for shippers, for whom the cost of fuel oil is a major expense. As you can see in the figure, profits temporarily increased immediately after the Great Recession when fuel costs were low. But that changed near the end of 2010, as the price of fuel started to rise. And in 2011, as fuel prices spiked at almost &#36;700 per ton, profits fell by more than &#36;1 billion.</p>
 <figure id="krugmanwellsessentials4e-ch16-fig-31" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch16-img-41" alt="image" src="images/KrugESS4e_16UN13.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch16-img-41" alt="image" src="asset/ch16/KrugESS4e_16UN13.jpg"/>
 <caption><strong>An Oil Price Shock in the Shipping Industry</strong></caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch16-p356" block_type="bx5-txt">One consequence of the oil price shock was a literal slowdown in world trade: shippers turned to <em>slow steaming</em>, in which ships get somewhat better fuel economy by traveling more slowly, typically 17 knots rather than their usual 20. Some carriers even went to <em>super-slow</em> steaming, dropping their speed to 15 knots, although this damaged their engines.</p>
@@ -941,4 +939,3 @@
 </box>
 </section>
 </chapter>
-</manuscript>

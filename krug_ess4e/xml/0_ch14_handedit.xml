@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="14" name="" title="KRU_Chapter_14_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
 <chapter number="14" id="krugmanwellsessentials4e-ch14-chapter-14" title="CHAPTER 14: Unemployment and Inflation" start-numbering-at="14" numbered="true">
 <section id="krugmanwellsessentials4e-ch14-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="377">
 <p id="krugmanwellsessentials4e_page_377" block_type="page_start">377</p>
@@ -9,7 +7,7 @@
 <p id="krugmanwellsessentials4e-ch14-p3" block_type="co-t"><strong>HITTING THE BRAKING POINT</strong></p>
 <figure id="krugmanwellsessentials4e-ch14-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-1" alt="image" src="images/KrugESS4e_CO14.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-1" alt="image" src="asset/ch14/KrugESS4e_CO14.jpg"/>
 <caption>As chair of the Federal Reserve, Janet Yellen balances the goals of low unemployment and price stability when deciding whether to give the economy more gas or hit the brakes.</caption>
 <asset_source>Bradley Boner/Bloomberg via Getty Images</asset_source>
 </figure>
@@ -27,7 +25,7 @@
 </list>
 </box>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-1" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p12" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-2" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch14-p12" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-2" alt="image" src="asset/images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch14-p13" block_type="co-txt-ni"><phrase block_type="dropcap">E</phrase>VERY AUGUST MANY OF THE world&#8217;s most powerful financial officials and many influential economists gather in Jackson Hole, Wyoming, for a conference sponsored by the Federal Reserve Bank of Kansas City. Financial journalists come too, hoping to get clues about the future direction of policy. It&#8217;s always an interesting scene&#8212;but in August 2014 it was even more interesting than usual.</p>
 <p id="krugmanwellsessentials4e-ch14-p14" block_type="co-txt">What was different about that year&#8217;s conclave? One answer was that the Federal Reserve&#8217;s Board of Governors, which makes U.S. monetary policy, had a new chair&#8212;and Janet Yellen had already made history as the first woman to hold the position.</p>
@@ -45,7 +43,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-2" block_type="figure" numbered="true" number="14-1" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2"><phrase block_type="fig-lable"><phrase block_type="fig"><strong>FIGURE</strong></phrase></phrase> <phrase block_type="fig_num"><strong>14-1</strong></phrase> <phrase block_type="fig_title">The U.S. Unemployment Rate, 1948&#8211;2016</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-3" alt="image" src="images/KrugESS4e_fig_14_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-3" alt="image" src="asset/ch14/KrugESS4e_fig_14_01.jpg"/>
 <caption>The unemployment rate has fluctuated widely over time. It always rises during recessions, which are shown by the shaded bars. It usually, but not always, falls during periods of economic expansion.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics; National Bureau of Economic Research.</asset_source>
 </figure>
@@ -71,7 +69,7 @@
 <p id="krugmanwellsessentials4e-ch14-p29" block_type="txt">A country&#8217;s <strong>labor force</strong> is the sum of employment and unemployment&#8212;that is, of people who are currently working and people who are currently looking for work, respectively. The <strong>labor force participation rate,</strong> defined as the percentage of the working-age population that is in the labor force, is calculated as follows:</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-3" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-4" alt="image" src="images/KrugESS4e_eqn_379_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-4" alt="image" src="asset/ch14/KrugESS4e_eqn_379_01.jpg"/>
 </figure>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp3-5" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch14-p30" block_type="mn-gl-def">The <strong>unemployment rate</strong> is the percentage of the total number of people in the labor force who are unemployed.</p>
@@ -79,7 +77,7 @@
 <p id="krugmanwellsessentials4e-ch14-p31" block_type="txt">The <strong>unemployment rate,</strong> defined as the percentage of the total number of people in the labor force who are unemployed, is calculated as follows:</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-4" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-5" alt="image" src="images/KrugESS4e_eqn_379_02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-5" alt="image" src="asset/ch14/KrugESS4e_eqn_379_02.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p32" block_type="txt">To estimate the numbers that go into calculating the unemployment rate, the U.S. Census Bureau carries out a monthly survey called the Current Population Survey, which involves interviewing a random sample of 60,000 American families. People are asked whether they are currently employed. If they are not employed, they are asked whether they have been looking for a job during the past four weeks. The results are then scaled up, using estimates of the total population, to estimate the total number of employed and unemployed Americans.</p>
 </section>
@@ -104,7 +102,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-5" block_type="figure" numbered="true" number="14-2" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-2</strong></phrase></phrase> <phrase block_type="fig_title">Alternative Measures of Unemployment, 1994&#8211;2016</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-6" alt="image" src="images/KrugESS4e_fig_14_02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-6" alt="image" src="asset/ch14/KrugESS4e_fig_14_02.jpg"/>
 <caption>The unemployment number usually quoted in the news media counts someone as unemployed only if he or she has been looking for work during the past four weeks. Broader measures also count discouraged workers, marginally attached workers, and the underemployed. These broader measures show a higher unemployment rate, but they move closely in parallel with the standard rate.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
@@ -113,7 +111,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-6" block_type="figure" numbered="true" number="14-3" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-6"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-3</strong></phrase></phrase> <phrase block_type="fig_title">Unemployment Rates of Different Groups in 2007, 2010, and 2016</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-7" alt="image" src="images/KrugESS4e_fig_14_03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-7" alt="image" src="asset/ch14/KrugESS4e_fig_14_03.jpg"/>
 <caption>Unemployment rates vary greatly among different demographic groups. For example, although the overall unemployment rate in February 2016 was 4.9&#37;, the unemployment rate among African-American teenagers was 23.3&#37;. As a result, even during periods of low overall unemployment, unemployment remains a serious problem for some groups.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
@@ -126,7 +124,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-7" block_type="figure" numbered="true" number="14-4" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-7"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-4</strong></phrase></phrase> <phrase block_type="fig_title">Unemployment and Recessions, 1981&#8211;2016</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-8" alt="image" src="images/KrugESS4e_fig_14_04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-8" alt="image" src="asset/ch14/KrugESS4e_fig_14_04.jpg"/>
 <caption>This figure shows a close-up of the unemployment rate for the past three decades, with the shaded bars indicating recessions. It&#8217;s clear that unemployment always rises during recessions and usually falls during expansions. But in both the early 1990s and the early 2000s, unemployment continued to rise for some time after the recession was officially declared over.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics; National Bureau of Economic Research.</asset_source>
 </figure>
@@ -136,7 +134,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-8" block_type="figure" numbered="true" number="14-5" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-8"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-5</strong></phrase></phrase> <phrase block_type="fig_title">Growth and Changes in Unemployment, 1949&#8211;2015</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-9" alt="image" src="images/KrugESS4e_fig_14_05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-9" alt="image" src="asset/ch14/KrugESS4e_fig_14_05.jpg"/>
 <caption>Each dot shows the growth rate of the economy and the change in the unemployment rate for a specific year between 1949 and 2015. For example, in 2000 the economy grew 4.1&#37; and the unemployment rate fell 0.2 percentage points, from 4.2&#37; to 4.0&#37;. In general, the unemployment rate fell when growth was above its average rate of 3.22&#37; a year and rose when growth was below average. Unemployment always rose when real GDP fell.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics; Bureau of Economic Analysis.</asset_source>
 </figure>
@@ -151,7 +149,7 @@
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch14-p52" block_type="bx-2-t"><strong>Failure to Launch</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-2" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p53" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-10" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch14-p53" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-10" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch14-p54" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n March 2010, when the U.S. job situation was near its worst, the <em>Harvard Law Record</em> published a brief note titled &#8220;Unemployed law student will work for &#36;160K plus benefits.&#8221; In a self-mocking tone, the author admitted to having graduated from Harvard Law School the previous year but not landing a job offer. &#8220;What mark on our r&#233;sum&#233; is so bad that it outweighs the crimson H?&#8221; the note asked.</p>
 <p id="krugmanwellsessentials4e-ch14-p55" block_type="bx2-txt">The answer, of course, is that it wasn&#8217;t about the r&#233;sum&#233;&#8212;it was about the economy. Times of high unemployment are especially hard on new graduates, who often find it hard to get any kind of full-time job.</p>
@@ -159,7 +157,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-9" block_type="figure" numbered="true" number="14-6" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-9"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-6</strong></phrase></phrase> <phrase block_type="fig_title">Unemployment Rate for Recent College Graduates, 2007&#8211;2011</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-11" alt="image" src="images/KrugESS4e_fig_14_06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-11" alt="image" src="asset/ch14/KrugESS4e_fig_14_06.jpg"/>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
 </box>
@@ -207,7 +205,7 @@
 <p id="krugmanwellsessentials4e-ch14-p74" block_type="txt-ni">Even during good times, Americans lose their jobs. In July 2007, the U.S. unemployment rate was only 4.7&#37;, relatively low by historical standards. Yet in that month there were 4.5 million &#8220;job separations&#8221;&#8212;terminations of employment that occur because workers are either fired or quit voluntarily.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-12" alt="image" src="images/KrugESS4e_14UN01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-12" alt="image" src="asset/ch14/KrugESS4e_14UN01.jpg"/>
 <asset_source>&#169; The New Yorker Collection 2009 Christopher Weyant from <link href="http://www.cartoonbank.com">cartoonbank.com</link>. All Rights Reserved.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p75" block_type="txt">There are many reasons for such job loss. One is structural change in the economy: industries rise and fall as new technologies emerge and consumers&#8217; tastes change. For example, employment in high-tech industries such as telecommunications surged in the late 1990s but slumped after 2000. However, structural change also brings the creation of new jobs: after 2000, the number of jobs in the American health care sector surged as new medical technologies and an aging population increased the demand for medical care. Poor management performance or bad luck at individual companies also leads to job loss for employees.</p>
@@ -230,7 +228,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-11" block_type="figure" numbered="true" number="14-7" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-11"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-7</strong></phrase></phrase> <phrase block_type="fig_title">Labor Market Flows in an Average Month in 2007</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-13" alt="image" src="images/KrugESS4e_fig_14_07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-13" alt="image" src="asset/ch14/KrugESS4e_fig_14_07.jpg"/>
 <caption>Even in 2007, a low-unemployment year, large numbers of workers moved into and out of both employment and unemployment each month. On average, each month in 2007, 1.781 million unemployed became employed, and 1.929 million employed became unemployed.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
@@ -240,7 +238,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-12" block_type="figure" numbered="true" number="14-8" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-12"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-8</strong></phrase></phrase> <phrase block_type="fig_title">Distribution of the Unemployed by Duration of Unemployment, 2007</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-14" alt="image" src="images/KrugESS4e_fig_14_08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-14" alt="image" src="asset/ch14/KrugESS4e_fig_14_08.jpg"/>
 <caption>In years when the unemployment rate is low, most unemployed workers are unemployed for only a short period. In 2007, a year of low unemployment, 36&#37; of the unemployed had been unemployed for less than 5 weeks and 67&#37; for less than 15 weeks. The short duration of unemployment for most workers suggests that most unemployment in 2007 was frictional.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
@@ -257,7 +255,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-13" block_type="figure" numbered="true" number="14-9" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-13"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-9</strong></phrase></phrase> <phrase block_type="fig_title">The Effect of a Minimum Wage on a Labor Market</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-15" alt="image" src="images/KrugESS4e_fig_14_09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-15" alt="image" src="asset/ch14/KrugESS4e_fig_14_09.jpg"/>
 <caption>When the government sets a minimum wage, <em>W<sub>F</sub>,</em> that exceeds the market equilibrium wage rate in that market, <em>W<sub>E</sub>,</em> the number of <em>workers</em> who would like to work at that minimum wage, <em>Q<sub>S</sub>,</em> is greater than the number of workers demanded at that wage rate, <em>Q<sub>D</sub></em>. This surplus of labor is structural unemployment.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p91" block_type="txt">Even at the equilibrium wage rate <em>W<sub>E</sub>,</em> there will still be some frictional unemployment. That&#8217;s because there will always be some workers engaged in job search even when the number of jobs available is equal to the number of workers seeking jobs. But there wouldn&#8217;t be any structural unemployment in this labor market. <em>Structural unemployment occurs when the wage rate is, for some reason, persistently above W</em><sub>E</sub><em>.</em> Several factors can lead to a wage rate in excess of <em>W<sub>E</sub>,</em> the most important being minimum wages, labor unions, <em>efficiency wages,</em> the side effects of government policies, and mismatches between employees and employers.</p>
@@ -307,7 +305,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-14" block_type="figure" numbered="true" number="14-10" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-14"><phrase block_type="fig-label"> <phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-10</strong></phrase></phrase> <phrase block_type="fig_title">The Changing Makeup of the U.S. Labor Force, 1948&#8211;2016</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-16" alt="image" src="images/KrugESS4e_fig_14_10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-16" alt="image" src="asset/ch14/KrugESS4e_fig_14_10.jpg"/>
 <caption>In the 1970s the percentage of women in the labor force rose rapidly, as did the percentage of those under age 25. These changes reflected the entry of large numbers of women into the paid labor force for the first time and the fact that baby boomers were reaching working age. The natural rate of unemployment may have risen because many of these workers were relatively inexperienced. Today, the labor force is much more experienced, which is one possible reason the natural rate has fallen since the 1970s.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
@@ -318,17 +316,17 @@
 <p id="krugmanwellsessentials4e-ch14-p122" block_type="txt-3"><phrase block_type="h3-ri"><strong>Changes in Government Policies</strong></phrase> A high minimum wage can cause structural unemployment. Generous unemployment benefits can increase both structural and frictional unemployment. So government policies intended to help workers can have the undesirable side effect of raising the natural rate of unemployment.</p>
 <p id="krugmanwellsessentials4e-ch14-p123" block_type="txt">Some government policies, however, may reduce the natural rate. Two examples are job training and employment subsidies. Job-training programs are supposed to provide unemployed workers with skills that widen the range of jobs they can perform. Employment subsidies are payments either to workers or to employers that provide a financial incentive to accept or offer jobs.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx2-2" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch14-img-17" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch14-img-17" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch14-p124" block_type="bx-2-t"><strong>Structural Unemployment in East Germany</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-019" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p125" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-18" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch14-p125" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-18" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch14-p126" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>n one of the most dramatic events in world history, a spontaneous popular uprising in 1989 overthrew the communist dictatorship in East Germany. Citizens quickly tore down the wall that had divided Berlin, and in short order East and West Germany united into one democratic nation.</p>
 <p id="krugmanwellsessentials4e-ch14-p127" block_type="bx2-txt">Then the trouble started.</p>
 <p id="krugmanwellsessentials4e-ch14-p128" block_type="bx2-txt">After reunification, employment in East Germany plunged and the unemployment rate soared. This high unemployment rate has gradually come down, but remains well above the rate in the rest of Germany. In late 2014 the unemployment rate in what was formerly East Germany was more than 9&#37;, compared with 5.6&#37; in the former West Germany. Other parts of formerly communist Eastern Europe have done much better. For example, the Czech Republic, which was often cited along with East Germany as a relatively successful communist economy, had an unemployment rate of only 5.7&#37; in October 2014. What went wrong in East Germany?</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-19" alt="image" src="images/KrugESS4e_14UN02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-19" alt="image" src="asset/ch14/KrugESS4e_14UN02.jpg"/>
 <caption>After reunification in 1989, East Germany found itself suffering from severe structural unemployment that continues to this day.</caption>
 <asset_source>Robert Wallis/Corbis</asset_source>
 </figure>
@@ -372,7 +370,7 @@
 <p id="krugmanwellsessentials4e-ch14-p143" block_type="txt">An example of this kind of currency conversion happened in 2002, when France, like a number of other European countries, replaced its national currency, the franc, with the euro. People turned in their franc coins and notes, and received euro coins and notes in exchange, at a rate of precisely 6.55957 francs per euro. At the same time, all contracts were restated in euros at the same rate of exchange. For example, if a French citizen had a home mortgage debt of 500,000 francs, this became a debt of 500,000/6.55957 <strong>=</strong> 76,224.51 euros. If a worker&#8217;s contract specified that he or she should be paid 100 francs per hour, it became a contract specifying a wage of 100/6.55957 <strong>=</strong> 15.2449 euros per hour, and so on.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-16" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-20" alt="image" src="images/KrugESS4e_14UN03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-20" alt="image" src="asset/ch14/KrugESS4e_14UN03.jpg"/>
 <caption>Inflation can distort consumers&#8217; incentives about what and when to buy.</caption>
 <asset_source>AP Photo/Paul Sakuma</asset_source>
 </figure>
@@ -394,13 +392,13 @@
 <p id="krugmanwellsessentials4e-ch14-p151" block_type="txt">To see why, it&#8217;s crucial to distinguish between the <em>level of prices</em> and the <em>inflation rate:</em> the percent increase in the overall level of prices per year. Recall that the inflation rate is defined as follows:</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-17" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-21" alt="image" src="images/KrugESS4e_eqn_393_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-21" alt="image" src="asset/ch14/KrugESS4e_eqn_393_01.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p152" block_type="txt"><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-18">Figure 14-11</link> highlights the difference between the price level and the inflation rate in the United States over the last half-century, with the price level measured along the left vertical axis and the inflation rate measured along the right vertical axis. In the 2000s, the overall level of prices in America was much higher than it had been in 1960&#8212;but that, as we&#8217;ve learned, didn&#8217;t matter. The inflation rate in the 2000s, however, was much lower than in the 1970s&#8212;and that almost certainly made the economy richer than it would have been if high inflation had continued.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-18" block_type="figure" numbered="true" number="14-11" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-18"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-11</strong></phrase></phrase> <phrase block_type="fig_title">The U.S. Price Level versus the Inflation Rate, 1960&#8211;2016</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-22" alt="image" src="images/KrugESS4e_fig_14_11.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-22" alt="image" src="asset/ch14/KrugESS4e_fig_14_11.jpg"/>
 <caption>With the exception of 2009, over the past half-century the price level has continuously increased. But the <em>inflation rate</em>&#8212;the rate at which prices are rising&#8212;has had both ups and downs. And in 2009, the inflation rate briefly turned negative, a phenomenon called <em>deflation</em>.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
@@ -421,7 +419,7 @@
 <p id="krugmanwellsessentials4e_page_395" block_type="page_start">395</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-19" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-23" alt="image" src="images/KrugESS4e_14UN04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-23" alt="image" src="asset/ch14/KrugESS4e_14UN04.jpg"/>
 <caption>When one hundred trillion dollar bills are in circulation as they were in Zimbabwe, menu costs are substantial.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p162" block_type="txt">Menu costs are also present in low-inflation economies, but they are not severe. In low-inflation economies, businesses might update their prices only sporadically&#8212;not daily or even more frequently, as is the case in high-inflation or hyperinflation economies. Also, with the growing popularity of online shopping, menu costs are becoming less and less important, since prices can be changed electronically and fewer merchants attach price stickers to merchandise.</p>
@@ -464,22 +462,22 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-20" block_type="figure" numbered="true" number="14-2" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
 <caption><link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-20"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>14-12</strong></phrase></phrase> <phrase block_type="fig_title">The Cost of Disinflation</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-24" alt="image" src="images/KrugESS4e_fig_14_12.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-24" alt="image" src="asset/ch14/KrugESS4e_fig_14_12.jpg"/>
 <caption>There were two major periods of disinflation in modern U.S. history, in the mid-1970s and the early 1980s. This figure shows the track of the unemployment rate and the &#8220;core&#8221; inflation rate, which excludes food and energy, during these two episodes. In each case bringing inflation down required a temporary but very large increase in the unemployment rate, demonstrating the high cost of disinflation.</caption>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p181" block_type="txt">According to many economists, these periods of high unemployment that temporarily depressed the economy were necessary to reduce inflation that had become deeply embedded in the economy. The best way to avoid having to put the economy through a wringer to reduce inflation, however, is to avoid having a serious inflation problem in the first place. So policy makers respond forcefully to signs that inflation may be accelerating as a form of preventive medicine for the economy.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx2-3" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch14-img-25" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase><image asset-id="krugmanwellsessentials4e-ch14-img-25" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch14-p182" block_type="bx-2-t"><strong>Israel&#8217;s Experience with Inflation</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-029" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p183" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-26" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch14-p183" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-26" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch14-p184" block_type="bx2-first"><phrase block_type="dropcap">I</phrase>t&#8217;s often hard to see the costs of inflation clearly because serious inflation problems are often associated with other problems that disrupt economic life, notably war or political instability (or both). In the mid-1980s, however, Israel experienced a &#8220;clean&#8221; inflation: there was no war, the government was stable, and there was order in the streets. Yet a series of policy errors led to very high inflation, with prices often rising more than 10&#37; a month.</p>
 <p id="krugmanwellsessentials4e_page_398" block_type="page_start">398</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-21" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-27" alt="image" src="images/KrugESS4e_14UN05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-27" alt="image" src="asset/ch14/KrugESS4e_14UN05.jpg"/>
 <caption>The shoe-leather costs of inflation in Israel: when the inflation rate hit 500&#37; in 1985, people spent a lot of time in line at banks.</caption>
 <asset_source>Ricki Rosen/Corbis Saba</asset_source>
 </figure>
@@ -512,11 +510,11 @@
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx7-1" block_type="sum-h">
 <box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2"><strong>The Current Population Survey</strong></phrase></box-title></box-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-030" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p197" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-28" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+<p id="krugmanwellsessentials4e-ch14-p197" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-28" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
 </box>
 <p id="krugmanwellsessentials4e_page_399" block_type="page_start">399</p>
 <p id="krugmanwellsessentials4e-ch14-p198" block_type="wio-txt-ni">Every month, the U.S. Census Bureau surveys about 60,000 American households to gather information about the U.S. labor force for the Bureau of Labor Statistics. The survey, known as the Current Population Survey (CPS), provides information about employment, unemployment, earnings, work hours, and more. Once these data are collected, researchers at the Bureau of Labor Statistics publish a number of tables describing their findings. Please complete the following table and analyze the trend in the unemployment rate, the employment-population rate, and the labor force participation rate from October 2014 through October 2015. Then determine whether the unemployment rate in October 2015 is high or low by historical standards.</p>
-<table id="krugmanwellsessentials4e-ch14-untab-1" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-1" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch14-untab-1" block_type="un_table" data-href="asset/ch14/un_table_14_1.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -589,10 +587,10 @@
 <p id="krugmanwellsessentials4e-ch14-p200" block_type="wio-txt-ni">Equations 14-1 and 14-2 demonstrate how to calculate the labor force participation rate and the unemployment rate. The employment-population ratio is calculated as follows:</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-22" block_type="equation" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-29" alt="image" src="images/KrugESS4e_eqn_399_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-29" alt="image" src="asset/ch14/KrugESS4e_eqn_399_01.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p201" block_type="wio-txt-ni">This is the completed table.</p>
-<table id="krugmanwellsessentials4e-ch14-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-2" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch14-untab-2" block_type="un_table" data-href="asset/ch14/un_table_14_2.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -660,7 +658,7 @@
 </tr>
 </tbody>
 </table>
-<p id="krugmanwellsessentials4e-ch14-p202" block_type="wio-txt-ni">As shown in Equation 14-1 in the chapter, the participation rate is calculated by dividing the civilian labor force by the civilian noninstitutional population and then multiplying by 100. The October 2015 labor force participation rate is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-30" alt="image" src="images/KrugESS4e_ineqn_399_01.jpg"/>. As shown in Equation 14-2 in the chapter, the unemployment rate is calculated by dividing the unemployed by the civilian labor force and then multiplying by 100. The October 2015 unemployment rate is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-31" alt="image" src="images/KrugESS4e_ineqn_400_01.jpg"/>. The employment-population ratio is calculated by dividing the employed by the civilian noninstitutional population and then multiplying by 100. The October 2015 employment-population ratio is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-32" alt="image" src="images/KrugESS4e_ineqn_400_02.jpg"/>.</p>
+<p id="krugmanwellsessentials4e-ch14-p202" block_type="wio-txt-ni">As shown in Equation 14-1 in the chapter, the participation rate is calculated by dividing the civilian labor force by the civilian noninstitutional population and then multiplying by 100. The October 2015 labor force participation rate is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-30" alt="image" src="asset/ch14/KrugESS4e_ineqn_399_01.jpg"/>. As shown in Equation 14-2 in the chapter, the unemployment rate is calculated by dividing the unemployed by the civilian labor force and then multiplying by 100. The October 2015 unemployment rate is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-31" alt="image" src="asset/ch14/KrugESS4e_ineqn_400_01.jpg"/>. The employment-population ratio is calculated by dividing the employed by the civilian noninstitutional population and then multiplying by 100. The October 2015 employment-population ratio is therefore <image asset-id="krugmanwellsessentials4e-ch14-img-32" alt="image" src="asset/ch14/KrugESS4e_ineqn_400_02.jpg"/>.</p>
 <p id="krugmanwellsessentials4e_page_400" block_type="page_start">400</p>
 <p id="krugmanwellsessentials4e-ch14-p203" block_type="sp-stp-txt"><phrase block_type="step-green"><strong>STEP</strong></phrase> <strong>&#124;</strong> <phrase block_type="step-green"><strong>2</strong></phrase> <phrase block_type="step-title"><strong>Analyze the trend in the unemployment rate, the employmentpopulation rate, and the participation rate from October 2014 through October 2015. Is the unemployment rate in October 2015 high or low by historical standards?</strong>
 <phrase block_type="step-subtext">Read pages 378&#8211;379 and study <link href="krugmanwellsessentials4e-ch14.xml#krugmanwellsessentials4e-ch14-fig-2">Figure 14-1</link>.</phrase></phrase></p>
@@ -686,7 +684,7 @@
 <section id="krugmanwellsessentials4e-ch14-sec1-5" block_type="cr-kt-t" title="" chapter="14" numbered="true" level="1" print_page="401">
 <section-metadata><section-title>KEY TERMS</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-031" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p215" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-33" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch14-p215" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-33" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch14-p216" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p23">Employment, p. 378</link></p>
 <p id="krugmanwellsessentials4e-ch14-p217" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch14-p26">Unemployment, p. 378</link></p>
@@ -740,7 +738,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch14-question-5" block_type="q_prob" number="5">
 <p id="krugmanwellsessentials4e-ch14-p251" block_type="cr-que-nl-mid"><phrase block_type="qnum">5.</phrase> A country&#8217;s labor force is the sum of the number of employed and unemployed workers. The accompanying table provides data on the size of the labor force and the number of unemployed workers for different regions of the United States.</p>
-<table id="krugmanwellsessentials4e-ch14-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-3" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch14-untab-3" block_type="un_table" data-href="asset/ch14/un_table_14_3.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -819,7 +817,7 @@
 </list>
 <figure id="krugmanwellsessentials4e-ch14-fig-23" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-34" alt="image" src="images/KrugESS4e_14UN06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-34" alt="image" src="asset/ch14/KrugESS4e_14UN06.jpg"/>
 <asset_source><em>Data from:</em> OECD.</asset_source>
 </figure>
 </question>
@@ -836,12 +834,12 @@
 <p id="krugmanwellsessentials4e-ch14-p273" block_type="cr-que-nl-mid"><phrase block_type="qnum">10.</phrase> The accompanying diagram shows the interest rate on one-year loans and inflation during 1998&#8211;2013 in the economy of Albernia. When would one-year loans have been especially attractive and why?</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-24" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-35" alt="image" src="images/KrugESS4e_14UN07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-35" alt="image" src="asset/ch14/KrugESS4e_14UN07.jpg"/>
 </figure>
 </question>
 <question id="krugmanwellsessentials4e-ch14-question-11" block_type="q_prob" number="11">
 <p id="krugmanwellsessentials4e-ch14-p274" block_type="cr-que-nl-mid"><phrase block_type="qnum">11.</phrase> The accompanying table provides the inflation rate in the year 2000 and the average inflation rate over the period 2001&#8211;2013 for seven different countries.</p>
-<table id="krugmanwellsessentials4e-ch14-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch14-untab-4" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch14-untab-4" block_type="un_table" data-href="asset/ch14/un_table_14_4.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -898,7 +896,7 @@
 <p id="krugmanwellsessentials4e-ch14-p278" block_type="cr-que-nl-mid"><phrase block_type="qnum">12.</phrase> The accompanying diagram shows the inflation rate in the United Kingdom from 1980 to 2013.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-25" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-36" alt="image" src="images/KrugESS4e_14UN08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-36" alt="image" src="asset/ch14/KrugESS4e_14UN08.jpg"/>
 <asset_source><em>Data from:</em> IMF.</asset_source>
 </figure>
 <list id="krugmanwellsessentials4e-ch14-list-17" type="ordered" block_type="loweralpha">
@@ -910,13 +908,13 @@
 <section id="krugmanwellsessentials4e-ch14-sec1-7" block_type="sum-h" title="" chapter="14" numbered="true" level="1" print_page="403">
 <section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch14-exp2-032" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch14-p281" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-37" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch14-p281" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch14-img-37" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <question id="krugmanwellsessentials4e-ch14-question-13" block_type="q_prob" number="13">
 <p id="krugmanwellsessentials4e-ch14-p282" block_type="cr-wio-nl-first"><phrase block_type="qnum">13.</phrase> There is only one labor market in Profunctia. All workers have the same skills, and all firms hire workers with these skills. Use the accompanying diagram, which shows the supply of and demand for labor, to answer the following questions. Illustrate each answer with a diagram.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-26" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-38" alt="image" src="images/KrugESS4e_14UN09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-38" alt="image" src="asset/ch14/KrugESS4e_14UN09.jpg"/>
 </figure>
 <list id="krugmanwellsessentials4e-ch14-list-18" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch14-p283" block_type="cr-wio-ans-first">What is the equilibrium wage rate in Profunctia? At this wage rate, what are the level of employment, the size of the labor force, and the unemployment rate?</p></li>
@@ -932,7 +930,7 @@
 <box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>The Business Cycle and the Decline of Montgomery Ward</strong></box-title></box-metadata>
 <figure id="krugmanwellsessentials4e-ch14-fig-27" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-39" alt="image" src="images/KrugESS4e_14UN10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-39" alt="image" src="asset/ch14/KrugESS4e_14UN10.jpg"/>
 <asset_source>Chicago History Museum/Getty Images</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e_page_404" block_type="page_start">404</p>
@@ -942,7 +940,7 @@
 <figure id="krugmanwellsessentials4e-ch14-fig-28" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <caption><strong>Department Store Sales Index, 1919&#8211;1946</strong></caption>
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-40" alt="image" src="images/KrugESS4e_14UN11.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-40" alt="image" src="asset/ch14/KrugESS4e_14UN11.jpg"/>
 <asset_source><em>Data from:</em> National Bureau of Economic Research.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p291" block_type="bx5-txt">Nothing in business is forever. Eventually Sears too entered a long, slow decline. First it was overtaken by newer retailers like Walmart, whose &#8220;big box&#8221; stores didn&#8217;t sell large appliances but generally sold other goods more cheaply than Sears, in part because Walmart used information technology to hold costs down. More recently, the rise of internet sales has hurt traditional retailers of all kinds. But Montgomery Ward&#8217;s self-inflicted defeat in the years after World War II nonetheless shows how important it is for businesses to understand what is happening in the broader economic environment&#8212;that is, to take macroeconomics into account.</p>
@@ -953,14 +951,14 @@
 <li><p id="krugmanwellsessentials4e-ch14-p295" block_type="bx5-nl">Economists believe that improvements in our macroeconomic understanding over the course of the 1930s led to better policies thereafter. If this is true, how did better policies after World War II end up hurting Montgomery Ward?</p></li>
 </list>
 </box>
-<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-5" block_type="bcbx5-h">
 <p id="krugmanwellsessentials4e_page_405" block_type="page_start">405</p>
+<box title="" numbered="false" id="krugmanwellsessentials4e-ch14-bx5-5" block_type="bcbx5-h">
 <box-metadata><box-title><phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase> <strong>Getting a Jump on GDP</strong></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch14-p297" block_type="bx5-txt-ni"><phrase block_type="dropcap">G</phrase>DP matters. Investors and business leaders are always anxious to get the latest numbers. When the Bureau of Economic Analysis releases its first estimate of each quarter&#8217;s GDP, normally on the 27th or 28th day of the month after the quarter ends, it&#8217;s invariably a big news story.</p>
 <p id="krugmanwellsessentials4e-ch14-p298" block_type="txt">In fact, many companies and other players in the economy are so eager to know what&#8217;s happening to GDP that they don&#8217;t want to wait for the official estimate. So a number of organizations produce numbers that can be used to predict what the official GDP number will say. Let&#8217;s talk about two of those organizations, the economic consulting firm Macroeconomic Advisers and the nonprofit Institute for Supply Management.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-29" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-41" alt="image" src="images/KrugESS4e_14UN12.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-41" alt="image" src="asset/ch14/KrugESS4e_14UN12.jpg"/>
 <asset_source>Monkey Business Images/Shutterstock</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p299" block_type="bx5-txt">Macroeconomic Advisers takes a direct approach: it produces its own estimates of GDP based on raw data from the U.S. government. But whereas the Bureau of Economic Analysis estimates GDP only on a quarterly basis, Macroeconomic Advisers produces monthly estimates. This means that clients can, for example, look at the estimates for January and February and make a pretty good guess at what first-quarter GDP, which also includes March, will turn out to be. The monthly estimates are derived by looking at a number of monthly measures that track purchases, such as car and truck sales, new housing construction, and exports.</p>
@@ -980,14 +978,14 @@
 <p id="krugmanwellsessentials4e-ch14-p308" block_type="bx5-txt-ni"><phrase block_type="dropcap">B</phrase>y the usual measures, California-based Elance-oDesk is a pretty small business, with only 250 employees. But in mid-2014 it was supplying workers to 2.5 million businesses. Elance-oDesk could do that because it doesn&#8217;t offer services directly; instead, it operates as an online marketplace, matching employers with freelance workers.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-30" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch14-img-42" alt="image" src="images/KrugESS4e_14UN13.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-42" alt="image" src="asset/ch14/KrugESS4e_14UN13.jpg"/>
 <asset_source>The Photo Works</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p309" block_type="bx5-txt">While most American workers consistently work for a single employer, temporary workers have always accounted for a significant portion of the labor force. On urban street corners across America, workers line up early each morning in the hope of getting day jobs in industries like construction where the need for workers fluctuates, sometimes unpredictably. For more skilled workers, there are temporary staffing agencies like Allegis Group that provide workers on a subcontracting basis, from a few days to months at a time. The figure shows the share of temporary employment accounted for by these agencies in total employment. As you can see, in the late stages of the economic expansion in the 1990s and the 2000s, temporary employment soared as companies needed more workers but had difficulty hiring permanent employees in a tight labor market. Temporary employment then proceeded to plunge once demand for additional workers fell off.</p>
 <figure id="krugmanwellsessentials4e-ch14-fig-31" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><strong>The Rise in Temporary Employment, 1990&#8211;2014</strong></caption>
-<image asset-id="krugmanwellsessentials4e-ch14-img-43" alt="image" src="images/KrugESS4e_14UN14.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch14-img-43" alt="image" src="asset/ch14/KrugESS4e_14UN14.jpg"/>
 <asset_source><em>Data from:</em> Bureau of Labor Statistics.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch14-p310" block_type="bx5-txt">At first glance, the rapid growth of temporary employment since the end of the 2007&#8211;2009 recession might seem to follow the same pattern. But this time companies were hiring temporary workers in a weak labor market. With more than three times as many Americans seeking work as there were job openings, companies shouldn&#8217;t have had any trouble hiring. So why the surge in temp work?</p>
@@ -995,11 +993,10 @@
 <p id="krugmanwellsessentials4e-ch14-p312" block_type="bx5-txt">By 2014 Elance-oDesk was serving more than 8 million workers (three-quarters of them outside the United States), twice as many as in 2012. Growth like that indicates the economy may be undergoing a fundamental shift in the way work is structured, one in which temporary arrangements of convenience replace long-term commitment.</p>
 <p id="krugmanwellsessentials4e-ch14-p313" block_type="bx5-nl-h"><strong>QUESTIONS FOR THOUGHT</strong></p>
 <list id="krugmanwellsessentials4e-ch14-list-21" type="ordered" block_type="numbered">
-<li><p id="krugmanwellsessentials4e-ch14-p314" block_type="bx5-nl">Use the flows shown in <link href="#krugmanwellsessentials4e-ch14-fig-11">Figure 14-7</link> to explain the role of temporary staffing in the economy.</p></li>
+<li><p id="krugmanwellsessentials4e-ch14-p314" block_type="bx5-nl">Use the flows shown in <link href="asset/ch14/KrugESS4e_fig_14_07.html">Figure 14-7</link> to explain the role of temporary staffing in the economy.</p></li>
 <li><p id="krugmanwellsessentials4e-ch14-p315" block_type="bx5-nl">What is the likely effect of improved matching of job-seekers and employers through online services listings on the unemployment rate?</p></li>
 <li><p id="krugmanwellsessentials4e-ch14-p316" block_type="bx5-nl">What does the fact that temporary staffing fell sharply during the 2008&#8211;2009 surge in unemployment suggest about the nature of that surge?</p></li>
 </list>
 </box>
 </section>
 </chapter>
-</manuscript>

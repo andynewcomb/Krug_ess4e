@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<manifest id="krugmanwellsessentials4e" timestamp="1463610318" supp_win="0"><manuscript id="5731e764757a2eee68000000" title="CHAPTER 1: First Principles" question-delivery-method="ARGA" number="1">
+<manifest id="krugmanwellsessentials4e" timestamp="1464042532" supp_win="0"><manuscript id="5731e764757a2eee68000000" title="CHAPTER 1: First Principles" question-delivery-method="ARGA" number="1">
     <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch1-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch1_1.html" dlapFilename="krugmanwellsessentials4e_ch1_1_dlap.xml" numquestions="0"/>
     <section number="1.1" id="krugmanwellsessentials4e-ch1-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch1_2.html" dlapFilename="krugmanwellsessentials4e_ch1_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>The Ordinary Business of Life</title>
@@ -86,7 +86,7 @@
     </section>
     <section number="2.2" id="krugmanwellsessentials4e-ch2-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch2_3.html" dlapFilename="krugmanwellsessentials4e_ch2_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>Using Models</title>
-      <section id="idp7143936" folder="false">
+      <section id="idm415312784" folder="false">
         <title>Positive versus Normative Economics</title>
       </section>
       <section id="krugmanwellsessentials4e-ch2-sec2-5" folder="false">
@@ -181,7 +181,7 @@
     </section>
   </manuscript><manuscript id="5731e7db757a2e3064000000" title="CHAPTER 4: Price Controls and Quotas: Meddling with Markets" question-delivery-method="ARGA" number="4">
     <section title="Consumer Surplus and the Demand Curve" id="krugmanwellsessentials4e-ch4-sec1-001" folder="false" filename="krugmanwellsessentials4e_ch4_1.html" dlapFilename="krugmanwellsessentials4e_ch4_1_dlap.xml" numquestions="0"/>
-    <section number="4.1" id="idm234547280" folder="true" filename="krugmanwellsessentials4e_ch4_2.html" dlapFilename="krugmanwellsessentials4e_ch4_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+    <section number="4.1" id="idp218384" folder="true" filename="krugmanwellsessentials4e_ch4_2.html" dlapFilename="krugmanwellsessentials4e_ch4_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>Consumer Surplus and the Demand Curve</title>
       <section id="krugmanwellsessentials4e-ch4-sec2-001" folder="false">
         <title>Willingness to Pay and the Demand Curve</title>
@@ -246,7 +246,7 @@
     </section>
   </manuscript><manuscript id="5731e805757a2e5f68000000" title="CHAPTER 5: Elasticity and Taxation" question-delivery-method="ARGA" number="5">
     <section title="Defining and Measuring Elasticity" id="krugmanwellsessentials4e-ch5-sec1-001" folder="false" filename="krugmanwellsessentials4e_ch5_1.html" dlapFilename="krugmanwellsessentials4e_ch5_1_dlap.xml" numquestions="0"/>
-    <section number="5.1" id="idp4233184" folder="true" filename="krugmanwellsessentials4e_ch5_2.html" dlapFilename="krugmanwellsessentials4e_ch5_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+    <section number="5.1" id="idp6511952" folder="true" filename="krugmanwellsessentials4e_ch5_2.html" dlapFilename="krugmanwellsessentials4e_ch5_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
       <title>Defining and Measuring Elasticity</title>
       <section id="krugmanwellsessentials4e-ch5-sec2-001" folder="false">
         <title>Calculating the Price Elasticity of Demand</title>
@@ -316,6 +316,1004 @@
       <title>PROBLEMS</title>
     </section>
     <section number="5.11" id="krugmanwellsessentials4e-ch5-sec1-7a" folder="false" filename="krugmanwellsessentials4e_ch5_12.html" dlapFilename="krugmanwellsessentials4e_ch5_12_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="57437e84757a2edd1d000000" title="CHAPTER 6: Behind the Supply Curve: Inputs and Costs" question-delivery-method="ARGA" number="6">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch6-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch6_1.html" dlapFilename="krugmanwellsessentials4e_ch6_1_dlap.xml" numquestions="0"/>
+    <section number="6.1" id="krugmanwellsessentials4e-ch6-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch6_2.html" dlapFilename="krugmanwellsessentials4e_ch6_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Production Function</title>
+      <section id="krugmanwellsessentials4e-ch6-sec2-1" folder="false">
+        <title>Inputs and Output</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch6-sec2-2" folder="false">
+        <title>From the Production Function to Cost Curves</title>
+      </section>
+    </section>
+    <section number="6.2" id="krugmanwellsessentials4e-ch6-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch6_3.html" dlapFilename="krugmanwellsessentials4e_ch6_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Two Key Concepts: Marginal Cost and Average Cost</title>
+      <section id="krugmanwellsessentials4e-ch6-sec2-3" folder="false">
+        <title>Marginal Cost</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch6-sec2-4" folder="false">
+        <title>Average Total Cost</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch6-sec2-5" folder="false">
+        <title>Minimum Average Total Cost</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch6-sec2-6" folder="false">
+        <title>Does the Marginal Cost Curve Always Slope Upward?</title>
+      </section>
+    </section>
+    <section number="6.3" id="krugmanwellsessentials4e-ch6-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch6_4.html" dlapFilename="krugmanwellsessentials4e_ch6_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Short-Run versus Long-Run Costs</title>
+      <section id="krugmanwellsessentials4e-ch6-sec2-7" folder="false">
+        <title>Returns to Scale</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch6-sec2-8" folder="false">
+        <title>Summing Up Costs: The Short and Long of It</title>
+      </section>
+    </section>
+    <section number="6.4" id="krugmanwellsessentials4e-ch6-sec1-4" folder="false" filename="krugmanwellsessentials4e_ch6_5.html" dlapFilename="krugmanwellsessentials4e_ch6_5_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="6.5" id="krugmanwellsessentials4e-ch6-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch6_6.html" dlapFilename="krugmanwellsessentials4e_ch6_6_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="6.6" id="krugmanwellsessentials4e-ch6-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch6_7.html" dlapFilename="krugmanwellsessentials4e_ch6_7_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="6.7" id="krugmanwellsessentials4e-ch6-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch6_8.html" dlapFilename="krugmanwellsessentials4e_ch6_8_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="6.8" id="krugmanwellsessentials4e-ch6-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch6_9.html" dlapFilename="krugmanwellsessentials4e_ch6_9_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="57437ee9757a2eda1d000000" title="CHAPTER 7: Perfect Competition and the Supply Curve" question-delivery-method="ARGA" number="7">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch7-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch7_1.html" dlapFilename="krugmanwellsessentials4e_ch7_1_dlap.xml" numquestions="0"/>
+    <section number="7.1" id="krugmanwellsessentials4e-ch7-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch7_2.html" dlapFilename="krugmanwellsessentials4e_ch7_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Perfect Competition</title>
+      <section id="krugmanwellsessentials4e-ch7-sec2-1" folder="false">
+        <title>Defining Perfect Competition</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-2" folder="false">
+        <title>Two Necessary Conditions for Perfect Competition</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-3" folder="false">
+        <title>Free Entry and Exit</title>
+      </section>
+    </section>
+    <section number="7.2" id="krugmanwellsessentials4e-ch7-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch7_3.html" dlapFilename="krugmanwellsessentials4e_ch7_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Production and Profits</title>
+      <section id="krugmanwellsessentials4e-ch7-sec2-4" folder="false">
+        <title>Using Marginal Analysis to Choose the Profit-Maximizing Quantity of Output</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-5" folder="false">
+        <title>When Is Production Profitable?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-6" folder="false">
+        <title>The Short-Run Production Decision</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-7" folder="false">
+        <title>Changing Fixed Cost</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-8" folder="false">
+        <title>Summing Up: The Perfectly Competitive Firm&#x2019;s Profitability and Production Conditions</title>
+      </section>
+    </section>
+    <section number="7.3" id="krugmanwellsessentials4e-ch7-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch7_4.html" dlapFilename="krugmanwellsessentials4e_ch7_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Industry Supply Curve</title>
+      <section id="krugmanwellsessentials4e-ch7-sec2-9" folder="false">
+        <title>The Short-Run Industry Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-10" folder="false">
+        <title>The Long-Run Industry Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch7-sec2-11" folder="false">
+        <title>The Cost of Production and Efficiency in Long-Run Equilibrium</title>
+      </section>
+    </section>
+    <section number="7.4" id="krugmanwellsessentials4e-ch7-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch7_5.html" dlapFilename="krugmanwellsessentials4e_ch7_5_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="7.5" id="krugmanwellsessentials4e-ch7-sec1-4" folder="false" filename="krugmanwellsessentials4e_ch7_6.html" dlapFilename="krugmanwellsessentials4e_ch7_6_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="7.6" id="krugmanwellsessentials4e-ch7-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch7_7.html" dlapFilename="krugmanwellsessentials4e_ch7_7_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="7.7" id="idm4927008" folder="false" filename="krugmanwellsessentials4e_ch7_8.html" dlapFilename="krugmanwellsessentials4e_ch7_8_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="7.8" id="krugmanwellsessentials4e-ch7-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch7_9.html" dlapFilename="krugmanwellsessentials4e_ch7_9_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+    <section number="7.9" id="krugmanwellsessentials4e-ch7-sec1-7a" folder="false" filename="krugmanwellsessentials4e_ch7_10.html" dlapFilename="krugmanwellsessentials4e_ch7_10_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="57437f1f757a2eb01d000000" title="CHAPTER 8: Monopoly" question-delivery-method="ARGA" number="8">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch8-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch8_1.html" dlapFilename="krugmanwellsessentials4e_ch8_1_dlap.xml" numquestions="0"/>
+    <section number="8.1" id="krugmanwellsessentials4e-ch8-sec1-1" folder="false" filename="krugmanwellsessentials4e_ch8_2.html" dlapFilename="krugmanwellsessentials4e_ch8_2_dlap.xml" numquestions="0">
+      <title>Types of Market Structure</title>
+    </section>
+    <section number="8.2" id="krugmanwellsessentials4e-ch8-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch8_3.html" dlapFilename="krugmanwellsessentials4e_ch8_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Meaning of Monopoly</title>
+      <section id="krugmanwellsessentials4e-ch8-sec2-1" folder="false">
+        <title>Monopoly: Our First Departure from Perfect Competition</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-2" folder="false">
+        <title>What Monopolists Do</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-3" folder="false">
+        <title>Why Do Monopolies Exist?</title>
+      </section>
+    </section>
+    <section number="8.3" id="krugmanwellsessentials4e-ch8-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch8_4.html" dlapFilename="krugmanwellsessentials4e_ch8_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>How a Monopolist Maximizes Profit</title>
+      <section id="krugmanwellsessentials4e-ch8-sec2-4" folder="false">
+        <title>The Monopolist&#x2019;s Demand Curve and Marginal Revenue</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-5" folder="false">
+        <title>The Monopolist&#x2019;s Profit-Maximizing Output and Price</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-6" folder="false">
+        <title>Monopoly versus Perfect Competition</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-7" folder="false">
+        <title>Monopoly: The General Picture</title>
+      </section>
+    </section>
+    <section number="8.4" id="krugmanwellsessentials4e-ch8-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch8_5.html" dlapFilename="krugmanwellsessentials4e_ch8_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Monopoly and Public Policy</title>
+      <section id="krugmanwellsessentials4e-ch8-sec2-8" folder="false">
+        <title>Welfare Effects of Monopoly</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-9" folder="false">
+        <title>Preventing Monopoly</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-10" folder="false">
+        <title>Dealing with Natural Monopoly</title>
+      </section>
+    </section>
+    <section number="8.5" id="krugmanwellsessentials4e-ch8-sec1-5" folder="true" filename="krugmanwellsessentials4e_ch8_6.html" dlapFilename="krugmanwellsessentials4e_ch8_6_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Price Discrimination</title>
+      <section id="krugmanwellsessentials4e-ch8-sec2-11" folder="false">
+        <title>The Logic of Price Discrimination</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch8-sec2-12" folder="false">
+        <title>Perfect Price Discrimination</title>
+      </section>
+    </section>
+    <section number="8.6" id="krugmanwellsessentials4e-ch8-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch8_7.html" dlapFilename="krugmanwellsessentials4e_ch8_7_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="8.7" id="idp5483840" folder="false" filename="krugmanwellsessentials4e_ch8_8.html" dlapFilename="krugmanwellsessentials4e_ch8_8_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="8.8" id="krugmanwellsessentials4e-ch8-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch8_9.html" dlapFilename="krugmanwellsessentials4e_ch8_9_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="8.9" id="krugmanwellsessentials4e-ch8-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch8_10.html" dlapFilename="krugmanwellsessentials4e_ch8_10_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="8.10" id="krugmanwellsessentials4e-ch8-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch8_11.html" dlapFilename="krugmanwellsessentials4e_ch8_11_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="57437f7d757a2eab1d000000" title="CHAPTER 9: Oligopoly and Monopolistic Competition" question-delivery-method="ARGA" number="9">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch9-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch9_1.html" dlapFilename="krugmanwellsessentials4e_ch9_1_dlap.xml" numquestions="0"/>
+    <section number="9.1" id="krugmanwellsessentials4e-ch9-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch9_2.html" dlapFilename="krugmanwellsessentials4e_ch9_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Meaning of Oligopoly</title>
+      <section id="krugmanwellsessentials4e-ch9-sec2-1" folder="false">
+        <title>Understanding Oligopoly</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch9-sec2-2" folder="false">
+        <title>Oligopoly in Practice</title>
+      </section>
+    </section>
+    <section number="9.2" id="krugmanwellsessentials4e-ch9-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch9_3.html" dlapFilename="krugmanwellsessentials4e_ch9_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Games Oligopolists Play</title>
+      <section id="krugmanwellsessentials4e-ch9-sec2-3" folder="false">
+        <title>The Prisoners&#x2019; Dilemma</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch9-sec2-4" folder="false">
+        <title>Repeated Interaction and Tacit Collusion</title>
+      </section>
+    </section>
+    <section number="9.3" id="krugmanwellsessentials4e-ch9-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch9_4.html" dlapFilename="krugmanwellsessentials4e_ch9_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Meaning of Monopolistic Competition</title>
+      <section id="krugmanwellsessentials4e-ch9-sec2-5" folder="false">
+        <title>Large Numbers</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch9-sec2-6" folder="false">
+        <title>Free Entry and Exit in the Long Run</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch9-sec2-7" folder="false">
+        <title>Differentiated Products</title>
+      </section>
+    </section>
+    <section number="9.4" id="idm4198528" folder="false" filename="krugmanwellsessentials4e_ch9_5.html" dlapFilename="krugmanwellsessentials4e_ch9_5_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="9.5" id="krugmanwellsessentials4e-ch9-sec1-4" folder="false" filename="krugmanwellsessentials4e_ch9_6.html" dlapFilename="krugmanwellsessentials4e_ch9_6_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="9.6" id="krugmanwellsessentials4e-ch9-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch9_7.html" dlapFilename="krugmanwellsessentials4e_ch9_7_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="9.7" id="krugmanwellsessentials4e-ch9-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch9_8.html" dlapFilename="krugmanwellsessentials4e_ch9_8_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="9.8" id="krugmanwellsessentials4e-ch9-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch9_9.html" dlapFilename="krugmanwellsessentials4e_ch9_9_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+    <section number="9.9" id="krugmanwellsessentials4e-ch9-sec1-7a" folder="false" filename="krugmanwellsessentials4e_ch9_10.html" dlapFilename="krugmanwellsessentials4e_ch9_10_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="57437fc2757a2e521d000000" title="CHAPTER 10: Externalities and Public Goods" question-delivery-method="ARGA" number="10">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch10-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch10_1.html" dlapFilename="krugmanwellsessentials4e_ch10_1_dlap.xml" numquestions="0"/>
+    <section number="10.1" id="krugmanwellsessentials4e-ch10-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch10_2.html" dlapFilename="krugmanwellsessentials4e_ch10_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Externalities</title>
+      <section id="krugmanwellsessentials4e-ch10-sec2-1" folder="false">
+        <title>Pollution: An External Cost</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-2" folder="false">
+        <title>The Socially Optimal Quantity of Pollution</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-3" folder="false">
+        <title>Why a Market Economy Produces Too Much Pollution</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-4" folder="false">
+        <title>Private Solutions to Externalities</title>
+      </section>
+    </section>
+    <section number="10.2" id="krugmanwellsessentials4e-ch10-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch10_3.html" dlapFilename="krugmanwellsessentials4e_ch10_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Policies Toward Pollution</title>
+      <section id="krugmanwellsessentials4e-ch10-sec2-5" folder="false">
+        <title>Environmental Standards</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-6" folder="false">
+        <title>Emissions Taxes</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-7" folder="false">
+        <title>Tradable Emissions Permits</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-8" folder="false">
+        <title>Comparing Environmental Policies with an Example</title>
+      </section>
+    </section>
+    <section number="10.3" id="krugmanwellsessentials4e-ch10-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch10_4.html" dlapFilename="krugmanwellsessentials4e_ch10_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Positive Externalities</title>
+      <section id="krugmanwellsessentials4e-ch10-sec2-9" folder="false">
+        <title>Preserved Farmland: An External Benefit</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-10" folder="false">
+        <title>Positive Externalities in Today&#x2019;s Economy</title>
+      </section>
+    </section>
+    <section number="10.4" id="krugmanwellsessentials4e-ch10-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch10_5.html" dlapFilename="krugmanwellsessentials4e_ch10_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Public Goods</title>
+      <section id="krugmanwellsessentials4e-ch10-sec2-11" folder="false">
+        <title>Characteristics of Goods</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-12" folder="false">
+        <title>Why Markets Can Supply Only Private Goods Efficiently</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-13" folder="false">
+        <title>Providing Public Goods</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-14" folder="false">
+        <title>How Much of a Public Good Should Be Provided?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch10-sec2-15" folder="false">
+        <title>Cost-Benefit Analysis</title>
+      </section>
+    </section>
+    <section number="10.5" id="krugmanwellsessentials4e-ch10-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch10_6.html" dlapFilename="krugmanwellsessentials4e_ch10_6_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="10.6" id="krugmanwellsessentials4e-ch10-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch10_7.html" dlapFilename="krugmanwellsessentials4e_ch10_7_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="10.7" id="krugmanwellsessentials4e-ch10-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch10_8.html" dlapFilename="krugmanwellsessentials4e_ch10_8_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="10.8" id="krugmanwellsessentials4e-ch10-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch10_9.html" dlapFilename="krugmanwellsessentials4e_ch10_9_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="10.9" id="krugmanwellsessentials4e-ch10-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch10_10.html" dlapFilename="krugmanwellsessentials4e_ch10_10_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="57437ffe757a2edc1d000000" title="CHAPTER 11: Poverty, Inequality, and the Welfare State" question-delivery-method="ARGA" number="11">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch11-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch11_1.html" dlapFilename="krugmanwellsessentials4e_ch11_1_dlap.xml" numquestions="0"/>
+    <section number="11.1" id="krugmanwellsessentials4e-ch11-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch11_2.html" dlapFilename="krugmanwellsessentials4e_ch11_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Poverty, Inequality, and Public Policy</title>
+      <section id="krugmanwellsessentials4e-ch11-sec2-1" folder="false">
+        <title>The Logic of the Welfare State</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-2" folder="false">
+        <title>The Problem of Poverty</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-3" folder="false">
+        <title>Economic Inequality</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-4" folder="false">
+        <title>Economic Insecurity</title>
+      </section>
+    </section>
+    <section number="11.2" id="krugmanwellsessentials4e-ch11-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch11_3.html" dlapFilename="krugmanwellsessentials4e_ch11_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The U.S. Welfare State</title>
+      <section id="krugmanwellsessentials4e-ch11-sec2-5" folder="false">
+        <title>Means-Tested Programs</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-6" folder="false">
+        <title>Social Security and Unemployment Insurance</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-7" folder="false">
+        <title>The Effects of the Welfare State on Poverty and Inequality</title>
+      </section>
+    </section>
+    <section number="11.3" id="krugmanwellsessentials4e-ch11-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch11_4.html" dlapFilename="krugmanwellsessentials4e_ch11_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Economics of Health Care</title>
+      <section id="krugmanwellsessentials4e-ch11-sec2-8" folder="false">
+        <title>The Need for Health Insurance</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-9" folder="false">
+        <title>Government Health Insurance</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-10" folder="false">
+        <title>Health Care in Other Countries</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-11" folder="false">
+        <title>The Affordable Care Act</title>
+      </section>
+    </section>
+    <section number="11.4" id="krugmanwellsessentials4e-ch11-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch11_5.html" dlapFilename="krugmanwellsessentials4e_ch11_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Debate over the Welfare State</title>
+      <section id="krugmanwellsessentials4e-ch11-sec2-12" folder="false">
+        <title>Problems with the Welfare State</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch11-sec2-13" folder="false">
+        <title>The Politics of the Welfare State</title>
+      </section>
+    </section>
+    <section number="11.5" id="krugmanwellsessentials4e-ch11-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch11_6.html" dlapFilename="krugmanwellsessentials4e_ch11_6_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="11.6" id="krugmanwellsessentials4e-ch11-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch11_7.html" dlapFilename="krugmanwellsessentials4e_ch11_7_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="11.7" id="krugmanwellsessentials4e-ch11-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch11_8.html" dlapFilename="krugmanwellsessentials4e_ch11_8_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="11.8" id="krugmanwellsessentials4e-ch11-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch11_9.html" dlapFilename="krugmanwellsessentials4e_ch11_9_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+    <section number="11.9" id="krugmanwellsessentials4e-ch11-sec1-7a" folder="false" filename="krugmanwellsessentials4e_ch11_10.html" dlapFilename="krugmanwellsessentials4e_ch11_10_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="57438031757a2eb01d000001" title="CHAPTER 12: Macroeconomics: The Big Picture" question-delivery-method="ARGA" number="12">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch12-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch12_1.html" dlapFilename="krugmanwellsessentials4e_ch12_1_dlap.xml" numquestions="0"/>
+    <section number="12.1" id="krugmanwellsessentials4e-ch12-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch12_2.html" dlapFilename="krugmanwellsessentials4e_ch12_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Nature of Macroeconomics</title>
+      <section id="krugmanwellsessentials4e-ch12-sec2-1" folder="false">
+        <title>Macroeconomic Questions</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch12-sec2-2" folder="false">
+        <title>Macroeconomics: The Whole Is Greater Than the Sum of Its Parts</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch12-sec2-3" folder="false">
+        <title>Macroeconomics: Theory and Policy</title>
+      </section>
+    </section>
+    <section number="12.2" id="krugmanwellsessentials4e-ch12-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch12_3.html" dlapFilename="krugmanwellsessentials4e_ch12_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Business Cycle</title>
+      <section id="krugmanwellsessentials4e-ch12-sec2-4" folder="false">
+        <title>Charting the Business Cycle</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch12-sec2-5" folder="false">
+        <title>The Pain of Recession</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch12-sec2-6" folder="false">
+        <title>Taming the Business Cycle</title>
+      </section>
+    </section>
+    <section number="12.3" id="krugmanwellsessentials4e-ch12-sec1-3" folder="false" filename="krugmanwellsessentials4e_ch12_4.html" dlapFilename="krugmanwellsessentials4e_ch12_4_dlap.xml" numquestions="0">
+      <title>Long-Run Economic Growth</title>
+    </section>
+    <section number="12.4" id="krugmanwellsessentials4e-ch12-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch12_5.html" dlapFilename="krugmanwellsessentials4e_ch12_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Inflation and Deflation</title>
+      <section id="krugmanwellsessentials4e-ch12-sec2-7" folder="false">
+        <title>The Causes of Inflation and Deflation</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch12-sec2-8" folder="false">
+        <title>The Pain of Inflation and Deflation</title>
+      </section>
+    </section>
+    <section number="12.5" id="krugmanwellsessentials4e-ch12-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch12_6.html" dlapFilename="krugmanwellsessentials4e_ch12_6_dlap.xml" numquestions="0">
+      <title>International Imbalances</title>
+    </section>
+    <section number="12.6" id="krugmanwellsessentials4e-ch12-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch12_7.html" dlapFilename="krugmanwellsessentials4e_ch12_7_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="12.7" id="krugmanwellsessentials4e-ch12-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch12_8.html" dlapFilename="krugmanwellsessentials4e_ch12_8_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="12.8" id="krugmanwellsessentials4e-ch12-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch12_9.html" dlapFilename="krugmanwellsessentials4e_ch12_9_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="12.9" id="krugmanwellsessentials4e-ch12-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch12_10.html" dlapFilename="krugmanwellsessentials4e_ch12_10_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="5743805c757a2edc1d000001" title="CHAPTER 13: GDP and the CPI: Tracking the Macroeconomy" question-delivery-method="ARGA" number="13">
+    <section title="Chapter Introduction" number="13.1" id="krugmanwellsessentials4e-ch13-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch13_1.html" dlapFilename="krugmanwellsessentials4e_ch13_1_dlap.xml" numquestions="0"/>
+    <section number="13.2" id="krugmanwellsessentials4e-ch13-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch13_2.html" dlapFilename="krugmanwellsessentials4e_ch13_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Measuring the Macroeconomy</title>
+      <section id="krugmanwellsessentials4e-ch13-sec2-1" folder="false">
+        <title>Gross Domestic Product</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch13-sec2-2" folder="false">
+        <title>Calculating GDP</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch13-sec2-3" folder="false">
+        <title>What GDP Tells Us</title>
+      </section>
+    </section>
+    <section number="13.3" id="krugmanwellsessentials4e-ch13-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch13_3.html" dlapFilename="krugmanwellsessentials4e_ch13_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Real GDP: A Measure of Aggregate Output</title>
+      <section id="krugmanwellsessentials4e-ch13-sec2-4" folder="false">
+        <title>Calculating Real GDP</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch13-sec2-5" folder="false">
+        <title>What Real GDP Doesn&#x2019;t Measure</title>
+      </section>
+    </section>
+    <section number="13.4" id="krugmanwellsessentials4e-ch13-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch13_4.html" dlapFilename="krugmanwellsessentials4e_ch13_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Price Indexes and the Aggregate Price Level</title>
+      <section id="krugmanwellsessentials4e-ch13-sec2-6" folder="false">
+        <title>Market Baskets and Price Indexes</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch13-sec2-7" folder="false">
+        <title>The Consumer Price Index</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch13-sec2-8" folder="false">
+        <title>Other Price Measures</title>
+      </section>
+    </section>
+    <section number="13.5" id="krugmanwellsessentials4e-ch13-sec1-4" folder="false" filename="krugmanwellsessentials4e_ch13_5.html" dlapFilename="krugmanwellsessentials4e_ch13_5_dlap.xml" numquestions="0">
+      <title>SOLVED PROBLEM</title>
+    </section>
+    <section number="13.6" id="krugmanwellsessentials4e-ch13-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch13_6.html" dlapFilename="krugmanwellsessentials4e_ch13_6_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="13.7" id="krugmanwellsessentials4e-ch13-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch13_7.html" dlapFilename="krugmanwellsessentials4e_ch13_7_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="13.8" id="krugmanwellsessentials4e-ch13-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch13_8.html" dlapFilename="krugmanwellsessentials4e_ch13_8_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="13.9" id="krugmanwellsessentials4e-ch13-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch13_9.html" dlapFilename="krugmanwellsessentials4e_ch13_9_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="574380bc757a2e3b1c000000" title="CHAPTER 14: Unemployment and Inflation" question-delivery-method="ARGA" number="14">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch14-sec1-1a" folder="true" filename="krugmanwellsessentials4e_ch14_1.html" dlapFilename="krugmanwellsessentials4e_ch14_1_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <section id="krugmanwellsessentials4e-ch14-sec2-1" folder="false">
+        <title>The Unemployment Rate</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-2" folder="false">
+        <title>Defining and Measuring Unemployment</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-3" folder="false">
+        <title>The Significance of the Unemployment Rate</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-4" folder="false">
+        <title>Growth and Unemployment</title>
+      </section>
+    </section>
+    <section number="14.1" id="krugmanwellsessentials4e-ch14-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch14_2.html" dlapFilename="krugmanwellsessentials4e_ch14_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Natural Rate of Unemployment</title>
+      <section id="krugmanwellsessentials4e-ch14-sec2-5" folder="false">
+        <title>Job Creation and Job Destruction</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-6" folder="false">
+        <title>Frictional Unemployment</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-7" folder="false">
+        <title>Structural Unemployment</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-8" folder="false">
+        <title>The Natural Rate of Unemployment</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-9" folder="false">
+        <title>Changes in the Natural Rate of Unemployment</title>
+      </section>
+    </section>
+    <section number="14.2" id="krugmanwellsessentials4e-ch14-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch14_3.html" dlapFilename="krugmanwellsessentials4e_ch14_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Inflation and Deflation</title>
+      <section id="krugmanwellsessentials4e-ch14-sec2-10" folder="false">
+        <title>The Level of Prices Doesn&#x2019;t Matter . . .</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-11" folder="false">
+        <title>. . . But the Rate of Change of Prices Does</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-12" folder="false">
+        <title>Winners and Losers from Inflation</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch14-sec2-13" folder="false">
+        <title>Inflation Is Easy; Disinflation Is Hard</title>
+      </section>
+    </section>
+    <section title="" number="14.3" id="krugmanwellsessentials4e-ch14-sec1-3" folder="false" filename="krugmanwellsessentials4e_ch14_4.html" dlapFilename="krugmanwellsessentials4e_ch14_4_dlap.xml" numquestions="0"/>
+    <section number="14.4" id="krugmanwellsessentials4e-ch14-sec1-4" folder="false" filename="krugmanwellsessentials4e_ch14_5.html" dlapFilename="krugmanwellsessentials4e_ch14_5_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="14.5" id="krugmanwellsessentials4e-ch14-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch14_6.html" dlapFilename="krugmanwellsessentials4e_ch14_6_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="14.6" id="krugmanwellsessentials4e-ch14-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch14_7.html" dlapFilename="krugmanwellsessentials4e_ch14_7_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="14.7" id="krugmanwellsessentials4e-ch14-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch14_8.html" dlapFilename="krugmanwellsessentials4e_ch14_8_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+    <section number="14.8" id="krugmanwellsessentials4e-ch14-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch14_9.html" dlapFilename="krugmanwellsessentials4e_ch14_9_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="57438148757a2ea61d000000" title="CHAPTER 15: Long-Run Economic Growth" question-delivery-method="ARGA" number="15">
+    <section title="Chapter Introduction" number="15.1" id="krugmanwellsessentials4e-ch15-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch15_1.html" dlapFilename="krugmanwellsessentials4e_ch15_1_dlap.xml" numquestions="0"/>
+    <section number="15.2" id="krugmanwellsessentials4e-ch15-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch15_2.html" dlapFilename="krugmanwellsessentials4e_ch15_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Comparing Economies Across Time and Space</title>
+      <section id="krugmanwellsessentials4e-ch15-sec2-1" folder="false">
+        <title>Real GDP per Capita</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-2" folder="false">
+        <title>Growth Rates</title>
+      </section>
+    </section>
+    <section number="15.3" id="krugmanwellsessentials4e-ch15-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch15_3.html" dlapFilename="krugmanwellsessentials4e_ch15_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Sources of Long-Run Growth</title>
+      <section id="krugmanwellsessentials4e-ch15-sec2-3" folder="false">
+        <title>The Crucial Importance of Productivity</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-4" folder="false">
+        <title>Explaining Growth in Productivity</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-5" folder="false">
+        <title>Accounting for Growth: The Aggregate Production Function</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-6" folder="false">
+        <title>What About Natural Resources?</title>
+      </section>
+    </section>
+    <section number="15.4" id="krugmanwellsessentials4e-ch15-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch15_4.html" dlapFilename="krugmanwellsessentials4e_ch15_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Why Growth Rates Differ</title>
+      <section id="krugmanwellsessentials4e-ch15-sec2-7" folder="false">
+        <title>Explaining Differences in Growth Rates</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-8" folder="false">
+        <title>The Role of Government in Promoting Economic Growth</title>
+      </section>
+    </section>
+    <section number="15.5" id="krugmanwellsessentials4e-ch15-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch15_5.html" dlapFilename="krugmanwellsessentials4e_ch15_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Success, Disappointment, and Failure</title>
+      <section id="krugmanwellsessentials4e-ch15-sec2-9" folder="false">
+        <title>East Asia&#x2019;s Miracle</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-10" folder="false">
+        <title>Latin America&#x2019;s Disappointment</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-11" folder="false">
+        <title>Africa&#x2019;s Troubles and Promise</title>
+      </section>
+    </section>
+    <section number="15.6" id="krugmanwellsessentials4e-ch15-sec1-5" folder="true" filename="krugmanwellsessentials4e_ch15_6.html" dlapFilename="krugmanwellsessentials4e_ch15_6_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Is World Growth Sustainable?</title>
+      <section id="krugmanwellsessentials4e-ch15-sec2-12" folder="false">
+        <title>Natural Resources and Growth, Revisited</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch15-sec2-13" folder="false">
+        <title>Economic Growth and the Environment</title>
+      </section>
+    </section>
+    <section number="15.7" id="krugmanwellsessentials4e-ch15-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch15_7.html" dlapFilename="krugmanwellsessentials4e_ch15_7_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="15.8" id="idp291244432" folder="false" filename="krugmanwellsessentials4e_ch15_8.html" dlapFilename="krugmanwellsessentials4e_ch15_8_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="15.9" id="krugmanwellsessentials4e-ch15-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch15_9.html" dlapFilename="krugmanwellsessentials4e_ch15_9_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="15.10" id="krugmanwellsessentials4e-ch15-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch15_10.html" dlapFilename="krugmanwellsessentials4e_ch15_10_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="15.11" id="krugmanwellsessentials4e-ch15-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch15_11.html" dlapFilename="krugmanwellsessentials4e_ch15_11_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="57438195757a2eb01d000002" title="CHAPTER 16: Aggregate Demand and Aggregate Supply" question-delivery-method="ARGA" number="16">
+    <section title="Chapter Introduction" number="16.1" id="krugmanwellsessentials4e-ch16-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch16_1.html" dlapFilename="krugmanwellsessentials4e_ch16_1_dlap.xml" numquestions="0"/>
+    <section number="16.2" id="krugmanwellsessentials4e-ch16-sec1-001" folder="true" filename="krugmanwellsessentials4e_ch16_2.html" dlapFilename="krugmanwellsessentials4e_ch16_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Aggregate Demand</title>
+      <section id="krugmanwellsessentials4e-ch16-sec2-001" folder="false">
+        <title>Why Is the Aggregate Demand Curve Downward Sloping?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-002" folder="false">
+        <title>Shifts of the Aggregate Demand Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-003" folder="false">
+        <title>Government Policies and Aggregate Demand</title>
+      </section>
+    </section>
+    <section number="16.3" id="krugmanwellsessentials4e-ch16-sec1-002" folder="true" filename="krugmanwellsessentials4e_ch16_3.html" dlapFilename="krugmanwellsessentials4e_ch16_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Aggregate Supply</title>
+      <section id="krugmanwellsessentials4e-ch16-sec2-004" folder="false">
+        <title>The Short-Run Aggregate Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-005" folder="false">
+        <title>Shifts of the Short-Run Aggregate Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-006" folder="false">
+        <title>The Long-Run Aggregate Supply Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-007" folder="false">
+        <title>From the Short Run to the Long Run</title>
+      </section>
+    </section>
+    <section number="16.4" id="krugmanwellsessentials4e-ch16-sec1-003" folder="true" filename="krugmanwellsessentials4e_ch16_4.html" dlapFilename="krugmanwellsessentials4e_ch16_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The <em>AD&#x2013;AS</em> Model</title>
+      <section id="krugmanwellsessentials4e-ch16-sec2-008" folder="false">
+        <title>Short-Run Macroeconomic Equilibrium</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-009" folder="false">
+        <title>Shifts of Aggregate Demand: Short-Run Effects</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-010" folder="false">
+        <title>Shifts of the SRAS Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-011" folder="false">
+        <title>Long-Run Macroeconomic Equilibrium</title>
+      </section>
+    </section>
+    <section number="16.5" id="krugmanwellsessentials4e-ch16-sec1-004" folder="true" filename="krugmanwellsessentials4e_ch16_5.html" dlapFilename="krugmanwellsessentials4e_ch16_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Macroeconomic Policy</title>
+      <section id="krugmanwellsessentials4e-ch16-sec2-012" folder="false">
+        <title>Policy in the Face of Demand Shocks</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch16-sec2-013" folder="false">
+        <title>Responding to Supply Shocks</title>
+      </section>
+    </section>
+    <section number="16.6" id="krugmanwellsessentials4e-ch16-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch16_6.html" dlapFilename="krugmanwellsessentials4e_ch16_6_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="16.7" id="krugmanwellsessentials4e-ch16-sec1-005" folder="false" filename="krugmanwellsessentials4e_ch16_7.html" dlapFilename="krugmanwellsessentials4e_ch16_7_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="16.8" id="krugmanwellsessentials4e-ch16-sec1-006" folder="false" filename="krugmanwellsessentials4e_ch16_8.html" dlapFilename="krugmanwellsessentials4e_ch16_8_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="16.9" id="krugmanwellsessentials4e-ch16-sec1-007" folder="false" filename="krugmanwellsessentials4e_ch16_9.html" dlapFilename="krugmanwellsessentials4e_ch16_9_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="16.10" id="krugmanwellsessentials4e-ch16-sec1-008" folder="false" filename="krugmanwellsessentials4e_ch16_10.html" dlapFilename="krugmanwellsessentials4e_ch16_10_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+    <section number="16.11" id="krugmanwellsessentials4e-ch16-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch16_11.html" dlapFilename="krugmanwellsessentials4e_ch16_11_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="574381e0757a2ea61d000001" title="CHAPTER 17: GDP and the CPI: Tracking the Macroeconomy" question-delivery-method="ARGA" number="17">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch17-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch17_1.html" dlapFilename="krugmanwellsessentials4e_ch17_1_dlap.xml" numquestions="0"/>
+    <section number="17.1" id="krugmanwellsessentials4e-ch17-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch17_2.html" dlapFilename="krugmanwellsessentials4e_ch17_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Fiscal Policy: The Basics</title>
+      <section id="krugmanwellsessentials4e-ch17-sec2-1" folder="false">
+        <title>Taxes, Purchases of Goods and Services, Government Transfers, and Borrowing</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-2" folder="false">
+        <title>The Government Budget and Total Spending</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-3" folder="false">
+        <title>Expansionary and Contractionary Fiscal Policy</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-4" folder="false">
+        <title>Can Expansionary Fiscal Policy Actually Work?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-5" folder="false">
+        <title>A Cautionary Note: Lags in Fiscal Policy</title>
+      </section>
+    </section>
+    <section number="17.2" id="krugmanwellsessentials4e-ch17-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch17_3.html" dlapFilename="krugmanwellsessentials4e_ch17_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Fiscal Policy and the Multiplier</title>
+      <section id="krugmanwellsessentials4e-ch17-sec2-6" folder="false">
+        <title>Multiplier Effects of an Increase in Government Purchases of Goods and Services</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-7" folder="false">
+        <title>Multiplier Effects of Changes in Government Transfers and Taxes</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-8" folder="false">
+        <title>How Taxes Affect the Multiplier</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-9" folder="false">
+        <title>The Budget Balance</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-10" folder="false">
+        <title>The Budget Balance as a Measure of Fiscal Policy</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-11" folder="false">
+        <title>The Business Cycle and the Cyclically Adjusted Budget Balance</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-12" folder="false">
+        <title>Should the Budget Be Balanced?</title>
+      </section>
+    </section>
+    <section number="17.3" id="krugmanwellsessentials4e-ch17-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch17_4.html" dlapFilename="krugmanwellsessentials4e_ch17_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Long-Run Implications of Fiscal Policy</title>
+      <section id="krugmanwellsessentials4e-ch17-sec2-13" folder="false">
+        <title>Deficits, Surpluses, and Debt</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-14" folder="false">
+        <title>Problems Posed by Rising Government Debt</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-15" folder="false">
+        <title>Deficits and Debt in Practice</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch17-sec2-16" folder="false">
+        <title>Implicit Liabilities</title>
+      </section>
+    </section>
+    <section number="17.4" id="krugmanwellsessentials4e-ch17-sec1-4" folder="false" filename="krugmanwellsessentials4e_ch17_5.html" dlapFilename="krugmanwellsessentials4e_ch17_5_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="17.5" id="krugmanwellsessentials4e-ch17-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch17_6.html" dlapFilename="krugmanwellsessentials4e_ch17_6_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="17.6" id="krugmanwellsessentials4e-ch17-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch17_7.html" dlapFilename="krugmanwellsessentials4e_ch17_7_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="17.7" id="krugmanwellsessentials4e-ch17-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch17_8.html" dlapFilename="krugmanwellsessentials4e_ch17_8_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="17.8" id="krugmanwellsessentials4e-ch17-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch17_9.html" dlapFilename="krugmanwellsessentials4e_ch17_9_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="57438225757a2ea61d000002" title="CHAPTER 18: Money, Banking, and the Federal Reserve System" question-delivery-method="ARGA" number="18">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch18-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch18_1.html" dlapFilename="krugmanwellsessentials4e_ch18_1_dlap.xml" numquestions="0"/>
+    <section number="18.1" id="krugmanwellsessentials4e-ch18-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch18_2.html" dlapFilename="krugmanwellsessentials4e_ch18_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Meaning of Money</title>
+      <section id="krugmanwellsessentials4e-ch18-sec2-1" folder="false">
+        <title>What Is Money?</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-2" folder="false">
+        <title>Roles of Money</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-3" folder="false">
+        <title>Types of Money</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-4" folder="false">
+        <title>Measuring the Money Supply</title>
+      </section>
+    </section>
+    <section number="18.2" id="krugmanwellsessentials4e-ch18-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch18_3.html" dlapFilename="krugmanwellsessentials4e_ch18_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Monetary Role of Banks</title>
+      <section id="krugmanwellsessentials4e-ch18-sec2-5" folder="false">
+        <title>What Banks Do</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-6" folder="false">
+        <title>The Problem of Bank Runs</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-7" folder="false">
+        <title>Bank Regulation</title>
+      </section>
+    </section>
+    <section number="18.3" id="krugmanwellsessentials4e-ch18-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch18_4.html" dlapFilename="krugmanwellsessentials4e_ch18_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Determining the Money Supply</title>
+      <section id="krugmanwellsessentials4e-ch18-sec2-8" folder="false">
+        <title>How Banks Create Money</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-9" folder="false">
+        <title>Reserves, Bank Deposits, and the Money Multiplier</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-10" folder="false">
+        <title>The Money Multiplier in Reality</title>
+      </section>
+    </section>
+    <section number="18.4" id="krugmanwellsessentials4e-ch18-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch18_5.html" dlapFilename="krugmanwellsessentials4e_ch18_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Federal Reserve System</title>
+      <section id="krugmanwellsessentials4e-ch18-sec2-11" folder="false">
+        <title>The Structure of the Fed</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-12" folder="false">
+        <title>What the Fed Does: Reserve Requirements and the Discount Rate</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-13" folder="false">
+        <title>Open-Market Operations</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-14" folder="false">
+        <title>The European Central Bank</title>
+      </section>
+    </section>
+    <section number="18.5" id="krugmanwellsessentials4e-ch18-sec1-5" folder="true" filename="krugmanwellsessentials4e_ch18_6.html" dlapFilename="krugmanwellsessentials4e_ch18_6_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Evolution of the American Banking System</title>
+      <section id="krugmanwellsessentials4e-ch18-sec2-15" folder="false">
+        <title>The Crisis in American Banking in the Early Twentieth Century</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-16" folder="false">
+        <title>Responding to Banking Crises: The Creation of the Federal Reserve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-17" folder="false">
+        <title>The Savings and Loan Crisis of the 1980s</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch18-sec2-18" folder="false">
+        <title>Back to the Future: The Financial Crisis of 2008</title>
+      </section>
+    </section>
+    <section number="18.6" id="krugmanwellsessentials4e-ch18-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch18_7.html" dlapFilename="krugmanwellsessentials4e_ch18_7_dlap.xml" numquestions="0">
+      <title>Solved problem</title>
+    </section>
+    <section number="18.7" id="krugmanwellsessentials4e-ch18-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch18_8.html" dlapFilename="krugmanwellsessentials4e_ch18_8_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="18.8" id="krugmanwellsessentials4e-ch18-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch18_9.html" dlapFilename="krugmanwellsessentials4e_ch18_9_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="18.9" id="krugmanwellsessentials4e-ch18-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch18_10.html" dlapFilename="krugmanwellsessentials4e_ch18_10_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="18.10" id="krugmanwellsessentials4e-ch18-sec1-10" folder="false" filename="krugmanwellsessentials4e_ch18_11.html" dlapFilename="krugmanwellsessentials4e_ch18_11_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+  </manuscript><manuscript id="5743826b757a2e521d000001" title="CHAPTER 19: Monetary policy" question-delivery-method="ARGA" number="19">
+    <section title="Chapter Introduction" number="19.1" id="krugmanwellsessentials4e-ch19-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch19_1.html" dlapFilename="krugmanwellsessentials4e_ch19_1_dlap.xml" numquestions="0"/>
+    <section number="19.2" id="krugmanwellsessentials4e-ch19-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch19_2.html" dlapFilename="krugmanwellsessentials4e_ch19_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Demand for Money</title>
+      <section id="krugmanwellsessentials4e-ch19-sec2-1" folder="false">
+        <title>The Opportunity Cost of Holding Money</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-2" folder="false">
+        <title>The Money Demand Curve</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-3" folder="false">
+        <title>Shifts of the Money Demand Curve</title>
+      </section>
+    </section>
+    <section number="19.3" id="krugmanwellsessentials4e-ch19-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch19_3.html" dlapFilename="krugmanwellsessentials4e_ch19_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Money and Interest Rates</title>
+      <section id="krugmanwellsessentials4e-ch19-sec2-4" folder="false">
+        <title>The Equilibrium Interest Rate</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-5" folder="false">
+        <title>Monetary Policy and the Interest Rate</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-6" folder="false">
+        <title>Long-Term Interest Rates</title>
+      </section>
+    </section>
+    <section number="19.4" id="krugmanwellsessentials4e-ch19-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch19_4.html" dlapFilename="krugmanwellsessentials4e_ch19_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Monetary Policy and Aggregate Demand</title>
+      <section id="krugmanwellsessentials4e-ch19-sec2-7" folder="false">
+        <title>Expansionary and Contractionary Monetary Policy</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-8" folder="false">
+        <title>Monetary Policy in Practice</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-9" folder="false">
+        <title>The Taylor Rule Method of Setting Monetary Policy</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-10" folder="false">
+        <title>Inflation Targeting</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-11" folder="false">
+        <title>The Zero Lower Bound Problem</title>
+      </section>
+    </section>
+    <section number="19.5" id="krugmanwellsessentials4e-ch19-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch19_5.html" dlapFilename="krugmanwellsessentials4e_ch19_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Money, Output, and Prices in the Long Run</title>
+      <section id="krugmanwellsessentials4e-ch19-sec2-12" folder="false">
+        <title>Short-Run and Long-Run Effects of an Increase in the Money Supply</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-13" folder="false">
+        <title>Monetary Neutrality</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch19-sec2-14" folder="false">
+        <title>Changes in the Money Supply and the Interest Rate in the Long Run</title>
+      </section>
+    </section>
+    <section number="19.6" id="krugmanwellsessentials4e-ch19-sec1-5" folder="false" filename="krugmanwellsessentials4e_ch19_6.html" dlapFilename="krugmanwellsessentials4e_ch19_6_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="19.7" id="krugmanwellsessentials4e-ch19-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch19_7.html" dlapFilename="krugmanwellsessentials4e_ch19_7_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="19.8" id="krugmanwellsessentials4e-ch19-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch19_8.html" dlapFilename="krugmanwellsessentials4e_ch19_8_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="19.9" id="krugmanwellsessentials4e-ch19-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch19_9.html" dlapFilename="krugmanwellsessentials4e_ch19_9_dlap.xml" numquestions="0">
+      <title>PROBLEMS</title>
+    </section>
+    <section number="19.10" id="krugmanwellsessentials4e-ch19-sec1-9" folder="false" filename="krugmanwellsessentials4e_ch19_10.html" dlapFilename="krugmanwellsessentials4e_ch19_10_dlap.xml" numquestions="0">
+      <title>WORK IT OUT</title>
+    </section>
+    <section number="19.11" id="idp286256" folder="false" filename="krugmanwellsessentials4e_ch19_11.html" dlapFilename="krugmanwellsessentials4e_ch19_11_dlap.xml" numquestions="0">
+      <title>Business Case</title>
+    </section>
+  </manuscript><manuscript id="574382b9757a2eb61d000000" title="CHAPTER 20: International Trade, Capital Flows, and Exchange Rates" question-delivery-method="ARGA" number="3">
+    <section title="Chapter Introduction" id="krugmanwellsessentials4e-ch20-sec1-1a" folder="false" filename="krugmanwellsessentials4e_ch20_1.html" dlapFilename="krugmanwellsessentials4e_ch20_1_dlap.xml" numquestions="0"/>
+    <section number="3.1" id="krugmanwellsessentials4e-ch20-sec1-1" folder="true" filename="krugmanwellsessentials4e_ch20_2.html" dlapFilename="krugmanwellsessentials4e_ch20_2_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Comparative Advantage and International Trade</title>
+      <section id="krugmanwellsessentials4e-ch20-sec2-1" folder="false">
+        <title>Production Possibilities and Comparative Advantage, Revisited</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-2" folder="false">
+        <title>The Gains from International Trade</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-3" folder="false">
+        <title>Comparative Advantage versus Absolute Advantage</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-4" folder="false">
+        <title>Sources of Comparative Advantage</title>
+      </section>
+    </section>
+    <section number="3.2" id="krugmanwellsessentials4e-ch20-sec1-2" folder="true" filename="krugmanwellsessentials4e_ch20_3.html" dlapFilename="krugmanwellsessentials4e_ch20_3_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Supply, Demand, and International Trade</title>
+      <section id="krugmanwellsessentials4e-ch20-sec2-5" folder="false">
+        <title>The Effects of Imports</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-6" folder="false">
+        <title>The Effects of Exports</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-7" folder="false">
+        <title>International Trade and Wages</title>
+      </section>
+    </section>
+    <section number="3.3" id="krugmanwellsessentials4e-ch20-sec1-3" folder="true" filename="krugmanwellsessentials4e_ch20_4.html" dlapFilename="krugmanwellsessentials4e_ch20_4_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Effects of Trade Protection</title>
+      <section id="krugmanwellsessentials4e-ch20-sec2-8" folder="false">
+        <title>The Effects of a Tariff</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-9" folder="false">
+        <title>The Effects of an Import Quota</title>
+      </section>
+    </section>
+    <section number="3.4" id="krugmanwellsessentials4e-ch20-sec1-4" folder="true" filename="krugmanwellsessentials4e_ch20_5.html" dlapFilename="krugmanwellsessentials4e_ch20_5_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>Capital Flows and the Balance of Payments</title>
+      <section id="krugmanwellsessentials4e-ch20-sec2-10" folder="false">
+        <title>Balance of Payments Accounts</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-11" folder="false">
+        <title>Underlying Determinants of International Capital Flows</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-12" folder="false">
+        <title>Two-Way Capital Flows</title>
+      </section>
+    </section>
+    <section number="3.5" id="krugmanwellsessentials4e-ch20-sec1-5" folder="true" filename="krugmanwellsessentials4e_ch20_6.html" dlapFilename="krugmanwellsessentials4e_ch20_6_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>The Role of the Exchange Rate</title>
+      <section id="krugmanwellsessentials4e-ch20-sec2-13" folder="false">
+        <title>Understanding Exchange Rates</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-14" folder="false">
+        <title>The Equilibrium Exchange Rate</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-15" folder="false">
+        <title>Inflation and Real Exchange Rates</title>
+      </section>
+      <section id="krugmanwellsessentials4e-ch20-sec2-16" folder="false">
+        <title>Purchasing Power Parity</title>
+      </section>
+    </section>
+    <section number="3.6" id="krugmanwellsessentials4e-ch20-sec1-6" folder="false" filename="krugmanwellsessentials4e_ch20_7.html" dlapFilename="krugmanwellsessentials4e_ch20_7_dlap.xml" numquestions="0">
+      <title>Solved Problem</title>
+    </section>
+    <section number="3.7" id="krugmanwellsessentials4e-ch20-sec1-7" folder="false" filename="krugmanwellsessentials4e_ch20_8.html" dlapFilename="krugmanwellsessentials4e_ch20_8_dlap.xml" numquestions="0">
+      <title>SUMMARY</title>
+    </section>
+    <section number="3.8" id="krugmanwellsessentials4e-ch20-sec1-8" folder="false" filename="krugmanwellsessentials4e_ch20_9.html" dlapFilename="krugmanwellsessentials4e_ch20_9_dlap.xml" numquestions="0">
+      <title>KEY TERMS</title>
+    </section>
+    <section number="3.9" id="krugmanwellsessentials4e-ch20-sec1-9" folder="true" filename="krugmanwellsessentials4e_ch20_10.html" dlapFilename="krugmanwellsessentials4e_ch20_10_dlap.xml" numquestions="0" hasEmbeddedHeads="true">
+      <title>PROBLEMS</title>
+      <section id="krugmanwellsessentials4e-ch20-sec2-17" folder="false">
+        <title>WORK IT OUT</title>
+      </section>
+    </section>
+    <section number="3.10" id="krugmanwellsessentials4e-ch20-sec1-7a" folder="false" filename="krugmanwellsessentials4e_ch20_11.html" dlapFilename="krugmanwellsessentials4e_ch20_11_dlap.xml" numquestions="0">
       <title>Business Case</title>
     </section>
   </manuscript></manifest>

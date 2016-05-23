@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="US-ASCII"?>
-<manuscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" manuscript-id="09" name="" title="KRU_Chapter_09_DJHrev" xsi:noNamespaceSchemaLocation="../xsd/digfir_manuscript.xsd">
 <chapter number="9" id="krugmanwellsessentials4e-ch9-chapter-9" title="CHAPTER 9: Oligopoly and Monopolistic Competition" start-numbering-at="9" numbered="true">
 <section id="krugmanwellsessentials4e-ch9-sec1-1a" block_type="intro" title="Chapter Introduction" numbered="false" level="1" print_page="262">
 <p id="krugmanwellsessentials4e_page_262" block_type="page_start">262</p>
 <p id="krugmanwellsessentials4e-ch9-p1" block_type="chapter_title">Oligopoly and Monopolistic Competition</p>
 <p id="krugmanwellsessentials4e-ch9-p2" block_type="chapter_number"><phrase block_type="chap">CHAPTER</phrase> <phrase block_type="chapnum">9</phrase></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-bx3-1" block_type="bx3">
-<p id="krugmanwellsessentials4e-ch9-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch9-img-1" alt="image" src="images/world_view_icon.jpg"/> <strong>CAUGHT IN THE ACT</strong></p>
+<p id="krugmanwellsessentials4e-ch9-p3" block_type="co-t"><image asset-id="krugmanwellsessentials4e-ch9-img-1" alt="image" src="asset/images/world_view_icon.jpg"/> <strong>CAUGHT IN THE ACT</strong></p>
 <figure id="krugmanwellsessentials4e-ch9-fig-1" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-2" alt="image" src="images/KrugESS4e_CO09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-2" alt="image" src="asset/ch9/KrugESS4e_CO09.jpg"/>
 <caption>The law catches up with a colluding oligopolist.</caption>
 <asset_source>Bryan Smith/Zuma Press</asset_source>
 </figure>
@@ -24,7 +22,7 @@
 </list>
 </box>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-1" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p9" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-3" alt="image" src="images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch9-p9" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-3" alt="image" src="asset/images/learningcurve_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p10" block_type="co-txt-ni"><phrase block_type="dropcap">T</phrase>HE AGRICULTURAL PRODUCTS company Archer Daniels Midland (also known as ADM) has often described itself as &#8220;supermarket to the world.&#8221; Its name is familiar to many Americans not only because of its important role in the economy but also because of its advertising and sponsorship of public television programs. But on October 25, 1993, ADM itself was on camera.</p>
 <p id="krugmanwellsessentials4e-ch9-p11" block_type="co-txt">On that day executives from ADM and its Japanese competitor Ajinomoto met at the Marriott Hotel in Irvine, California, to discuss the market for lysine, an additive used in animal feed. (How is lysine produced? It&#8217;s excreted by genetically engineered bacteria.) In this and subsequent meetings, the two companies joined with several other competitors to set targets for the market price of lysine, behavior called <em>price-fixing</em>. Each company agreed to limit its production in order to achieve those targets. Agreeing on specific limits would be their biggest challenge&#8212;or so they thought.</p>
@@ -47,12 +45,12 @@
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-2" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch9-p22" block_type="mn-gl-def">When no one firm has a monopoly, but producers nonetheless realize that they can affect market prices, an industry is characterized by <strong>imperfect competition.</strong></p>
 </box>
-<p id="krugmanwellsessentials4e-ch9-p23" block_type="txt">Economists refer to a situation in which firms compete but also possess market power&#8212;which enables them to affect market prices&#8212;as <strong>imperfect competition.</strong> As we saw in <link href="krugmanwellsessentials4e-ch08.xml">Chapter 8</link>, there are actually two important forms of imperfect competition: oligopoly and <em>monopolistic competition.</em> Of these, oligopoly is probably the more important in practice.</p>
+<p id="krugmanwellsessentials4e-ch9-p23" block_type="txt">Economists refer to a situation in which firms compete but also possess market power&#8212;which enables them to affect market prices&#8212;as <strong>imperfect competition.</strong> As we saw in <link href="krugmanwellsessentials4e_ch8_1.html">Chapter 8</link>, there are actually two important forms of imperfect competition: oligopoly and <em>monopolistic competition.</em> Of these, oligopoly is probably the more important in practice.</p>
 <p id="krugmanwellsessentials4e-ch9-p24" block_type="txt">Although lysine is a multibillion-dollar business, it is not exactly a product familiar to most consumers. However, many familiar goods and services are supplied by only a few competing sellers, which means the industries in question are oligopolies. For example, most air routes are served by only two or three airlines: regularly scheduled shuttle service between New York and either Boston or Washington, D.C., has been provided only by Delta and US Airways. Four firms&#8212;Kellogg, General Mills, Post, and Quaker&#8212;control 85&#37; of the breakfast cereal market. Two firms&#8212;Apple and Samsung&#8212;control about 70&#37; of the smartphone market. Most cola beverages are sold by Coke and Pepsi. This list could go on for many pages.</p>
 <p id="krugmanwellsessentials4e-ch9-p25" block_type="txt">It&#8217;s important to realize that an oligopoly isn&#8217;t necessarily made up of large firms. What matters isn&#8217;t size per se; the question is how many competitors there are. When a small town has only two grocery stores, grocery service there is just as much an oligopoly as air shuttle service between New York and Washington.</p>
 <p id="krugmanwellsessentials4e-ch9-p26" block_type="txt">Why are oligopolies so prevalent? Essentially, oligopoly is the result of the same factors that sometimes produce monopoly, but in somewhat weaker form. Probably the most important source of oligopoly is the existence of <em>increasing returns to scale,</em> which give bigger producers a cost advantage over smaller ones. When these effects are very strong, they lead to monopoly; when they are not that strong, they lead to an industry with a small number of firms.</p>
 <p id="krugmanwellsessentials4e-ch9-p27" block_type="txt">For example, larger grocery stores typically have lower costs than smaller ones. But the advantages of large scale taper off once grocery stores are reasonably large, which is why two or three stores often survive in small towns.</p>
-<p id="krugmanwellsessentials4e-ch9-p28" block_type="txt">If oligopoly is so common, why has most of this book focused on competition in industries where the number of sellers is very large? And why did we study monopoly, which is relatively uncommon, first, in <link href="krugmanwellsessentials4e-ch08.xml">Chapter 8</link>? The answer has two parts.</p>
+<p id="krugmanwellsessentials4e-ch9-p28" block_type="txt">If oligopoly is so common, why has most of this book focused on competition in industries where the number of sellers is very large? And why did we study monopoly, which is relatively uncommon, first, in <link href="krugmanwellsessentials4e_ch8_1.html">Chapter 8</link>? The answer has two parts.</p>
 <p id="krugmanwellsessentials4e-ch9-p29" block_type="txt">First, much of what we learn from the study of perfectly competitive markets&#8212;about costs, entry and exit, and efficiency&#8212;remains valid despite the fact that many industries are not perfectly competitive. Second, the analysis of oligopoly turns out to present some puzzles for which there are no easy solutions. It is almost always a good idea first to deal with the questions you can answer, then to puzzle over the harder ones. We have simply followed that strategy, developing the relatively clear-cut theories of perfect competition and monopoly first, and only then turning to the puzzles presented by oligopoly.</p>
 </section>
 <section id="krugmanwellsessentials4e-ch9-sec2-1" block_type="h2" title="" chapter="9" numbered="false" level="2" print_page="263">
@@ -65,8 +63,8 @@
 </box>
 <p id="krugmanwellsessentials4e-ch9-p33" block_type="txt-3"><phrase block_type="h3"><strong>A Duopoly Example</strong></phrase> Let&#8217;s begin looking at the puzzle of oligopoly with the simplest version, an industry in which there are only two producing firms&#8212;a <strong>duopoly&#8212;</strong>and each is known as a <strong>duopolist.</strong></p>
 <p id="krugmanwellsessentials4e-ch9-p34" block_type="txt">Going back to our opening story, imagine that ADM and Ajinomoto are the only two producers of lysine. To make things even simpler, suppose that once a company has incurred the fixed cost needed to produce lysine, the marginal cost of producing another pound is zero. So the companies are concerned only with the revenue they receive from sales.</p>
-<p id="krugmanwellsessentials4e-ch9-p35" block_type="txt"><link href="#krugmanwellsessentials4e-ch9-tab-1">Table 9-1</link> shows a hypothetical demand schedule for lysine and the total revenue of the industry at each price&#8211;quantity combination.</p>
-<table id="krugmanwellsessentials4e-ch9-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="#krugmanwellsessentials4e-ch9-tab-1" data-target="_pop">
+<p id="krugmanwellsessentials4e-ch9-p35" block_type="txt"><link href="asset/ch9/table_9_1.html">Table 9-1</link> shows a hypothetical demand schedule for lysine and the total revenue of the industry at each price&#8211;quantity combination.</p>
+<table id="krugmanwellsessentials4e-ch9-tab-1" block_type="table" numbered="false" caption-placement="Top" data-href="asset/ch9/table_9_1.html" data-target="_pop">
 <tbody>
 <table_caption><strong><phrase block_type="tbl">TABLE</phrase> <phrase block_type="tbl_num">9-1</phrase></strong> <phrase block_type="tbl_title">Demand Schedule for Lysine</phrase></table_caption>
 <tr class="tbl-hdr-bg">
@@ -190,7 +188,7 @@
 <p id="krugmanwellsessentials4e-ch9-p68" block_type="txt">Among advanced countries, the United States is unique in its long tradition of antitrust policy. Until recently, other advanced countries did not have policies against price-fixing, and some had even supported the creation of cartels, believing that it would help their own firms against foreign rivals. But the situation has changed radically as the European Union (EU)&#8212;a supranational body tasked with enforcing antitrust policy for its member countries&#8212;has moved toward U.S. practices. Today, EU and U.S. regulators often target the same firms because price-fixing has &#8220;gone global&#8221; as international trade has expanded.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-2" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-4" alt="image" src="images/KrugESS4e_9UN01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-4" alt="image" src="asset/ch9/KrugESS4e_9UN01.jpg"/>
 <caption><em>&#8220;Frankly, I&#8217;m dubious about amalgamated smelting and refining pleading innocent to their anti-trust violation due to insanity.&#8221;</em></caption>
 <asset_source><link href="http://www.Sidney Harris/Cartoonstock.com">Sidney Harris/Cartoonstock.com</link></asset_source>
 </figure>
@@ -216,15 +214,15 @@
 </box>
 <p id="krugmanwellsessentials4e-ch9-p84" block_type="txt">Because tacit collusion is often hard to achieve, most oligopolies charge prices that are well below what the same industry would charge if it were controlled by a monopolist&#8212;or what they would charge if they were able to collude explicitly. In addition, sometimes collusion breaks down and there is a <strong>price war,</strong> which sometimes involves a collapse of prices to their noncooperative level. Sometimes they even go <em>below</em> that level, as sellers try to put each other out of business or at least punish what they regard as cheating.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx2-1" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch9-img-5" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch9-img-5" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch9-p85" block_type="bx-2-t"><strong>Bitter Chocolate?</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-2" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p86" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-6" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch9-p86" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-6" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p87" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he lysine price-fixing cartel prosecution is an especially memorable case because investigators had indisputable evidence of collusion in the form of recorded conversations. However, without solid evidence, the prosecution of price-fixing can be a tricky business, made clear by the different outcomes of Canadian and American investigations into price-fixing in the chocolate industry in 2013 and 2014.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-3" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-7" alt="image" src="images/KrugESS4e_9UN02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-7" alt="image" src="asset/ch9/KrugESS4e_9UN02.jpg"/>
 <caption>Are chocolate makers engaging in price-fixing?</caption>
 <asset_source>iStockphoto/Thinkstock</asset_source>
 </figure>
@@ -298,11 +296,11 @@
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-12" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch9-p121" block_type="mn-gl-def">A <strong>payoff matrix</strong> shows how the payoff to each of the participants in a two-player game depends on the actions of both. Such a matrix helps us analyze situations of interdependence.</p>
 </box>
-<p id="krugmanwellsessentials4e-ch9-p122" block_type="txt">When there are only two players, as in a duopoly, the interdependence between the players can be represented with a <strong>payoff matrix</strong> like that shown in <link href="#krugmanwellsessentials4e-ch9-fig-4">Figure 9-1</link>. Each row corresponds to an action by one player (in this case, ADM); each column corresponds to an action by the other (in this case, Ajinomoto). For simplicity, let&#8217;s assume that ADM can pick only one of two alternatives: produce 30 million pounds of lysine or produce 40 million pounds. Ajinomoto has the same pair of choices.</p>
+<p id="krugmanwellsessentials4e-ch9-p122" block_type="txt">When there are only two players, as in a duopoly, the interdependence between the players can be represented with a <strong>payoff matrix</strong> like that shown in <link href="asset/ch9/KrugESS4e_fig_9_01.html">Figure 9-1</link>. Each row corresponds to an action by one player (in this case, ADM); each column corresponds to an action by the other (in this case, Ajinomoto). For simplicity, let&#8217;s assume that ADM can pick only one of two alternatives: produce 30 million pounds of lysine or produce 40 million pounds. Ajinomoto has the same pair of choices.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-4" block_type="figure" numbered="true" number="9-1" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch9-fig-4"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-1</strong></phrase></phrase> <phrase block_type="fig_title">A Payoff Matrix</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch9-img-8" alt="image" src="images/KrugESS4e_fig_9_01.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-8" alt="image" src="asset/ch9/KrugESS4e_fig_9_01.jpg"/>
 <caption>Two firms, ADM and Ajinomoto, must decide how much lysine to produce. The profits of the two firms are <em>interdependent:</em> each firm&#8217;s profit depends not only on its own decision but also on the other&#8217;s decision. Each row represents an action by ADM, each column, one by Ajinomoto. Both firms will be better off if they both choose the lower output, but it is in each firm&#8217;s individual interest to choose the higher output.</caption>
 </figure>
 <p id="krugmanwellsessentials4e-ch9-p123" block_type="txt">The matrix contains four boxes, each divided by a diagonal line. Each box shows the payoff to the two firms that results from a pair of choices; the number below the diagonal shows ADM&#8217;s profits, the number above the diagonal shows Ajinomoto&#8217;s profits.</p>
@@ -318,11 +316,11 @@
 <p id="krugmanwellsessentials4e-ch9-p129" block_type="txt">The original illustration of the prisoners&#8217; dilemma occurred in a fictional story about two accomplices in crime&#8212;let&#8217;s call them Thelma and Louise&#8212;who have been caught by the police. The police have enough evidence to put them behind bars for 5 years. They also know that the pair have committed a more serious crime, one that carries a 20-year sentence; unfortunately, they don&#8217;t have enough evidence to convict the women on that charge. To do so, they would need each of the prisoners to implicate the other in the second crime.</p>
 <p id="krugmanwellsessentials4e_page_271" block_type="page_start">271</p>
 <p id="krugmanwellsessentials4e-ch9-p130" block_type="txt">So the police put the miscreants in separate cells and say the following to each: &#8220;Here&#8217;s the deal: if neither of you confesses, you know that we&#8217;ll send you to jail for 5 years. If you confess and implicate your partner, and she doesn&#8217;t do the same, we&#8217;ll reduce your sentence from 5 years to 2. But if your partner confesses and you don&#8217;t, you&#8217;ll get the maximum 20 years. And if both of you confess, we&#8217;ll give you both 15 years.&#8221;</p>
-<p id="krugmanwellsessentials4e-ch9-p131" block_type="txt"><link href="#krugmanwellsessentials4e-ch9-fig-5">Figure 9-2</link> shows the payoffs that face the prisoners, depending on the decision of each to remain silent or to confess. (Usually the payoff matrix reflects the players&#8217; payoffs, and higher payoffs are better than lower payoffs. This case is an exception: a higher number of years in prison is bad, not good!) Let&#8217;s assume that the prisoners have no way to communicate and that they have not sworn an oath not to harm each other or anything of that sort. So each acts in her own self-interest. What will they do?</p>
+<p id="krugmanwellsessentials4e-ch9-p131" block_type="txt"><link href="asset/ch9/KrugESS4e_fig_9_02.html">Figure 9-2</link> shows the payoffs that face the prisoners, depending on the decision of each to remain silent or to confess. (Usually the payoff matrix reflects the players&#8217; payoffs, and higher payoffs are better than lower payoffs. This case is an exception: a higher number of years in prison is bad, not good!) Let&#8217;s assume that the prisoners have no way to communicate and that they have not sworn an oath not to harm each other or anything of that sort. So each acts in her own self-interest. What will they do?</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-5" block_type="figure" numbered="true" number="9-2" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch9-fig-5"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-2</strong></phrase></phrase> <phrase block_type="fig_title">The Prisoners&#8217; Dilemma</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch9-img-9" alt="image" src="images/KrugESS4e_fig_9_02.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-9" alt="image" src="asset/ch9/KrugESS4e_fig_9_02.jpg"/>
 <caption>Each of two prisoners, held in separate cells, is offered a deal by the police&#8212;a light sentence if she confesses and implicates her accomplice but her accomplice does not do the same, a heavy sentence if she does not confess but her accomplice does, and so on. It is in the joint interest of both prisoners not to confess; it is in each one&#8217;s individual interest to confess.</caption>
 </figure>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-14" block_type="mn3">
@@ -337,7 +335,7 @@
 </box>
 <p id="krugmanwellsessentials4e-ch9-p138" block_type="txt">In game theory, this kind of equilibrium, in which each player takes the action that is best for her given the actions taken by other players, and vice versa, is known as a <strong>Nash equilibrium,</strong> after the mathematician and Nobel laureate John Nash. (Nash&#8217;s life was chronicled in the best-selling biography <em>A Beautiful Mind,</em> which was made into a movie.) Because the players in a Nash equilibrium do not take into account the effect of their actions on others, this is also known as a <strong>noncooperative equilibrium.</strong></p>
 <p id="krugmanwellsessentials4e_page_272" block_type="page_start">272</p>
-<p id="krugmanwellsessentials4e-ch9-p139" block_type="txt">Now look back at <link href="#krugmanwellsessentials4e-ch9-fig-4">Figure 9-1</link>: ADM and Ajinomoto are in the same situation as Thelma and Louise. Each firm is better off producing the higher output, regardless of what the other firm does. Yet if both produce 40 million pounds, both are worse off than if they had followed their agreement and produced only 30 million pounds. In both cases, then, the pursuit of individual self-interest&#8212;the effort to maximize profits or to minimize jail time&#8212;has the perverse effect of hurting both players.</p>
+<p id="krugmanwellsessentials4e-ch9-p139" block_type="txt">Now look back at <link href="asset/ch9/KrugESS4e_fig_9_01.html">Figure 9-1</link>: ADM and Ajinomoto are in the same situation as Thelma and Louise. Each firm is better off producing the higher output, regardless of what the other firm does. Yet if both produce 40 million pounds, both are worse off than if they had followed their agreement and produced only 30 million pounds. In both cases, then, the pursuit of individual self-interest&#8212;the effort to maximize profits or to minimize jail time&#8212;has the perverse effect of hurting both players.</p>
 <p id="krugmanwellsessentials4e-ch9-p140" block_type="txt">Prisoners&#8217; dilemmas appear in many situations. Clearly, the players in any prisoners&#8217; dilemma would be better off if they had some way of enforcing cooperative behavior&#8212;if Thelma and Louise had both sworn to a code of silence or if ADM and Ajinomoto had signed an enforceable agreement not to produce more than 30 million pounds of lysine.</p>
 <p id="krugmanwellsessentials4e-ch9-p141" block_type="txt">But in the United States, as we&#8217;ve seen, an agreement setting the output levels of two oligopolists isn&#8217;t just unenforceable, it&#8217;s illegal. So it seems that a noncooperative equilibrium is the only possible outcome. Or is it?</p>
 <box title="PITFALLS" numbered="false" id="krugmanwellsessentials4e-ch9-bx1-1" block_type="bx-1-h">
@@ -353,13 +351,13 @@
 <p id="krugmanwellsessentials4e-ch9-p146" block_type="mn-gl-def">A firm engages in <strong>strategic behavior</strong> when it attempts to influence the future behavior of other firms.</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p147" block_type="txt-ni">Thelma and Louise in their cells are playing what is known as a <em>one-shot</em> game&#8212;that is, they play the game with each other only once. They get to choose once and for all whether to confess or hang tough, and that&#8217;s it. However, most of the games that oligopolists play aren&#8217;t one-shot; instead, they expect to play the game repeatedly with the same rivals. An oligopolist usually expects to be in business for many years, and it knows that its decision today about whether to cheat is likely to affect the way other firms treat it in the future. So a smart oligopolist doesn&#8217;t just decide what to do based on the effect on profit in the short run. Instead, it engages in <strong>strategic behavior,</strong> taking account of the effects of the action it chooses today on the future actions of other players in the game. And under some conditions oligopolists that behave strategically can manage to behave as if they had a formal agreement to collude.</p>
-<p id="krugmanwellsessentials4e-ch9-p148" block_type="txt">Suppose that ADM and Ajinomoto expect to be in the lysine business for many years and therefore expect to play the game of cheat versus collude shown in <link href="#krugmanwellsessentials4e-ch9-fig-4">Figure 9-1</link> many times. Would they really betray each other time and again?</p>
+<p id="krugmanwellsessentials4e-ch9-p148" block_type="txt">Suppose that ADM and Ajinomoto expect to be in the lysine business for many years and therefore expect to play the game of cheat versus collude shown in <link href="asset/ch9/KrugESS4e_fig_9_01.html">Figure 9-1</link> many times. Would they really betray each other time and again?</p>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp3-17" block_type="mn3">
 <p id="krugmanwellsessentials4e-ch9-p149" block_type="mn-gl-def">A strategy of <strong>tit for tat</strong> involves playing cooperatively at first, then doing whatever the other player did in the previous period.</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p150" block_type="txt">Probably not. Suppose that ADM considers two strategies. In one strategy it always cheats, producing 40 million pounds of lysine each year, regardless of what Ajinomoto does. In the other strategy, it starts with good behavior, producing only 30 million pounds in the first year, and watches to see what its rival does. If Ajinomoto also keeps its production down, ADM will stay cooperative, producing 30 million pounds again for the next year. But if Ajinomoto produces 40 million pounds, ADM will take the gloves off and also produce 40 million pounds the next year. This latter strategy&#8212;start by behaving cooperatively, but thereafter do whatever the other player did in the previous period&#8212;is generally known as <strong>tit for tat.</strong></p>
 <p id="krugmanwellsessentials4e-ch9-p151" block_type="txt">Tit for tat is a form of strategic behavior, which we have just defined as behavior intended to influence the future actions of other players. Tit for tat offers a reward to the other player for cooperative behavior&#8212;if you behave cooperatively, so will I. It also provides a punishment for cheating&#8212;if you cheat, don&#8217;t expect me to be nice in the future.</p>
-<p id="krugmanwellsessentials4e-ch9-p152" block_type="txt">The payoff to ADM of each of these strategies would depend on which strategy Ajinomoto chooses. Consider the four possibilities, shown in <link href="#krugmanwellsessentials4e-ch9-fig-6">Figure 9-3</link>:</p>
+<p id="krugmanwellsessentials4e-ch9-p152" block_type="txt">The payoff to ADM of each of these strategies would depend on which strategy Ajinomoto chooses. Consider the four possibilities, shown in <link href="asset/ch9/KrugESS4e_fig_9_03.html">Figure 9-3</link>:</p>
 <list id="krugmanwellsessentials4e-ch9-list-8" type="ordered" block_type="numbered">
 <li><p id="krugmanwellsessentials4e-ch9-p153" block_type="nl-first">If ADM plays tit for tat and so does Ajinomoto, both firms will make a profit of &#36;180 million each year.</p></li>
 <li><p id="krugmanwellsessentials4e-ch9-p154" block_type="nl-mid">If ADM plays always cheat but Ajinomoto plays tit for tat, ADM makes a profit of &#36;200 million the first year but only &#36;160 million per year thereafter.</p></li>
@@ -369,7 +367,7 @@
 <figure id="krugmanwellsessentials4e-ch9-fig-6" block_type="figure" numbered="true" number="9-3" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch9-fig-6"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-3</strong></phrase></phrase> <phrase block_type="fig_title">How Repeated Interaction Can Support Collusion</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch9-img-10" alt="image" src="images/KrugESS4e_fig_9_03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-10" alt="image" src="asset/ch9/KrugESS4e_fig_9_03.jpg"/>
 <caption>A strategy of tit for tat involves playing cooperatively at first, then following the other player&#8217;s move. This rewards good behavior and punishes bad behavior. If the other player cheats, playing tit for tat will lead to only a short-term loss in comparison to playing always cheat. But if the other player plays tit for tat, also playing tit for tat leads to a long-term gain. So a firm that expects other firms to play tit for tat may well choose to do the same, leading to successful tacit collusion.</caption>
 </figure>
 <p id="krugmanwellsessentials4e_page_273" block_type="page_start">273</p>
@@ -379,21 +377,21 @@
 <p id="krugmanwellsessentials4e-ch9-p160" block_type="txt">But if ADM expects to be in the business for a long time and thinks Ajinomoto is likely to play tit for tat, it will make more profits over the long run by playing tit for tat, too. It could have made some extra short-term profits by cheating at the beginning, but this would provoke Ajinomoto into cheating, too, and would, in the end, mean lower profits.</p>
 <p id="krugmanwellsessentials4e-ch9-p161" block_type="txt">The lesson of this story is that when oligopolists expect to compete with one another over an extended period of time, each individual firm will often conclude that it is in its own best interest to be helpful to the other firms in the industry. So it will restrict its output in a way that raises the profits of the other firms, expecting them to return the favor, and without a formal agreement. In other words, the firms engage in tacit collusion.</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx2-2" block_type="bx-2-h">
-<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch9-img-5" alt="image" src="images/world_view_icon.jpg"/></box-title></box-metadata>
+<box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase> <image asset-id="krugmanwellsessentials4e-ch9-img-5" alt="image" src="asset/images/world_view_icon.jpg"/></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch9-p162" block_type="bx-2-t"><strong>The Rise and Fall and Rise of OPEC</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-3" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p163" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-11" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch9-p163" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-11" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p164" block_type="bx2-first"><phrase block_type="dropcap">C</phrase>all it the cartel that does not need to meet in secret. The Organization of Petroleum Exporting Countries, usually referred to as OPEC, includes 13 national governments (Algeria, Angola, Ecuador, Indonesia, Iran, Iraq, Kuwait, Libya, Nigeria, Qatar, Saudi Arabia, the United Arab Emirates, and Venezuela), and it controls 40&#37; of the world&#8217;s oil exports and 80&#37; of its proven reserves. Two other oil-exporting countries, Norway and Mexico, are not formally part of the cartel but act as if they were. (Russia, also an important oil exporter, has not yet become part of the club.)</p>
 <p id="krugmanwellsessentials4e_page_274" block_type="page_start">274</p>
 <p id="krugmanwellsessentials4e-ch9-p165" block_type="bx2-txt">Unlike corporations, which are often legally prohibited by governments from reaching agreements about production and prices, national governments can talk about whatever they feel like. OPEC members routinely meet to try to set targets for production.</p>
 <p id="krugmanwellsessentials4e-ch9-p166" block_type="bx2-txt">These nations are not particularly friendly with one another. Yet the members of OPEC are effectively players in a game with repeated interactions. In any given year it is in their combined interest to keep output low and prices high. But it is also in the interest of any one producer to cheat and produce more than the agreed-upon quota&#8212;unless that producer believes that his actions will bring future retaliation.</p>
 <p id="krugmanwellsessentials4e-ch9-p167" block_type="bx2-txt">So how successful is the cartel? Well, it&#8217;s had its ups and downs. Analysts have estimated that of 12 announced quota reductions, OPEC was able to successfully defend its price floor 80&#37; of the time.</p>
-<p id="krugmanwellsessentials4e-ch9-p168" block_type="bx2-txt"><link href="#krugmanwellsessentials4e-ch9-fig-7">Figure 9-4</link> shows the price of oil in constant dollars (that is, the value of a barrel of oil in terms of other goods) since 1949. OPEC first demonstrated its muscle in 1974: in the aftermath of a war in the Middle East, several OPEC producers limited their output&#8212;and they liked the results so much that they decided to continue the practice. Following a second wave of turmoil in the aftermath of Iran&#8217;s 1979 revolution, prices shot still higher.</p>
+<p id="krugmanwellsessentials4e-ch9-p168" block_type="bx2-txt"><link href="asset/ch9/KrugESS4e_fig_9_04.html">Figure 9-4</link> shows the price of oil in constant dollars (that is, the value of a barrel of oil in terms of other goods) since 1949. OPEC first demonstrated its muscle in 1974: in the aftermath of a war in the Middle East, several OPEC producers limited their output&#8212;and they liked the results so much that they decided to continue the practice. Following a second wave of turmoil in the aftermath of Iran&#8217;s 1979 revolution, prices shot still higher.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-7" block_type="figure" numbered="true" number="9-4" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
 <caption><link href="#krugmanwellsessentials4e-ch9-fig-7"><phrase block_type="fig-label"><phrase block_type="fig"><strong>FIGURE</strong></phrase> <phrase block_type="fig_num"><strong>9-4</strong></phrase></phrase> <phrase block_type="fig_title">Crude Oil Prices, 1949&#8211;2013 (in Constant 2012 Dollars)</phrase></link></caption>
-<image asset-id="krugmanwellsessentials4e-ch9-img-12" alt="image" src="images/KrugESS4e_fig_9_04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-12" alt="image" src="asset/ch9/KrugESS4e_fig_9_04.jpg"/>
 <asset_source><em>Data from:</em> Energy Information Administration; FRED.</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch9-p169" block_type="bx2-txt">By the mid-1980s, however, there was a growing glut of oil on world markets, and cheating by cash-short OPEC members became widespread. The result, in 1985, was that producers who had tried to play by the rules&#8212;especially Saudi Arabia, the largest producer&#8212;got fed up, and collusion collapsed.</p>
@@ -415,7 +413,7 @@
 <p id="krugmanwellsessentials4e-ch9-p177" block_type="sr2-nl-first"><phrase block_type="qnum">1.</phrase> Find the Nash (noncooperative) equilibrium actions for the following payoff matrix. Which actions maximize the total payoff of Nikita and Margaret? Why is it unlikely that they will choose those actions without some communication?</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-8" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="center" width="large" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-13" alt="image" src="images/KrugESS4e_9UN03.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-13" alt="image" src="asset/ch9/KrugESS4e_9UN03.jpg"/>
 </figure>
 </question>
 <question id="krugmanwellsessentials4e-ch9-cyuquestion-5" block_type="q_cyu" number="2">
@@ -471,7 +469,7 @@
 <p id="krugmanwellsessentials4e-ch9-p204" block_type="txt">With chocolate, as with many goods, there is a range of possible qualities. You can get a usable bicycle for less than &#36;100; you can get a much fancier bicycle for 10 times as much. It all depends on how much the additional quality matters to you and how much you will miss the other things you could have purchased with that money.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-9" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-14" alt="image" src="images/KrugESS4e_9UN04.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-14" alt="image" src="asset/ch9/KrugESS4e_9UN04.jpg"/>
 <caption>For industries that differentiate by location, proximity is everything.</caption>
 <asset_source>Buddy Mays/Alamy</asset_source>
 </figure>
@@ -488,13 +486,13 @@
 <box-metadata><box-title><phrase block_type="title">ECONOMICS</phrase> <phrase block_type="number"><em>in Action</em></phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch9-p211" block_type="bx-2-t"><strong>Any Color, So Long as It&#8217;s Black</strong></p>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-4" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p212" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-15" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch9-p212" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-15" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p213" block_type="bx2-first"><phrase block_type="dropcap">T</phrase>he early history of the auto industry offers a classic illustration of the power of product differentiation.</p>
 <p id="krugmanwellsessentials4e-ch9-p214" block_type="bx2-txt">The modern automobile industry was created by Henry Ford, who first introduced assembly-line production. This technique made it possible for him to offer the famous Model T at a far lower price than anyone else was charging for a car; by 1920, Ford dominated the automobile business.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-10" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-16" alt="image" src="images/KrugESS4e_9UN05.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-16" alt="image" src="asset/ch9/KrugESS4e_9UN05.jpg"/>
 <caption>Ford&#8217;s Model T in basic black.</caption>
 <asset_source>Science and Society/Superstock</asset_source>
 </figure>
@@ -535,7 +533,7 @@
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx7-1" block_type="sum-h">
 <box-metadata><box-title><phrase block_type="gc1">SOLVED PROBLEM</phrase> <phrase block_type="gc2">The Ups (and Downs) of Oil Prices</phrase></box-title></box-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-5" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p230" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-17" alt="image" src="images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
+<p id="krugmanwellsessentials4e-ch9-p230" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-17" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> for interactive tutorials with step-by-step guidance on how to solve problems</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p231" block_type="wio-txt-ni">The world&#8217;s best known cartel is OPEC, the Organization of Petroleum Exporting Countries, discussed in the preceding Economics in Action. The 13 national governments that comprise OPEC export nearly &#36;1 trillion of petroleum products every year. As the largest producer, Saudi Arabia produces one-third of the annual output and it is the key decision maker. The result is a situation similar to the prisoner&#8217;s dilemma faced by Thelma and Louise, but this time, the players are Saudi Arabia and the rest of OPEC.</p>
 <p id="krugmanwellsessentials4e_page_279" block_type="page_start">279</p>
@@ -547,7 +545,7 @@
 </list>
 <figure id="krugmanwellsessentials4e-ch9-fig-11" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-18" alt="image" src="images/KrugESS4e_9UN10.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-18" alt="image" src="asset/ch9/KrugESS4e_9UN10.jpg"/>
 </figure>
 <p id="krugmanwellsessentials4e-ch9-p236" block_type="wio-txt-ni">The following payoff matrix displays the actions both Saudi Arabia and the rest of OPEC could take, as well as the outcomes for each (expressed as the annual total value of oil exports). Find the dominant strategies for Saudi Arabia and the rest of OPEC, the Nash (or noncooperative) equilibrium, and the outcome that results under tacit collusion.</p>
 <p id="krugmanwellsessentials4e-ch9-p237" block_type="sp-stp-txt"><phrase block_type="step"><phrase block_type="step-green">STEP</phrase> &#124; <phrase block_type="step-green">1</phrase></phrase> <phrase block_type="step-title"><strong>Determine the dominant strategy for Saudi Arabia and then for the rest of OPEC.</strong>
@@ -577,7 +575,7 @@
 <section id="krugmanwellsessentials4e-ch9-sec1-5" block_type="cr-kt-t" title="" chapter="9" numbered="true" level="1" print_page="280">
 <section-metadata><section-title>KEY TERMS</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-6" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p250" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-19" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch9-p250" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-19" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <p id="krugmanwellsessentials4e-ch9-p251" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p20">Oligopoly, p. 263</link></p>
 <p id="krugmanwellsessentials4e-ch9-p252" block_type="cr-kt-mcl"><link href="#krugmanwellsessentials4e-ch9-p20">Oligopolist, p. 263</link></p>
@@ -607,7 +605,7 @@
 <section-metadata><section-title>PROBLEMS</section-title></section-metadata>
 <question id="krugmanwellsessentials4e-ch9-question-1" block_type="q_prob" number="1">
 <p id="krugmanwellsessentials4e-ch9-p274" block_type="cr-que-nl-first"><phrase block_type="qnum">1.</phrase> The accompanying table shows the demand schedule for vitamin D. Suppose that the marginal cost of producing vitamin D is zero.</p>
-<table id="krugmanwellsessentials4e-ch9-untab-2" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-2" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch9-untab-2" block_type="un_table" data-href="asset/ch9/un_table_9_2.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -656,7 +654,7 @@
 <p id="krugmanwellsessentials4e_page_281" block_type="page_start">281</p>
 <question id="krugmanwellsessentials4e-ch9-question-2" block_type="q_prob" number="2">
 <p id="krugmanwellsessentials4e-ch9-p277" block_type="cr-que-nl-mid"><phrase block_type="qnum">2.</phrase> The market for olive oil in New York City is controlled by two families, the Sopranos and the Contraltos. Both families will ruthlessly eliminate any other family that attempts to enter the New York City olive oil market. The marginal cost of producing olive oil is constant and equal to &#36;40 per gallon. There is no fixed cost. The accompanying table gives the market demand schedule for olive oil.</p>
-<table id="krugmanwellsessentials4e-ch9-untab-3" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-3" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch9-untab-3" block_type="un_table" data-href="asset/ch9/un_table_9_3.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -713,7 +711,7 @@
 </question>
 <question id="krugmanwellsessentials4e-ch9-question-3" block_type="q_prob" number="3">
 <p id="krugmanwellsessentials4e-ch9-p281" block_type="cr-que-nl-mid"><phrase block_type="qnum">3.</phrase> In France, the market for bottled water is controlled by two large firms, Perrier and Evian. Each firm has a fixed cost of &#8364;1 million and a constant marginal cost of &#8364;2 per liter of bottled water (&#8364;1 = 1 euro). The following table gives the market demand schedule for bottled water in France.</p>
-<table id="krugmanwellsessentials4e-ch9-untab-4" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-4" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch9-untab-4" block_type="un_table" data-href="asset/ch9/un_table_9_4.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -792,7 +790,7 @@
 <p id="krugmanwellsessentials4e-ch9-p296" block_type="cr-que-nl-mid"><phrase block_type="qnum">6.</phrase> To preserve the North Atlantic fish stocks, it is decided that only two fishing fleets, one from the United States and the other from the European Union (EU), can fish in those waters. Suppose that this fisheries agreement breaks down, so that the fleets behave noncooperatively. Assume that the United States and the EU each can send out either one or two fleets. The more fleets in the area, the more fish they catch in total but the lower the catch of each fleet. The accompanying matrix shows the profit (in dollars) per week earned by each side.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-12" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-20" alt="image" src="images/KrugESS4e_9UN06.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-20" alt="image" src="asset/ch9/KrugESS4e_9UN06.jpg"/>
 </figure>
 <list id="krugmanwellsessentials4e-ch9-list-22" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch9-p297" block_type="cr-que-ans-first">What is the noncooperative Nash equilibrium? Will each side choose to send out one or two fleets?</p></li>
@@ -803,7 +801,7 @@
 <p id="krugmanwellsessentials4e-ch9-p299" block_type="cr-que-nl-mid"><phrase block_type="qnum">7.</phrase> Untied and Air &#8220;R&#8221; Us are the only two airlines operating flights between Collegeville and Bigtown. That is, they operate in a duopoly. Each airline can charge either a high price or a low price for a ticket. The accompanying matrix shows their payoffs, in profits per seat (in dollars), for any choice that the two airlines can make.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-13" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-21" alt="image" src="images/KrugESS4e_9UN07.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-21" alt="image" src="asset/ch9/KrugESS4e_9UN07.jpg"/>
 </figure>
 <list id="krugmanwellsessentials4e-ch9-list-23" type="ordered" block_type="loweralpha">
 <li><p id="krugmanwellsessentials4e-ch9-p300" block_type="cr-que-ans-first">Suppose the two airlines play a one-shot game&#8212;that is, they interact only once and never again. What will be the Nash (noncooperative) equilibrium in this one-shot game?</p></li>
@@ -825,7 +823,7 @@
 <li><p id="krugmanwellsessentials4e-ch9-p309" block_type="cr-que-ans2-mid">If Pepsi were to raise its price to &#36;0.30 per can, and Coke did not respond, what would happen to Pepsi&#8217;s profit?</p></li>
 </list></li>
 <li><p id="krugmanwellsessentials4e-ch9-p310" block_type="cr-que-ans-mid">Now suppose that each company advertises to differentiate its product from the other company&#8217;s. As a result of advertising, Pepsi realizes that if it raises or lowers its price, it will sell less or more of its product, as shown by the demand schedule in the accompanying table.</p>
-<table id="krugmanwellsessentials4e-ch9-untab-5" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-5" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch9-untab-5" block_type="un_table" data-href="asset/ch9/un_table_9_5.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -883,11 +881,11 @@
 <section id="krugmanwellsessentials4e-ch9-sec1-7" block_type="sum-h" title="" chapter="9" numbered="true" level="1" print_page="283">
 <section-metadata><section-title>WORK IT OUT</section-title></section-metadata>
 <box numbered="false" id="krugmanwellsessentials4e-ch9-exp2-7" block_type="mn2">
-<p id="krugmanwellsessentials4e-ch9-p323" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-22" alt="image" src="images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
+<p id="krugmanwellsessentials4e-ch9-p323" block_type="fg1-t"><image asset-id="krugmanwellsessentials4e-ch9-img-22" alt="image" src="asset/images/launchpad_logo_cmyk.jpg"/> &#124; interactive activity</p>
 </box>
 <question id="krugmanwellsessentials4e-ch9-question-12" block_type="q_prob" number="12">
 <p id="krugmanwellsessentials4e-ch9-p324" block_type="cr-wio-nl-first"><phrase block_type="qnum">12.</phrase> Let&#8217;s revisit the fisheries agreement introduced in Problem 6 stating that to preserve the North Atlantic fish stocks, only two fishing fleets, one from the United States and the other from the European Union (EU), can fish in those waters. The accompanying table shows the market demand schedule per week for fish from these waters. The only costs are fixed costs, so fishing fleets maximize profit by maximizing revenue.</p>
-<table id="krugmanwellsessentials4e-ch9-untab-6" block_type="un_table" data-href="#krugmanwellsessentials4e-ch9-untab-6" data-target="_pop">
+<table id="krugmanwellsessentials4e-ch9-untab-6" block_type="un_table" data-href="asset/ch9/un_table_9_6.html" data-target="_pop">
 <layout align="center" width="large"/>
 <tbody>
 <tr class="tbl-hdr-bg">
@@ -935,7 +933,7 @@
 <p id="krugmanwellsessentials4e-ch9-p332" block_type="bx5-txt">Amazon claimed that the publisher could pay more out of its profit margin&#8212;around 75&#37; on e-books, 60&#37; on paperbacks, and 40&#37; on hardcovers. Indeed, Amazon openly admitted that its long-term objective was to displace publishers altogether, and deal directly with authors itself. And it received support from some authors who had been rejected by traditional publishers but succeeded by selling directly to readers via Amazon. But publishers countered that Amazon&#8217;s calculations ignored the costs of editing, marketing, advertising, and at times supporting struggling writers until they became successful. Amazon, they claimed, would eventually destroy the book industry.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-14" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-23" alt="image" src="images/KrugESS4e_9UN08.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-23" alt="image" src="asset/ch9/KrugESS4e_9UN08.jpg"/>
 <asset_source>David Ryder/Getty Images</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch9-p333" block_type="bx5-txt">Meanwhile Amazon had other problems, announcing in July 2014 that it lost &#36;800 million in the previous quarter. At the time, after 20 years in existence, Amazon had never made a profit, and investors were growing impatient.</p>
@@ -949,13 +947,13 @@
 </box>
 <p id="krugmanwellsessentials4e_page_285" block_type="page_start">285</p>
 <box title="" numbered="false" id="krugmanwellsessentials4e-ch9-bx5-5" block_type="bcbx5-h">
-<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch9-img-24" alt="image" src="images/world_view_icon.jpg"/> <phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase></box-title></box-metadata>
+<box-metadata><box-title><image asset-id="krugmanwellsessentials4e-ch9-img-24" alt="image" src="asset/images/world_view_icon.jpg"/> <phrase block_type="bc1">BUSINESS</phrase> <phrase block_type="bc2">CASE</phrase></box-title></box-metadata>
 <p id="krugmanwellsessentials4e-ch9-p339" block_type="bx5-t"><strong>Virgin Atlantic Blows the Whistle &#8230; or Blows It?</strong></p>
 <p id="krugmanwellsessentials4e-ch9-p340" block_type="bx5-txt-ni"><phrase block_type="dropcap">T</phrase>he United Kingdom is home to two long-haul airline carriers (that fly between continents): British Airways and its rival, Virgin Atlantic. Although British Airways is the dominant company, with a market share generally between 50&#37; and 100&#37; on routes between London and various American cities, Virgin has been a tenacious competitor.</p>
 <p id="krugmanwellsessentials4e-ch9-p341" block_type="bx5-txt">The rivalry between the two has ranged from relatively peaceable to openly hostile over the years. In the 1990s, British Airways lost a court case alleging it had engaged in &#8220;dirty tricks&#8221; to drive Virgin out of business. In April 2010, however, British Airways may well have wondered if the tables had been turned.</p>
 <figure id="krugmanwellsessentials4e-ch9-fig-15" block_type="un_figure" numbered="false" mmtype="image" mmsrc="" attr="">
 <layout align="right" width="medium" border="true"/>
-<image asset-id="krugmanwellsessentials4e-ch9-img-25" alt="image" src="images/KrugESS4e_9UN09.jpg"/>
+<image asset-id="krugmanwellsessentials4e-ch9-img-25" alt="image" src="asset/ch9/KrugESS4e_9UN09.jpg"/>
 <asset_source>AP Photo/Alastair Grant</asset_source>
 </figure>
 <p id="krugmanwellsessentials4e-ch9-p342" block_type="bx5-txt">It all began in 2004, when oil prices were rising. British prosecutors alleged that the two airlines had plotted to levy fuel surcharges on passengers. For the next two years, according to the prosecutors, the rivals had established a cartel through which they coordinated increases in surcharges. British Airways first introduced a &#163;5 (&#36;8.25) surcharge on long-haul flights when a barrel of oil traded at about &#36;38. It increased the surcharge six times, so that by 2006, when oil was trading at about &#36;69 a barrel, the surcharge was &#163;70 (&#36;115). At the same time, Virgin Atlantic also levied a &#163;70 fee. These surcharges increased within days of each other.</p>
@@ -971,4 +969,3 @@
 </box>
 </section>
 </chapter>
-</manuscript>
